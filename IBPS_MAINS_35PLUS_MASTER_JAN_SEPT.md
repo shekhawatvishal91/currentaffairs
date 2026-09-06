@@ -3,7 +3,7 @@
 
 > **EXAMINER'S STRATEGIC BLUEPRINT FOR 35+ MARKS OUT OF 50**:
 > 1. **Zero Hallucination / Fact Discipline**: Every threshold, date, circular number, penalty slab, and committee name in this document has been cross-verified against official RBI Master Directions, Gazette notifications, Union Budget documents, and multilateral accords.
-> 2. **Structure**: Built strictly using the **ladder bullet approach** for rapid visual scanning, paired with dedicated **🎯 EXAM ANGLE → [THE EXAMINER'S TRAP MATRIX]** blocks that reveal the exact distractors and traps set in previous years.
+> 2. **Structure**: Built strictly using the **ladder bullet approach** for rapid visual scanning, paired with dedicated **🎯 EXAM ANGLE** blocks that reveal the exact distractors and traps set in previous years.
 > 3. **Weightage Distribution**:
 >    - **60–65% Weight**: Deep June–September recency (Q2/Q3 shifts, latest circulars, Union Budget, Paris Olympics/Paralympics, major appointments).
 >    - **30–35% Weight**: High-yield January–May policy anchors (statutory frameworks, master directions, bilateral accords, flagship schemes).
@@ -19,9 +19,9 @@
 - **Statutory MPC Composition**: 6-member committee under **Section 45-ZB of the RBI Act, 1934**; comprises 3 RBI officials (Governor Sanjay Malhotra as Chairperson, Deputy Governor, Executive Director) and 3 external government-appointed experts.
 - **Live Macroeconomic Projections**: MPC revised India's **FY27 real GDP growth projection up to 6.7%** (from 6.6%), while trimming **FY27 CPI inflation projection down to 5.0%** (from 5.1%).
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Corridor Math): Repo = 5.25%, SDF = 5.00%, MSF/Bank Rate = 5.50% (SDF is always 25 bps below Repo; MSF is 25 bps above).
-• Trap B (Stance Confusion): Monetary stance is NEUTRAL (not 'Withdrawal of Accommodation').
+🎯 Exam Angle →
+• Corridor Math: Repo = 5.25%, SDF = 5.00%, MSF/Bank Rate = 5.50% (SDF is always 25 bps below Repo; MSF is 25 bps above).
+• Stance Confusion: Monetary stance is NEUTRAL (not 'Withdrawal of Accommodation').
 • Target MCQ Form: "What is the Standing Deposit Facility (SDF) rate following RBI's August 2026 Monetary Policy Committee review?" → 5.00%.
 
 ---
@@ -32,9 +32,9 @@
 - **Statutory Deferred Effective Date**: Formally notified in the Gazette on June 24, 2026, but RBI **deferred enforcement to January 1, 2027** (pushed from the original July 1, 2026 draft date) to give banks integration runway.
 - **Zero Customer Liability Principle**: Guarantees zero liability where digital fraud occurs due to bank negligence or third-party breaches reported by the customer within 3 working days.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (The Date Trap): Implementation date is **January 1, 2027** (do NOT pick July 1, 2026).
-• Trap B (The Cap Trap): Compensation is 85% of loss or **₹25,000**, whichever is LOWER (not ₹50,000).
+🎯 Exam Angle →
+• The Date Trap: Implementation date is **January 1, 2027** (do NOT pick July 1, 2026).
+• The Cap Trap: Compensation is 85% of loss or **₹25,000**, whichever is LOWER (not ₹50,000).
 • Target MCQ Form: "Under the RBI Responsible Business Conduct Directions, what is the mandatory effective date for the small-value digital fraud compensation framework?" → January 1, 2027.
 
 ---
@@ -45,9 +45,9 @@
 - **Foreign Bank Branch Remittances**: Foreign banks operating in India via branch mode are permitted to remit up to **80% of net post-tax profits** to head offices abroad, provided local Capital Conservation Buffers are met.
 - **Asset Quality Barrier**: A bank is statutorily disqualified from declaring dividends if its Net Non-Performing Assets (NNPA) ratio exceeds **6.0%** for the financial year.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Domestic vs Foreign Cap): Domestic commercial bank max cap is **75%**; Foreign bank branch remittance cap is **80%**.
-• Trap B (NNPA Barrier): Net NPA must not exceed 6.0% for dividend eligibility.
+🎯 Exam Angle →
+• Domestic vs Foreign Cap: Domestic commercial bank max cap is **75%**; Foreign bank branch remittance cap is **80%**.
+• NNPA Barrier: Net NPA must not exceed 6.0% for dividend eligibility.
 • Target MCQ Form: "What is the maximum dividend payout ratio permitted for domestic commercial banks having a CET1 ratio of 13% or higher?" → 75% of PAT.
 
 ---
@@ -58,9 +58,9 @@
 - **Financing Share & Security Margins**: Permissible bank financing share raised to **75% of acquisition value** (from 70%), with debt-equity ratio capped at 3:1; raised lending against shares to ₹1 crore (from ₹20 lakh).
 - **Implementation Deferral**: Enforcement officially **deferred to July 1, 2026** (from original April 1, 2026); permitted corporate borrowing via Special Purpose Vehicles (SPVs) backed by mandatory Corporate Guarantees.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Effective Date): Acquisition financing directions took effect on **July 1, 2026** (deferred from April 1).
-• Trap B (Promoter Funding Share): Maximum bank financing share is **75%** of transaction value (promoter margin 25%).
+🎯 Exam Angle →
+• Effective Date: Acquisition financing directions took effect on **July 1, 2026** (deferred from April 1).
+• Promoter Funding Share: Maximum bank financing share is **75%** of transaction value (promoter margin 25%).
 • Target MCQ Form: "What is the minimum net worth required for an unlisted target company to be eligible for bank acquisition financing?" → ₹500 Crore.
 
 ---
@@ -71,9 +71,9 @@
 - **Aggregate Banking System Ceiling**: The combined banking system exposure across all lenders to a single REIT/InvIT cannot exceed **49% of the gross asset value** of the trust.
 - **Enforcement Timeline**: Fully operationalized across commercial banking books effective **July 1, 2026**.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Individual vs Aggregate Cap): Single bank cap is **10% of eligible capital**; Aggregate banking system cap is **49% of trust asset value**.
-• Trap B (Effective Date): Effective date is **July 1, 2026**.
+🎯 Exam Angle →
+• Individual vs Aggregate Cap: Single bank cap is **10% of eligible capital**; Aggregate banking system cap is **49% of trust asset value**.
+• Effective Date: Effective date is **July 1, 2026**.
 • Target MCQ Form: "Under RBI norms, what is the maximum aggregate exposure permitted for the entire banking system to a single REIT?" → 49% of the REIT's asset value.
 
 ---
@@ -84,9 +84,9 @@
 - **Bilateral Currency Stability**: Renewed the **$75 billion Bilateral Swap Arrangement (BSA)** with the Bank of Japan, signed under Governor Sanjay Malhotra and BoJ leadership.
 - **Policy Objective**: Anchored short-term money market rates near the 5.25% repo rate amid massive advance tax and GST cash drains.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Tenor Record): The historic auction tenor was **90 days** (previous high was 56 days).
-• Trap B (Bilateral Swap Size): India-Japan Bilateral Swap Arrangement is **$75 billion**.
+🎯 Exam Angle →
+• Tenor Record: The historic auction tenor was **90 days** (previous high was 56 days).
+• Bilateral Swap Size: India-Japan Bilateral Swap Arrangement is **$75 billion**.
 • Target MCQ Form: "What was the tenor of the historic long-term Variable Rate Repo auction conducted by the RBI in early 2026?" → 90 days.
 
 ---
@@ -97,9 +97,9 @@
 - **Historical Committee Heritage**: Lead Bank Scheme was originally introduced in **1969** following the recommendations of the **F.K.F. Nariman Committee** and the Study Group chaired by **Prof. D.R. Gadgil**.
 - **Nodal Role**: State Level Bankers' Committee (SLBC) and Lead District Manager (LDM) supervise credit flow to agriculture and allied rural sectors.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (CD Ratio Thresholds): Rural/semi-urban CD ratio mandated at **60%**; special category threshold is below **20%**.
-• Trap B (Committee Origin): Lead Bank Scheme was recommended by the **Nariman Committee** (1969).
+🎯 Exam Angle →
+• CD Ratio Thresholds: Rural/semi-urban CD ratio mandated at **60%**; special category threshold is below **20%**.
+• Committee Origin: Lead Bank Scheme was recommended by the **Nariman Committee** (1969).
 • Target MCQ Form: "Under the revised Lead Bank Scheme directions, what minimum Credit-Deposit ratio must banks maintain in rural and semi-urban districts?" → 60%.
 
 ---
@@ -110,9 +110,9 @@
 - **Contingency Risk Buffer (CRB)**: Maintained the Contingency Risk Buffer within the recommended **Economic Capital Framework (ECF / Bimal Jalan Committee)** band at **6.50%**.
 - **Reserve Asset Composition**: Foreign currency assets and sovereign gold reserves constitute over 72% of total balance sheet assets.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Rupee Figures Pair): Balance sheet size = **₹70.47 lakh crore**; Surplus transfer to Centre = **₹2.11 lakh crore**.
-• Trap B (Committee Name): Reserve transfer framework is governed by the **Bimal Jalan Committee (2019)**.
+🎯 Exam Angle →
+• Rupee Figures Pair: Balance sheet size = **₹70.47 lakh crore**; Surplus transfer to Centre = **₹2.11 lakh crore**.
+• Committee Name: Reserve transfer framework is governed by the **Bimal Jalan Committee (2019)**.
 • Target MCQ Form: "What was the total surplus transfer approved by the RBI Board to the Central Government for FY26?" → ₹2.11 Lakh Crore.
 
 ---
@@ -123,9 +123,9 @@
 - **Provision Coverage Ratio (PCR)**: System-wide Provision Coverage Ratio rose to **76.4%**, indicating comprehensive provisioning against legacy bad debts.
 - **Macro Stress Testing**: RBI's baseline stress tests project system-level GNPA to remain stable below 3.0% under projected macroeconomic scenarios.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (GNPA vs NNPA): Gross NPA is **2.8%**; Net NPA is **0.6%** (do not invert the two figures).
-• Trap B (CRAR Level): Commercial bank CRAR is **16.8%** (regulatory minimum is 11.5%).
+🎯 Exam Angle →
+• GNPA vs NNPA: Gross NPA is **2.8%**; Net NPA is **0.6%** (do not invert the two figures).
+• CRAR Level: Commercial bank CRAR is **16.8%** (regulatory minimum is 11.5%).
 • Target MCQ Form: "According to the RBI Financial Stability Report, what was the multi-year low Gross NPA ratio recorded by Scheduled Commercial Banks?" → 2.8%.
 
 ---
@@ -139,9 +139,9 @@
 - **Statutory Framework**: Formulated under the D-SIB framework introduced in **2014**, requiring systemic lenders to hold higher loss-absorbency capital.
 - **Foreign G-SIB Analogue**: Foreign bank branches operating in India designated as G-SIBs must hold corresponding additional capital buffers in India.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (The Capital Surcharges): SBI = **0.80%** (Bucket 4), HDFC Bank = **0.40%** (Bucket 2), ICICI Bank = **0.20%** (Bucket 1).
-• Trap B (Total D-SIBs): Exactly **3 banks** (SBI, HDFC Bank, ICICI Bank).
+🎯 Exam Angle →
+• The Capital Surcharges: SBI = **0.80%** (Bucket 4), HDFC Bank = **0.40%** (Bucket 2), ICICI Bank = **0.20%** (Bucket 1).
+• Total D-SIBs: Exactly **3 banks** (SBI, HDFC Bank, ICICI Bank).
 • Target MCQ Form: "What additional Common Equity Tier 1 (CET1) capital surcharge is State Bank of India required to maintain as a Bucket 4 D-SIB?" → 0.80%.
 
 ---
@@ -154,9 +154,9 @@
   - **Risk Threshold 3**: Triggered if Net NPA exceeds **12.0%** (mandatory restriction on capital expenditure and management compensation).
 - **NBFC Inclusion**: Extended to Middle, Upper, and Top-Layer NBFCs under Scale-Based Regulation to prevent systemic shadow-banking defaults.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (PCA Trigger Parameters): Capital, Asset Quality (Net NPA), and Leverage (Profitability/RoA was REMOVED as a trigger).
-• Trap B (Threshold 1 Net NPA): Threshold 1 is breached at **6.0% Net NPA**.
+🎯 Exam Angle →
+• PCA Trigger Parameters: Capital, Asset Quality (Net NPA), and Leverage (Profitability/RoA was REMOVED as a trigger).
+• Threshold 1 Net NPA: Threshold 1 is breached at **6.0% Net NPA**.
 • Target MCQ Form: "Which of the following financial parameters is NO LONGER a primary trigger for invoking the RBI Prompt Corrective Action framework?" → Return on Assets (RoA).
 
 ---
@@ -170,9 +170,9 @@
 - **Tata Sons Designated Upper-Layer**: Classified as **NBFC-UL for 2026-27**; subject to enhanced regulatory scrutiny for a **mandatory minimum of 5 years** regardless of subsequent asset changes.
 - **Mandatory Listing Requirement**: NBFC-UL entities are statutorily required to list their equity shares on recognized stock exchanges within **3 years** of being categorized.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Asset Slabs): Base Layer (<₹1,000 Cr) ➔ Middle Layer (≥₹1,000 Cr) ➔ Upper Layer (≥₹1 lakh Cr / Top 25).
-• Trap B (Enhanced Regulation Duration): Upper-Layer regulations apply for a mandatory minimum of **5 years**; listing within 3 years.
+🎯 Exam Angle →
+• Asset Slabs: Base Layer (<₹1,000 Cr) ➔ Middle Layer (≥₹1,000 Cr) ➔ Upper Layer (≥₹1 lakh Cr / Top 25).
+• Enhanced Regulation Duration: Upper-Layer regulations apply for a mandatory minimum of **5 years**; listing within 3 years.
 • Target MCQ Form: "Under RBI Scale Based Regulation, what is the asset threshold for categorizing an NBFC into the Middle Layer?" → ₹1,000 Crore.
 
 ---
@@ -183,9 +183,9 @@
 - **Minimum Average Maturity Period (MAMP)**: Retained at 3 years for general commercial borrowings, and 5 years for borrowings by manufacturing companies up to $50 million.
 - **End-Use Restrictions**: ECB proceeds strictly prohibited from being deployed in real estate equity trading, capital market speculation, or domestic on-lending.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Annual Cap): Automatic ECB cap is the higher of **$1 billion or 300% of net worth** (raised from $750 million).
-• Trap B (MAMP): Minimum Average Maturity Period is **3 years** for standard ECBs.
+🎯 Exam Angle →
+• Annual Cap: Automatic ECB cap is the higher of **$1 billion or 300% of net worth** (raised from $750 million).
+• MAMP: Minimum Average Maturity Period is **3 years** for standard ECBs.
 • Target MCQ Form: "What is the revised annual borrowing limit for Indian corporates under the automatic route of the RBI ECB framework?" → $1 Billion or 300% of Net Worth.
 
 ---
@@ -196,9 +196,9 @@
 - **Regulatory Reporting Repository**: All derivative transactions must be reported to the **Clearing Corporation of India Ltd (CCIL)** Trade Repository within specified settlement cutoffs.
 - **Global Financial Stability Convergence**: Aligns domestic derivative market oversight with G20 and Financial Stability Board (FSB) technical commitments.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Effective Date): Mandatory UTI reporting takes effect on **January 1, 2027**.
-• Trap B (Trade Repository): Derivative reporting repository is managed by **CCIL** (Clearing Corporation of India Ltd).
+🎯 Exam Angle →
+• Effective Date: Mandatory UTI reporting takes effect on **January 1, 2027**.
+• Trade Repository: Derivative reporting repository is managed by **CCIL** (Clearing Corporation of India Ltd).
 • Target MCQ Form: "From which date has the RBI made Unique Trade Identifiers (UTIs) mandatory for all Over-the-Counter derivative contracts?" → January 1, 2027.
 
 ---
@@ -209,9 +209,9 @@
 - **Cybersecurity & Cloud Grid**: Houses critical payment system backbones including RTGS, NEFT, and the Centralised Information Management System (CIMS).
 - **IFTAS Nodal Integration**: Operated in coordination with Indian Financial Technology and Allied Services (IFTAS), an RBI subsidiary.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Location of Data Centres): Primary is in **Kharghar, Navi Mumbai**; 2nd data centre is in **Bhubaneswar, Odisha**.
-• Trap B (Certification Level): Both facilities are built to **Tier-IV** standards (99.995% availability).
+🎯 Exam Angle →
+• Location of Data Centres: Primary is in **Kharghar, Navi Mumbai**; 2nd data centre is in **Bhubaneswar, Odisha**.
+• Certification Level: Both facilities are built to **Tier-IV** standards (99.995% availability).
 • Target MCQ Form: "In which city has the Reserve Bank of India commissioned its 2nd state-of-the-art Tier-IV certified data centre?" → Bhubaneswar.
 
 ---
@@ -222,9 +222,9 @@
 - **Sovereign Gold Reserves All-Time High**: Total sovereign gold reserves held by RBI reached a historic record of **880.2 tonnes** (with over 510 tonnes stored securely within domestic vaults).
 - **Annual Purchase Trajectory**: RBI added **4.02 tonnes of gold in 2025** (an 8-year low annual purchase pace due to soaring global gold prices).
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (DPI Reading & Base): DPI reading is **516.76**; Base year is **March 2018 = 100**.
-• Trap B (Gold Reserves): Total reserves = **880.2 tonnes**; annual addition in 2025 = 4.02 tonnes.
+🎯 Exam Angle →
+• DPI Reading & Base: DPI reading is **516.76**; Base year is **March 2018 = 100**.
+• Gold Reserves: Total reserves = **880.2 tonnes**; annual addition in 2025 = 4.02 tonnes.
 • Target MCQ Form: "What is the base period used for computing the RBI Digital Payments Index (DPI)?" → March 2018.
 
 ---
@@ -237,9 +237,9 @@
 - **Dispute Redressal Protection**: Cheques cleared without Positive Pay confirmation are disqualified from grievance redressal under CTS dispute mechanisms.
 - **Continuous Clearing Grid (2026)**: RBI initiated round-the-clock continuous clearing of cheques under CTS, reducing clearance turnaround from T+1 days to **a few hours**.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Thresholds Pair): ₹50,000 (discretionary threshold) vs **₹5 Lakh** (mandatory threshold set by most banks).
-• Trap B (Dispute Rule): Cheques issued without Positive Pay confirmation cannot be disputed under CTS dispute resolution.
+🎯 Exam Angle →
+• Thresholds Pair: ₹50,000 (discretionary threshold) vs **₹5 Lakh** (mandatory threshold set by most banks).
+• Dispute Rule: Cheques issued without Positive Pay confirmation cannot be disputed under CTS dispute resolution.
 • Target MCQ Form: "At what cheque transaction threshold is the Positive Pay System generally made mandatory by commercial banks?" → ₹5 Lakh and above.
 
 ---
@@ -250,9 +250,9 @@
 - **Unclaimed Deposit Rule**: Any savings or current account inoperative for **10 years**, or any term deposit unclaimed for **10 years from the date of maturity**, must be transferred to the DEA Fund.
 - **Interest Refundability**: Depositors retain the statutory right to reclaim their funds along with interest directly from the bank at any future date.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Unclaimed Time Period): Account must be inoperative/unclaimed for **10 years** before transfer to the DEA Fund.
-• Trap B (Portal Acronym): UDGAM = **Unclaimed Deposits – Gateway to Access inforMation**.
+🎯 Exam Angle →
+• Unclaimed Time Period: Account must be inoperative/unclaimed for **10 years** before transfer to the DEA Fund.
+• Portal Acronym: UDGAM = **Unclaimed Deposits – Gateway to Access inforMation**.
 • Target MCQ Form: "After how many years of remaining inoperative must balances in bank accounts be transferred to the RBI Depositor Education and Awareness (DEA) Fund?" → 10 Years.
 
 ---
@@ -263,9 +263,9 @@
 - **Governor Launch**: Commissioned under Governor Shaktikanta Das and expanded under Governor Sanjay Malhotra, handling petabytes of structured banking transaction data.
 - **XBRL Phase-Out**: Completely replaces eXtensible Business Reporting Language (XBRL) reporting returns with unified, automated data pipes.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Replaced System): CIMS replaces **ORFS** (Online Returns Filing System) and XBRL platforms.
-• Trap B (Full Form): CIMS = **Centralised Information Management System**.
+🎯 Exam Angle →
+• Replaced System: CIMS replaces **ORFS** (Online Returns Filing System) and XBRL platforms.
+• Full Form: CIMS = **Centralised Information Management System**.
 • Target MCQ Form: "Which next-generation data warehouse system was operationalized by the RBI to replace the legacy Online Returns Filing System (ORFS)?" → CIMS.
 
 ---
@@ -276,9 +276,9 @@
 - **Key Fact Statement (KFS) Mandate**: Made comprehensive Key Fact Statements mandatory for **all retail and MSME loans**, disclosing Annual Percentage Rate (APR) and all associated processing fees upfront.
 - **Floating Rate Loan Switching**: Regulated entities must provide floating-rate borrowers an explicit option to switch to a fixed-rate loan or adjust loan tenor upon interest rate hikes.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Penal Charges Rule): Penalties must be levied as **penal charges** and cannot be capitalized (cannot earn additional interest).
-• Trap B (KFS Universal Scope): Key Fact Statement is mandatory for ALL retail and MSME loans.
+🎯 Exam Angle →
+• Penal Charges Rule: Penalties must be levied as **penal charges** and cannot be capitalized (cannot earn additional interest).
+• KFS Universal Scope: Key Fact Statement is mandatory for ALL retail and MSME loans.
 • Target MCQ Form: "Under RBI's Fair Lending Practice guidelines, how must lenders levy penalties for loan defaults?" → As separate penal charges (without adding to principal).
 
 
@@ -297,9 +297,9 @@
 - **Insurance Coverage Ceiling**: Statutory deposit protection remains locked at **₹5 lakh per depositor per bank** (covering principal and interest across all domestic branches).
 - **Statutory Foundation**: Enacted under the **DICGC Act, 1961**; DICGC operates as a 100% subsidiary of the Reserve Bank of India.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Lowest Premium): Lowest premium slab is **8 paise** (Category A); Highest is **12 paise** (Category D).
-• Trap B (Effective Date): Effective date is **April 1, 2026**; cover is ₹5 lakh per depositor across the bank combined.
+🎯 Exam Angle →
+• Lowest Premium: Lowest premium slab is **8 paise** (Category A); Highest is **12 paise** (Category D).
+• Effective Date: Effective date is **April 1, 2026**; cover is ₹5 lakh per depositor across the bank combined.
 • Target MCQ Form: "Under the DICGC risk-based premium system effective April 1, 2026, what premium rate is charged to Category A banks per ₹100 of deposits?" → 8 paise.
 
 ---
@@ -310,9 +310,9 @@
 - **Digital Credit Assessment Model**: Public Sector Banks sanctioned over **3.96 lakh digital MSME loans worth ₹52,300 crore** (Apr–Dec 2025) using automated credit scoring algorithms.
 - **EPFO Auto-Settlement Ceiling**: EPFO expanded the automated claim settlement limit under Rule 68J from **₹1 lakh to ₹5 lakh**, planning direct UPI integration by April 2026.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (The Rupee Unit Confusion): RBI Collateral-Free loan limit = **₹20 LAKH**; CGTMSE Credit Guarantee Cover = **₹10 CRORE** (do not confuse lakhs with crores).
-• Trap B (EPFO Settlement): Automated settlement ceiling raised to **₹5 lakh** (PF interest rate held at 8.25%).
+🎯 Exam Angle →
+• The Rupee Unit Confusion: RBI Collateral-Free loan limit = **₹20 LAKH**; CGTMSE Credit Guarantee Cover = **₹10 CRORE** (do not confuse lakhs with crores).
+• EPFO Settlement: Automated settlement ceiling raised to **₹5 lakh** (PF interest rate held at 8.25%).
 • Target MCQ Form: "What is the revised ceiling for collateral-free loans extended by banks to Micro and Small Enterprises effective April 1, 2026?" → ₹20 Lakh.
 
 ---
@@ -323,9 +323,9 @@
 - **Standardized Crop Lifecycles**: Standardized crop tenures: 12 months for short-duration crops and 18 months for long-duration cash crops; introduced revolving credit bands of **₹10,000 to ₹50,000** for marginal farmers (landholding ≤1 hectare).
 - **Statutory Heritage**: KCC scheme was introduced in **1998** on the recommendations of the **R.V. Gupta Committee**, designed and implemented under the aegis of NABARD.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Committee Origin): Recommended by the **R.V. Gupta Committee (1998)**.
-• Trap B (Tenure & Collateral): Tenure extended 5 ➔ **6 years**; collateral waived up to **₹2 lakh**.
+🎯 Exam Angle →
+• Committee Origin: Recommended by the **R.V. Gupta Committee (1998)**.
+• Tenure & Collateral: Tenure extended 5 ➔ **6 years**; collateral waived up to **₹2 lakh**.
 • Target MCQ Form: "On the recommendations of which committee was the Kisan Credit Card (KCC) scheme launched in 1998?" → R.V. Gupta Committee.
 
 ---
@@ -339,9 +339,9 @@
 - **PSL Categories (8 Broad Sectors)**: (1) Agriculture, (2) MSME, (3) Export Credit, (4) Education, (5) Housing, (6) Social Infrastructure, (7) Renewable Energy, and (8) Others.
 - **Non-Achievement Penalty**: Shortfalls must be deposited in the **Rural Infrastructure Development Fund (RIDF)** administered by NABARD.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Sub-Target Math): Total Agriculture = **18%**; Small & Marginal Farmers sub-target = **10%**; Weaker Sections = **12%**; Micro Enterprises = **7.5%**.
-• Trap B (Shortfall Fund): PSL shortfalls are invested in **RIDF** (administered by NABARD).
+🎯 Exam Angle →
+• Sub-Target Math: Total Agriculture = **18%**; Small & Marginal Farmers sub-target = **10%**; Weaker Sections = **12%**; Micro Enterprises = **7.5%**.
+• Shortfall Fund: PSL shortfalls are invested in **RIDF** (administered by NABARD).
 • Target MCQ Form: "What is the mandatory sub-target for lending to Small and Marginal Farmers (SMFs) under Priority Sector Lending norms for commercial banks?" → 10% of ANBC.
 
 ---
@@ -351,9 +351,9 @@
 - **Phase-In Trajectory**: Allows SFBs balanced portfolio diversification while continuing to direct high-volume credit to underserved micro-enterprises and smallholder farmers.
 - **Regional Rural Banks (RRB) PSL Target**: RRBs continue to operate under a separate statutory mandate requiring **75% of total lending** to priority sectors.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (SFB vs RRB Target): SFB corrected target is **60% of ANBC**; Regional Rural Bank (RRB) target remains **75%**.
-• Trap B (The Typo Trap): 75% was the error figure; the correct legally enforced target is 60%.
+🎯 Exam Angle →
+• SFB vs RRB Target: SFB corrected target is **60% of ANBC**; Regional Rural Bank (RRB) target remains **75%**.
+• The Typo Trap: 75% was the error figure; the correct legally enforced target is 60%.
 • Target MCQ Form: "What is the official, corrected Priority Sector Lending (PSL) target applicable to Small Finance Banks?" → 60% of ANBC.
 
 ---
@@ -368,9 +368,9 @@
   - Satisfactory track record of profitability across preceding two years
 - **Leadership Continuity**: Managing Director & CEO **Sanjay Agarwal** reappointed for a 3-year term to steer the universal banking transition.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (SFB Entity): **AU Small Finance Bank** is the 1st SFB to receive universal bank conversion nod.
-• Trap B (Eligibility Slabs): Minimum 5-year operating track record; minimum ₹1,000 Cr net worth; Net NPA ≤ 1.0%.
+🎯 Exam Angle →
+• SFB Entity: **AU Small Finance Bank** is the 1st SFB to receive universal bank conversion nod.
+• Eligibility Slabs: Minimum 5-year operating track record; minimum ₹1,000 Cr net worth; Net NPA ≤ 1.0%.
 • Target MCQ Form: "Which Small Finance Bank became the first in a decade to receive RBI's in-principle authorization to transition to a universal commercial bank?" → AU Small Finance Bank.
 
 ---
@@ -384,9 +384,9 @@
   4. **SMBC** (Japan)
 - **Regulatory Incentives**: WOS foreign banks enjoy near-national treatment in branch expansion, subject to priority sector lending and local board governance norms.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Total WOS Count): SMBC is the **4th** foreign bank in India to adopt WOS status.
-• Trap B (Country of Origin): SMBC is from **Japan** (DBS is Singapore; SBM is Mauritius; Emirates NBD is UAE).
+🎯 Exam Angle →
+• Total WOS Count: SMBC is the **4th** foreign bank in India to adopt WOS status.
+• Country of Origin: SMBC is from **Japan** (DBS is Singapore; SBM is Mauritius; Emirates NBD is UAE).
 • Target MCQ Form: "Sumitomo Mitsui Banking Corporation (SMBC), which received approval to convert into a Wholly Owned Subsidiary in India, is headquartered in which country?" → Japan.
 
 ---
@@ -400,9 +400,9 @@
   4. **State Bank of India** (₹10.9 lakh crore)
 - **Sectoral Divergence**: Driven by robust PSU credit growth and asset quality recovery, while IT services equities faced headwinds over generative AI automation disruptions.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Ranking Hierarchy): Reliance (1st) ➔ HDFC Bank (2nd) ➔ Bharti Airtel (3rd) ➔ SBI (4th). TCS dropped to 5th.
-• Trap B (Market Cap Level): SBI crossed **₹10.9 lakh crore**.
+🎯 Exam Angle →
+• Ranking Hierarchy: Reliance (1st) ➔ HDFC Bank (2nd) ➔ Bharti Airtel (3rd) ➔ SBI (4th). TCS dropped to 5th.
+• Market Cap Level: SBI crossed **₹10.9 lakh crore**.
 • Target MCQ Form: "Which state-owned bank overtook TCS to become India's 4th most valuable company by market capitalization?" → State Bank of India.
 
 ---
@@ -412,9 +412,9 @@
 - **Net NPA Compression**: Public sector banking Net NPA ratio fell to **0.5%**, reflecting massive write-offs, automated credit scoring, and resolution through the Insolvency and Bankruptcy Code (IBC).
 - **Disinvestment & Monetisation Mop-Up**: Union Government mobilized **₹45,306 crore** in non-debt capital receipts from disinvestment and asset monetisation during FY26 (surpassing the Revised Estimate of ₹33,800 crore).
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (PSB GNPA Ratio): Public Sector Banks' aggregate GNPA ratio fell to **1.9%** (Net NPA 0.5%).
-• Trap B (Absolute GNPA): Total PSB Gross NPA volume dropped to **₹2,45,634 crore**.
+🎯 Exam Angle →
+• PSB GNPA Ratio: Public Sector Banks' aggregate GNPA ratio fell to **1.9%** (Net NPA 0.5%).
+• Absolute GNPA: Total PSB Gross NPA volume dropped to **₹2,45,634 crore**.
 • Target MCQ Form: "What was the landmark Gross NPA ratio achieved by Public Sector Banks at the close of FY26?" → 1.9%.
 
 ---
@@ -424,9 +424,9 @@
 - **Sovereign Control Retained**: The legislative framework guarantees that the Central Government will maintain a mandatory minimum equity holding of **at least 51%** in all public sector banks.
 - **Private Banking Contrast**: Private sector commercial banks continue to operate under a maximum permissible FDI ceiling of **74%** (under the automatic route up to 49%, and government approval route beyond 49%).
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (PSB vs Private FDI Cap): Current PSB FDI cap is **20%** (proposed hike to **49%**); Private bank FDI cap is **74%**.
-• Trap B (Govt Holding Floor): Central Government equity in PSBs must remain at or above **51%**.
+🎯 Exam Angle →
+• PSB vs Private FDI Cap: Current PSB FDI cap is **20%** (proposed hike to **49%**); Private bank FDI cap is **74%**.
+• Govt Holding Floor: Central Government equity in PSBs must remain at or above **51%**.
 • Target MCQ Form: "What is the proposed revised Foreign Direct Investment (FDI) limit for Public Sector Banks currently under consideration?" → 49%.
 
 ---
@@ -437,9 +437,9 @@
 - **Direct UPI Payout Integration**: Collaborated with NPCI to launch direct UPI-linked PF withdrawals, allowing subscribers to receive provident fund payouts directly into verified UPI-linked accounts.
 - **Annual Interest Rate Reaffirmed**: Central Board of Trustees of EPFO retained the annual provident fund interest rate at **8.25% for FY26** (3rd consecutive year unchanged).
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Auto-Settlement Slabs): Limit raised from ₹1 lakh to **₹5 lakh** under Rule 68J.
-• Trap B (EPFO Interest Rate): Retained at **8.25% for FY26** (held for 3 consecutive years).
+🎯 Exam Angle →
+• Auto-Settlement Slabs: Limit raised from ₹1 lakh to **₹5 lakh** under Rule 68J.
+• EPFO Interest Rate: Retained at **8.25% for FY26** (held for 3 consecutive years).
 • Target MCQ Form: "What is the revised claim limit for automated settlement under Rule 68J of the Employees' Provident Fund Scheme?" → ₹5 Lakh.
 
 ---
@@ -453,9 +453,9 @@
   - **NPA**: Overdue for **more than 90 days**.
 - **Weekly Reporting of Defaults**: Regulated lenders must report defaults of ₹5 crore and above on a weekly basis to CRILC.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (CRILC Threshold): Applicable for aggregate credit exposures of **₹5 crore and above**.
-• Trap B (SMA Days Slabs): SMA-0 (1–30 days stress), SMA-1 (31–60 days), SMA-2 (61–90 days), NPA (>90 days).
+🎯 Exam Angle →
+• CRILC Threshold: Applicable for aggregate credit exposures of **₹5 crore and above**.
+• SMA Days Slabs: SMA-0 (1–30 days stress), SMA-1 (31–60 days), SMA-2 (61–90 days), NPA (>90 days).
 • Target MCQ Form: "What is the loan overdue duration that categorizes a credit facility as Special Mention Account 2 (SMA-2)?" → 61 to 90 days.
 
 ---
@@ -466,9 +466,9 @@
 - **Domestic Green Lending Quota**: Mandates that SBI allocate **at least 7.5% of its total domestic lending portfolio** toward certified green and climate-positive projects.
 - **Static Multilateral Anchor**: MIGA HQ in **Washington D.C.**; Executive Vice President Hiroshi Matano; member of the World Bank Group.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Exact Guarantee Amount): MIGA guarantee amount is **$197.67 million** (to Citibank for loan to SBI).
-• Trap B (Green Mandate Percentage): SBI must direct **≥ 7.5%** of domestic lending to green projects.
+🎯 Exam Angle →
+• Exact Guarantee Amount: MIGA guarantee amount is **$197.67 million** (to Citibank for loan to SBI).
+• Green Mandate Percentage: SBI must direct **≥ 7.5%** of domestic lending to green projects.
 • Target MCQ Form: "Which World Bank Group agency issued a $197.67 million guarantee to Citibank to de-risk green lending via State Bank of India?" → MIGA (Multilateral Investment Guarantee Agency).
 
 ---
@@ -478,9 +478,9 @@
 - **Upper Age Ceiling**: Fixed the maximum age limit for Managing Directors (MDs) and Whole-Time Directors (WTDs) in UCBs at **70 years**.
 - **Mission-SAKSHAM Capacity Drive**: Trained over **1.4 lakh personnel** across Urban Cooperative Banks nationwide on operational compliance, risk management, and cybersecurity.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Tenure Slabs): Compulsory **3-year cooling-off** after completing **10 years** of continuous board service.
-• Trap B (Age Ceiling): Maximum age limit for UCB MD/WTDs is **70 years**.
+🎯 Exam Angle →
+• Tenure Slabs: Compulsory **3-year cooling-off** after completing **10 years** of continuous board service.
+• Age Ceiling: Maximum age limit for UCB MD/WTDs is **70 years**.
 • Target MCQ Form: "Under RBI governance guidelines for Urban Cooperative Banks, what is the mandatory cooling-off period required for a director after 10 years of continuous service?" → 3 Years.
 
 ---
@@ -490,9 +490,9 @@
 - **Working Capital Relief**: Eliminates the requirement for contractors to lock up 100% cash collateral and fixed deposits with commercial banks, unlocking over ₹50,000 crore in contractor liquidity.
 - **IRDAI Regulatory Framework**: IRDAI permitted general insurers to issue commercial surety bonds up to **10% of their net owned funds**, capped at 30% of total underwritten premium.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Instrument Type): Insurance Surety Bonds are legally recognized as a direct substitute for **Bank Guarantees** in public procurement.
-• Trap B (Underwriting Cap): General insurers can issue surety bonds up to **10% of net owned funds**.
+🎯 Exam Angle →
+• Instrument Type: Insurance Surety Bonds are legally recognized as a direct substitute for **Bank Guarantees** in public procurement.
+• Underwriting Cap: General insurers can issue surety bonds up to **10% of net owned funds**.
 • Target MCQ Form: "Under amended General Financial Rules, which financial instrument has been granted full parity with Bank Guarantees in government procurement?" → Insurance Surety Bonds.
 
 
@@ -506,9 +506,9 @@
 - **Inward Remittance & Merchant Acceptance**: Enables Indian travelers to make direct QR-based payments in local currencies, and Non-Resident Indians (NRIs) to remit funds instantly to Indian bank accounts without SWIFT delays.
 - **P2P and P2M Transaction Volume Scale**: UPI handled over **14.44 billion transactions** in a single calendar month (exceeding ₹20.64 lakh crore in value), cementing India's status with >45% of global real-time digital payments.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (First Latin American Country): **Peru** signed an agreement with NIPL to adopt the UPI technology stack (not Brazil or Argentina).
-• Trap B (Executing Entity): Cross-border UPI agreements are signed by **NIPL (NPCI International Payments Limited)**, not direct RBI bilateral accords.
+🎯 Exam Angle →
+• First Latin American Country: **Peru** signed an agreement with NIPL to adopt the UPI technology stack (not Brazil or Argentina).
+• Executing Entity: Cross-border UPI agreements are signed by **NIPL (NPCI International Payments Limited)**, not direct RBI bilateral accords.
 • Target MCQ Form: "Which was the first South American nation to partner with NPCI International to develop a national instant payment system modeled on UPI?" → Peru.
 
 ---
@@ -518,9 +518,9 @@
 - **₹5 Lakh Special Transaction Slab**: Enhanced limit of **₹5 Lakh** applies to: (1) **Hospitals and Medical Healthcare**, (2) **Educational Institutions**, (3) **Direct and Indirect Tax Payments**, and (4) **IPO and Capital Market Retail Subscriptions**.
 - **UPI Lite & UPI Lite X Parameters**: UPI Lite per-transaction limit is **₹500** (no PIN required); maximum wallet balance is **₹2,000**. UPI Lite X allows offline NFC-based transactions without internet connectivity.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Tax Payment Ceiling): Tax payments on UPI are capped at **₹5 Lakh** (hiked from ₹1 Lakh).
-• Trap B (UPI Lite Balance): Maximum wallet balance is **₹2,000**; per-transaction cap is **₹500**.
+🎯 Exam Angle →
+• Tax Payment Ceiling: Tax payments on UPI are capped at **₹5 Lakh** (hiked from ₹1 Lakh).
+• UPI Lite Balance: Maximum wallet balance is **₹2,000**; per-transaction cap is **₹500**.
 • Target MCQ Form: "What is the enhanced per-transaction limit for tax payments made through the Unified Payments Interface (UPI)?" → ₹5 Lakh.
 
 ---
@@ -532,9 +532,9 @@
   - *Partial Delegation*: Secondary user initiates the payment request, but each transaction requires final biometric or PIN authorization from the primary user.
 - **Security Guardrails**: Primary user can link a maximum of **5 secondary delegates** and revoke authorization in real time.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Monthly Cap): Under Full Delegation, the maximum monthly spending limit set by the primary user is **₹15,000** (not ₹25,000).
-• Trap B (Delegate Count): A primary user can authorize up to **5 secondary delegates**.
+🎯 Exam Angle →
+• Monthly Cap: Under Full Delegation, the maximum monthly spending limit set by the primary user is **₹15,000** (not ₹25,000).
+• Delegate Count: A primary user can authorize up to **5 secondary delegates**.
 • Target MCQ Form: "What is the maximum monthly transaction limit permissible under the 'Full Delegation' mode of NPCI's UPI Circle?" → ₹15,000.
 
 ---
@@ -544,9 +544,9 @@
 - **Programmability & Offline Capabilities**: Enabled programmable e-Rupee tokens with targeted end-use (e.g., direct benefit transfer for agricultural input subsidies, school fee vouchers) with automated expiry dates and merchant geofencing.
 - **UPI Interoperability**: e₹-R wallets can scan any standard **interoperable UPI QR code**, enabling consumers to spend digital rupees at over 30 million merchant touchpoints nationwide.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Wholesale vs Retail Dates): Wholesale pilot was launched on **Nov 1, 2022**; Retail pilot launched on **Dec 1, 2022**.
-• Trap B (Interest Bearing): The sovereign CBDC (e-Rupee) is non-interest bearing by law to prevent disintermediation of commercial bank deposits.
+🎯 Exam Angle →
+• Wholesale vs Retail Dates: Wholesale pilot was launched on **Nov 1, 2022**; Retail pilot launched on **Dec 1, 2022**.
+• Interest Bearing: The sovereign CBDC (e-Rupee) is non-interest bearing by law to prevent disintermediation of commercial bank deposits.
 • Target MCQ Form: "Which feature of the Retail e-Rupee (e₹-R) allows targeted financial assistance to be spent strictly on predetermined goods and services?" → Programmability.
 
 ---
@@ -556,9 +556,9 @@
 - **Rupay-Foreign Network Integration**: Integrated foreign payment service providers with Indian operating units (BPOUs) to settle transactions in foreign currency with instant INR conversion.
 - **Expanded Scope to Non-Bank FinTechs**: Minimum net worth requirement for non-bank BBPS operating units was reduced from ₹100 Crore to **₹25 Crore**, broadening fintech participation.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Net Worth Floor): Minimum net worth for non-bank BBPOUs is **₹25 Crore** (slashed from ₹100 Crore).
-• Trap B (Operating Entity): Managed by **NBBL (NPCI Bharat BillPay Limited)**, a wholly-owned subsidiary of NPCI.
+🎯 Exam Angle →
+• Net Worth Floor: Minimum net worth for non-bank BBPOUs is **₹25 Crore** (slashed from ₹100 Crore).
+• Operating Entity: Managed by **NBBL (NPCI Bharat BillPay Limited)**, a wholly-owned subsidiary of NPCI.
 • Target MCQ Form: "What is the revised minimum net worth required for non-bank entities to operate as a Bharat Bill Payment Operating Unit (BBPOU)?" → ₹25 Crore.
 
 ---
@@ -568,9 +568,9 @@
 - **Direct CoFT Enablement**: RBI permitted cardholders to create and view tokens directly through mobile banking and internet banking portals of their **card-issuing banks**, eliminating dependence on merchant check-out pages.
 - **Alternate Authentication Mechanisms (AAM)**: RBI issued draft directions allowing banks to deploy non-SMS factor-of-authentication mechanisms, such as in-app biometric approvals, behavioral risk scoring, and hardware tokens.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Who Stores Data): Merchants and payment aggregators can NEVER store card PAN numbers after transaction settlement.
-• Trap B (Token Management): Cardholders can now manage, view, and delete active merchant tokens directly via their issuing bank's portal.
+🎯 Exam Angle →
+• Who Stores Data: Merchants and payment aggregators can NEVER store card PAN numbers after transaction settlement.
+• Token Management: Cardholders can now manage, view, and delete active merchant tokens directly via their issuing bank's portal.
 • Target MCQ Form: "Under RBI's Card-on-File Tokenisation (CoFT) guidelines, which entity is strictly barred from storing actual customer credit/debit card numbers?" → Merchants and Payment Gateways.
 
 ---
@@ -582,9 +582,9 @@
   - New entities must maintain a minimum net worth of **₹15 Crore** at application and **₹25 Crore** before commencing operations.
 - **Escrow Account Safeguards**: Mandates daily reconciliation and non-interest-bearing escrow accounts with scheduled commercial banks to safeguard customer funds.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Net Worth Numbers): Initial net worth = **₹15 Crore**; step-up requirement = **₹25 Crore**.
-• Trap B (Categories): Includes Online PA, Physical PA (PA-P), and Cross-Border PA (PA-CB).
+🎯 Exam Angle →
+• Net Worth Numbers: Initial net worth = **₹15 Crore**; step-up requirement = **₹25 Crore**.
+• Categories: Includes Online PA, Physical PA (PA-P), and Cross-Border PA (PA-CB).
 • Target MCQ Form: "What is the net worth requirement for non-bank entities seeking authorization from RBI as Cross-Border Payment Aggregators (PA-CB) within three years?" → ₹25 Crore.
 
 ---
@@ -594,9 +594,9 @@
 - **Operational Timings & Pricing**: Trading window operates between **9:15 AM and 1:30 PM**; prices operate within a tight **±100 bps band** of the concurrent T+1 market price.
 - **Client Capital Efficiency**: Frees up client funds and securities instantly upon trade execution, eliminating overnight settlement risk and reducing collateral requirements.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Basket Size): The beta phase was launched for **25 scrips** (not 50 or 100).
-• Trap B (Mandatory vs Optional): T+0 is strictly **OPTIONAL**; T+1 remains the mandatory default settlement cycle in India.
+🎯 Exam Angle →
+• Basket Size: The beta phase was launched for **25 scrips** (not 50 or 100).
+• Mandatory vs Optional: T+0 is strictly **OPTIONAL**; T+1 remains the mandatory default settlement cycle in India.
 • Target MCQ Form: "In the initial beta rollout of SEBI's same-day T+0 settlement cycle, how many liquid equity scrips were selected for trading?" → 25 Scrips.
 
 ---
@@ -609,9 +609,9 @@
   - Prior approval of shareholders for Related Party Transactions (RPTs).
 - **Sunset & Sunset Threshold Review**: SEBI made compliance mandatory with voluntary exemptions provided for debt-listed entities undergoing insolvency resolution.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Threshold Amount): HVDLE classification triggers at **₹500 Crore** outstanding listed debt (not ₹100 Cr or ₹1,000 Cr).
-• Trap B (Instrument Scope): Applies to entities with listed **non-convertible debt securities**, even if equity is unlisted.
+🎯 Exam Angle →
+• Threshold Amount: HVDLE classification triggers at **₹500 Crore** outstanding listed debt (not ₹100 Cr or ₹1,000 Cr).
+• Instrument Scope: Applies to entities with listed **non-convertible debt securities**, even if equity is unlisted.
 • Target MCQ Form: "What is the minimum outstanding value of listed non-convertible debt securities that classifies an entity as a High-Value Debt Listed Entity (HVDLE) under SEBI norms?" → ₹500 Crore.
 
 ---
@@ -623,9 +623,9 @@
   2. FPI holding an aggregate equity portfolio exceeding **₹25,000 Crore** in the Indian securities market.
 - **Exempted Sovereign Entities**: Government and government-related investors, central banks, multilateral agencies, sovereign wealth funds, and regulated retail collective investment vehicles are explicitly exempted.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Single Group Concentration): Threshold is **>50% of Indian equity AUM** in a single group.
-• Trap B (Aggregate Market Exposure): Absolute portfolio threshold is **₹25,000 Crore**.
+🎯 Exam Angle →
+• Single Group Concentration: Threshold is **>50% of Indian equity AUM** in a single group.
+• Aggregate Market Exposure: Absolute portfolio threshold is **₹25,000 Crore**.
 • Target MCQ Form: "Under SEBI regulations, an FPI must disclose granular ownership details if its holding in a single Indian corporate group exceeds what percentage of its Indian equity AUM?" → 50%.
 
 ---
@@ -637,9 +637,9 @@
   - Minimum application size slashed from ₹2 Lakh to **₹10,000**, democratizing retail and philanthropic participation.
 - **Annual Social Audit**: NPOs listing on SSE must submit an annual social impact report audited by certified Social Auditors under the National Institute of Securities Markets (NISM).
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Minimum Application Floor): Minimum application size is **₹10,000** (slashed from ₹2 Lakh).
-• Trap B (Minimum Issue Size): Minimum issue size on SSE is **₹50 Lakh** (slashed from ₹1 Crore).
+🎯 Exam Angle →
+• Minimum Application Floor: Minimum application size is **₹10,000** (slashed from ₹2 Lakh).
+• Minimum Issue Size: Minimum issue size on SSE is **₹50 Lakh** (slashed from ₹1 Crore).
 • Target MCQ Form: "What is the minimum application size for public issuance of Zero Coupon Zero Principal (ZCZP) instruments on the Social Stock Exchange (SSE)?" → ₹10,000.
 
 ---
@@ -649,9 +649,9 @@
 - **Two-Tier Escalation Architecture**: If an investor is dissatisfied with the listed entity's resolution, the complaint automatically escalates to the **Designated Body (First Tier Review)**, followed by SEBI direct intervention if unresolved.
 - **Integration with SMART ODR**: Unresolved market grievances automatically feed into the Securities Market Approach for Resolution Through ODR Portal (SMART ODR) for conciliation and online arbitration.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Resolution Timeline): Mandatory grievance redressal timeframe is **21 calendar days** (not 30 or 15 days).
-• Trap B (Portal Hierarchy): SCORES 2.0 routes complaints; SMART ODR provides online arbitration and conciliation.
+🎯 Exam Angle →
+• Resolution Timeline: Mandatory grievance redressal timeframe is **21 calendar days** (not 30 or 15 days).
+• Portal Hierarchy: SCORES 2.0 routes complaints; SMART ODR provides online arbitration and conciliation.
 • Target MCQ Form: "Under the revamped SCORES 2.0 framework launched by SEBI, what is the mandatory time limit for entities to resolve investor grievances?" → 21 calendar days.
 
 ---
@@ -664,9 +664,9 @@
 - **Tenure Ceiling**: Maximum loan maturity on P2P platforms restricted to **36 months**.
 - **Fund Flow Rigor**: Mandates T+1 escrow settlement; platforms cannot hold funds in their own balance sheet or provide revolving credit lines.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (CA Certificate Slab): Net-worth certificate from a CA is mandatory if a lender invests more than **₹10 Lakh**.
-• Trap B (Aggregate Exposure Ceiling): Absolute cap across all P2P platforms is **₹50 Lakh** for lenders and **₹10 Lakh** for borrowers.
+🎯 Exam Angle →
+• CA Certificate Slab: Net-worth certificate from a CA is mandatory if a lender invests more than **₹10 Lakh**.
+• Aggregate Exposure Ceiling: Absolute cap across all P2P platforms is **₹50 Lakh** for lenders and **₹10 Lakh** for borrowers.
 • Target MCQ Form: "What is the maximum aggregate amount an individual lender can invest across all NBFC-P2P platforms under RBI guidelines?" → ₹50 Lakh.
 
 ---
@@ -676,9 +676,9 @@
 - **Angel Fund Thresholds**: Minimum investment ticket size for angel investors in an Angel Fund set at **₹25 Lakh**; maximum number of angel investors in a single scheme capped at **200**.
 - **Pari-Passu Investor Rights**: Barred AIFs from creating 'priority distribution waterfalls' that favor select institutional investors over general LPs during exits.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Angel Fund Minimum Ticket): Minimum investment amount is **₹25 Lakh** (not ₹10 Lakh or ₹50 Lakh).
-• Trap B (Demat Requirement): All AIF categories must issue units in **dematerialized form**.
+🎯 Exam Angle →
+• Angel Fund Minimum Ticket: Minimum investment amount is **₹25 Lakh** (not ₹10 Lakh or ₹50 Lakh).
+• Demat Requirement: All AIF categories must issue units in **dematerialized form**.
 • Target MCQ Form: "What is the minimum investment ticket size required for an angel investor participating in an Angel Fund scheme regulated by SEBI?" → ₹25 Lakh.
 
 ---
@@ -688,9 +688,9 @@
 - **Contract Size Expansion**: Proposed hiking the minimum contract value of index derivatives from ₹5 Lakh up to **₹15 Lakh to ₹20 Lakh** to deter over-leveraged retail participation.
 - **Margin & Expiry Rationalization**: Mandated upfront collection of Extreme Loss Margin (ELM), rationalized weekly expiry contracts to one benchmark index per exchange, and enforced intraday position monitoring.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Revised Contract Value Floor): Minimum derivative contract size proposed between **₹15 Lakh and ₹20 Lakh** (up from ₹5 Lakh).
-• Trap B (Weekly Expiries): Limited to **one benchmark index per exchange** per week.
+🎯 Exam Angle →
+• Revised Contract Value Floor: Minimum derivative contract size proposed between **₹15 Lakh and ₹20 Lakh** (up from ₹5 Lakh).
+• Weekly Expiries: Limited to **one benchmark index per exchange** per week.
 • Target MCQ Form: "What is the proposed revised minimum contract value for equity index derivatives recommended by SEBI's expert working group?" → ₹15 Lakh to ₹20 Lakh.
 
 
@@ -705,9 +705,9 @@
 - **Effective Capital Expenditure**: Total effective capex (including grants-in-aid to states for capital asset creation) scaled to **₹15.02 Lakh Crore** (4.6% of GDP).
 - **Interest Payments Reality**: Interest payments remain the single largest expenditure component, accounting for **₹11.63 Lakh Crore** (approx. 24% of total expenditure).
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Capex Value): Headline sovereign capex is **₹11,11,111 Crore** (3.4% of GDP); effective capex is **₹15.02 Lakh Crore**.
-• Trap B (Total Outlay): Total budget outlay is **₹48.21 Lakh Crore**.
+🎯 Exam Angle →
+• Capex Value: Headline sovereign capex is **₹11,11,111 Crore** (3.4% of GDP); effective capex is **₹15.02 Lakh Crore**.
+• Total Outlay: Total budget outlay is **₹48.21 Lakh Crore**.
 • Target MCQ Form: "What is the total capital expenditure (Capex) allocation announced in the Union Budget?" → ₹11,11,111 Crore.
 
 ---
@@ -717,9 +717,9 @@
 - **Post-FY26 Fiscal Anchor**: Shifting away from an absolute fiscal deficit percentage towards a **debt-to-GDP reduction anchor**, aiming to lower central government debt from ~56% of GDP towards sustainable multi-year thresholds.
 - **Market Borrowing Plan**: Gross market borrowing through dated securities budgeted at **₹14.01 Lakh Crore**; net market borrowing pegged at **₹11.63 Lakh Crore**.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Target Deficit Percentages): FY25 target = **4.9% of GDP**; FY26 target = **below 4.5% of GDP**.
-• Trap B (Gross vs Net Borrowing): Gross borrowing = **₹14.01 Lakh Crore**; Net borrowing = **₹11.63 Lakh Crore**.
+🎯 Exam Angle →
+• Target Deficit Percentages: FY25 target = **4.9% of GDP**; FY26 target = **below 4.5% of GDP**.
+• Gross vs Net Borrowing: Gross borrowing = **₹14.01 Lakh Crore**; Net borrowing = **₹11.63 Lakh Crore**.
 • Target MCQ Form: "What is the fiscal deficit target as a percentage of GDP set for Financial Year 2024-25 in the Union Budget?" → 4.9%.
 
 ---
@@ -735,9 +735,9 @@
   - Above ₹15,00,000: **30%**
 - **Tax-Free Threshold**: With Section 87A full rebate, individuals earning up to **₹7.75 Lakh** (including ₹75k standard deduction) pay **Zero Tax**.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (New Standard Deduction): Standard deduction is **₹75,000** (under New Regime only; Old Regime remains ₹50,000).
-• Trap B (Zero Tax Threshold): Salaried individuals pay zero tax up to **₹7.75 Lakh** under the New Tax Regime.
+🎯 Exam Angle →
+• New Standard Deduction: Standard deduction is **₹75,000** (under New Regime only; Old Regime remains ₹50,000).
+• Zero Tax Threshold: Salaried individuals pay zero tax up to **₹7.75 Lakh** under the New Tax Regime.
 • Target MCQ Form: "What is the revised standard deduction amount for salaried individuals under the New Income Tax Regime?" → ₹75,000.
 
 ---
@@ -750,9 +750,9 @@
 - **Holding Period Standardization**: Simplified into two holding periods across all asset classes: **12 months** for all listed securities; **24 months** for all unlisted securities and real estate.
 - **Indexation Benefit Removed**: Removed indexation benefits for real estate/unlisted assets, with optional grandfathering provision retained for properties acquired prior to July 23, 2024.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (STCG Rate): STCG on listed equity is **20%** (hiked from 15%).
-• Trap B (LTCG Rate & Exemption): LTCG is **12.5%**; annual exemption limit is **₹1.25 Lakh** (hiked from ₹1 Lakh).
+🎯 Exam Angle →
+• STCG Rate: STCG on listed equity is **20%** (hiked from 15%).
+• LTCG Rate & Exemption: LTCG is **12.5%**; annual exemption limit is **₹1.25 Lakh** (hiked from ₹1 Lakh).
 • Target MCQ Form: "What is the revised Long-Term Capital Gains (LTCG) tax rate on listed equity shares and equity mutual funds?" → 12.5%.
 
 ---
@@ -762,9 +762,9 @@
 - **Genesis & Friction**: Enacted in 2012 to curb unaccounted money laundering; taxed investments received by unlisted companies exceeding 'Fair Market Value' (FMV) as income from other sources at >30%.
 - **Venture Ecosystem Boost**: Eliminates endless tax litigation, removes valuation friction, and encourages domestic and foreign seed capital inflows into Indian tech ventures.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Statutory Section): Angel tax was governed under **Section 56(2)(viib)** of the Income Tax Act, 1961.
-• Trap B (Investor Scope): Abolished for **ALL classes of investors** (both domestic resident angels and non-resident foreign investors).
+🎯 Exam Angle →
+• Statutory Section: Angel tax was governed under **Section 56(2)(viib)** of the Income Tax Act, 1961.
+• Investor Scope: Abolished for **ALL classes of investors** (both domestic resident angels and non-resident foreign investors).
 • Target MCQ Form: "Which contentious tax on unlisted startup investments was completely abolished across all investor classes in the Union Budget?" → Angel Tax (Section 56(2)(viib)).
 
 ---
@@ -774,9 +774,9 @@
 - **Genesis & Cross-Border Friction**: Originally introduced in Finance Act 2020 to tax digital services rendered by global giants (Google, Amazon, Meta); created trade tensions and retaliatory tariff threats from the United States under Section 301.
 - **Pillar One Alignment**: Decision aligns India with the OECD/G20 Inclusive Framework on Base Erosion and Profit Shifting (BEPS) Pillar One, which replaces unilateral digital services taxes with multilateral profit allocation.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Effective Date): Equalisation levy of 2% was abolished effective **August 1, 2024 / 2026**.
-• Trap B (Which Levy): The **2% digital e-commerce supply levy** was removed (the 6% online advertisement levy introduced in 2016 remains unchanged).
+🎯 Exam Angle →
+• Effective Date: Equalisation levy of 2% was abolished effective **August 1, 2024 / 2026**.
+• Which Levy: The **2% digital e-commerce supply levy** was removed (the 6% online advertisement levy introduced in 2016 remains unchanged).
 • Target MCQ Form: "The 2% Equalisation Levy on digital e-commerce supply of services by non-resident operators was abolished with effect from which date?" → August 1, 2024.
 
 ---
@@ -786,9 +786,9 @@
 - **Anti-Smuggling Impetus**: Steep duty cut curbs illicit grey-market smuggling, revitalizes organized domestic jewelry manufacturing, and boosts gem & jewelry export competitiveness.
 - **25 Critical Minerals 100% Exemption**: Fully exempted basic customs duty on **25 critical minerals** essential for nuclear energy, renewable energy, electric vehicles, and semiconductors—including **Lithium**, **Cobalt**, **Nickel**, **Copper**, and **Rare Earth Elements (REEs)**.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Gold/Silver Customs Duty): BCD on gold and silver was reduced to **6%** (from 15%).
-• Trap B (Critical Minerals Exemption): Exactly **25 critical minerals** were granted full customs duty exemption (0% duty).
+🎯 Exam Angle →
+• Gold/Silver Customs Duty: BCD on gold and silver was reduced to **6%** (from 15%).
+• Critical Minerals Exemption: Exactly **25 critical minerals** were granted full customs duty exemption (0% duty).
 • Target MCQ Form: "What is the revised Basic Customs Duty (BCD) on gold and silver bars announced in the Union Budget?" → 6%.
 
 ---
@@ -802,9 +802,9 @@
 - **Kavach 4.0 Deployment**: Automated Train Protection (ATP) system Kavach version 4.0 approved for mission-mode installation across 10,000 locomotives and 9,000 route kilometers.
 - **Road Transport & Highways**: Ministry of Road Transport & Highways (MoRTH) allocated **₹2.72 Lakh Crore** to accelerate Bharatmala Pariyojana and access-controlled expressways.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Railways Capex): Indian Railways received **₹2.52 Lakh Crore** (gross budgetary support).
-• Trap B (Kavach Version): The latest approved version deployed across Indian Railways is **Kavach 4.0**.
+🎯 Exam Angle →
+• Railways Capex: Indian Railways received **₹2.52 Lakh Crore** (gross budgetary support).
+• Kavach Version: The latest approved version deployed across Indian Railways is **Kavach 4.0**.
 • Target MCQ Form: "What is the capital outlay allocated to Indian Railways in the Union Budget?" → ₹2.52 Lakh Crore.
 
 ---
@@ -816,9 +816,9 @@
   - For appeals filed by the Income Tax Department: Settlement upon payment of **50% of disputed tax** (interest and penalties waived).
 - **Relief for Courts**: Resolves over 2.7 lakh pending income tax appeals locking up trillions of rupees in judicial disputes.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Cut-off Eligibility Date): Pending litigation must have been filed on or before **July 22, 2024**.
-• Trap B (Department Appeals Payout): For departmental appeals, taxpayer pays only **50% of disputed tax**.
+🎯 Exam Angle →
+• Cut-off Eligibility Date: Pending litigation must have been filed on or before **July 22, 2024**.
+• Department Appeals Payout: For departmental appeals, taxpayer pays only **50% of disputed tax**.
 • Target MCQ Form: "Under the Direct Tax Vivad Se Vishwas Scheme 2024, what percentage of disputed tax is payable by an assessee for appeals initiated by the Income Tax Department?" → 50%.
 
 ---
@@ -829,9 +829,9 @@
 - **Reserve Asset Breakdown**: Foreign Currency Assets (FCA) constitute the bulk (~$610B+), followed by **Gold Reserves (~$65B+)**, Special Drawing Rights (SDRs with IMF), and Reserve Tranche Position (RTP).
 - **Import Cover Duration**: Current forex reserves provide an import cover of over **11.8 months** of projected merchandise imports.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Global Rank): India is the **4th largest** foreign exchange reserve holder in the world.
-• Trap B (Benchmark Level): Surpassed the historic **$700 Billion** milestone.
+🎯 Exam Angle →
+• Global Rank: India is the **4th largest** foreign exchange reserve holder in the world.
+• Benchmark Level: Surpassed the historic **$700 Billion** milestone.
 • Target MCQ Form: "Where does India rank globally in terms of foreign exchange reserve holdings following its milestone crossing of $700 Billion?" → 4th.
 
 ---
@@ -845,9 +845,9 @@
   - *WPI Weights*: **Manufactured Products = 64.23%**; Primary Articles = 22.62%; Fuel & Power = 13.15% (Note: Services are completely excluded from WPI).
 - **Inflation Targeting Metric**: Under Section 45-ZA of the RBI Act, the official inflation target of **4% (±2% tolerance band)** is legally bound to **CPI-Combined**, NOT WPI.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Official Anchor): Monetary policy inflation targeting legally uses **CPI-Combined (2012=100)**, NEVER WPI.
-• Trap B (WPI Heavyweight): Largest component of WPI is **Manufactured Products (64.23%)**; Food in CPI is **45.86%**.
+🎯 Exam Angle →
+• Official Anchor: Monetary policy inflation targeting legally uses **CPI-Combined (2012=100)**, NEVER WPI.
+• WPI Heavyweight: Largest component of WPI is **Manufactured Products (64.23%)**; Food in CPI is **45.86%**.
 • Target MCQ Form: "Which inflation index serves as the statutory nominal anchor for the Reserve Bank of India's Monetary Policy Committee?" → Consumer Price Index (CPI - Combined).
 
 ---
@@ -861,9 +861,9 @@
   4. Financing of Disaster Management initiatives under Disaster Management Act, 2005.
 - **Submission & Award Period**: The 16th FC will submit its report by **October 31, 2025**, covering a 5-year award period from **April 1, 2026 to March 31, 2031** (15th FC devolution share under N.K. Singh was 41%).
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Chairman Name): 16th Finance Commission Chairman is **Dr. Arvind Panagariya** (Secretary: Ritvik Ranjanam Pandey).
-• Trap B (Award Period): Covers **April 1, 2026 to March 31, 2031** (5 years).
+🎯 Exam Angle →
+• Chairman Name: 16th Finance Commission Chairman is **Dr. Arvind Panagariya** (Secretary: Ritvik Ranjanam Pandey).
+• Award Period: Covers **April 1, 2026 to March 31, 2031** (5 years).
 • Target MCQ Form: "Who has been appointed as the Chairman of the Sixteenth Finance Commission of India?" → Dr. Arvind Panagariya.
 
 
@@ -881,9 +881,9 @@
 - **National Nodal Agency & Concessional Lending**: **REC Limited** designated as the national project implementation agency; scheduled commercial banks provide collateral-free loans at ~7% interest (Repo + 0.5%) up to ₹2 Lakh.
 - **Free Power Guarantee**: Yields up to **300 units of free electricity per month** per household, with surplus power sold back to local DISCOMs via net-metering.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Maximum Subsidy Cap): Maximum subsidy for residential systems (3 kW+) is **₹78,000** (not ₹1,00,000).
-• Trap B (Nodal Implementation Agency): **REC Limited** (a Maharatna CPSE under Ministry of Power), NOT IREDA.
+🎯 Exam Angle →
+• Maximum Subsidy Cap: Maximum subsidy for residential systems (3 kW+) is **₹78,000** (not ₹1,00,000).
+• Nodal Implementation Agency: **REC Limited** (a Maharatna CPSE under Ministry of Power), NOT IREDA.
 • Target MCQ Form: "Which Maharatna public sector undertaking has been appointed as the National Nodal Agency for implementing PM Surya Ghar: Muft Bijli Yojana?" → REC Limited.
 
 ---
@@ -897,9 +897,9 @@
   3. *Aadhaar-seeded NPCI Bank Account Mapping*.
 - **Cumulative Financial Footprint**: Disbursed over **₹3.24 Lakh Crore** across 17 consecutive tranches to more than 11 crore beneficiary farmers.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Scheme Type): PM-KISAN is a **100% Central Sector Scheme** (not Centrally Sponsored; Centre bears 100% cost).
-• Trap B (Exclusions): Institutional landholders, income taxpayers, and individuals receiving monthly pensions of ₹10,000+ are strictly excluded.
+🎯 Exam Angle →
+• Scheme Type: PM-KISAN is a **100% Central Sector Scheme** (not Centrally Sponsored; Centre bears 100% cost).
+• Exclusions: Institutional landholders, income taxpayers, and individuals receiving monthly pensions of ₹10,000+ are strictly excluded.
 • Target MCQ Form: "What is the annual financial assistance provided to eligible farmer families under the PM-KISAN scheme?" → ₹6,000 in three installments.
 
 ---
@@ -913,9 +913,9 @@
   - *Interest Subvention*: Ministry of MSME provides an interest subvention of **8%** to participating lending banks.
 - **Skill Training & Toolkit Incentives**: 5–7 days basic training with **₹500 daily stipend**; **₹15,000 modern toolkit grant**; ₹1 per digital transaction incentive (up to 100 transactions/month).
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Loan Tranche Math): Tranche 1 = **₹1 Lakh** (18 months); Tranche 2 = **₹2 Lakh** (30 months); Borrower interest = **5%**.
-• Trap B (Toolkit Grant): One-time modern toolkit incentive is **₹15,000** (not ₹10,000 or ₹20,000).
+🎯 Exam Angle →
+• Loan Tranche Math: Tranche 1 = **₹1 Lakh** (18 months); Tranche 2 = **₹2 Lakh** (30 months); Borrower interest = **5%**.
+• Toolkit Grant: One-time modern toolkit incentive is **₹15,000** (not ₹10,000 or ₹20,000).
 • Target MCQ Form: "What is the maximum loan amount available under the second tranche of the PM Vishwakarma Scheme?" → ₹2,00,000.
 
 ---
@@ -929,9 +929,9 @@
   - Subsidy parameter: **4% interest subsidy** on loan principal up to **₹8 Lakh** for a tenure of up to 12 years (maximum upfront subsidy ₹1.80 Lakh).
 - **PMAY-Gramin Unit Assistance**: Unit cost assistance remains **₹1.20 Lakh in plain areas** and **₹1.30 Lakh in hilly/North-Eastern/difficult areas**, integrated with 90–95 days of unskilled wage labor under MGNREGS.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Additional Houses Breakdown): Total = **3 Crore** (2 Crore Gramin + 1 Crore Urban).
-• Trap B (PMAY-U 2.0 Interest Subsidy): 4% interest subsidy applies to loans up to **₹8 Lakh** (total loan allowed up to ₹25 Lakh).
+🎯 Exam Angle →
+• Additional Houses Breakdown: Total = **3 Crore** (2 Crore Gramin + 1 Crore Urban).
+• PMAY-U 2.0 Interest Subsidy: 4% interest subsidy applies to loans up to **₹8 Lakh** (total loan allowed up to ₹25 Lakh).
 • Target MCQ Form: "How many additional houses have been sanctioned under the expanded Pradhan Mantri Awas Yojana across urban and rural segments?" → 3 Crore Houses.
 
 ---
@@ -944,9 +944,9 @@
 - **100% Sovereign Subsidy**: Central Government fully absorbs the cost of procurement, storage, and distribution through Fair Price Shops; zero cost borne by beneficiaries or state governments.
 - **Beneficiary Coverage**: Covers approximately **81.35 Crore beneficiaries** across all 36 States and Union Territories via the One Nation One Ration Card (ONORC) technology stack.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Extension Period): Extended for **5 years** until **December 31, 2028**.
-• Trap B (Allocation Slabs): AAY = **35 kg per family/month**; PHH = **5 kg per person/month**.
+🎯 Exam Angle →
+• Extension Period: Extended for **5 years** until **December 31, 2028**.
+• Allocation Slabs: AAY = **35 kg per family/month**; PHH = **5 kg per person/month**.
 • Target MCQ Form: "Until which year has the Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY) free foodgrain scheme been extended by the Union Cabinet?" → December 31, 2028.
 
 ---
@@ -957,9 +957,9 @@
 - **Convergence Ecosystem**: Integrates multi-skilling, financial literacy, value-chain linkages, agriculture-drone services (Namo Drone Didi), animal husbandry, and direct bank linkage.
 - **National Reach**: Over 1 Crore women have already achieved verified Lakhpati Didi status across rural India.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Target Number): Enhanced national target is **3 Crore women** (hiked from 2 Crore).
-• Trap B (Income Threshold): Minimum sustainable annual household income is **₹1,00,000**.
+🎯 Exam Angle →
+• Target Number: Enhanced national target is **3 Crore women** (hiked from 2 Crore).
+• Income Threshold: Minimum sustainable annual household income is **₹1,00,000**.
 • Target MCQ Form: "What is the enhanced target set by the Government of India for creating 'Lakhpati Didis' through women Self-Help Groups?" → 3 Crore.
 
 ---
@@ -972,9 +972,9 @@
   - Remaining balance amount can be mobilized as a loan under the Agriculture Infrastructure Fund (AIF) with **3% interest subvention**.
 - **Skill Certification**: 15-day certified training module (5 days mandatory DGCA drone pilot training + 10 days agricultural nutrient application training).
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Drone Fleet Target): Exactly **15,000 women SHGs** will receive drones.
-• Trap B (Financial Grant Cap): Government subsidizes **80% of drone cost up to ₹8 Lakh**.
+🎯 Exam Angle →
+• Drone Fleet Target: Exactly **15,000 women SHGs** will receive drones.
+• Financial Grant Cap: Government subsidizes **80% of drone cost up to ₹8 Lakh**.
 • Target MCQ Form: "What is the maximum subsidy amount provided by the Central Government to a women SHG under the Namo Drone Didi Scheme?" → ₹8 Lakh (80% of cost).
 
 ---
@@ -984,9 +984,9 @@
 - **New Sub-Scheme (PMMKSSY)**: Cabinet approved the **Pradhan Mantri Matsya Kisan Samridhi Sah-Yojana (PMMKSSY)** with an outlay of **₹6,000 Crore** (50% public financing including World Bank/AFD loans, 50% private investment).
 - **Formalisation & Insurance Drive**: Creates the National Fisheries Digital Platform (NFDP) to issue institutional identity cards, formalise micro-fisheries, and offer aquaculture insurance premium subsidies up to **50% of the premium cost**.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Sub-Scheme Outlay): PMMKSSY sub-scheme has an outlay of **₹6,000 Crore**.
-• Trap B (Insurance Subsidy): Insurance premium incentive covers up to **50% of cost**.
+🎯 Exam Angle →
+• Sub-Scheme Outlay: PMMKSSY sub-scheme has an outlay of **₹6,000 Crore**.
+• Insurance Subsidy: Insurance premium incentive covers up to **50% of cost**.
 • Target MCQ Form: "What is the total financial outlay approved for the Pradhan Mantri Matsya Kisan Samridhi Sah-Yojana (PMMKSSY) sub-scheme under PMMSY?" → ₹6,000 Crore.
 
 ---
@@ -999,9 +999,9 @@
   - Of this grant received by the state, **70% must be deployed for capital asset creation** (alternate fertilizer production plants, organic input bio-resource centers).
   - Remaining **30% is allocated for incentivizing panchayats, farmers, and farmer producer organizations (FPOs)**.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Budget Allocation Trap): PM-PRANAM has **NO separate budgetary outlay**; funded 100% via fertilizer subsidy savings.
-• Trap B (Incentive Ratio): **50% of subsidy saved** is transferred to the State (70% capital assets, 30% incentive).
+🎯 Exam Angle →
+• Budget Allocation Trap: PM-PRANAM has **NO separate budgetary outlay**; funded 100% via fertilizer subsidy savings.
+• Incentive Ratio: **50% of subsidy saved** is transferred to the State (70% capital assets, 30% incentive).
 • Target MCQ Form: "How is the PM-PRANAM scheme for promoting alternate fertilizers funded by the Central Government?" → Through savings generated from chemical fertilizer subsidy reductions.
 
 ---
@@ -1014,9 +1014,9 @@
   - *3rd Tranche*: Enhanced loan up to **₹50,000** (tenure 3 years) upon timely repayment of the 2nd loan.
 - **Financial Incentives**: **7% interest subvention** credited quarterly via DBT; monthly digital cashback up to **₹100 (₹1,200 annually)** for conducting digital transactions.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Loan Tranches): Tranche 1 = **₹10,000**; Tranche 2 = **₹20,000**; Tranche 3 = **₹50,000**.
-• Trap B (Interest Subvention): Concessional interest subvention is **7% per annum**.
+🎯 Exam Angle →
+• Loan Tranches: Tranche 1 = **₹10,000**; Tranche 2 = **₹20,000**; Tranche 3 = **₹50,000**.
+• Interest Subvention: Concessional interest subvention is **7% per annum**.
 • Target MCQ Form: "What is the maximum loan amount admissible under the third tranche of the PM SVANidhi micro-credit scheme?" → ₹50,000.
 
 ---
@@ -1031,9 +1031,9 @@
   - Overdraft limit up to **₹10,000** (no conditions or collateral required up to **₹2,000**).
   - Eligibility age bracket expanded from 18–60 years to **18–65 years**.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Overdraft Limits & Age): OD limit is **₹10,000** (hassle-free up to ₹2,000); age bracket is **18 to 65 years**.
-• Trap B (RuPay Accidental Cover): Accidental insurance is **₹2 Lakh** (for accounts opened post-August 2018).
+🎯 Exam Angle →
+• Overdraft Limits & Age: OD limit is **₹10,000** (hassle-free up to ₹2,000); age bracket is **18 to 65 years**.
+• RuPay Accidental Cover: Accidental insurance is **₹2 Lakh** (for accounts opened post-August 2018).
 • Target MCQ Form: "What is the maximum Overdraft (OD) limit available to eligible account holders under the Pradhan Mantri Jan Dhan Yojana?" → ₹10,000.
 
 ---
@@ -1044,9 +1044,9 @@
 - **Guaranteed Monthly Pension Slabs**: Provides government-guaranteed monthly pension of **₹1,000, ₹2,000, ₹3,000, ₹4,000, or ₹5,000** from the age of **60 years**, depending on the subscriber's contribution.
 - **Income Taxpayer Restriction**: With effect from **October 1, 2022**, any citizen who is or has been an income taxpayer is strictly barred from joining APY.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Entry Age vs Pension Age): Entry age is **18 to 40 years**; pension commences strictly at **60 years**.
-• Trap B (Taxpayer Bar): Income taxpayers cannot join APY (rule enforced since **October 1, 2022**).
+🎯 Exam Angle →
+• Entry Age vs Pension Age: Entry age is **18 to 40 years**; pension commences strictly at **60 years**.
+• Taxpayer Bar: Income taxpayers cannot join APY (rule enforced since **October 1, 2022**).
 • Target MCQ Form: "What is the maximum entry age for an Indian citizen to subscribe to the Atal Pension Yojana (APY)?" → 40 Years.
 
 ---
@@ -1062,9 +1062,9 @@
   - Age eligibility: **18 to 70 years**.
 - **Administering Architecture**: Offered by LIC and other public/private life and general insurers in tie-up with commercial and regional rural banks.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Premium Slabs): PMJJBY premium = **₹436/year**; PMSBY premium = **₹20/year**.
-• Trap B (Age Brackets): PMJJBY entry age = **18–50 years**; PMSBY entry age = **18–70 years**.
+🎯 Exam Angle →
+• Premium Slabs: PMJJBY premium = **₹436/year**; PMSBY premium = **₹20/year**.
+• Age Brackets: PMJJBY entry age = **18–50 years**; PMSBY entry age = **18–70 years**.
 • Target MCQ Form: "What is the annual premium payable by an eligible subscriber for the Pradhan Mantri Suraksha Bima Yojana (PMSBY)?" → ₹20.
 
 ---
@@ -1075,9 +1075,9 @@
   - *Samarthya (Empowerment)*: Includes **Pradhan Mantri Matru Vandana Yojana (PMMVY)** providing ₹5,000 in two installments for first child and ₹6,000 for second child (if girl), **Palna** (day-care crèches), and **Shakti Niwas** (working women hostels).
 - **Mission Vatsalya (Child Protection)**: Dedicated central framework for juvenile justice, foster care, adoption (CARA), and child-in-need rehabilitation.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (PMMVY Girl Child Benefit): PMMVY provides **₹6,000** incentive if the second child born is a girl child.
-• Trap B (Sambal vs Samarthya): Sambal covers **Safety/Protection** (OSC, BBBP); Samarthya covers **Empowerment** (PMMVY, Crèches).
+🎯 Exam Angle →
+• PMMVY Girl Child Benefit: PMMVY provides **₹6,000** incentive if the second child born is a girl child.
+• Sambal vs Samarthya: Sambal covers **Safety/Protection** (OSC, BBBP); Samarthya covers **Empowerment** (PMMVY, Crèches).
 • Target MCQ Form: "Under the revamped Pradhan Mantri Matru Vandana Yojana, what is the cash incentive provided for the birth of a second child if the infant is a girl?" → ₹6,000.
 
 ---
@@ -1091,9 +1091,9 @@
   - First certified 'Har Ghar Jal' District: **Burhanpur (Madhya Pradesh)**.
 - **National Penetration**: Rural household coverage expanded from 17% in 2019 to over **77% nationwide**.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Water Supply Norm): Mandatory quantity is **55 litres per capita per day (lpcd)** (not 40 or 70 lpcd).
-• Trap B (First Certified District): **Burhanpur (Madhya Pradesh)** was the first certified Har Ghar Jal district.
+🎯 Exam Angle →
+• Water Supply Norm: Mandatory quantity is **55 litres per capita per day (lpcd)** (not 40 or 70 lpcd).
+• First Certified District: **Burhanpur (Madhya Pradesh)** was the first certified Har Ghar Jal district.
 • Target MCQ Form: "What is the prescribed benchmark water supply per person per day under the Jal Jeevan Mission?" → 55 litres per capita per day (lpcd).
 
 
@@ -1110,9 +1110,9 @@
   - *OSAT in Gujarat*: CG Power partnering with **Renesas Electronics (Japan)** and Stars Microelectronics in **Sanand, Gujarat** (Investment: **₹7,600 Crore**).
   - *Kaynes SemiCon Facility*: Advanced packaging facility approved in **Sanand, Gujarat** (Investment: **₹3,307 Crore**).
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (First Commercial Fab Location): Dholera, Gujarat (Tata + PSMC Taiwan).
-• Trap B (Assam Facility Location): Morigaon, Assam (Tata Semiconductor OSAT).
+🎯 Exam Angle →
+• First Commercial Fab Location: Dholera, Gujarat (Tata + PSMC Taiwan).
+• Assam Facility Location: Morigaon, Assam (Tata Semiconductor OSAT).
 • Target MCQ Form: "Where is India's first commercial semiconductor fabrication facility being established by Tata Electronics in partnership with PSMC?" → Dholera, Gujarat.
 
 ---
@@ -1128,9 +1128,9 @@
   3. *Quantum Sensing & Metrology*
   4. *Quantum Materials & Devices*
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Financial Outlay): Approved outlay is **₹6,003.65 Crore** (covers 8 years).
-• Trap B (Qubit Target): Intermediate-scale quantum computer targets **50 to 1000 physical qubits**.
+🎯 Exam Angle →
+• Financial Outlay: Approved outlay is **₹6,003.65 Crore** (covers 8 years).
+• Qubit Target: Intermediate-scale quantum computer targets **50 to 1000 physical qubits**.
 • Target MCQ Form: "What is the total financial outlay approved for the National Quantum Mission (NQM) over its 8-year tenure?" → ₹6,003.65 Crore.
 
 ---
@@ -1146,9 +1146,9 @@
   2. *Component II*: Production of Green Hydrogen (**₹13,050 Crore**).
 - **Implementing Entity**: **Solar Energy Corporation of India (SECI)** conducts competitive bidding.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (2030 Target): Target is **5 MMT per annum** green hydrogen production by 2030.
-• Trap B (SIGHT Implementing Agency): **SECI (Solar Energy Corporation of India)** manages auctioning and subsidy disbursements.
+🎯 Exam Angle →
+• 2030 Target: Target is **5 MMT per annum** green hydrogen production by 2030.
+• SIGHT Implementing Agency: **SECI (Solar Energy Corporation of India)** manages auctioning and subsidy disbursements.
 • Target MCQ Form: "What is India's annual green hydrogen production target by 2030 under the National Green Hydrogen Mission?" → 5 Million Metric Tonnes (MMT).
 
 ---
@@ -1162,9 +1162,9 @@
 - **EV Public Charging Infrastructure**: Allocates **₹2,000 Crore** to install 22,100 fast chargers for e-4Ws, 1,800 for e-buses, and 48,400 for e-2W/3Ws.
 - **e-Vouchers via Aadhar Integration**: Introduces Aadhaar-authenticated digital e-vouchers for EV buyers generated at the time of purchase to claim upfront consumer subsidies.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Total Outlay): Approved outlay is **₹10,900 Crore** (not ₹10,000 Cr).
-• Trap B (Electric Cars Excluded): PM E-DRIVE **does NOT subsidize private electric cars** (subsidies are reserved for e-2W, e-3W, e-buses, and e-ambulances).
+🎯 Exam Angle →
+• Total Outlay: Approved outlay is **₹10,900 Crore** (not ₹10,000 Cr).
+• Electric Cars Excluded: PM E-DRIVE **does NOT subsidize private electric cars** (subsidies are reserved for e-2W, e-3W, e-buses, and e-ambulances).
 • Target MCQ Form: "What is the total financial outlay approved for the PM E-DRIVE scheme succeeding FAME-II?" → ₹10,900 Crore.
 
 ---
@@ -1174,9 +1174,9 @@
 - **Offshore Areas Mineral (Development and Regulation) Amendment Act**: Formulated rules for auctioning **offshore mineral blocks** in India's Exclusive Economic Zone (EEZ) for polymetallic nodules, cobalt crusts, and mineral sands.
 - **KABIL Sovereign Acquisitions**: *Khanij Bidesh India Limited (KABIL)* (joint venture of NALCO, HCL, and MECL) secured exploration and mining rights over **5 lithium brine blocks in Catamarca Province, Argentina** (covering 15,703 hectares).
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Argentine Province): KABIL acquired 5 lithium blocks in **Catamarca Province, Argentina**.
-• Trap B (KABIL Constituents): JV of three PSUs: **NALCO (40%), HCL (30%), and MECL (30%)**.
+🎯 Exam Angle →
+• Argentine Province: KABIL acquired 5 lithium blocks in **Catamarca Province, Argentina**.
+• KABIL Constituents: JV of three PSUs: **NALCO (40%), HCL (30%), and MECL (30%)**.
 • Target MCQ Form: "In which Argentine province has Khanij Bidesh India Limited (KABIL) secured exploration and mining rights for five lithium brine blocks?" → Catamarca.
 
 ---
@@ -1187,9 +1187,9 @@
 - **Value Addition & Export Boom**: Mobile phone production in India crossed ₹4.1 Lakh Crore with exports surpassing **₹1.2 Lakh Crore** (driven by Apple and Samsung ecosystem suppliers).
 - **Design-Led PLI Integration**: 1% additional incentive window introduced under Telecom PLI for design-led manufacturing domestic patents.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Total Sectors): PLI covers **14 key manufacturing sectors**.
-• Trap B (Total Outlay): Aggregate financial commitment is **₹1.97 Lakh Crore**.
+🎯 Exam Angle →
+• Total Sectors: PLI covers **14 key manufacturing sectors**.
+• Total Outlay: Aggregate financial commitment is **₹1.97 Lakh Crore**.
 • Target MCQ Form: "Across how many strategic manufacturing sectors is the Government of India's Production Linked Incentive (PLI) scheme operational?" → 14 Sectors.
 
 ---
@@ -1206,9 +1206,9 @@
   6. *Futuristic marine and space biofoundries*
 - **Bio-Enablers Hubs**: Establishes world-class Biomanufacturing & Bio-AI Hubs to commercialize pilot fermentation technologies and synthetic biology.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Department): BioE3 Policy is spearheaded by the **Department of Biotechnology (DBT)**.
-• Trap B (Thematic Pillars): Focuses on **six priority thematic areas** of biomanufacturing.
+🎯 Exam Angle →
+• Department: BioE3 Policy is spearheaded by the **Department of Biotechnology (DBT)**.
+• Thematic Pillars: Focuses on **six priority thematic areas** of biomanufacturing.
 • Target MCQ Form: "Which department has formulated the landmark BioE3 (Biotechnology for Economy, Environment and Employment) Policy approved by the Union Cabinet?" → Department of Biotechnology.
 
 ---
@@ -1223,9 +1223,9 @@
   - Union Minister of Science & Technology and Union Minister of Education serve as Vice-Presidents.
   - Principal Scientific Adviser (PSA) heads the Executive Council.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Private Funding Share): **₹36,000 Crore (72%)** of the ₹50,000 Crore outlay must come from private philanthropic/industry sources.
-• Trap B (Apex President): The **Prime Minister of India** is the ex-officio President of ANRF's Governing Board.
+🎯 Exam Angle →
+• Private Funding Share: **₹36,000 Crore (72%)** of the ₹50,000 Crore outlay must come from private philanthropic/industry sources.
+• Apex President: The **Prime Minister of India** is the ex-officio President of ANRF's Governing Board.
 • Target MCQ Form: "Who acts as the ex-officio President of the Governing Board of the Anusandhan National Research Foundation (ANRF)?" → Prime Minister of India.
 
 ---
@@ -1237,9 +1237,9 @@
   - **Pavagada Solar Park (Karnataka - 'Shakti Sthala')**: Second largest domestic solar installation with **2,050 MW**.
 - **Ultra Mega Renewable Energy Power Parks (UMREPPs)**: Developing 30 GW hybrid renewable park in **Khavda, Kutch (Gujarat)**, set to become the world's largest single renewable energy installation upon completion.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Largest Operational Solar Park): **Bhadla Solar Park, Rajasthan** (2,245 MW).
-• Trap B (2030 NDC Renewable Target): **500 GW** of non-fossil power capacity by 2030.
+🎯 Exam Angle →
+• Largest Operational Solar Park: **Bhadla Solar Park, Rajasthan** (2,245 MW).
+• 2030 NDC Renewable Target: **500 GW** of non-fossil power capacity by 2030.
 • Target MCQ Form: "Which operational solar park in Rajasthan is currently recognized as the largest single-location solar power plant in the world by capacity?" → Bhadla Solar Park (2,245 MW).
 
 ---
@@ -1249,9 +1249,9 @@
 - **Commercial Commissioning at Kakrapar**: Nuclear Power Corporation of India Limited (NPCIL) fully commenced commercial operations of **Kakrapar Atomic Power Project (KAPP) Unit-4 (700 MWe PHWR)** in Gujarat (following Unit-3 commissioning).
 - **Core Loading of Prototype Fast Breeder Reactor (PFBR)**: Commenced core loading of India's indigenous **500 MWe Prototype Fast Breeder Reactor at Kalpakkam, Tamil Nadu**, marking entry into the second stage of India's three-stage nuclear power programme.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (PFBR Location & Capacity): **500 MWe** at **Kalpakkam, Tamil Nadu**.
-• Trap B (KAPP Reactor Capacity): Kakrapar Units 3 and 4 are **700 MWe indigenous Pressurised Heavy Water Reactors (PHWRs)**.
+🎯 Exam Angle →
+• PFBR Location & Capacity: **500 MWe** at **Kalpakkam, Tamil Nadu**.
+• KAPP Reactor Capacity: Kakrapar Units 3 and 4 are **700 MWe indigenous Pressurised Heavy Water Reactors (PHWRs)**.
 • Target MCQ Form: "At which location did the historic core loading of India's indigenous 500 MWe Prototype Fast Breeder Reactor (PFBR) take place?" → Kalpakkam, Tamil Nadu.
 
 
@@ -1268,9 +1268,9 @@
   - Facilitate trade in green hydrogen and low-carbon derivatives.
 - **IBRD & IDA Lending Structure**: Structured via the International Bank for Reconstruction and Development (IBRD) with a sovereign maturity period of 19 years, including a 5-year grace period.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Loan Quantum): Exactly **$1.5 Billion** (Second Low-Carbon DPO).
-• Trap B (Multilateral Agency): **World Bank (IBRD)**, not Asian Development Bank or IMF.
+🎯 Exam Angle →
+• Loan Quantum: Exactly **$1.5 Billion** (Second Low-Carbon DPO).
+• Multilateral Agency: **World Bank (IBRD)**, not Asian Development Bank or IMF.
 • Target MCQ Form: "Which multilateral financial institution approved a $1.5 billion loan to support India's Low-Carbon Energy transition and green hydrogen development?" → World Bank.
 
 ---
@@ -1284,9 +1284,9 @@
   - *$181 Million*: Urban mobility and livability infrastructure in **Ahmedabad peri-urban areas (Gujarat)**.
 - **Headquarters & Governance**: ADB Headquarters located in **Mandaluyong, Metro Manila, Philippines**; President is **Masatsugu Asakawa**.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (ADB Headquarters): **Mandaluyong, Metro Manila, Philippines** (not Tokyo or Jakarta).
-• Trap B (Largest Borrower): **India** is the largest sovereign portfolio borrower of ADB.
+🎯 Exam Angle →
+• ADB Headquarters: **Mandaluyong, Metro Manila, Philippines** (not Tokyo or Jakarta).
+• Largest Borrower: **India** is the largest sovereign portfolio borrower of ADB.
 • Target MCQ Form: "Where is the permanent headquarters of the Asian Development Bank (ADB) located?" → Metro Manila, Philippines.
 
 ---
@@ -1298,9 +1298,9 @@
   - Financing private sector renewable energy through Tata Cleantech Capital and green transmission corridors.
 - **Governance Anchor**: Headquartered in **Beijing, China**; President is **Jin Liqun**; operational since January 2016.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Voting Power & Shareholding): India is the **2nd largest shareholder** in AIIB (behind China).
-• Trap B (Headquarters): **Beijing, China** (do NOT confuse with NDB which is in Shanghai).
+🎯 Exam Angle →
+• Voting Power & Shareholding: India is the **2nd largest shareholder** in AIIB (behind China).
+• Headquarters: **Beijing, China** (do NOT confuse with NDB which is in Shanghai).
 • Target MCQ Form: "What is India's position among the largest shareholders in the Asian Infrastructure Investment Bank (AIIB)?" → Second largest.
 
 ---
@@ -1310,9 +1310,9 @@
 - **Indian Regional Office (IRO)**: NDB operationalized its **Indian Regional Office at GIFT City, Gandhinagar (Gujarat)** to accelerate sovereign and non-sovereign project preparation.
 - **New Admitted Members**: NDB admitted **Bangladesh, Egypt, UAE**, and **Uruguay** as new member countries expanding beyond original BRICS founders.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (NDB Headquarters vs AIIB): NDB is headquartered in **Shanghai, China** (AIIB is in Beijing).
-• Trap B (Regional Office Location): NDB's India Regional Office is in **GIFT City, Gandhinagar**.
+🎯 Exam Angle →
+• NDB Headquarters vs AIIB: NDB is headquartered in **Shanghai, China** (AIIB is in Beijing).
+• Regional Office Location: NDB's India Regional Office is in **GIFT City, Gandhinagar**.
 • Target MCQ Form: "In which financial hub has the New Development Bank (NDB) established its Indian Regional Office (IRO)?" → GIFT City, Gandhinagar.
 
 ---
@@ -1322,9 +1322,9 @@
 - **Direct Listing of Indian Companies**: Ministry of Finance and IFSCA operationalized the framework permitting **unlisted and listed Indian public companies to issue and list their equity shares directly on GIFT-IFSC stock exchanges** (India INX and NSE IX).
 - **Global In-House Centres (GICs)**: Over 120 global banking, insurance, and fintech back-offices and treasury centers established operations in GIFT City enjoying a 10-year 100% tax holiday under Section 80LA.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Stock Exchanges in IFSC): **India INX** (BSE subsidiary) and **NSE IX** (NSE subsidiary).
-• Trap B (Tax Holiday): GIFT IFSC units receive a **100% tax exemption for 10 consecutive years** out of 15 years.
+🎯 Exam Angle →
+• Stock Exchanges in IFSC: **India INX** (BSE subsidiary) and **NSE IX** (NSE subsidiary).
+• Tax Holiday: GIFT IFSC units receive a **100% tax exemption for 10 consecutive years** out of 15 years.
 • Target MCQ Form: "Which unified portal was launched by the IFSCA to streamline registration and regulatory approvals in GIFT City?" → SWITS (Single Window IT System).
 
 ---
@@ -1334,9 +1334,9 @@
 - **Second Australian Entrant**: **University of Wollongong (Australia)** followed Deakin, launching specialized postgraduate programs in Computing, Finance, and FinTech.
 - **Regulatory Autonomy**: Regulated directly by IFSCA (exempt from UGC/AICTE domestic curriculum restrictions); allowed to repatriate earnings abroad without foreign exchange friction.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (First Foreign University): **Deakin University, Australia** (NOT Wollongong, Harvard, or Oxford).
-• Trap B (Regulatory Authority): Regulated by **IFSCA**, not UGC (University Grants Commission).
+🎯 Exam Angle →
+• First Foreign University: **Deakin University, Australia** (NOT Wollongong, Harvard, or Oxford).
+• Regulatory Authority: Regulated by **IFSCA**, not UGC (University Grants Commission).
 • Target MCQ Form: "Which foreign university became the first in the world to open an international branch campus in India at GIFT City?" → Deakin University (Australia).
 
 ---
@@ -1346,9 +1346,9 @@
 - **Direct Import by Qualified Jewellers (QJs)**: RBI and DGFT permitted eligible domestic jewellery manufacturers (Qualified Jewellers) to **import gold directly through IIBX**, bypassing intermediary nominated banks and reducing procurement premiums.
 - **India-UAE CEPA Bullion Integration**: Enabled import of gold under the Tariff Rate Quota (TRQ) of 140 tonnes through IIBX with a **1% concessional customs duty duty-benefit** under the India-UAE CEPA.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Duty Concession under CEPA): **1% duty concession** on gold imported through IIBX under TRQ.
-• Trap B (Direct Importers): Regulated entities authorized to trade directly are called **Qualified Jewellers (QJs)**.
+🎯 Exam Angle →
+• Duty Concession under CEPA: **1% duty concession** on gold imported through IIBX under TRQ.
+• Direct Importers: Regulated entities authorized to trade directly are called **Qualified Jewellers (QJs)**.
 • Target MCQ Form: "Which entity serves as the statutory sole international exchange for physical bullion trading and direct gold imports into India?" → IIBX (India International Bullion Exchange).
 
 ---
@@ -1360,9 +1360,9 @@
   - *Northern Corridor*: Connecting Arabian Gulf ports via high-speed railway networks through UAE, Saudi Arabia, and Jordan to Israeli port of Haifa, and onward to European ports (Piraeus, Greece).
 - **Strategic Triad Infrastructure**: Beyond freight rail and shipping lanes, IMEC integrates an electricity cable grid, a high-capacity clean hydrogen export pipeline, and high-speed digital fiber-optic cables.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Founding Forum): Launched during the **G20 New Delhi Leaders' Summit** (September 2023).
-• Trap B (Non-Signatories): Neither China nor Turkey are signatories to the IMEC pact.
+🎯 Exam Angle →
+• Founding Forum: Launched during the **G20 New Delhi Leaders' Summit** (September 2023).
+• Non-Signatories: Neither China nor Turkey are signatories to the IMEC pact.
 • Target MCQ Form: "On the sidelines of which international summit was the historic India-Middle East-Europe Economic Corridor (IMEC) MoU signed?" → G20 New Delhi Summit.
 
 ---
@@ -1372,9 +1372,9 @@
 - **First-of-its-Kind $100 Billion Investment Commitment**: EFTA nations committed legally to invest **$100 Billion in India over 15 years** (generating over 1 million direct jobs) as a reciprocal condition for tariff concessions.
 - **Tariff Phase-Out Scope**: India provided tariff concessions on 82.7% of its tariff lines covering Swiss watches, machinery, precision instruments, and chocolates (excluding domestic agriculture and dairy sectors).
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (EFTA Member Nations): **Switzerland, Norway, Iceland, Liechtenstein** (EFTA is separate from the European Union).
-• Trap B (Investment Commitment): **$100 Billion over 15 years** (not $50B or $200B).
+🎯 Exam Angle →
+• EFTA Member Nations: **Switzerland, Norway, Iceland, Liechtenstein** (EFTA is separate from the European Union).
+• Investment Commitment: **$100 Billion over 15 years** (not $50B or $200B).
 • Target MCQ Form: "How much foreign direct investment has the European Free Trade Association (EFTA) legally committed to inject into India over 15 years under the TEPA pact?" → $100 Billion.
 
 ---
@@ -1384,9 +1384,9 @@
 - **Payment Linkages**: Integrated India's UPI with UAE's **Aani/Jaywan** instant payment system and linked national card switches (RuPay and Jaywan).
 - **Bilateral Investment Treaty (BIT)**: Formally signed the India-UAE Bilateral Investment Treaty in Abu Dhabi, replacing the older Bilateral Investment Promotion and Protection Agreement (BIPPA).
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (UAE Domestic Card System): UAE's sovereign domestic card switch linked with RuPay is **Jaywan**.
-• Trap B (Currencies): Bilateral trade settled directly in **INR and AED**.
+🎯 Exam Angle →
+• UAE Domestic Card System: UAE's sovereign domestic card switch linked with RuPay is **Jaywan**.
+• Currencies: Bilateral trade settled directly in **INR and AED**.
 • Target MCQ Form: "Which domestic payment card network of the UAE has been integrated with India's RuPay network?" → Jaywan.
 
 ---
@@ -1396,9 +1396,9 @@
 - **Argentina's Sovereign Rejection**: Argentina was formally invited during the 15th Johannesburg Summit but newly elected President Javier Milei formally declined membership.
 - **16th BRICS Summit Host**: The 16th BRICS Annual Summit hosted in **Kazan, Russia** under the 2024 Russian Presidency with the theme of strengthening multilateralism and sovereign currency settlement.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Declined Country): **Argentina** declined the official invitation to join BRICS.
-• Trap B (Summit City): 16th BRICS Summit held in **Kazan, Russia**.
+🎯 Exam Angle →
+• Declined Country: **Argentina** declined the official invitation to join BRICS.
+• Summit City: 16th BRICS Summit held in **Kazan, Russia**.
 • Target MCQ Form: "Which country officially withdrew from joining the expanded BRICS bloc on January 1, 2024 despite receiving an official invitation?" → Argentina.
 
 ---
@@ -1408,9 +1408,9 @@
 - **Tenth Full Member State**: **Belarus** was formally admitted as the **10th full member state** of the SCO (joining India, China, Russia, Pakistan, Kazakhstan, Kyrgyzstan, Tajikistan, Uzbekistan, and Iran).
 - **Astana Declaration**: Emphasized non-interference in internal affairs, multi-currency trade settlements, and opposition to unilateral economic sanctions.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (10th Member): **Belarus** is the 10th full member of SCO (Iran was the 9th member inducted in 2023).
-• Trap B (Summit Venue): 2024 SCO Summit was held in **Astana, Kazakhstan**.
+🎯 Exam Angle →
+• 10th Member: **Belarus** is the 10th full member of SCO (Iran was the 9th member inducted in 2023).
+• Summit Venue: 2024 SCO Summit was held in **Astana, Kazakhstan**.
 • Target MCQ Form: "Which nation was formally inducted as the 10th full member state of the Shanghai Cooperation Organisation (SCO) at the 2024 Astana Summit?" → Belarus.
 
 
@@ -1425,9 +1425,9 @@
 - **Digital Bharat Nidhi**: Renamed and restructured the Universal Service Obligation Fund (USOF) into **'Digital Bharat Nidhi'** to support R&D, pilot deployment, and rural broadband expansion.
 - **Biometric SIM Guardrails**: Enforces mandatory biometric verification for SIM acquisition, prescribing penalties up to **₹50 Lakh and 3 years imprisonment** for fraudulent acquisition using forged identities.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Satellite Spectrum Allocation): Allocated **ADMINISTRATIVELY**, not through public auction.
-• Trap B (Renamed USOF): USOF was renamed to **Digital Bharat Nidhi**.
+🎯 Exam Angle →
+• Satellite Spectrum Allocation: Allocated **ADMINISTRATIVELY**, not through public auction.
+• Renamed USOF: USOF was renamed to **Digital Bharat Nidhi**.
 • Target MCQ Form: "Under the Telecommunications Act 2023, the Universal Service Obligation Fund (USOF) was renamed as which entity?" → Digital Bharat Nidhi.
 
 ---
@@ -1440,9 +1440,9 @@
   - General non-compliance penalties: Up to **₹50 Crore**.
 - **Consent Architecture**: Introduces the legal concept of **'Consent Managers'** registered with the DPBI, interoperable consent withdrawal, and mandatory notice in all 22 Eighth Schedule languages.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Maximum Penalty): Maximum penalty for failing to prevent a significant data breach is **₹250 Crore** per instance.
-• Trap B (Adjudicating Body): Governed by the **Data Protection Board of India (DPBI)**.
+🎯 Exam Angle →
+• Maximum Penalty: Maximum penalty for failing to prevent a significant data breach is **₹250 Crore** per instance.
+• Adjudicating Body: Governed by the **Data Protection Board of India (DPBI)**.
 • Target MCQ Form: "What is the maximum financial penalty that can be imposed under the Digital Personal Data Protection Act, 2023 for failure to prevent a personal data breach?" → ₹250 Crore.
 
 ---
@@ -1458,9 +1458,9 @@
   - Mandatory **audio-video recording of search and seizure operations**.
   - Introduction of **Community Service** as a recognized punishment for petty offenses.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Enforcement Date): Enacted into law on **July 1, 2024** (not Jan 1 or April 1).
-• Trap B (Law Mapping): BNS = IPC; BNSS = CrPC; BSA = Evidence Act.
+🎯 Exam Angle →
+• Enforcement Date: Enacted into law on **July 1, 2024** (not Jan 1 or April 1).
+• Law Mapping: BNS = IPC; BNSS = CrPC; BSA = Evidence Act.
 • Target MCQ Form: "On which date did the three new criminal laws (BNS, BNSS, and BSA) come into legal force across India?" → July 1, 2024.
 
 ---
@@ -1470,9 +1470,9 @@
 - **Statutory Terms**: Appointed for a period of **3 years** under Section 8(1)(a) of the RBI Act, 1934.
 - **Four Deputy Governors**: RBI governance maintained with four statutory Deputy Governors: **Michael Debabrata Patra, M. Rajeshwar Rao, T. Rabi Sankar, and Swaminathan J.**
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Governor Succession): **Sanjay Malhotra** appointed as the **26th Governor** succeeding Shaktikanta Das (who was the 25th Governor).
-• Trap B (Effective Date): Tenure commences **December 11, 2024**.
+🎯 Exam Angle →
+• Governor Succession: **Sanjay Malhotra** appointed as the **26th Governor** succeeding Shaktikanta Das (who was the 25th Governor).
+• Effective Date: Tenure commences **December 11, 2024**.
 • Target MCQ Form: "Who was appointed as the 26th Governor of the Reserve Bank of India succeeding Shaktikanta Das?" → Sanjay Malhotra.
 
 ---
@@ -1482,9 +1482,9 @@
 - **FSIB Recommendation**: Nominated by the **Financial Services Institutions Bureau (FSIB)**, the autonomous statutory body recommending board-level appointments in Public Sector Banks and financial institutions (chaired by Bhanu Pratap Sharma).
 - **Career Path**: Setty previously served as Senior Managing Director of SBI overseeing Global Markets and Retail Banking.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Chairman Name): **Challa Sreenivasulu Setty (C.S. Setty)** (succeeded Dinesh Kumar Khara).
-• Trap B (Recommending Body): **FSIB (Financial Services Institutions Bureau)**, which replaced the Banks Board Bureau (BBB).
+🎯 Exam Angle →
+• Chairman Name: **Challa Sreenivasulu Setty (C.S. Setty)** (succeeded Dinesh Kumar Khara).
+• Recommending Body: **FSIB (Financial Services Institutions Bureau)**, which replaced the Banks Board Bureau (BBB).
 • Target MCQ Form: "Who succeeded Dinesh Kumar Khara as the Chairman of the State Bank of India (SBI)?" → Challa Sreenivasulu Setty.
 
 ---
@@ -1494,9 +1494,9 @@
 - **Constitutional Anchors**: Appointed by the President of India under **Article 148** of the Constitution of India; holds office for a term of **6 years or until attaining 65 years of age**, whichever is earlier.
 - **Apex Accountability**: Serves as the guardian of the public purse and auditing authority for Consolidated Funds of the Union and States.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Constitutional Article): CAG is appointed under **Article 148** of the Constitution.
-• Trap B (Tenure Ceiling): Term is **6 years or up to 65 years of age**.
+🎯 Exam Angle →
+• Constitutional Article: CAG is appointed under **Article 148** of the Constitution.
+• Tenure Ceiling: Term is **6 years or up to 65 years of age**.
 • Target MCQ Form: "Who has been appointed as the Comptroller and Auditor General of India (CAG) under Article 148 of the Constitution?" → K. Sanjay Murthy.
 
 ---
@@ -1508,9 +1508,9 @@
   - *Phase 2*: Hold synchronized elections to local bodies (**Municipalities and Panchayats**) within **100 days** of the Lok Sabha and Assembly elections.
 - **Single Electoral Roll**: Recommended amendment of Article 325 to create a single electoral roll and single voter photo identity card across all three tiers of government.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Committee Chairman): Chaired by former President **Ram Nath Kovind**.
-• Trap B (Local Body Window): Local body elections must be conducted within **100 days** of state/national elections.
+🎯 Exam Angle →
+• Committee Chairman: Chaired by former President **Ram Nath Kovind**.
+• Local Body Window: Local body elections must be conducted within **100 days** of state/national elections.
 • Target MCQ Form: "Who headed the High-Level Committee that submitted its report on the 'One Nation, One Election' simultaneous polls roadmap?" → Ram Nath Kovind.
 
 ---
@@ -1520,9 +1520,9 @@
 - **New Appointments**: **Gyanesh Kumar** and **Sukhbir Singh Sandhu** appointed as Election Commissioners by a selection committee comprising the Prime Minister, a Union Cabinet Minister, and the Leader of the Opposition/single largest party in Lok Sabha.
 - **Apex Bench Composition**: Chief Election Commissioner **Rajiv Kumar** flanked by ECs Gyanesh Kumar and Sukhbir Singh Sandhu under **Article 324**.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Newly Appointed ECs): **Gyanesh Kumar** and **Sukhbir Singh Sandhu**.
-• Trap B (Selection Panel Structure): Selection committee comprises PM, Cabinet Minister, and Leader of Opposition (CJI is not on the selection committee under the 2023 Act).
+🎯 Exam Angle →
+• Newly Appointed ECs: **Gyanesh Kumar** and **Sukhbir Singh Sandhu**.
+• Selection Panel Structure: Selection committee comprises PM, Cabinet Minister, and Leader of Opposition (CJI is not on the selection committee under the 2023 Act).
 • Target MCQ Form: "Which two former IAS officers were appointed as Election Commissioners under the new 2023 Election Commissioners Act?" → Gyanesh Kumar and Sukhbir Singh Sandhu.
 
 ---
@@ -1535,9 +1535,9 @@
   - An additional **up to 30% reduction** in penalty for the first cartel under active investigation.
 - **Leadership**: Chairperson of CCI is **Ravneet Kaur** (first woman full-time chairperson).
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Leniency Plus Penalty Discounts): Additional reduction of **up to 30%** in the first cartel, up to **100%** in the second cartel.
-• Trap B (CCI Chairperson): **Ravneet Kaur**.
+🎯 Exam Angle →
+• Leniency Plus Penalty Discounts: Additional reduction of **up to 30%** in the first cartel, up to **100%** in the second cartel.
+• CCI Chairperson: **Ravneet Kaur**.
 • Target MCQ Form: "Under CCI's Leniency Plus regulations, what is the maximum additional penalty reduction granted in the first cartel for disclosing a second cartel?" → Up to 30%.
 
 ---
@@ -1547,9 +1547,9 @@
 - **Allotment Possession Safeguards**: Insolvency Resolution Professionals (RPs) permitted to hand over possession of completed flats/units to genuine homebuyers with CoC approval before overall resolution.
 - **Regulatory Leadership**: Headquartered in New Delhi; IBBI Chairperson is **Ravi Mital**; statutory body under the Insolvency and Bankruptcy Code (IBC), 2016.
 
-🎯 Exam Angle → [THE EXAMINER's TRAP MATRIX]
-• Trap A (Key Reform): Introduced **Project-Wise Resolution** in real estate insolvency.
-• Trap B (IBBI Chairperson): **Ravi Mital**.
+🎯 Exam Angle →
+• Key Reform: Introduced **Project-Wise Resolution** in real estate insolvency.
+• IBBI Chairperson: **Ravi Mital**.
 • Target MCQ Form: "Which significant structural reform was introduced by IBBI to prevent stalled real estate projects from impacting unaffected solvent projects?" → Project-Wise Insolvency Resolution.
 
 ---
@@ -1559,9 +1559,9 @@
 - **RIDF Allocation Tranche**: Rural Infrastructure Development Fund (RIDF) managed by NABARD allocated **₹40,000 Crore** annually funded out of priority sector lending shortfalls of scheduled commercial banks.
 - **Apex Leadership**: NABARD Chairman is **Shaji K.V.**; 100% owned by the Government of India (after RBI divested its stake).
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Founding Committee): Established on the recommendations of the **B. Sivaraman Committee** (1982).
-• Trap B (Ownership): NABARD is **100% owned by the Government of India** (zero RBI ownership today).
+🎯 Exam Angle →
+• Founding Committee: Established on the recommendations of the **B. Sivaraman Committee** (1982).
+• Ownership: NABARD is **100% owned by the Government of India** (zero RBI ownership today).
 • Target MCQ Form: "On the recommendations of which committee was the National Bank for Agriculture and Rural Development (NABARD) established in 1982?" → B. Sivaraman Committee.
 
 ---
@@ -1573,9 +1573,9 @@
   - Used by public agencies to create urban infrastructure in **Tier-2 and Tier-3 cities**.
   - Managing Director of NHB is **Sanjay Shukla**.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (UIDF Managing Agency): UIDF is managed by **National Housing Bank (NHB)**, NOT SIDBI or HUDCO.
-• Trap B (UIDF City Focus): Targeted exclusively at **Tier-2 and Tier-3 cities**.
+🎯 Exam Angle →
+• UIDF Managing Agency: UIDF is managed by **National Housing Bank (NHB)**, NOT SIDBI or HUDCO.
+• UIDF City Focus: Targeted exclusively at **Tier-2 and Tier-3 cities**.
 • Target MCQ Form: "Which financial institution is responsible for managing the Urban Infrastructure Development Fund (UIDF) established with an annual corpus of ₹10,000 Crore?" → National Housing Bank (NHB).
 
 
@@ -1590,9 +1590,9 @@
 - **Top 3 Economies**: **Switzerland** ranked 1st (for the 14th consecutive year), followed by **Sweden (2nd)** and the **United States (3rd)**.
 - **Pillar Outperformance**: India retained world-leading ranks in ICT services exports (1st globally), venture capital received, and domestic market scale.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Publishing Body): Published by **WIPO (World Intellectual Property Organization)**, NOT World Bank or WEF.
-• Trap B (India's Rank): India is ranked **39th** (up from 40th in 2023).
+🎯 Exam Angle →
+• Publishing Body: Published by **WIPO (World Intellectual Property Organization)**, NOT World Bank or WEF.
+• India's Rank: India is ranked **39th** (up from 40th in 2023).
 • Target MCQ Form: "What is India's rank in the Global Innovation Index (GII) 2024 published by WIPO?" → 39th.
 
 ---
@@ -1603,9 +1603,9 @@
 - **Global Leader**: **Iceland** ranked 1st as the most gender-equal country for the 15th consecutive year (closing >93% of its gender gap), followed by Finland (2nd) and Norway (3rd).
 - **South Asian Neighbors**: Bangladesh ranked highest in South Asia at 99th, while Pakistan (145th) and Sudan (146th) anchored the bottom.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (India's Rank): Ranked **129th out of 146 countries**.
-• Trap B (Global No. 1): **Iceland** retained 1st rank for the 15th consecutive year.
+🎯 Exam Angle →
+• India's Rank: Ranked **129th out of 146 countries**.
+• Global No. 1: **Iceland** retained 1st rank for the 15th consecutive year.
 • Target MCQ Form: "According to the World Economic Forum's Global Gender Gap Report 2024, what is India's rank among 146 evaluated nations?" → 129th.
 
 ---
@@ -1618,9 +1618,9 @@
   3. *Decent Standard of Living*: Gross National Income (GNI) per capita (2017 PPP $) stood at **$6,951**.
 - **Global Benchmark**: **Switzerland** ranked 1st globally (HDI 0.967), followed by Norway (2nd) and Iceland (3rd).
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (India's HDI Value & Rank): Rank is **134th**; HDI value is **0.644** (Medium category).
-• Trap B (Life Expectancy Figure): Life expectancy at birth in India is **67.7 years**.
+🎯 Exam Angle →
+• India's HDI Value & Rank: Rank is **134th**; HDI value is **0.644** (Medium category).
+• Life Expectancy Figure: Life expectancy at birth in India is **67.7 years**.
 • Target MCQ Form: "What is India's rank in the Human Development Index (HDI) report published by the United Nations Development Programme (UNDP)?" → 134th.
 
 ---
@@ -1630,9 +1630,9 @@
 - **Global Podium**: **Norway** ranked 1st for the 8th consecutive year, followed by Denmark (2nd) and Sweden (3rd).
 - **Worst Ranked Nation**: **Eritrea (180th)** ranked at the absolute bottom, replacing North Korea (179th).
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (India's Rank): Ranked **159th out of 180** (improved marginally from 161st in 2023).
-• Trap B (Publisher): Published by **Reporters Without Borders (RSF)**, headquartered in Paris.
+🎯 Exam Angle →
+• India's Rank: Ranked **159th out of 180** (improved marginally from 161st in 2023).
+• Publisher: Published by **Reporters Without Borders (RSF)**, headquartered in Paris.
 • Target MCQ Form: "Which country topped the World Press Freedom Index 2024 published by Reporters Without Borders for the eighth consecutive year?" → Norway.
 
 ---
@@ -1643,9 +1643,9 @@
 - **Happiest Nation**: **Finland** crowned the world's happiest country for the **7th consecutive year**, followed by Denmark (2nd), Iceland (3rd), and Sweden (4th).
 - **Least Happy Nation**: **Afghanistan** remained at the bottom (143rd rank).
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (India's Rank): Ranked **126th out of 143** countries.
-• Trap B (Happiest Nation Consecutive Streak): **Finland** has won for **7 consecutive years**.
+🎯 Exam Angle →
+• India's Rank: Ranked **126th out of 143** countries.
+• Happiest Nation Consecutive Streak: **Finland** has won for **7 consecutive years**.
 • Target MCQ Form: "Which nation was ranked as the world's happiest country for the seventh consecutive year in the World Happiness Report 2024?" → Finland.
 
 ---
@@ -1660,9 +1660,9 @@
   5. **Saudi Arabia**: $75.8 Billion.
 - **Global Military Outlay**: Surpassed an all-time record of **$2.44 Trillion**, driven by geopolitical conflicts in Eastern Europe and the Middle East.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (India's Rank & Amount): India is **4th largest spender** ($83.6 Billion).
-• Trap B (Top 3 Order): 1st USA, 2nd China, 3rd Russia, 4th India.
+🎯 Exam Angle →
+• India's Rank & Amount: India is **4th largest spender** ($83.6 Billion).
+• Top 3 Order: 1st USA, 2nd China, 3rd Russia, 4th India.
 • Target MCQ Form: "According to the latest SIPRI report, what is India's global rank in terms of military expenditure?" → 4th.
 
 ---
@@ -1676,9 +1676,9 @@
   - *Best Director*: **Sooraj R. Barjatya** for *Uunchai* (Hindi).
   - *Best Film in Wholesome Entertainment*: **Kantara**.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Dadasaheb Phalke Awardee): **Mithun Chakraborty** (54th recipient; Waheeda Rehman was 53rd).
-• Trap B (Best Feature Film): **Aattam** (Malayalam), NOT Kantara or RRR.
+🎯 Exam Angle →
+• Dadasaheb Phalke Awardee: **Mithun Chakraborty** (54th recipient; Waheeda Rehman was 53rd).
+• Best Feature Film: **Aattam** (Malayalam), NOT Kantara or RRR.
 • Target MCQ Form: "Who was conferred the prestigious 54th Dadasaheb Phalke Award at the 70th National Film Awards?" → Mithun Chakraborty.
 
 ---
@@ -1691,9 +1691,9 @@
   4. **Rural Doctors Movement (Thailand)**: Network of physicians advocating universal healthcare access in impoverished rural provinces.
   5. **Dr. Nguyen Thi Ngoc Phuong (Vietnam)**: Physician honored for caring for victims of chemical Agent Orange defoliant.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Japanese Animator): **Hayao Miyazaki** (Studio Ghibli) received the 2024 Ramon Magsaysay Award.
-• Trap B (Bhutanese Laureate): **Karma Phuntsho** (Loden Foundation).
+🎯 Exam Angle →
+• Japanese Animator: **Hayao Miyazaki** (Studio Ghibli) received the 2024 Ramon Magsaysay Award.
+• Bhutanese Laureate: **Karma Phuntsho** (Loden Foundation).
 • Target MCQ Form: "Which world-renowned Japanese animator and co-founder of Studio Ghibli was conferred the Ramon Magsaysay Award 2024?" → Hayao Miyazaki.
 
 ---
@@ -1703,9 +1703,9 @@
 - **Citation**: Honored *"for his groundbreaking contributions to probability theory and stochastic processes, with outstanding applications in mathematical physics and statistics"*.
 - **Administering Body**: Established in honor of Niels Henrik Abel; carries a cash prize of **7.5 Million Norwegian Kroner (NOK)**.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Prize Discipline): Abel Prize is universally regarded as the **"Nobel Prize of Mathematics"** (since Nobel does not award Mathematics).
-• Trap B (Laureate): French mathematician **Michel Talagrand**.
+🎯 Exam Angle →
+• Prize Discipline: Abel Prize is universally regarded as the **"Nobel Prize of Mathematics"** (since Nobel does not award Mathematics).
+• Laureate: French mathematician **Michel Talagrand**.
 • Target MCQ Form: "Who was awarded the prestigious Abel Prize 2024 for groundbreaking contributions to probability theory?" → Michel Talagrand.
 
 ---
@@ -1717,9 +1717,9 @@
   - Michael Hofmann became the **first male translator** to win the prize.
 - **Narrative Context**: Chronicles the destructive romantic entanglement between an older writer and an architecture student in East Berlin before and after the collapse of the Berlin Wall in 1989.
 
-🎯 Exam Angle → [THE EXAMINER'S TRAP MATRIX]
-• Trap A (Book Title): ***Kairos*** by Jenny Erpenbeck (translated by Michael Hofmann).
-• Trap B (Nationality Milestone): Jenny Erpenbeck is the **first German writer** to win the International Booker Prize.
+🎯 Exam Angle →
+• Book Title: ***Kairos*** by Jenny Erpenbeck (translated by Michael Hofmann).
+• Nationality Milestone: Jenny Erpenbeck is the **first German writer** to win the International Booker Prize.
 • Target MCQ Form: "Which novel won the International Booker Prize 2024, making its author Jenny Erpenbeck the first German writer to achieve this honour?" → Kairos.
 
 
@@ -1800,7 +1800,7 @@
 | :--- | :--- | :--- | :--- |
 | **RBI Nationalisation** | RBI (Transfer to Public Ownership) Act, 1948 | **January 1, 1949** | • Established on **April 1, 1935** under RBI Act 1934 based on **Hilton Young Commission** (Royal Commission on Indian Currency and Finance).<br>• Trap: Do not confuse establishment date (1935) with nationalisation date (1949). |
 | **Bank Nationalisation Waves** | Banking Companies (Acquisition & Transfer of Undertakings) Acts | • **1st Wave: July 19, 1969** (14 banks, deposit floor ₹50 Crore)<br>• **2nd Wave: April 15, 1980** (6 banks, deposit floor ₹200 Crore) | • Trap: 14 banks in 1969; 6 banks in 1980.<br>• Deposit floor was ₹50 Cr in 1969 and ₹200 Cr in 1980. |
-| **Basel III Capital Adequacy (CRAR)** | RBI Master Circular on Basel III Capital Regulations | • **Minimum CET1**: 5.5%<br>• **Minimum Tier 1 Capital**: 7.0%<br>• **Minimum Total CRAR**: 9.0% (PSBs maintain 12%)<br>• **Capital Conservation Buffer (CCB)**: 2.5% (all CET1)<br>• **Minimum Total Capital + CCB**: **11.5%** | • Trap A: Minimum CRAR alone is 9.0%, but Total Capital + CCB is **11.5%**.<br>• Trap B: Global Basel III baseline CRAR is 8.0%, but RBI mandates **9.0%** for Indian banks. |
+| **Basel III Capital Adequacy (CRAR)** | RBI Master Circular on Basel III Capital Regulations | • **Minimum CET1**: 5.5%<br>• **Minimum Tier 1 Capital**: 7.0%<br>• **Minimum Total CRAR**: 9.0% (PSBs maintain 12%)<br>• **Capital Conservation Buffer (CCB)**: 2.5% (all CET1)<br>• **Minimum Total Capital + CCB**: **11.5%** | • Minimum CRAR alone is 9.0%, but Total Capital + CCB is **11.5%**.<br>• Global Basel III baseline CRAR is 8.0%, but RBI mandates **9.0%** for Indian banks. |
 | **Prompt Corrective Action (PCA) Framework** | RBI Master Direction on PCA for Scheduled Commercial Banks | **Three Trigger Parameters**: 1. **Capital (CRAR / CET1)**, 2. **Asset Quality (Net NPA Ratio >6.0%)**, 3. **Leverage (Tier 1 Leverage Ratio)** | • Return on Assets (RoA) was removed as a PCA trigger.<br>• NBFCs are also covered under a dedicated PCA framework (effective Oct 2022). |
 | **Money Market Tenures** | RBI Master Direction — Money Market Instruments | • **Call Money**: Overnight (1 Day)<br>• **Notice Money**: **2 Days to 14 Days**<br>• **Term Money**: **15 Days to 1 Year** | • Trap: Notice Money is 2 to 14 days (examiners frequently test notice money upper limit = 14 days). |
 | **Lead Bank Scheme** | Gadgil Study Group (1969) & Nariman Committee (1969) | • District Credit Plans (DCP)<br>• **Target Credit-Deposit (CD) Ratio: 60%** | • Recommended by Nariman Committee.<br>• Monitored at district level by Lead District Manager (LDM) and DLCC. |
