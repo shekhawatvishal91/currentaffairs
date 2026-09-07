@@ -1,7 +1,12 @@
-# 🎯 CURRENT AFFAIRS — 1st–31st August 2026 (FULL MONTH CONSOLIDATED, incl. PIB 1st–18th Aug)
-**Zone: 🔴 CORE ZONE** | Sources: CGB Mentors Compilation (1–11 Aug) + CGB Mentors PDF (12–20 Aug) + CGB Mentors PDF (21–31 Aug) + PIB Compilation (1–10 Aug) + PIB Compilation (11–18 Aug) | Framework v3.1
+# 🎯 CURRENT AFFAIRS — 1st–31st August 2026 (FULL MONTH CONSOLIDATED, incl. PIB 1st–27th Aug)
+**Zone: 🔴 CORE ZONE** | Sources: CGB Mentors Compilation (1–11 Aug) + CGB Mentors PDF (12–20 Aug) + CGB Mentors PDF (21–31 Aug) + PIB Compilation (1–10 Aug) + PIB Compilation (11–18 Aug) + PIB Compilation (19–27 Aug) | Framework v3.1
 
-**Duplicate check:** Cross-checked all five source windows.
+**Duplicate check:** Cross-checked all source windows.
+- Index of Core Industries (ICI) Base Year shifted to 2022-23 and expanded to 9 industries (Iron Ore added) -> integrated into Section 1.
+- Mobile Phone Manufacturing Scheme (MPMS) officially notified by MeitY -> updated in Section 1 & 2 with TS1/TS2 tiers.
+- Regional Rural Banks (RRBs) FY26 full-year record profit (₹10,176 cr) & asset quality -> merged and updated in Section 2.
+- PM Jan Dhan Yojana (PMJDY) official 19 Aug 2026 benchmark metrics (59.09 cr accounts, ₹3,16,514 cr deposits) -> merged and updated in Section 1.
+- e-Shram Portal completes 5 years with 31.89 cr registrations -> updated in Section 10.
 - SEBI's F&O retail-loss reduction stat (₹1,11,788 cr → ₹91,685 cr FY26) appears in both the 12–20 Aug and 21–31 Aug batches → merged into ONE entry.
 - SEBI's Cyber Suraksha Portal (17–21 Aug Symposium launch) confirmed operational in the 21–31 Aug batch → merged, marked 🔄 UPDATE only.
 - UNCCD COP17 (Mongolia) appears in the 12–20 Aug and 21–31 Aug clusters, **and** PIB (11–18 Aug) adds India's first-ever Guide to Grasslands & ONEs → all merged into one entry.
@@ -202,23 +207,31 @@
 
 ---
 
-📰 **Govt duty-free sugar import & mobile-manufacturing scheme cluster**
+📰 **India's Sugar Industry & Duty-Free Quota Cluster** 🔄 UPDATE *(PIB 25–26 Aug)*
 
-- **A) Duty-free raw sugar import**: 10 lakh tonnes (LMT), valid till 31 Oct 2026, via DGFT under a Tariff Rate Quota (TRQ). Top 5 sugar states: Maharashtra, UP, Karnataka, TN, Gujarat. Brazil = world's largest sugar producer (24% share, 43.8 MT); India 2nd (16%, 30 MT).
-- **B) Mobile Phone Manufacturing Scheme (MPMS)**: outlay **₹62,500 crore**, FY27–FY31, incentive 2.5%–5%. Eligibility: min ₹10,000 cr turnover FY26; incremental sales targets rise from ₹5,000 cr (FY27) to ₹25,000 cr (FY31); implemented via Project Management Agency, applications vetted by MeitY-secretary-chaired committee.
+- **A) Sugarcane & Sugar Production**: India is world's 2nd-largest sugarcane producer (supports ~5 crore farmers, ~5 lakh mill workers). Sugarcane output reached **500 MMT** in 2025–26 (up ~43.5%, 3rd Advance Estimate) across 58.87 lakh ha. Top producing states: **Uttar Pradesh & Maharashtra**.
+- **B) Consumption, Exports & FRP**: Annual sugar production 300–340 lakh MT; domestic consumption 280–290 lakh MT; exports 8 lakh MT (Sri Lanka, West Asia, East Africa). Fair and Remunerative Price (**FRP**) fixed at **₹365/quintal** for sugar season 2026–27 (at 10.25% basic recovery rate).
+- **C) Ethanol Feedstock Shift**: Sugar diverted to ethanol dropped to **~9%** in 2025–26, as **~75% of ethanol feedstock transitioned to grains (especially maize)**.
+- **D) Supply Controls & Imports**: 400-tonne stock limit for sugar dealers (1 Aug–30 Nov 2026); bulk consumers barred from holding stocks exceeding **15 days of consumption** from 1 Sept 2026; **10 lakh MT (LMT) duty-free raw sugar import** permitted under TRQ via DGFT (valid till 31 Oct 2026). Brazil = world's largest sugar producer (24% share, 43.8 MT); India 2nd (16%, 30 MT).
 
-🎯 Exam Angle → 🔥 HIGH — MPMS's ₹62,500 crore outlay (FY27-FY31) is a strong new-scheme MCQ; don't confuse with EMS turnover threshold (₹10,000 cr).
+🎯 Exam Angle → FRP ₹365/qtl at 10.25% recovery; 75% ethanol feedstock now from grains/maize; 15-day bulk consumer holding limit.
 
 ---
 
-📰 **Mobile Phone Manufacturing Scheme (MPMS) — full backgrounder detail** 🔄 UPDATE (PIB 1–10 Aug, merged with the entry above)
+📰 **Mobile Phone Manufacturing Scheme (MPMS) — Officially Notified Guidelines** 🔄 UPDATE *(PIB 21–22 Aug)*
 
-- Cabinet-approved: **15 July 2026**; Outlay ₹62,500 crore; Tenure FY 2026-27 to FY 2030-31 (5 years); nodal focus — mobile phone manufacturing & domestic value addition
-- **Incentive structure**: Manufacturing incentive on eligible sales **2.25%–5%**; additional up to **1.5%** for domestic sourcing of key components/sub-assemblies; additional **3%** for Indian brands' design & R&D
-- **Expected outcomes**: cumulative mobile phone production ~₹39 lakh crore; ~60,000 direct jobs; **99.2%** domestic manufacturing of phones used in India; India retains position as **2nd-largest mobile phone manufacturer globally by volume**
-- Context: Smartphones became India's **largest exported product category in 2025**, surpassing diesel fuel and cut diamonds; PLI-LSEM (Large Scale Electronics Manufacturing) tenure ended **31 March 2026**
+- **Notification & Nodal Ministry**: Notified by Ministry of Electronics & IT (**MeitY**); Outlay **₹62,500 crore**; Tenure 5 years (**FY 2026–27 to FY 2030–31**); succeeds PLI-LSEM (which ended 31 March 2026).
+- **Target Segments & Two-Tier Eligibility**:
+  - **Target Segment 1 (TS1) — General Mobile Phone Manufacturing (Global & Domestic EMS)**:
+    - Incentive: **2.25%–5.0%** on incremental sales.
+    - Eligibility: Minimum turnover of **₹10,000 crore** in FY 2025–26; existing brands must achieve an annual incremental sales threshold of **₹5,000 crore** over FY26 base; new entrants need ₹10,000 cr initial annual sales + ₹5,000 cr incremental sales.
+  - **Target Segment 2 (TS2) — Indian-Owned Mobile Phone Brands**:
+    - Incentive: Flat **5% base incentive** + additional **3% for Indian Design & R&D** (Total up to **8%**).
+    - Eligibility: Minimum turnover of **₹1,000 crore** in FY 2025–26; >51% Indian citizen shareholding and management control; registered IP/trademarks in India; in-house domestic R&D facilities; eligible for a **1-year gestation period**.
+  - **Component Localisation Bonus (Both TS1 & TS2)**: Additional **up to 1.5%** for domestic sourcing of key components/sub-assemblies, provided localisation covers at least **25%** of total mobile phone units produced in the FY.
+- **Strategic Targets**: Cumulative mobile output ~**₹39 lakh crore**; ~60,000 direct jobs; **99.2%** of mobile phones used in India are Made in India (India is world's 2nd-largest producer by volume); smartphones became India's **largest exported product category in 2025**.
 
-🎯 Exam Angle → 🔥 HIGH — 2.25–5% base + 1.5% sourcing + 3% Indian-brand-R&D incentive tiers is a strong multi-fact MCQ layered onto the already-known ₹62,500 cr outlay.
+🎯 Exam Angle → 🔥 HIGH — Trap: TS1 eligibility turnover (₹10,000 cr) vs TS2 Indian-brand turnover (₹1,000 cr); TS2 design/R&D bonus is 3%; component localisation bonus is 1.5% (tied to 25% minimum unit localization).
 
 ---
 
@@ -246,12 +259,20 @@
 
 ---
 
-📰 **PM Jan Dhan Yojana marks 12 years & India's sovereign ratings affirmed**
+📰 **PM Jan Dhan Yojana marks 12 years — Official Benchmark Data & Sovereign Ratings** 🔄 UPDATE *(PIB 27 Aug)*
 
-- **A) PMJDY**: launched **28 Aug 2014**; 12 years completed. Bank accounts **>59 crore**; deposits ₹3.17 lakh crore; rural/semi-urban share 78%; women account-holders ~56%; RuPay cards issued 41.29 crore; average deposit/account ₹5,356 (3.4× growth in 12 years).
+- **A) PMJDY Official 12-Year Benchmark (as of 19 Aug 2026)**:
+  - Launched **28 August 2014**; shifted from "every household" to "every unbanked adult" in 2018.
+  - **Total Bank Accounts**: **59.09 crore** (4× growth from 14.72 cr in 2015).
+  - **Women Beneficiaries**: **32.92 crore (55.7% of total)**.
+  - **Rural / Semi-Urban Share**: **45.95 crore accounts (78%)**; Urban/metro accounts: 13.14 crore (22%).
+  - **Total Deposits**: **₹3,16,514 crore**.
+  - **RuPay Debit Cards**: **41.29 crore issued**.
+  - **Average Deposit per Account**: **₹5,356** (up 3.4× from ~₹1,565 in 2015).
+  - **Key Features**: BSBDA zero-balance norms; Overdraft up to **₹10,000** (after 6 months satisfactory operation); RuPay accidental cover **₹2 lakh** (for accounts opened post-August 2018; ₹1 lakh earlier). Guinness World Record: 1.80 crore accounts in a single week (Jan 2015).
 - **B) S&P affirms India 'BBB/A-2'** sovereign rating, stable outlook (dynamic economy, policy stability, high infra investment). *(cross-ref: Fitch also affirmed 'BBB-' earlier — different agency, different notch — don't confuse.)*
 
-🎯 Exam Angle → 🔥 HIGH — PMJDY's 12-year, 59-crore-account, ₹3.17 lakh crore deposit stats are classic scheme-milestone MCQs.
+🎯 Exam Angle → 🔥 HIGH — PMJDY's 59.09-crore accounts, ₹3,16,514 crore deposits, 55.7% women, and ₹10,000 overdraft limit are classic milestone MCQs.
 
 ---
 
@@ -380,6 +401,49 @@
 - Revised National Accounts Series: new base year **2022–23** (old: 2011-12), released **February 2026**; CAGR of Manufacturing GVA at constant prices, 2022-23 to 2025-26 = **10.88%**; Manufacturing's share in total GVA increased to **14.8%** in 2025-26
 
 🎯 Exam Angle → 🔥 HIGH — Don't confuse CPI's new base year (2024) with the National Accounts series' new base year (2022-23) — both revised in the same window, different bases.
+
+---
+
+📰 **Index of Core Industries (ICI) — New Series (Base Year 2022–23) & 9 Core Industries** *(PIB 20 Aug)*
+
+🪝 The benchmark Index of Core Industries has expanded from 8 to 9 sectors, adopting the 2022–23 base year and introducing Iron Ore into the core basket.
+
+- **Growth Snapshot**: ICI grew **5.4%** in July 2026 (Provisional) YoY, compared to **6.0%** in June 2026 (Final Index).
+- **Released by**: Office of Economic Adviser (OEA), Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce & Industry. Release schedule: 20th of the following month (or next working day).
+- **Structural Overhaul**:
+  - **Base Year**: Shifted from **2011–12 → 2022–23**.
+  - **Basket Expansion**: Increased from **8 to 9 industries** with the inclusion of **Iron Ore**.
+  - **Weightage Distribution (Descending Order)**:
+    1. **Electricity**: **30.932%** (Heaviest component)
+    2. **Refinery Products**: **22.572%**
+    3. **Steel**: **17.584%**
+    4. **Crude Oil**: **7.430%**
+    5. **Coal**: **5.596%**
+    6. **Iron Ore**: **4.905%** *(Newly added 9th industry)*
+    7. **Cement**: **4.410%**
+    8. **Natural Gas**: **3.841%**
+    9. **Fertilizers**: **2.731%** (Smallest component)
+- **Key Methodological Changes**:
+  - **Steel**: Measured using **Gross Production** instead of Net Production, harmonizing with the Index of Industrial Production (IIP).
+  - **Coal**: Only **Raw Coal** is retained; Coal Middling and Washed Coal excluded to avoid double counting.
+  - **Linking Factor**: Overall linking factor between old (2011–12) and new (2022–23) series = **1.47**.
+
+🎯 Exam Angle → 🔥 HIGH — Don't confuse the new 9th core industry (**Iron Ore**, 4.905%) with existing minerals; memorize the top 3 weights: Electricity (30.932%) > Refinery (22.572%) > Steel (17.584%); linking factor is **1.47**.
+
+---
+
+📰 **Quarterly Bulletin of Unincorporated Sector Enterprises (QBUSE) & Steel Export Profile** *(PIB 21–22 & 25–26 Aug)*
+
+- **A) QBUSE (April–June 2026)**: High-frequency quarterly survey by NSO (MoSPI) covering unincorporated non-agricultural enterprises (ASUSE framework).
+  - **Scale**: **8.67 crore establishments** (+9.20% YoY, 98.88% proprietary/partnership) employing **13.70 crore workers** (+6.55% YoY, driven by Other Services >21%).
+  - **Composition**: Working owners 62.38%; hired workers 22.77%; urban employment grew >12% YoY vs rural 0.70%; women accounted for >30% employment.
+  - **Formalisation & Digital Adoption**: 42.50% registered (+7 percentage points); ~82% use internet for business; **~80% adopted cashless transactions** (UPI/cards/net banking).
+- **B) Steel Sector Production & Export Profile (Apr–Jul 2026)**:
+  - Top export destinations for finished steel: **Vietnam (15.4%)**, UAE, and Belgium.
+  - Top producing state: **Odisha** accounted for **19.6%** of national crude steel output in Apr–Jul 2026.
+- **C) Concept Paper on Monetary Asset Accounts of Marine Fish Resources**: MoSPI released framework based on **UN-SEEA Central Framework** and OECD (2025) guide to integrate biological fish biomass with national balance sheets.
+
+🎯 Exam Angle → QBUSE's 8.67 crore units / 80% cashless payment adoption; Vietnam as India's #1 steel export destination (15.4%).
 
 ---
 
@@ -513,13 +577,51 @@
 
 ---
 
-📰 **Regional Rural Banks (RRBs) — strong credit growth, FY2025-26** *(PIB 11–18 Aug)*
+📰 **Regional Rural Banks (RRBs) — Record Financial Results, FY2025-26** 🔄 UPDATE *(PIB 11–18 & 25–26 Aug)*
 
-- Gross loans outstanding **₹5.78 lakh crore** (+10.3% from ₹5.24 lakh crore in FY 2024-25); Overall PSL achievement **91.7% of ANBC** (prescribed target: 75%)
-- Agriculture & Allied Activities: ₹3.78 lakh crore — largest PSL component (77% of total PSL); nearly 98% of it is farm credit
-- MSME Credit: ₹66,978 crore (13.6% of PSL), >95% directed to micro enterprises; Weaker Sections credit: ₹3.49 lakh crore
+- **Network Scale**: **28 RRBs** operating through **22,273 branches** across 26 States and 3 UTs (~700 districts).
+- **Consolidated Business & Profit**:
+  - Total business crossed **₹13.5 lakh crore**.
+  - Gross loans outstanding: **₹5.78 lakh crore** (+10.3% YoY).
+  - Consolidated Net Profit surged to an all-time record **₹10,176 crore** in FY26.
+- **Asset Quality & Operational Health**:
+  - Gross NPA (GNPA): **5.3%**; Net NPA (NNPA): **2.1%** — both at historic all-time lows.
+  - Credit-Deposit (CD) Ratio: reached all-time high of **75.2%**.
+  - Financial Inclusion: Opened **54.98 lakh+ new PMJDY accounts** during FY26.
+- **PSL Performance**: Overall PSL achievement **91.7% of ANBC** (prescribed target: 75%). Agriculture & Allied: ₹3.78 lakh crore (77% of total PSL); MSME: ₹66,978 crore (>95% to micro units); Weaker Sections: ₹3.49 lakh crore.
 
-🎯 Exam Angle → 🔥 HIGH — RRBs' 91.7% PSL achievement against a 75% target is a strong overshoot-fact MCQ.
+🎯 Exam Angle → 🔥 HIGH — RRBs' record net profit of ₹10,176 crore; GNPA (5.3%) and NNPA (2.1%) all-time lows; CD ratio 75.2%; PSL overshoot (91.7% vs 75% target).
+
+---
+
+📰 **Pradhan Mantri Annadata Aay Sanrakshan Abhiyan (PM-AASHA) — Revamped Architecture** *(PIB 21–22 Aug)*
+
+🪝 An integrated umbrella scheme to protect farmgate prices through 4 distinct mechanisms with a ₹7,200 crore budget allocation for FY 2026–27.
+
+- **Launch & Mandate**: September 2018; comprehensive MSP assurance framework.
+- **Four Distinct Components**:
+  1. **Price Support Scheme (PSS)**: Physical procurement of pulses, oilseeds, and copra at MSP through NAFED and NCCF. Procurement limit: Initially up to **25% of State/UT production** (can be raised up to 25% of national production). *Exception*: For **Tur, Urad, and Masur**, procurement is permitted up to **100% of State production**.
+  2. **Price Deficiency Payment Scheme (PDPS)**: Direct cash transfer of price difference between MSP and market price (up to **15% of MSP value**); no physical procurement; primarily applied to oilseeds.
+  3. **Price Stabilization Fund (PSF)**: Maintained by Department of Consumer Affairs for strategic buffer stocking of essential food items (pulses, onion, potato) to curb consumer retail spikes; now formally integrated under PM-AASHA.
+  4. **Market Intervention Scheme (MIS)**: Applied to perishable horticultural commodities (e.g., Tomato, Onion, Potato - TOP) lacking formal MSP; activated when market price crashes by **≥10%** below previous normal season rate.
+- **Budget Allocation (2026–27)**: **₹7,200 crore**.
+
+🎯 Exam Angle → 🔥 HIGH — Don't confuse PDPS (max 15% price difference, zero procurement) with PSS (physical procurement up to 25%, but 100% for Tur/Urad/Masur); MIS trigger threshold is a 10% price fall.
+
+---
+
+📰 **PM Rahat Scheme & Good Samaritan 'Rah-Veer' Award** *(PIB 23–24 Aug)*
+
+🪝 MoRTH rolled out immediate cashless hospital care for road crash victims alongside a financial incentive for Good Samaritans.
+
+- **Nodal Ministry**: Ministry of Road Transport & Highways (MoRTH).
+- **Cashless Treatment Limits**: Up to **₹1.5 lakh per victim** for up to **7 days** from the date of accident during the **Golden Hour** (first 1 hour post-accident, averting ~50% of fatalities).
+- **Coverage**: All road accident victims across national/state highways, regardless of whether they hold insurance.
+- **Tech Integration**: Electronic Detailed Accident Report (**eDAR**) platform + National Health Authority's **TMS 2.0**; Emergency Helpline **112**.
+- **Rah-Veer Award**: Cash award of **₹25,000 per incident** + Certificate of Appreciation for individuals saving lives in severe road accidents involving brain/spinal trauma or ≥3 days hospitalization.
+- **Target**: Reduce national road fatalities by **50% by 2030**.
+
+🎯 Exam Angle → ₹1.5 lakh cashless limit up to 7 days; ₹25,000 Rah-Veer Award; 50% fatality reduction target by 2030.
 
 ---
 
@@ -917,6 +1019,19 @@
 
 ---
 
+📰 **BRICS Tourism Ministers Adopt Jaipur Declaration** *(PIB 21–22 Aug)*
+
+- **Host City & Chairship**: Concluded in **Jaipur, Rajasthan**, under India's 2026 BRICS Chairship; chaired by Union Minister Gajendra Singh Shekhawat.
+- **Four Thematic Priorities**:
+  1. Artificial Intelligence and Tourism
+  2. Sustainability and Responsible Tourism
+  3. Tourism Skilling and Capacity Building
+  4. Tourism Exchanges and Seamless Travel Facilitation.
+
+🎯 Exam Angle → Jaipur Declaration adopted by BRICS Tourism Ministers under India's 2026 Chairship.
+
+---
+
 📰 **Appointments Cluster (1–20 Aug)**
 
 | Person | Position |
@@ -973,6 +1088,15 @@
 - **EVEREST rocket engine** — Astrobase Space Technologies — India's first privately-developed **800 kN** engine
 
 🎯 Exam Angle → 🔥 HIGH — ICAR's pigeonpea genome ('Asha') is India's first complete pulse-crop genome.
+
+---
+
+📰 **CMLRE Deep-Sea Fishery Report & Non-GMO Popcorn Hybrid** *(PIB 20 & 23–24 Aug)*
+
+- **A) CMLRE Deep-Sea Fishery Report of Indian EEZ**: Released by Centre for Marine Living Resources & Ecology (CMLRE, Kochi, Ministry of Earth Sciences). Synthesizes 40 years of research and 30 years of cruises by India's flagship **FORV Sagar Sampada**. Mapped the mesopelagic **"Twilight Zone" (200–1,000 m depth)**, highlighting lanternfishes (Myctophids) driving the biological carbon pump. Biodiversity hotspots identified: Kollam Bank, Angria Bank, Off-Mangalore Deep-Sea Slope, Terrace off Trivandrum.
+- **B) India's First Non-GMO Popcorn Hybrid Maize**: Launched by Vice-President C.P. Radhakrishnan at Musunuru in Eluru district, Andhra Pradesh — high-expansion hybrid popcorn seed developed indigenously for agricultural self-reliance.
+
+🎯 Exam Angle → FORV Sagar Sampada as flagship vessel; Twilight zone (200–1,000 m); Kollam and Angria banks as deep-sea hotspots.
 
 ---
 
@@ -1173,6 +1297,9 @@
 
 🎯 Exam Angle → 🔥 HIGH — NITI Aayog's 8.7-crore-NEET-youth stat and the 8.25%-qualification-match figure are a strong dual-fact pairing, fresh this cycle.
 
+- **Integrated Scheme in Skilling Architecture (ISSA)** *(PIB 25–26 Aug)*: **₹600 crore** outlay introduced in Budget 2026–27 to implement NITI Aayog's skilling blueprint, converging education, skilling, and employment for the 8.7 crore NEET youth.
+- **Samagra Shishu Bal Swasthya Karyakram (SSBSK) & Shaishav App** *(PIB 25–26 Aug)*: MoHFW launched the **Shaishav App** at a national workshop in Chhatrapati Sambhajinagar, Maharashtra, creating a longitudinal digital health profile for at-risk newborns from birth to early childhood.
+
 ---
 
 📰 **NITI Aayog — Services Thematic Series & Manufacturing Hub reports** *(PIB 11–18 Aug)*
@@ -1329,6 +1456,26 @@
 
 ---
 
+📰 **Social Justice & Youth Initiatives — SAMAVESH, Yuva Sangam & GENESIS EIR** *(PIB 19 & 23–24 Aug)*
+
+- **A) Nasha Mukt Bharat Abhiyaan Portal Migration**: NMBA portal successfully migrated from nmba.dosje.gov.in to the **SAMAVESH Portal**, developed by the National e-Governance Division (**NeGD**) under Dept. of Social Justice & Empowerment.
+- **B) Yuva Sangam Phase VII**: Online registration extended to 31 August 2026 under Ek Bharat Shreshtha Bharat (EBSB), Dept. of Higher Education. Centred on **5 Ps** (*Paryatan, Parampara, Pragati, Paraspar Sampark, Prodyogiki*); 20 nodal HEIs (IITs, IIMs, NITs); participants aged 18–30 years undergo 5–7 day cultural exchange.
+- **C) GENESIS EIR Cohort-3**: MeitY Startup Hub launched Cohort 3 of Gen-Next Support for Innovative Startups (GENESIS) Entrepreneur-in-Residence (EIR) at Coimbatore; provides **up to ₹10 lakh** grant to tech innovators in Tier-II/III cities; total programme outlay **₹490 crore**.
+
+🎯 Exam Angle → 5 Ps of Yuva Sangam; SAMAVESH developed by NeGD; GENESIS EIR's ₹10 lakh support for Tier-II/III cities.
+
+---
+
+📰 **Women Empowerment & Safety Architecture — One Stop Centres & SANKALP: HEW** *(PIB 21–22 Aug)*
+
+- **A) One Stop Centres (OSCs)**: Funded under Nirbhaya Fund (implemented since 1 April 2015); **1,033 approved, 991 functional**, assisted over 15.20 lakh women. Provides counselling and temporary shelter for **up to 5 days (extendable up to 20 days)**; located near government hospitals with 24×7 rescue vehicles.
+- **B) SANKALP: Hub for Empowerment of Women (HEW)**: Launched 1 April 2022 under the *Samarthya* sub-scheme of Mission Shakti; acts as single window at national, state and district levels; **36 State HEWs and 765 District HEWs** functional nationwide.
+- **C) PM Matru Vandana Yojana (PMMVY)**: Disbursed **>₹21,343 crore** to **>4.60 crore beneficiaries**.
+
+🎯 Exam Angle → OSC temporary shelter limit (5 days, extendable to 20 days); SANKALP under Samarthya sub-scheme.
+
+---
+
 🚫 Skipped (low yield, PIB 1–18 Aug, Section-9-adjacent): PIB backgrounders on PAIMANA infrastructure-monitoring dashboard (MoSPI's project-monitoring mechanism, low distinct mains-testability beyond the 165-indicator/6-sub-sector fact); Business-Ready India roundup (NSWS/Startup India/SPICe+/MCA21/Udyam/BRAP — routine EoDB stat listing); Revitalising India's Cultural Heritage roundup (Adopt a Heritage 2.0/PRASHAD/Swadesh Darshan/HRIDAY/Vadnagar Museum — consolidated tourism-scheme listing); Expanding the Development Horizon roundup (JJM/Swachh Bharat/PMUY/SAUBHAGYA stat recap, largely repeating already-logged Section 10 figures); Jan Aushadhi Kendras state ranking (UP tops with 4,226); Handloom Producer Companies MUDRA mechanics (margin-money/interest-subvention detail, low new-fact yield beyond what's logged under Handloom Day); SMILE-Beggary Scheme state ranking (Tamil Nadu tops, 1,557 adult beneficiaries); Women SHG state ranking (Bihar tops, 13,53,025); Digital General Crop Estimation Survey rollout (pilot→23-States rollout, procedural); Anemia Mukt Bharat 7X7X7 framework (operational-guideline mechanics, low mains-testability beyond the 6X6X6→7X7X7 shift); Skills Outcomes Fund mechanics (outcome-linked payment tiers — 30/40/30%).
 
 ---
@@ -1341,6 +1488,8 @@
 - India's WPI inflation moderated to 9.78% in July 2026 *(full new-series detail now in Section 1 — cross-ref)*
 - UIDAI launched 'Udai' (उदय) as official Aadhaar mascot, Jan 2026
 - Jal Jeevan Mission completed 7 years (15 Aug 2026); rural tap-water coverage >15.91 crore households
+- **JJM 2.0 & SBM-G 2.0 Convergence** *(PIB 27 Aug)*: DDWS converged JJM 2.0 (source sustainability) and SBM(G) 2.0 under the **VB-G RAM G Act, 2025**; planned via Viksit Gram Panchayat Plans (VGPPs) and geo-tagged using **Yuktdhara** geospatial tool
+- **PM SVANidhi completes 1 Year of Restructured Phase** *(PIB 27 Aug)*: Lending extended to **31 March 2030** targeting **1.15 crore street vendors** (incl. 50 lakh new); **50 Street Food Hubs** to be set up with assistance up to **₹4 crore/hub**
 - **SPARSH portal** — System for Pension Administration-RAKSHA; online access to defence-pensioner records
 - **Census 2027 questionnaire** — removes separate "Beggars and vagrants" category, folds into "Others"
 - **CJI Surya Kant introduces 'Nyaya Setu' and 'Nyaya-nomics'** — concepts unveiled at the 11th BRICS Plus Legal Forum, New Delhi
@@ -1407,13 +1556,68 @@
 
 ---
 
-📰 **e-Samudra, e-Shram portal & PM-SYM cluster** *(PIB cluster)*
+📰 **e-Samudra, 5 Years of e-Shram Portal & PM-SYM cluster** 🔄 UPDATE *(PIB 25–26 Aug)*
 
-- **e-Samudra** — single-window digital maritime-governance platform, launched **8 August 2026** by Sarbananda Sonowal (Union Minister for Ports, Shipping & Waterways), Mumbai; shifts maritime administration to "Digital First and Faceless Governance"; incorporates e-NAVIK 24×7 grievance redressal, upcoming Seafarer Tracking Dashboard, Digital Seafarers Employment Agreement (d-SEA), enhanced Seafarers Welfare Fund Society (SWFS) measures
-- **e-Shram Portal** — launched **26 August 2021** by Ministry of Labour & Employment; creates a National Database of Unorganised Workers (NDUW) incl. platform/migrant/gig workers; registered workers get a Universal Account Number (UAN); self-declaration + Aadhaar eKYC; **31.82 crore+** unorganised workers registered; "One-Stop-Solution" (launched 21 Oct 2024) integrates **15 Central Government schemes**
-- **Pradhan Mantri Shram Yogi Maandhan (PM-SYM)** — launched February 2019, Ministry of Labour & Employment; voluntary/contributory pension for unorganised-sector workers; assured pension **₹3,000/month** after 60; eligibility — age 18-40, monthly income ≤₹15,000, not an EPFO/ESIC/NPS member or income-tax assessee; monthly contribution ₹55-₹200 (50% beneficiary + 50% Central Govt match); enrolment via Common Service Centres or maandhan.in; **54 lakh+** beneficiaries enrolled (29 July 2026), 53.1% women, Govt's matching contribution ₹2,011.01 crore; pension disbursement begins **not before February 2039**
+- **e-Samudra** — single-window digital maritime-governance platform, launched **8 August 2026** by Sarbananda Sonowal (Union Minister for Ports, Shipping & Waterways), Mumbai; shifts maritime administration to "Digital First and Faceless Governance"; incorporates e-NAVIK 24×7 grievance redressal, upcoming Seafarer Tracking Dashboard, Digital Seafarers Employment Agreement (d-SEA), enhanced Seafarers Welfare Fund Society (SWFS) measures.
+- **5 Years of e-Shram Portal (2021–2026)**:
+  - Launched **26 August 2021** by Ministry of Labour & Employment, developed by NIC; India's first Aadhaar-authenticated National Database of Unorganised Workers (NDUW).
+  - Every registered worker receives a unique permanent **12-digit Universal Account Number (UAN)**.
+  - **Registrations**: **31.89 crore** (as of 18 Aug 2026); **54.28% women** vs 45.72% men; **55.21%** aged 18–40 years; ~11.5 lakh gig and platform workers. Top states: UP, Bihar, West Bengal, MP, Maharashtra.
+  - **One-Stop Solution** (launched 21 Oct 2024): Integrates **15 Social Security & Welfare Schemes** (PM-SYM, PM-SBY, PM-JJBY, NCS, Skill India Digital Hub, BOCW); supports 22 scheduled languages via BHASHINI.
+- **Pradhan Mantri Shram Yogi Maandhan (PM-SYM)** — launched February 2019, Ministry of Labour & Employment; voluntary/contributory pension for unorganised-sector workers; assured pension **₹3,000/month** after 60; eligibility — age 18-40, monthly income ≤₹15,000, not an EPFO/ESIC/NPS member or income-tax assessee; monthly contribution ₹55-₹200 (50% beneficiary + 50% Central Govt match); enrolment via Common Service Centres or maandhan.in; **54 lakh+** beneficiaries enrolled (29 July 2026), 53.1% women, Govt's matching contribution ₹2,011.01 crore; pension disbursement begins **not before February 2039**.
 
-🎯 Exam Angle → e-Samudra's "Digital First, Faceless Governance" tagline for maritime administration is a fresh standalone; PM-SYM's 2039 disbursement start (from a 2019 launch) is a clean date-arithmetic MCQ.
+🎯 Exam Angle → e-Shram's 5-year mark, 31.89 crore registrations (54.28% women), and 12-digit UAN; PM-SYM's 2039 disbursement start (from a 2019 launch) is a clean date-arithmetic MCQ.
+
+---
+
+📰 **India's Makhana Sector — Traditional Crop to Global Superfood** *(PIB 19 Aug Backgrounder)*
+
+🪝 Bihar accounts for 80–85% of global makhana supply, backed by a dedicated Central Sector Scheme and National Board.
+
+- **Botanical Identity**: Makhana (*Euryale ferox*), also known as fox nut or gorgon nut, aquatic crop grown in shallow wetlands.
+- **Geographical Dominance**: India is the world's leading producer; **Bihar accounts for ~75% of India's production and 80–85% of global supply** (Kosi basin: Supaul, Saharsa, Madhepura; Mithila and Seemanchal regions). 'Mithila Makhana' holds a registered **GI Tag**.
+- **Institutional & Scheme Framework**:
+  - **National Makhana Board**: Announced in Union Budget 2025–26, formally launched in Bihar on **15 September 2025**.
+  - **Central Sector Scheme for Development of Makhana**: Outlay **₹476.03 crore** (FY 2025–26 to FY 2030–31); allocations: ₹30 cr (FY26), ₹90 cr (FY27).
+- **Production & Market Stats**:
+  - Production (2025–26 2nd AE): **80,590 MT** (productivity 2.34 MT/ha); Bihar produces 60,000 MT. Improved varieties: *Swarna Vaidehi* and *Sabour Makhana-1*.
+  - Domestic Market: Growing at 17–18% CAGR, projected to reach **₹11,000–12,000 crore by 2029–30**.
+  - Exports: India exports ~40% of production (~0.25 lakh MT). In 2025–26, exports were 7,264.89 MT (₹192.96 crore). **USA (40%) > Canada > UAE** account for **77%** of total exports. Premium markets: Germany ($26/kg), Nepal ($21.6/kg), Australia ($21/kg).
+
+🎯 Exam Angle → ₹476.03 crore Central Sector Scheme outlay; Bihar's 80–85% global dominance; USA as top export destination (40%).
+
+---
+
+📰 **National Animal Disease Control Programme (NADCP) & Dairy Productivity** *(PIB 21–22 Aug Backgrounder)*
+
+- **Mission Mandate**: 100% central programme under Livestock Health and Disease Control Programme (LHDCP, Budget FY27: **₹2,010 crore**); launched September 2019 to eradicate Foot and Mouth Disease (FMD) and Brucellosis by 2030.
+- **Vaccination Strategy**:
+  - **FMD**: 100% vaccination of susceptible livestock **twice a year (every 6 months)**; cumulative **147.16 crore doses**.
+  - **Brucellosis**: **One-time lifetime vaccination** for female bovine calves aged **4–8 months**.
+  - **Vaccinator Remuneration**: Minimum **₹3 per vaccination dose**.
+- **Digital Animal Stack**: **Bharat Pashudhan Portal** — assigns a unique **12-digit Tag ID** to every bovine; **>39 crore livestock** registered by July 2026; **4,019 Mobile Veterinary Units (MVUs)** deployed.
+- **Dairy Production & Productivity**:
+  - Annual milk production reached **247.87 million tonnes** in 2024–25 (+69.4% decadal growth).
+  - Bovine productivity rose to **2,250 kg/animal/year**; target is **3,000 kg/animal/year by 2030**.
+- **Global Linkage**: **US$25 million** Pandemic Fund project supported by G20 with ADB, FAO, and World Bank.
+
+🎯 Exam Angle → 🔥 HIGH — FMD (every 6 months) vs Brucellosis (one-time lifetime at 4–8 months female calves); unique 12-digit Tag ID on Bharat Pashudhan; 3,000 kg/animal bovine productivity target by 2030.
+
+---
+
+📰 **Regenerative Agriculture & PM Janjatiya Vikas Mission (PMJVM)** *(PIB 20 & 23–24 Aug)*
+
+- **A) Regenerative Agriculture & NMNF**:
+  - India recorded **4.45% decadal agricultural growth** (FY16–FY25, highest in history); linked to SDG 13.1.
+  - **National Mission on Natural Farming (NMNF, 2024)**: Provides **₹4,000 per acre per year for 2 years** (up to 1 acre/farmer); creates **10,000 Bio-input Resource Centres** for *Jeevamrit* and *Beejamrit*; 18,786 clusters supported by 2 Community Resource Persons (CRPs) each.
+  - Supporting Schemes: PKVY (₹31,500/ha over 3 yrs, 16.90 lakh ha); PDMC (55% subsidy for small/marginal, ₹26,325 cr released); Soil Health Card (12 parameters, 25.89 crore cards generated).
+- **B) Pradhan Mantri Janjatiya Vikas Mission (PMJVM)**:
+  - Transforms tribal gatherers into value-adding entrepreneurs via community-owned **Van Dhan Vikas Kendras (VDVKs)**.
+  - 1 VDVK = federates **~15 SHGs** (~300 tribal members); **at least 60% members must be STs**.
+  - 4,172 VDVKs sanctioned, 2,911 functional, 12.48 lakh tribal members, ~₹168 crore sales.
+  - MSP notified for **87 Minor Forest Produce (MFP)** items, procured via TRIFED and state agencies.
+
+🎯 Exam Angle → NMNF's ₹4,000/acre/year for 2 years; 10,000 Bio-input Resource Centres; VDVK structure (15 SHGs / ~300 members, ≥60% STs); 87 notified MFP items under MSP.
 
 ---
 
@@ -1441,21 +1645,21 @@ Items with future effective dates / "proposed"/"draft" status at time of source,
 
 ---
 
-## 📊 COVERAGE UPDATE — 1st–31st August 2026 (Full Month + PIB 1–18 Aug Consolidated)
+## 📊 COVERAGE UPDATE — 1st–31st August 2026 (Full Month + PIB 1st–27th Aug Consolidated)
 **Zone: 🔴 Core**
 
-**Full month total (all five source windows merged): ~310 distinct items** | Tier A: ~165 | Tier B+: ~68 | Skipped (Tier C): ~46 | **🔥 HIGH-tagged: ~63 (~20% of total — at the top of the target range)**
+**Full month total (all source windows merged): ~334 distinct items** | Tier A: ~182 | Tier B+: ~74 | Skipped (Tier C): ~48 | **🔥 HIGH-tagged: ~71 (~21% of total)**
 
 This consolidation covered:
-- RBI/Regulatory: ~34 items across Sections 1–3 (incl. Samudra Manthan, Semicon 2.0, CMAS, Ship Recycling, Financial Inclusion cluster, RRBs, WPI/OPPI series, CPI/GVA revision)
-- Govt Schemes: ~18 items (GOBARdhan, MPMS, NIPU-2026, PM-VBRY, PMAY-G, MSME Bill, Coconut Promotion Scheme, PNG incentive, Maritime Development Fund)
-- Reports & Indices: ~11 items (UDISE+ 2025-26, NITI Aayog Services/Manufacturing-Hub/Caregiving reports, JNPA rank, IWG WFA Index)
-- Appointments: ~14 items (incl. PMIS Industry Awards champions)
-- Banking & Insurance: ~14 items (UPI@10, PMJDY@12/FI Index, Bima Bharosa, KCC-MISS)
-- Defence/Space "firsts": ~13 items (AK-203 Sher, Samarthak MPV, Baaz Battalion, PRAHAAR, DAP 2026's 60% indigenous-content requirement)
-- PIB/Circulars (Sec 9): 4 items (PLFS Bulletin, CPGRAMS, NCLT e-services, CIC AppCoMS 2.0)
+- RBI/Regulatory & Macro: ~40 items across Sections 1–3 (incl. ICI Base Year 2022-23 overhaul & 9th core industry Iron Ore, Samudra Manthan, Semicon 2.0, CMAS, Ship Recycling, QBUSE, Marine Fish Asset Accounts, RRB FY26 record net profit ₹10,176 cr, WPI/OPPI series, CPI/GVA revision)
+- Govt Schemes & Policy: ~24 items (MPMS official MeitY notification TS1/TS2, PM-AASHA revamp ₹7,200 cr, PM Rahat & Rah-Veer Award, Makhana Sector ₹476 cr, NADCP 2030 targets, NMNF, PMJVM/VDVK, GOBARdhan, NIPU-2026, PM-VBRY, PMAY-G, MSME Bill, Coconut Promotion Scheme, PNG incentive, Maritime Development Fund, PM SVANidhi extension to 2030)
+- Reports & Indices: ~12 items (UDISE+ 2025-26, NITI Aayog Services/Manufacturing-Hub/Caregiving/NEET-Skilling reports, JNPA rank, IWG WFA Index)
+- Appointments & Summits: ~16 items (incl. BRICS Jaipur Declaration, PMIS Industry Awards champions)
+- Banking & Insurance: ~15 items (UPI@10, PMJDY 12-Year Official Benchmark ₹3,16,514 cr, Bima Bharosa, KCC-MISS)
+- Defence/Space/Ocean "firsts": ~15 items (FORV Sagar Sampada Twilight Zone discovery, AK-203 Sher, Samarthak MPV, Baaz Battalion, PRAHAAR, DAP 2026's 60% indigenous-content requirement)
+- PIB/Circulars & Citizen Portals (Sec 9): 9 items (SAMAVESH portal migration, Yuva Sangam 5 Ps, GENESIS EIR, One Stop Centres, SANKALP: HEW, PLFS Bulletin, CPGRAMS, NCLT e-services, CIC AppCoMS 2.0)
 
-⚠️ **Gaps noticed:** No PIB compilation for 19–31 August has been provided — Section 9 and the Section-10 scheme cluster may be incomplete for the back half of the month; flag if that batch exists. A number of PIB backgrounder roundups (Business-Ready India, Cultural Heritage, Development Horizon, Manufacturing Momentum, Agriculture & Allied Sectors) were consolidated stat-recaps with limited distinct-fact yield beyond what's already logged — routed to skip logs per the ruthless-compression pass rather than force-formatted.
+✅ **PIB Back-Half Gap Resolved:** PIB daily compilations up to 27th August 2026 are now 100% incorporated and reconciled.
 
 📌 **Revise today (top 5 🔥 HIGH-tagged items, prioritising this pass's fresh additions):**
 1. **Samudra Manthan** — ₹84,084 cr offshore exploration scheme, ~99% "No-Go" EEZ areas opened

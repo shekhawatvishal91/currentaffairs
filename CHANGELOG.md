@@ -4,7 +4,20 @@ All notable changes to the Current Affairs Dossier repository and Rajputana Gaze
 
 ---
 
-## 🔄 [Unreleased / Staged for Next Push]
+## 🚀 [v1.2] — 2026-09-07
+
+### 📰 August 2026 PIB Integration (19th–27th August)
+- **Merged PIB Releases**: Extracted and synthesized key dispatches from official PIB daily releases dated 19th to 27th August 2026 into `aug_ca_cgb1-31aug_pib1-18aug.md` (+242 lines, title updated to *1st–31st August 2026, incl. PIB 1st–27th Aug*). Total August items expanded to 121 verified news stories.
+- **Standalone PIB Document**: Created `pib_19_27_august_2026.md` cataloging raw notes categorized across canonical exam sections.
+- **Broadsheet Hub Compilation**: Recompiled `current_affairs_hub.html` and `index.html` with all newly added August PIB stories.
+
+### 🧹 Permanent Heading Hash (`#`) Purge & GitHub Pages Deployment Fix
+- **Root Cause Identified**: GitHub Pages was serving an older build (commit `b3aceab` v1.0) because without a `.nojekyll` file, GitHub's default Jekyll builder stalled on the large single-page HTML file and failed to deploy commit `136e80f` (v1.1).
+- **Added `.nojekyll`**: Bypasses Jekyll processing completely, forcing GitHub Pages to serve `index.html` directly from the static file server.
+- **Double-Lock Heading Anchor Removal**:
+  - Pre-build parser option: `permalink: false` set on `markdown-it-anchor`.
+  - Build-time sanitize pass: Regex-stripped all `<a class="header-anchor">` tags from the final generated HTML before saving.
+  - Hardened CSS: Added explicit `content: none !important;` and `display: none !important;` rules for `h1..h6` pseudo-elements and anchors.
 
 ---
 
