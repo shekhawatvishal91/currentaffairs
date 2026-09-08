@@ -2,6 +2,39 @@
 
 All notable changes to the Current Affairs Dossier repository and Rajputana Gazette Broadsheet System are documented here.
 
+## 🚀 [v1.5] — 2026-09-08
+
+### 🏦 RBI Annual Report 2025–26 Master Deep-Dive Integration (Affairs Mind 'XHlm-gtTkOw')
+- **Comprehensive 4-Cluster Overhaul in June Dossier ('current_affairs_2026_june.md')**:
+  - **Cluster 1: Balance Sheet Surges 20.6% to ₹91.97 Lakh Crore & ₹2.89 Lakh Crore Surplus Transfer**:
+    - Statutory presentation under **Section 53(2)** of RBI Act, 1934 (accounting period: April 2025 – March 2026).
+    - Absolute balance sheet surge of **₹15,71,699.15 crore** to reach **₹91,97,121.08 crore** (**26.4% of GDP** vs 23.7% in FY25).
+    - Surplus transfer of **₹2,88,588.45 crore** to the Central Government (FY25: ₹2,68,588.07 crore).
+    - Contingent Risk Buffer (CRB) approved at upper cap of **6.50%** (ECF / Bimal Jalan range: 4.5%–7.5%); **₹1,09,379.64 crore** provisioned into Contingency Fund (CF).
+    - Initial paid-up capital maintained at **₹5 crore** (nationalised January 1, 1949).
+    - Foreign assets 70.9% (foreign investments ₹52.68 L Cr, gold ₹10.94 L Cr up 63.8%; net forex sales USD 53.13 Bn, net exchange gains ₹1.69 L Cr).
+  - **Cluster 2: Currency Management, Counterfeits (FICNs) & Digital Rupee (e₹)**:
+    - Banknotes in circulation expanded **11.9% in value** and **10.5% in volume**; ₹500 note holds highest volume share, followed by ₹10.
+    - Coins in circulation rose **11.4% in value** and **4.5% in volume** (₹1, ₹2, and ₹5 account for 80.7% volume and 60.2% value).
+    - ₹2000 denomination withdrawal: **98.45%** of ₹3.56 lakh crore returned to the banking system.
+    - Total CBDC (e₹) in circulation reached **₹771.7 crore** as on March 31, 2026; retail programmable CBDC credited PDS food subsidies across Gujarat, Puducherry, and Chandigarh; wholesale CBDC tokenisation launched on CDs via Unified Markets Interface (UMI); cross-border CBDC MoUs with MAS and CBUAE; joined BIS Project Rialto and Mandala Phase 2.
+    - FICN counterfeit detection: Reserve Bank detected only **2.4%**; commercial banks detected **97.6%**. SBI holds highest share of Currency Chests. Legacy 'Paisa Bolta Hai' replaced by the **Indian Currency Microsite**. Print trials of varnished banknotes conducted at **BRBNMPL Mysuru Press**.
+  - **Cluster 3: Bank Frauds, Supervisory Reforms & Regulatory Modernisation**:
+    - Systemic frauds rose 46% to **₹48,021 crore** across 10,114 cases; PSBs account for **74.5%** (₹35,709 Cr), Private banks 23.7%; Loan Advances category dominated with **₹40,774 crore** (85% of total fraud value).
+    - Consolidation of Regulations: Over **11,000 circulars** condensed into **244 Master Directions**; 9,445 circulars repealed.
+    - DICGC flat-rate premium maintained at **₹0.12 (12 paise) per ₹100** p.a. (0.12% p.a.); coverage ₹5 lakh; Risk-Based Premium (RBP) framework effective April 1, 2026.
+    - Co-lending minimum retention lowered to **10%** (FLDG cover up to 5%).
+    - FREE-AI Framework anchored on **7 Sutras** and **6 Strategic Pillars** (26 recommendations); **MuleHunter.ai™** deployed by RBIH to flag mule accounts; Digital Payment Intelligence Platform (DPIP) instituted.
+  - **Cluster 4: Monetary Operations, Payment Systems & Organisational Milestones**:
+    - Symmetric policy corridor retained at **50 bps** (SDF -25 bps, MSF +25 bps).
+    - Call money trading hours extended to **7:00 PM**; repo/tri-party to **4:00 PM**.
+    - EBLR-linked floating loans: 50.6% at PSBs and 89.2% at Private Banks.
+    - UPI volume crossed **200 billion transactions** (+30% YoY), accounting for **86%** of all retail payment transactions; global merchant QR acceptance expanded to **8 countries**.
+    - NGRTGS upgraded to **Version 4.0** on ISO 20022 XML standard; bank websites mandated migration to **.bank.in** domains.
+    - Inward cheque clearing centralised at **Chennai Regional Office**.
+    - Reserve Bank adopted **Utkarsh 2029** (3-year horizon: 2026–29); **Shri Shirish Chandra Murmu** appointed Deputy Governor succeeding M. Rajeshwar Rao; official podcast **'RBI Talks: From Paisa to Policy'** launched (Tagline: *"RBI Kehta Hai... Smart Bano, Cool Raho"*).
+- **Master Files Harmonisation**: Aligned RBI Annual Report figures across 'IBPS_MAINS_35PLUS_MASTER_JAN_SEPT.md' and recompiled 'current_affairs_hub.html' and 'index.html' (502 verified clusters, zero heading anchor hashes).
+
 ## 🚀 [v1.4] — 2026-09-08
 
 ### 🏛️ May 2026 Master Dossier & Command Center Tab (`current_affairs_2026_may.md`)

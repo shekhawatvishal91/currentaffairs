@@ -214,30 +214,115 @@
 
 ---
 
-📰 **RBI Annual Report 2025–26: Balance Sheet Surges 20.6% to ₹91.97 Lakh Crore**
+📰 **RBI Annual Report 2025–26: Balance Sheet Surges 20.6% to ₹91.97 Lakh Crore & ₹2.89 Lakh Crore Surplus Transfer**
 
-- **Statutory Presentation**: Presented by the Central Board of Directors of RBI to the Central Government under **Section 53(2) of the Reserve Bank of India Act, 1934**.
+- **Statutory Submission**: Submitted by the Central Board of Directors of the Reserve Bank of India to the Central Government under **Section 53(2) of the Reserve Bank of India Act, 1934** (reporting period: **April 2025 – March 2026**).
 - **Balance Sheet Expansion**:
-  • Total balance sheet size expanded by **20.6%** (from ₹76.25 lakh crore as on 31 March 2025 to **₹91.97 lakh crore** as on 31 March 2026).
-  • **Contingency Fund (CF) Provision**: RBI transferred **₹1.09 lakh crore** to the Contingency Fund to maintain the Contingent Risk Buffer (CRB) within the mandated **5.50%–6.50%** band recommended by the Bimal Jalan Committee.
-- **Asset Composition**:
-  • **Domestic Assets**: Accounted for **29.1%** of total assets (domestic investments surged 44.9% to ₹22.59 lakh crore).
-  • **Foreign Assets**: Accounted for **70.9%** of total assets (foreign investments rose 7.9% to ₹52.68 lakh crore; gold holdings surged 63.8% to ₹10.94 lakh crore).
-- **Income & Forex Operations**:
-  • Net sale of foreign currency by RBI stood at **USD 53.13 billion** in FY26.
-  • Foreign exchange transactions generated net exchange gains of **₹1.69 lakh crore**.
-  • Rupee securities interest income grew 37.7% to ₹1.18 lakh crore; foreign securities interest grew 11.0% to ₹1.08 lakh crore.
-- **Bank Frauds Analysis**:
-  • Total fraud amount surged **46% to ₹48,021 crore** in FY26 (from ₹32,803 crore in FY25), despite fraud cases dropping to 10,114 (from 23,722).
-  • **Public Sector Banks (PSBs)**: Accounted for **74.5%** of total fraud value (**₹35,709 crore** across 3,000+ cases; average fraud value ₹6.6 crore/case).
-  • **Private Sector Banks**: Accounted for **23.7%** (₹11,399 crore).
-  • **Loan Advances Category**: Dominated systemic frauds, accounting for **₹40,774 crore** (85% of total fraud value across 8,640 cases).
+  • Total balance sheet size expanded by **20.6%** (an absolute increase of **₹15,71,699.15 crore**), rising from ₹76,25,421.93 crore as on March 31, 2025 to **₹91,97,121.08 crore** as on March 31, 2026.
+  • **Balance Sheet-to-GDP Ratio**: Stood at **26.4%** of India's GDP as of end-March 2026 (up from 23.7% a year ago).
+  • Initial paid-up capital of the Reserve Bank remains at **₹5 crore** (constituted as a private shareholders bank in 1935, fully nationalised on January 1, 1949).
+- **Surplus Transfer & Contingent Risk Buffer (CRB)**:
+  • **Surplus Transfer to Central Government**: RBI approved a total surplus transfer of **₹2,88,588.45 crore** (₹2.89 lakh crore) for FY26 (up 7.3% from ₹2,68,588.07 crore in FY25). Total available balance was ₹2,88,592.45 crore (with ₹4 crore statutory contributions: ₹1 crore each to National Industrial Credit Long Term Operations Fund, National Housing Credit LTO Fund, and ₹1 crore each transferable to NABARD for National Rural Credit LTO Fund and National Rural Credit Stabilisation Fund).
+  • **Economic Capital Framework (ECF / Bimal Jalan Committee)**: Mandates CRB within **4.5% to 7.5%** of balance sheet. The Central Board approved maintaining the CRB at the upper cap of **6.5%**.
+  • **Contingency Fund (CF) Allocation**: RBI made a provision of **₹1,09,379.64 crore** (~₹1.09 lakh crore) transferred to CF during the year. No provision was made towards Asset Development Fund (ADF).
+- **Asset Composition & Financial Performance**:
+  • **Total Income**: Increased by **26.4%**, while total expenditure rose by **102.4%**.
+  • **Foreign Assets (70.9%)**: Foreign investments rose 7.9% to ₹52.68 lakh crore; sovereign gold holdings jumped **63.8%** to ₹10.94 lakh crore. Net sale of foreign exchange stood at **USD 53.13 billion**, yielding net exchange gains of **₹1.69 lakh crore**.
+  • **Domestic Assets (29.1%)**: Rose 44.9% to ₹22.59 lakh crore. Rupee securities interest income grew 37.7% to ₹1.18 lakh crore.
+  • **Liabilities Breakdown**: Revaluation accounts (+63.4%), Notes issued (+11.8%), Deposits (+11.6%), Other liabilities (+21.1%).
 
 🎯 Exam Angle →
-• RBI Balance Sheet Size: **₹91.97 lakh crore** (+20.6% growth).
-• Provision to Contingency Fund: **₹1.09 lakh crore**.
-• Foreign vs Domestic Assets: Foreign = **70.9%**, Domestic = **29.1%**.
-• Bank Fraud Value: Rose 46% to **₹48,021 crore**; PSBs contributed **74.5%**; Advances fraud = **₹40,774 crore**.
+• Total Balance Sheet Size: **₹91,97,121.08 crore** (+20.6% YoY growth; **26.4% of GDP**).
+• Surplus Transferred to GoI: **₹2,88,588.45 crore** (FY25: ₹2,68,588.07 crore).
+• Provision to Contingency Fund (CF): **₹1,09,379.64 crore** (CRB pegged at **6.5%**; ECF band: 4.5%–7.5%).
+• Section Applied: Section 53(2) for Annual Report submission; initial capital remains ₹5 crore (nationalised Jan 1, 1949).
+
+---
+
+📰 **RBI Annual Report 2025–26: Currency Management, Counterfeits (FICNs) & Digital Rupee (e₹)**
+
+- **Banknotes & Coins in Circulation**:
+  • **Banknotes in Circulation (BiC)**: Increased by **11.9% in value** and **10.5% in volume** during 2025–26.
+  • **Highest Denomination Share**: In volume terms, the **₹500 denomination** constituted the highest share of total banknotes in circulation, followed by the **₹10 denomination**.
+  • **Coins in Circulation**: Total value increased by **11.4%**, while volume expanded by **4.5%**. Coins of ₹1, ₹2, and ₹5 together constituted **80.7% of total volume** and **60.2% of total value**.
+  • **₹2000 Note Withdrawal Status**: As of March 31, 2026, **98.45%** of the ₹3.56 lakh crore worth of ₹2000 banknotes in circulation at the time of the withdrawal announcement (May 19, 2023) had returned to the banking system. Facility remains active across 19 RBI Issue Offices.
+- **Central Bank Digital Currency (e₹)**:
+  • Total e₹ (CBDC) in circulation stood at **₹771.7 crore** as on March 31, 2026.
+  • Retail programmable CBDC pilots successfully credited food subsidies to Public Distribution System (PDS) beneficiaries across **Gujarat, Puducherry, and Chandigarh**.
+  • RBI launched the **Unified Markets Interface (UMI)** to facilitate tokenisation of financial assets using wholesale CBDC (first pilot launched on **Certificates of Deposit - CDs**).
+  • Bilateral cross-border CBDC discussions/MoUs held with **Monetary Authority of Singapore (MAS)** and **Central Bank of the UAE (CBUAE)**; joined BIS Innovation Hub's **Project Rialto** and **Project Mandala (Phase 2)**.
+- **Counterfeit Currency (FICNs) Detection**:
+  • **Share of Detection**: Only **2.4%** of total Fake Indian Currency Notes (FICNs) detected across the banking sector were detected at the Reserve Bank of India; **97.6%** were detected by commercial banks.
+  • **Denomination Trends**: Counterfeit notes detected in ₹10, ₹50, ₹100, ₹200, and ₹2000 denominations registered a marked decline; counterfeit ₹500 notes increased by **20.5%** and ₹20 notes increased by **47.4%**.
+  • **Currency Infrastructure & Awareness**: **State Bank of India (SBI)** accounted for the highest share of Currency Chests across India. RBI replaced its legacy 'Paisa Bolta Hai' portal with the comprehensive **Indian Currency Microsite** on September 10, 2025. Print trials of varnished banknotes were conducted at **BRBNMPL Mysuru Press**.
+
+🎯 Exam Angle →
+• Total CBDC (e₹) in Circulation: **₹771.7 crore** (as of March 31, 2026).
+• ₹2000 Note Return Rate: **98.45%** of ₹3.56 lakh crore total value returned.
+• FICN Detection Share: Reserve Bank detected **2.4%**; Commercial Banks detected **97.6%**.
+• Banknote Value/Volume Growth: Value grew **11.9%**; Volume grew **10.5%** (₹500 note leads volume share).
+• Largest Currency Chest Holder: **State Bank of India (SBI)**.
+
+---
+
+📰 **RBI Annual Report 2025–26: Bank Frauds, Supervisory Reforms & Regulatory Modernisation**
+
+- **Systemic Fraud Surge**:
+  • Total fraud amount surged **46% to ₹48,021 crore** in 2025–26 (from ₹32,803 crore in FY25), even as total reported fraud incidents fell by more than half to 10,114 cases.
+  • **Public Sector Banks (PSBs)**: Accounted for **74.5%** of total fraud value (**₹35,709 crore** across 3,000+ cases; average fraud size ₹6.6 crore).
+  • **Private Sector Banks**: Accounted for **23.7%** (₹11,399 crore).
+  • **Dominant Segment**: **Loan Advances** accounted for **85%** of total fraud value (**₹40,774 crore** across 8,640 cases).
+- **Consolidation of Regulations Exercise**:
+  • To streamline compliance, more than **11,000 circulars and instructions** were consolidated into **244 Master Directions (MDs)** covering 30 functional areas across 11 classes of Regulated Entities (REs), repealing **9,445 circulars**.
+  • RBI also released **64 draft master directions** across 9 functional supervisory areas.
+- **Deposit Insurance & Supervisory Governance**:
+  • **DICGC Premium**: Deposit Insurance and Credit Guarantee Corporation (established under DICGC Act, 1961) maintained a flat-rate premium of **₹0.12 (12 paise) per ₹100 per annum** (0.12% p.a.) on assessable deposits; coverage limit intact at **₹5 lakh** per depositor per bank.
+  • **Risk-Based Premium (RBP) Framework**: Introduced effective **April 1, 2026**, establishing a 2-tier risk-based rating methodology (Tier 1: SCBs other than RRBs; Tier 2: RRBs, rural co-op banks, and UCBs).
+  • **Registered Insured Banks**: Stood at **1,950** as of March 31, 2026 (124 commercial banks including 11 SFBs, 6 PBs, 28 RRBs, 2 LABs; and 1,826 co-operative banks).
+  • **Supervisory Data Quality Index (sDQI)**: Published on a **quarterly** basis under Utkarsh 2.0.
+  • **Co-Lending Framework Revision**: Reduced minimum loan share retention by Regulated Entities from 20% to **10%**, and extended First Loss Default Guarantee (FLDG) coverage up to **5%**.
+- **AI Governance & FinTech Architecture**:
+  • **FREE-AI Framework**: RBI formulated the *Framework for Responsible and Ethical Enablement of Artificial Intelligence* anchored on **7 Sutras** and **6 Strategic Pillars** (26 recommendations: 13 on innovation enablement, 13 on risk mitigation).
+  • **MuleHunter.ai™**: AI/ML supervised model developed by RBI Innovation Hub (RBIH) to identify mule bank accounts in near-real time.
+  • **Digital Payment Intelligence Platform (DPIP)**: Established as a collaborative network-level digital intelligence utility to combat payment fraud.
+
+🎯 Exam Angle →
+• Consolidation of Regulations: **11,000+ circulars** condensed into **244 Master Directions**; 9,445 repealed.
+• DICGC Flat Premium: **0.12% per annum** (12 paise per ₹100); RBP framework effective **April 1, 2026**.
+• Co-Lending Retention Minimum: Lowered to **10%** (FLDG cover up to **5%**).
+• FREE-AI Architecture: **7 Sutras** + **6 Pillars** + **26 Recommendations**; Mule detector = **MuleHunter.ai™**.
+• Total System Frauds: **₹48,021 crore** (PSBs = 74.5%; Advances = ₹40,774 crore / 85%).
+
+---
+
+📰 **RBI Annual Report 2025–26: Monetary Operations, Payment Systems & Organisational Milestones**
+
+- **Monetary Policy Operations & Corridors**:
+  • **Policy Corridor**: Retained a symmetric policy corridor of **50 bps** around the policy repo rate (SDF at -25 bps, MSF at +25 bps).
+  • **Call Money & Repo Market Timings**: Call money market trading hours extended to **7:00 PM** (effective July 1, 2025; 9:00 AM – 7:00 PM); tri-party and market repo extended to **4:00 PM** (effective August 1, 2025).
+  • **Liquidity Stance**: Average daily net absorption under LAF rose to **₹1.86 lakh crore** (from ₹1,605 crore in FY25); SDF accounted for **84.9%** (₹2.02 lakh crore) of total absorption. WACR spread averaged **(-) 7 bps** below the repo rate.
+  • **External Benchmark Lending Rate (EBLR)**: As of December 2025, EBLR-linked loans accounted for **50.6%** of floating-rate loans at Public Sector Banks and **89.2%** at Private Sector Banks.
+- **Payment & Settlement Infrastructure**:
+  • **UPI Volume & Dominance**: UPI volume surged **30% YoY**, crossing **200 billion transactions**; UPI's share in total retail payment transactions reached **86%**.
+  • **Global UPI Footprint**: QR-code merchant acceptance operational in **8 countries** (Bhutan, France, Mauritius, Nepal, Qatar, Singapore, Sri Lanka, and the UAE).
+  • **NGRTGS Upgraded to Version 4.0**: Built on the international **ISO 20022 XML messaging standard**; RTGS transaction volume grew **15.7%** (value rose 12.9%).
+  • **Banking Web Domains**: Under Phase 1, bank websites mandated to migrate to exclusive **.bank.in** domains by October 31, 2025.
+  • **Cheque Clearing Centralisation**: Inward clearing centralised by setting up a national service branch at **Chennai Regional Office**, replacing decentralised operations across 19 ROs.
+  • **PRAVAAH Portal**: Centralised web portal for regulatory approvals and licensing processed over 90%+ digitised flows.
+- **Organisational & Institutional Governance**:
+  • **Utkarsh 2029**: Reserve Bank adopted its next medium-term strategy framework covering a **3-year horizon (2026–29)** across 6 strategic pillars.
+  • **Leadership Changes**: **Shri Shirish Chandra Murmu** appointed Deputy Governor succeeding Shri M. Rajeshwar Rao (tenure completed October 8, 2025); **Ms. Anuradha Thakur** nominated Central Board Director succeeding Shri Ajay Seth (July 24, 2025).
+  • **Public Engagement**: Launched official podcast series **'RBI Talks: From Paisa to Policy'** on January 1, 2026 (debut episode on KYC). Nationwide public awareness tagline: *"RBI Kehta Hai... Smart Bano, Cool Raho"*.
+  • **Training & Infrastructure**: Reserve Bank Staff College (RBSC) located in **Chennai**; College of Agricultural Banking (CAB) in **Pune**; College of Supervisors (CoS) in **Mumbai**; ECCTI in **Bhubaneswar**.
+
+🎯 Exam Angle →
+• UPI Transaction Metrics: Over **200 billion transactions** (+30% YoY); **86% share** of total retail payments.
+• QR-Code Global Footprint: Operational across **8 nations**.
+• NGRTGS Upgrade: Upgraded to **Version 4.0** (ISO 20022 messaging standard).
+• Bank Domain Transition: **.bank.in** mandatory migration date October 31, 2025.
+• Utkarsh 2029 Horizon: **3-year cycle (2026–2029)**.
+• Official RBI Podcast: **'RBI Talks: From Paisa to Policy'** (Tagline: *"Smart Bano, Cool Raho"*).
+• Deputy Governor Appointment: **Shri Shirish Chandra Murmu** (succeeding M. Rajeshwar Rao).
 
 ---
 

@@ -105,15 +105,16 @@
 ---
 
 📰 **RBI Annual Report 2025-26: Balance Sheet & Surplus Transfer to Centre**
-- **Record Balance Sheet Expansion**: RBI's balance sheet expanded by 11.08% YoY to reach **₹70.47 lakh crore**, driven by foreign exchange asset accumulation and domestic gold reserves.
-- **Record Dividend / Surplus Transfer**: Approved a record surplus transfer of **₹2.11 lakh crore to the Central Government for FY26** (cushioning the Union fiscal deficit).
-- **Contingency Risk Buffer (CRB)**: Maintained the Contingency Risk Buffer within the recommended **Economic Capital Framework (ECF / Bimal Jalan Committee)** band at **6.50%**.
-- **Reserve Asset Composition**: Foreign currency assets and sovereign gold reserves constitute over 72% of total balance sheet assets.
+- **Record Balance Sheet Expansion**: RBI's balance sheet expanded by **20.6% YoY** (an increase of ₹15,71,699.15 crore) to reach **₹91,97,121.08 crore** (₹91.97 lakh crore, representing **26.4% of India's GDP** as of end-March 2026), driven by domestic investments (+44.9%), sovereign gold holdings (+63.8%), and foreign currency assets (+7.9%).
+- **Record Surplus Transfer**: Approved a massive surplus transfer of **₹2,88,588.45 crore** (~₹2.89 lakh crore) to the Central Government for FY26 (up 7.3% from ₹2,68,588.07 crore in FY25), submitted under **Section 53(2)** of the RBI Act, 1934.
+- **Contingency Risk Buffer (CRB)**: Maintained the Contingency Risk Buffer at **6.50%** of the balance sheet (within the mandated 4.5%–7.5% band recommended by the **Bimal Jalan Committee** on Economic Capital Framework), with a provision transfer of **₹1,09,379.64 crore** to the Contingency Fund (CF).
+- **Reserve Asset Composition**: Foreign assets account for **70.9%** (₹52.68 lakh crore foreign investments + ₹10.94 lakh crore gold) and domestic assets account for **29.1%** (₹22.59 lakh crore) of total balance sheet assets.
 
 🎯 Exam Angle →
-• Rupee Figures Pair: Balance sheet size = **₹70.47 lakh crore**; Surplus transfer to Centre = **₹2.11 lakh crore**.
+• Rupee Figures Pair: Balance sheet size = **₹91,97,121.08 crore** (₹91.97 Lakh Cr); Surplus transfer to Centre = **₹2,88,588.45 crore** (~₹2.89 Lakh Cr).
+• Provision to Contingency Fund: **₹1,09,379.64 crore** (CRB maintained at **6.50%**).
 • Committee Name: Reserve transfer framework is governed by the **Bimal Jalan Committee (2019)**.
-• Target MCQ Form: "What was the total surplus transfer approved by the RBI Board to the Central Government for FY26?" → ₹2.11 Lakh Crore.
+• Target MCQ Form: "What was the total surplus transfer approved by the RBI Board to the Central Government for FY26?" → ₹2,88,588.45 Crore (~₹2.89 Lakh Crore).
 
 ---
 
