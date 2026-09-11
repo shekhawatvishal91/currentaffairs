@@ -54,10 +54,10 @@
 
 📰 **DPIIT — FDI Equity Inflows, Apr–Dec FY26**
 
-- **India received **$47.87**: billion** FDI equity inflows (Apr–Dec FY26)
-- **Top source**: **Singapore** ($17.6 bn, 37% share) → US (16%) → Mauritius (10%)
-- **Top sector**: Computer Software & Hardware (22%, $10.7 bn) → Services (Financial/Banking/R&D) 18%
-- **Top state**: **Maharashtra** ($15.38 bn) → Karnataka ($11.15 bn)
+- **India received **\$47.87**: billion** FDI equity inflows (Apr–Dec FY26)
+- **Top source**: **Singapore** (\$17.6 bn, 37% share) → US (16%) → Mauritius (10%)
+- **Top sector**: Computer Software & Hardware (22%, \$10.7 bn) → Services (Financial/Banking/R&D) 18%
+- **Top state**: **Maharashtra** (\$15.38 bn) → Karnataka (\$11.15 bn)
 - **DPIIT**: HQ New Delhi | Secretary Amardeep Singh Bhatia
 
 🎯 Exam Angle → Singapore as top FDI source (37%) is the headline trap vs. US.
@@ -89,9 +89,9 @@
 
 📰 **World Bank/ADB Loans — Amaravati & Rajasthan Highways** *(merged cluster)*
 
-- **Amaravati Capital Phase-I:** World Bank released $340 mn (of $800 mn committed each by WB & ADB = $1,600 mn total); 6-yr grace, 29-yr maturity
-- **Rajasthan Highway Modernisation:** World Bank (via IBRD) approved **$225 million** (~₹2,000 crore) for 800 km of highway upgrades — India's **1st step-up loan structure**; 35-yr maturity, 5-yr grace
-- **India–Maldives:** 1st withdrawal of ₹30 billion under SAARC Currency Swap Framework (since 2012, RBI has provided $1.1 bn aggregate swap support to Maldives)
+- **Amaravati Capital Phase-I:** World Bank released \$340 mn (of \$800 mn committed each by WB & ADB = \$1,600 mn total); 6-yr grace, 29-yr maturity
+- **Rajasthan Highway Modernisation:** World Bank (via IBRD) approved **\$225 million** (~₹2,000 crore) for 800 km of highway upgrades — India's **1st step-up loan structure**; 35-yr maturity, 5-yr grace
+- **India–Maldives:** 1st withdrawal of ₹30 billion under SAARC Currency Swap Framework (since 2012, RBI has provided \$1.1 bn aggregate swap support to Maldives)
 
 🎯 Exam Angle → Rajasthan highway loan = India's first "step-up loan structure" — a good first-ever trap.
 
@@ -220,9 +220,9 @@
 📰 **RBI — Forex Rule Easing for Banks (Related-Party Hedging)**
 
 - **Related-party back-to-back hedging**: (incl. overseas branches) allowed if genuine risk-offsetting — not treated as speculative
-- **$100 million Net Open Position (NOP)** limit unchanged (capped March 27, 2026)
+- **\$100 million Net Open Position (NOP)** limit unchanged (capped March 27, 2026)
 
-🎯 Exam Angle → $100 million NOP limit is the number to retain; don't confuse with the earlier April 1 tightening it partially eased.
+🎯 Exam Angle → \$100 million NOP limit is the number to retain; don't confuse with the earlier April 1 tightening it partially eased.
 
 ---
 
@@ -374,9 +374,9 @@
 📰 **Andhra Pradesh — Amaravati & Google Cloud AI Hub Cluster**
 
 - **Amaravati given constitutional**: capital status (see Part 1's PIB section for the Bill)
-- **Google Cloud India AI Hub** at Visakhapatnam: **$15 billion** investment over 2026–2030 — India's single largest FDI since independence; gigawatt-scale AI ecosystem across 600 acres; JV support from AdaniConneX (data centre) & Nxtra by Airtel (fibre/subsea cable); ~2 lakh jobs targeted; completion by Sept 2028
+- **Google Cloud India AI Hub** at Visakhapatnam: **\$15 billion** investment over 2026–2030 — India's single largest FDI since independence; gigawatt-scale AI ecosystem across 600 acres; JV support from AdaniConneX (data centre) & Nxtra by Airtel (fibre/subsea cable); ~2 lakh jobs targeted; completion by Sept 2028
 
-🎯 Exam Angle → 🔥 HIGH — "India's largest FDI since independence" + $15 billion figure is the standout trap.
+🎯 Exam Angle → 🔥 HIGH — "India's largest FDI since independence" + \$15 billion figure is the standout trap.
 
 ---
 
@@ -449,7 +449,7 @@
 - **IUCN Red List**: **Emperor penguin** & **Antarctic fur seal** uplisted to 'Endangered'; Southern elephant seal moved to 'Vulnerable' (HPAI/bird flu-linked)
 - **World Bank's **"Water Forward"** platform**— global water security target for 1 billion people by 2030 (India: ~100 million people, 2025–2030)
 - **UNESCO designated 12**: new **Global Geoparks** → network now 241 sites in 51 countries
-- **Jordan** joined India-led ISA, CDRI, and GBA; India–Jordan trade target raised from $3 bn to ~$5 bn
+- **Jordan** joined India-led ISA, CDRI, and GBA; India–Jordan trade target raised from \$3 bn to ~\$5 bn
 
 🚫 Skipped (low yield): India's 1st Iranian crude shipment article-2 duplicate details already covered above
 
@@ -557,9 +557,9 @@
 
 📰 **Ranks/Reports Standing-Exception Items** *(cross-referenced here since defence-adjacent)*
 
-- **SIPRI "Trends in World Military Expenditure 2025"**: India now world's **5th-largest military spender** ($92.1 bn, +8.9%); global spend hit record $2.89 trillion (2.5% of global GDP, highest since 2009); Top 5 — US, China, Russia, Germany, India
+- **SIPRI "Trends in World Military Expenditure 2025"**: India now world's **5th-largest military spender** (\$92.1 bn, +8.9%); global spend hit record \$2.89 trillion (2.5% of global GDP, highest since 2009); Top 5 — US, China, Russia, Germany, India
 
-🎯 Exam Angle → 🔥 HIGH — India's rank (5th) and spend figure ($92.1 bn) — standing "top spenders" list is a recurring exam favourite.
+🎯 Exam Angle → 🔥 HIGH — India's rank (5th) and spend figure (\$92.1 bn) — standing "top spenders" list is a recurring exam favourite.
 
 ---
 
@@ -600,12 +600,12 @@
 
 📰 **India's Global Rankings Cluster** *(all Tier A — indices are a standing exception)*
 
-- **IMF World Economic Outlook (April 2026):** India slipped 2 spots to **6th-largest economy** (nominal GDP $4.15 trillion) — behind US, China, Germany, Japan, UK — mainly due to ~11% Rupee depreciation and MoSPI's GDP base-year revision (2011-12 → 2022-23). Still fastest-growing major economy at 6.5% projected FY26 growth.
+- **IMF World Economic Outlook (April 2026):** India slipped 2 spots to **6th-largest economy** (nominal GDP \$4.15 trillion) — behind US, China, Germany, Japan, UK — mainly due to ~11% Rupee depreciation and MoSPI's GDP base-year revision (2011-12 → 2022-23). Still fastest-growing major economy at 6.5% projected FY26 growth.
 - **IRENA "Renewable Energy Statistics 2026":** India ranks **3rd globally** in renewable energy installed capacity (past Brazil, after China & US)
 - **Knight Frank "Wealth Report 2026":** India = 6th largest UHNWI market (19,877 ultra-rich, 2.8% global share); 207 billionaires (3rd globally after US, China)
-- **Bloomberg Billionaires Index 2026:** **Gautam Adani** ($92.6 bn) overtook **Mukesh Ambani** ($90.8 bn) to reclaim Asia's richest-person title; Elon Musk world's richest ($656 bn)
-- **Tracxn India Tech Annual Funding Report 2026:** India 4th-highest funded country globally ($11.7 bn, ↓18% YoY); 47 IPOs (↑52%); 6 new unicorns
-- **Trade shift:** China overtook the US as India's **largest trading partner** in FY26 ($151.1 bn bilateral trade); India's trade deficit with China hit an all-time high of $112.6 bn
+- **Bloomberg Billionaires Index 2026:** **Gautam Adani** (\$92.6 bn) overtook **Mukesh Ambani** (\$90.8 bn) to reclaim Asia's richest-person title; Elon Musk world's richest (\$656 bn)
+- **Tracxn India Tech Annual Funding Report 2026:** India 4th-highest funded country globally (\$11.7 bn, ↓18% YoY); 47 IPOs (↑52%); 6 new unicorns
+- **Trade shift:** China overtook the US as India's **largest trading partner** in FY26 (\$151.1 bn bilateral trade); India's trade deficit with China hit an all-time high of \$112.6 bn
 
 💼 Interview Q → *Why did India's global GDP ranking fall despite strong domestic growth?* → It's a currency-translation effect — ~11% Rupee depreciation plus a GDP base-year revision reduced the dollar value of India's GDP, even though real growth (6.5%) remained the highest among major economies.
 

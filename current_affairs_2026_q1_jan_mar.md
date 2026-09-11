@@ -14,7 +14,7 @@
 
 🪝 Hook — India overtook Japan to become the world's 4th-largest economy in January, and a month later Nirmala Sitharaman used her record 9th-consecutive Budget to lock in a falling fiscal deficit and a ₹1,000 crore semiconductor push.
 
-- **Global Economic Milestone**: India officially surpassed Japan to become the **world's 4th-largest economy with a GDP of $4.18 trillion**, targeting 3rd position by 2030 by overtaking Germany ($7.3 trillion projected).
+- **Global Economic Milestone**: India officially surpassed Japan to become the **world's 4th-largest economy with a GDP of \$4.18 trillion**, targeting 3rd position by 2030 by overtaking Germany (\$7.3 trillion projected).
 - **Quarterly & Annual GDP Trajectory**: Real GDP expanded by **8.2% in Q2 FY26** (accelerating from 7.8% in Q1 and 7.4% in Q4 FY25); the National Statistical Office (NSO) 1st Advance Estimates pegged **FY26 real GDP growth at 7.4%** (₹201.90 lakh crore).
 - **Economic Survey 2025-26 Projections**: Tabled on January 29 by Finance Minister Nirmala Sitharaman and authored by CEA V. Anantha Nageswaran; projected **FY27 real GDP growth at 6.8%–7.2%**; banking health strengthened with Gross NPA at 2.2% and Net NPA at 0.5% (Sep 2025); fiscal deficit projected to decline to 4.4% of GDP in FY26 (down from 9.2% in FY21).
 - **Global Agency Forecast Consensus**: Multilateral institutions aligned around moderated growth — World Bank projected 6.5%, IMF forecast 6.6%/6.2%, and Moody's projected 6.4%/6.5% (OECD, S&P, ADB, and Fitch projected within a similar 6.3%–6.7% band).
@@ -29,7 +29,7 @@
 
 🧠 Mnemonic → "9th, 4.3, 4.4" — 9th consecutive Budget, 4.3% fiscal deficit target, 4.4% capex-to-GDP.
 
-🎯 Exam Angle → 🔥 HIGH — Two separate "most Budgets" records must not be conflated: Morarji Desai = most Budgets overall (10), Nirmala Sitharaman = most **consecutive** (9). Also lock in "4th-largest economy, $4.18 trillion" vs the 2030 target of 3rd place ($7.3 trillion).
+🎯 Exam Angle → 🔥 HIGH — Two separate "most Budgets" records must not be conflated: Morarji Desai = most Budgets overall (10), Nirmala Sitharaman = most **consecutive** (9). Also lock in "4th-largest economy, \$4.18 trillion" vs the 2030 target of 3rd place (\$7.3 trillion).
 
 💼 Interview Q → *"How does the FY27 Budget's fiscal path align with the Economic Survey's own projections?"* — The Economic Survey (Jan 29) projected FY27 growth moderating to 6.8-7.2% from FY26's 7.4%, and the Budget (Feb 1) responded with a tighter fiscal deficit target of 4.3% (from 4.4%) and a 9% capex hike — both documents show the government leaning on public investment to offset an expected growth slowdown rather than fiscal loosening.
 
@@ -78,12 +78,12 @@
 
 📰 **India's Current Account Deficit & Trade Data** *(March)*
 
-- **Quarterly Current Account Dynamics**: India's Current Account Deficit (CAD) widened to **$13.2 billion (1.3% of GDP)** in Q3 FY25 (compared to $11.3 billion / 1.1% of GDP in Q2 FY25), driven by merchandise trade gaps.
-- **Cumulative 9-Month Trajectory**: For April–December 2025, cumulative CAD remained contained at **$30.1 billion (1.0% of GDP)**, supported by robust software services exports and resilient private remittances.
-- **Monthly External Trade Snapshot (Feb 2026)**: Total monthly exports reached **$76.13 billion** (+11.05% YoY), while total monthly imports expanded to **$80.09 billion** (+21.64% YoY).
-- **11-Month Cumulative External Trade (Apr–Feb FY26)**: Cumulative merchandise and services exports totaled **$790.86 billion** (+5.79%), while imports reached **$900.51 billion** (+7.37%).
+- **Quarterly Current Account Dynamics**: India's Current Account Deficit (CAD) widened to **\$13.2 billion (1.3% of GDP)** in Q3 FY25 (compared to \$11.3 billion / 1.1% of GDP in Q2 FY25), driven by merchandise trade gaps.
+- **Cumulative 9-Month Trajectory**: For April–December 2025, cumulative CAD remained contained at **\$30.1 billion (1.0% of GDP)**, supported by robust software services exports and resilient private remittances.
+- **Monthly External Trade Snapshot (Feb 2026)**: Total monthly exports reached **\$76.13 billion** (+11.05% YoY), while total monthly imports expanded to **\$80.09 billion** (+21.64% YoY).
+- **11-Month Cumulative External Trade (Apr–Feb FY26)**: Cumulative merchandise and services exports totaled **\$790.86 billion** (+5.79%), while imports reached **\$900.51 billion** (+7.37%).
 
-🎯 Exam Angle → Do not confuse quarterly CAD ($13.2 bn / 1.3% of GDP in Q3) with the lower cumulative 9-month figure ($30.1 bn / 1.0% of GDP).
+🎯 Exam Angle → Do not confuse quarterly CAD (\$13.2 bn / 1.3% of GDP in Q3) with the lower cumulative 9-month figure (\$30.1 bn / 1.0% of GDP).
 
 ---
 
@@ -208,27 +208,27 @@
 🪝 Hook — Across two months, RBI held the repo rate steady while quietly reshaping bank dividends, MSME lending, deposit insurance, acquisition financing, and even rolling out its first-ever 90-day repo — a genuinely dense two-month regulatory sweep from one institution.
 
 - **Monetary Policy Stance**: Held Repo Rate unchanged at **5.25%** with a neutral stance through both January and the February MPC review (reconfirmed through August 2026); Feb MPC projected FY26 GDP growth at 7.4% and CPI at ~2.1%.
-- **Unprecedented Liquidity Operations**: Conducted RBI's **first-ever 90-day Variable Rate Repo (VRR)** auction for ₹25,000 crore on January 30, 2026 (shattering the previous record tenor of 56 days); formed part of a ₹2.15 lakh crore liquidity package including a **$10 billion 3-year USD/INR Buy-Sell Swap** and ₹1 lakh crore in Open Market Operation (OMO) purchases.
+- **Unprecedented Liquidity Operations**: Conducted RBI's **first-ever 90-day Variable Rate Repo (VRR)** auction for ₹25,000 crore on January 30, 2026 (shattering the previous record tenor of 56 days); formed part of a ₹2.15 lakh crore liquidity package including a **\$10 billion 3-year USD/INR Buy-Sell Swap** and ₹1 lakh crore in Open Market Operation (OMO) purchases.
 - 🔄 **Bank Dividend Payout Ceiling Finalised**: Replaced the decades-old 40% cap with a graded capital-linked framework finalised in March 2026: **maximum dividend payout capped at 75% of Profit After Tax (PAT)** for commercial banks maintaining a Common Equity Tier 1 (CET1) ratio ≥13.0%, while foreign bank branches may remit up to **80% of net profits**.
 - **MSME & Priority Sector Lending (PSL) Realignment**: Raised the mandatory collateral-free loan ceiling for Micro and Small Enterprises (MSEs) from **₹10 lakh to ₹20 lakh** (effective April 1, 2026); corrected Small Finance Bank (SFB) priority sector lending target to **60% of Adjusted Net Bank Credit (ANBC)** (correcting a typographical notification error of 75%); proposed a 3-year cooling-off gap for UCB directors after 10 continuous board years.
-- **External Commercial Borrowings (ECB) Liberalisation**: Raised the automatic ECB borrowing ceiling to the higher of **$1 billion or 300% of borrower net worth** (up from $750 million), following a record $61 billion raised by Indian corporations in FY25.
+- **External Commercial Borrowings (ECB) Liberalisation**: Raised the automatic ECB borrowing ceiling to the higher of **\$1 billion or 300% of borrower net worth** (up from \$750 million), following a record \$61 billion raised by Indian corporations in FY25.
 - **Institutional MoUs & Governance**: Signed bilateral MoU with the **European Securities and Markets Authority (ESMA)** restoring EU bank access to Indian Central Counterparties (CCPs); signed historic agreement with **Delhi Government** to act as its debt manager and banker enabling municipal market borrowing; formally recognized **FEDAI** (Foreign Exchange Dealers' Association of India, est. 1958) as an official SRO.
 - **Operational & Technology Infrastructure**: Commissioned RBI's 2nd state-of-the-art data centre in **Bhubaneswar, Odisha** (Tier IV certified, backing up primary Kharghar, Navi Mumbai centre); Digital Payments Index (DPI) rose to **516.76** (Sep 2025) from 465.33; annual gold purchases dipped 94% to **4.02 tonnes in 2025** (8-year low) while total sovereign gold reserves touched a record **880.2 tonnes**.
 
-🎯 Exam Angle → 🔥 HIGH — 5 high-yield anchors: (1) 5.25% repo rate, (2) first-ever 90-day VRR auction, (3) 75% bank dividend payout cap (80% for foreign branches), (4) MSME collateral-free loan doubled to ₹20 lakh, and (5) ECB limit raised to $1 billion.
+🎯 Exam Angle → 🔥 HIGH — 5 high-yield anchors: (1) 5.25% repo rate, (2) first-ever 90-day VRR auction, (3) 75% bank dividend payout cap (80% for foreign branches), (4) MSME collateral-free loan doubled to ₹20 lakh, and (5) ECB limit raised to \$1 billion.
 
-💼 Interview Q → *"Why did RBI need its first-ever 90-day repo in January 2026?"* — Advance-tax and GST outflows created an unusually large systemic cash crunch in late January; RBI's previous longest VRR tenor was 56 days, so extending to 90 days (alongside a $10bn FX swap and OMO purchases) reflected the scale of the liquidity gap it needed to bridge before the repo rate's own February review.
+💼 Interview Q → *"Why did RBI need its first-ever 90-day repo in January 2026?"* — Advance-tax and GST outflows created an unusually large systemic cash crunch in late January; RBI's previous longest VRR tenor was 56 days, so extending to 90 days (alongside a \$10bn FX swap and OMO purchases) reflected the scale of the liquidity gap it needed to bridge before the repo rate's own February review.
 
 ---
 
 📰 **RBI — Other Regulatory Actions Cluster** *(Feb + March, merged)*
 
 - **Lead Bank Scheme Reform (1969)**: Published draft overhaul mandating a minimum Credit-Deposit (CD) ratio of **60% in rural and semi-urban districts**; mandated that districts exhibiting a CD ratio below 20% be categorized as 'special category districts' for accelerated credit monitoring.
-- **Capital Markets & Financial Derivatives Oversight**: Mandated Unique Trade Identifiers (**UTI**) for all Over-The-Counter (OTC) derivative transactions effective **January 1, 2027**; renewed the **RBI–Bank of Japan Bilateral Swap Arrangement (3rd Amendment)** holding the facility size constant at **$75 billion**.
+- **Capital Markets & Financial Derivatives Oversight**: Mandated Unique Trade Identifiers (**UTI**) for all Over-The-Counter (OTC) derivative transactions effective **January 1, 2027**; renewed the **RBI–Bank of Japan Bilateral Swap Arrangement (3rd Amendment)** holding the facility size constant at **\$75 billion**.
 - **Supervisory Enforcement Actions**: Imposed ₹1.35 crore in penalties across 5 institutions in Feb (CSB Bank ₹63.6L, BoM ₹32.5L); March enforcement penalized Union Bank of India (₹95.40L), Central Bank of India (₹63.60L), Bank of India (₹58.50L), and Pine Labs (₹3.10L) for compliance infractions.
 - **Long-Term Strategic Payment Blueprints**: Released **"Payments Vision 2028"** themed *"Shaping India's Payment Frontier"*, planning Trade Receivables Discounting System (TReDS) interoperability and consumer-facing payment 'switch on/off' security controls; Board approved **"Utkarsh 3.0" (2026–2029)** Medium Term Strategy at its 622nd meeting in Patna.
 
-🎯 Exam Angle → $75 billion Bilateral Swap Arrangement with Bank of Japan, Lead Bank 60% rural/semi-urban CD ratio, and the UTI derivative reporting mandate effective Jan 1, 2027.
+🎯 Exam Angle → \$75 billion Bilateral Swap Arrangement with Bank of Japan, Lead Bank 60% rural/semi-urban CD ratio, and the UTI derivative reporting mandate effective Jan 1, 2027.
 
 ---
 
@@ -335,9 +335,9 @@
 - **Pioneering Repo-Linked Savings & CBDC**: Fintech unicorn **Slice** rolled out India's 1st digital savings bank account linked 100% to the prevailing RBI repo rate, integrated with credit card transactions on UPI; **HDFC Bank** integrated RBI's Digital Rupee (e₹/CBDC) into its 'SmartGateway' merchant processing infrastructure at zero merchant fee.
 - **Biometric Security & National Plugins**: **PhonePe** introduced biometric transaction authorization (fingerprint and Face ID) for UPI transfers capped at ₹5,000 per transaction; **Canara Bank** became the 1st commercial bank to deploy NPCI's Non-Bank Systemic Launcher (NBSL) plugin model via 'Canara ai1Pe'.
 - **Sovereign AI Collaboration**: NPCI partnered with **Nvidia** to build sovereign artificial intelligence infrastructure using Nvidia Nemotron open models, powering the 'UPI Help Assistant' on the specialized **FiMI** (Financial Model for India) framework.
-- **Cross-Border Retail Investment & Payments**: **NSE International Exchange (NSE IX)** launched the 'Global Access' portal at GIFT City allowing domestic retail investors to trade US equities under RBI's Liberalised Remittance Scheme (**LRS**, $250,000 annual limit); NPCI partnered with Malaysia's **PayNet** linking UPI with Malaysia's **DuitNow** network.
+- **Cross-Border Retail Investment & Payments**: **NSE International Exchange (NSE IX)** launched the 'Global Access' portal at GIFT City allowing domestic retail investors to trade US equities under RBI's Liberalised Remittance Scheme (**LRS**, \$250,000 annual limit); NPCI partnered with Malaysia's **PayNet** linking UPI with Malaysia's **DuitNow** network.
 
-🎯 Exam Angle → First repo-rate-linked savings account (Slice), Canara Bank's NBSL UPI plugin, PhonePe ₹5,000 biometric limit, and NSE IX Global Access via LRS ($250k ceiling).
+🎯 Exam Angle → First repo-rate-linked savings account (Slice), Canara Bank's NBSL UPI plugin, PhonePe ₹5,000 biometric limit, and NSE IX Global Access via LRS (\$250k ceiling).
 
 ---
 
@@ -364,12 +364,12 @@
 
 📰 **Other Tier-A Banking/Insurance Items** *(Feb + March, merged)*
 
-- **MIGA Refinancing Guarantee**: Multilateral Investment Guarantee Agency (MIGA, World Bank Group) issued a **$197.67 million political and financial risk guarantee** to Citibank for its credit line to State Bank of India, refinancing a 2016 $500 million World Bank rooftop solar program; requires SBI to direct ≥7.5% of domestic loan book to climate-positive assets.
-- **Banking Sector Equity Inflows & Foreign Ownership**: FDI equity inflows into Indian banking declined from $898 million in FY23 to **$115 million in FY25**; SBI recorded the highest foreign institutional holding among PSBs at 11.07%; Government considering increasing the foreign investment limit in PSBs from **20% to 49%** (retaining ≥51% sovereign equity).
+- **MIGA Refinancing Guarantee**: Multilateral Investment Guarantee Agency (MIGA, World Bank Group) issued a **\$197.67 million political and financial risk guarantee** to Citibank for its credit line to State Bank of India, refinancing a 2016 \$500 million World Bank rooftop solar program; requires SBI to direct ≥7.5% of domestic loan book to climate-positive assets.
+- **Banking Sector Equity Inflows & Foreign Ownership**: FDI equity inflows into Indian banking declined from \$898 million in FY23 to **\$115 million in FY25**; SBI recorded the highest foreign institutional holding among PSBs at 11.07%; Government considering increasing the foreign investment limit in PSBs from **20% to 49%** (retaining ≥51% sovereign equity).
 - **EPF Interest Rate Stability**: Central Board of Trustees of EPFO reaffirmed the annual Employees' Provident Fund interest rate at **8.25% for FY26**, maintaining the payout rate unchanged for the 3rd consecutive year.
 - **Capital Markets & Housing Platforms**: HDFC Securities launched specialized derivatives portal **"NxtOption"**; National Housing Bank (NHB) inaugurated **"Gruh Sugam Portal"**, a centralized digital mortgage marketplace specifically for Defence and Government personnel.
 
-🎯 Exam Angle → EPFO interest rate held at 8.25% for FY26 (3rd straight year); MIGA $197.67 million guarantee for SBI solar credit line; proposed PSB FDI cap hike from 20% to 49%.
+🎯 Exam Angle → EPFO interest rate held at 8.25% for FY26 (3rd straight year); MIGA \$197.67 million guarantee for SBI solar credit line; proposed PSB FDI cap hike from 20% to 49%.
 
 ---
 
@@ -417,11 +417,11 @@
 
 📰 **India-UAE Strategic & Trade Package**
 
-- **Long-Term Bilateral Trade Horizon**: New Delhi and Abu Dhabi agreed to accelerate economic cooperation to **double bilateral non-oil merchandise and services trade to $200 billion by 2032**.
+- **Long-Term Bilateral Trade Horizon**: New Delhi and Abu Dhabi agreed to accelerate economic cooperation to **double bilateral non-oil merchandise and services trade to \$200 billion by 2032**.
 - **Hydrocarbon & Energy Security**: UAE cemented its position as **India's 2nd-largest LNG supplier**, underpinned by a multi-year long-term liquefied natural gas supply contract between HPCL and ADNOC Gas.
 - **Multilateral Strategic Agreements**: Signed bilateral Letters of Intent (LoI) spanning advanced defence manufacturing, civilian space exploration, and cross-border financial institutional partnerships in GIFT City.
 
-🎯 Exam Angle → Target to reach $200 billion bilateral trade by 2032; UAE verified as India's 2nd largest LNG supplier; HPCL-ADNOC Gas LNG procurement tie-up.
+🎯 Exam Angle → Target to reach \$200 billion bilateral trade by 2032; UAE verified as India's 2nd largest LNG supplier; HPCL-ADNOC Gas LNG procurement tie-up.
 
 ---
 
@@ -460,10 +460,10 @@
 📰 **India Joins 2026 UN Honour Roll** *(Feb)*
 
 - **Timely Sovereign Budget Contribution**: India officially secured induction into the prestigious **2026 United Nations Honour Roll** by paying its regular annual UN budget assessment in full and within the statutory 30-day window.
-- **Financial Assessment Data**: The Government of India remitted **$35.18 million** to the United Nations, accounting for approximately **1.016% of the total UN regular budget of $3.45 billion**.
+- **Financial Assessment Data**: The Government of India remitted **\$35.18 million** to the United Nations, accounting for approximately **1.016% of the total UN regular budget of \$3.45 billion**.
 - **Select International Cohort**: India stood among an elite cohort of only **52 out of 193 member states** that fulfilled their statutory budgetary obligations on time.
 
-🎯 Exam Angle → India paid $35.18 million (1.016% of the $3.45 billion total regular UN budget) to join the 52-member 2026 UN Honour Roll.
+🎯 Exam Angle → India paid \$35.18 million (1.016% of the \$3.45 billion total regular UN budget) to join the 52-member 2026 UN Honour Roll.
 
 ---
 
@@ -541,9 +541,9 @@
 
 - **New Member Ratification**: **Romania** officially ratified the Framework Agreement of the International Solar Alliance (ISA), becoming the **118th member nation** of the global solar coalition.
 - **Institutional Origins & Presidency**: Co-founded by India and France in **2015** during COP21 in Paris; operates headquarters in **Gurugram, Haryana**; India holds the ISA Presidency for the **2024–2026** term.
-- **Global Investment Target**: Spearheads the 'Towards 1000' strategy, aiming to mobilize **$1 trillion in solar energy investments by 2030** to install 1,000 GW of solar capacity worldwide.
+- **Global Investment Target**: Spearheads the 'Towards 1000' strategy, aiming to mobilize **\$1 trillion in solar energy investments by 2030** to install 1,000 GW of solar capacity worldwide.
 
-🎯 Exam Angle → Romania is the 118th member nation; ISA HQ located in Gurugram, Haryana; global target of $1 trillion solar investment by 2030; India holds Presidency (2024–2026).
+🎯 Exam Angle → Romania is the 118th member nation; ISA HQ located in Gurugram, Haryana; global target of \$1 trillion solar investment by 2030; India holds Presidency (2024–2026).
 
 ---
 
@@ -575,41 +575,41 @@
 
 📰 **India–Canada — Uranium Supply Deal & CEPA** *(March)*
 
-- **Strategic Uranium Supply Agreement**: Department of Atomic Energy (DAE) concluded a **$1.9 billion, 10-year nuclear fuel supply agreement** with Canada's Cameco Corporation to power India's civilian nuclear reactors.
+- **Strategic Uranium Supply Agreement**: Department of Atomic Energy (DAE) concluded a **\$1.9 billion, 10-year nuclear fuel supply agreement** with Canada's Cameco Corporation to power India's civilian nuclear reactors.
 - **Commercial Supply Volume**: Cameco will supply approximately **22 million pounds of uranium ore concentrate** to India spanning the delivery window from **2027 to 2035**.
 - **Comprehensive Economic Partnership Agreement (CEPA)**: Both nations agreed to formally conclude and execute the long-pending **India-Canada CEPA trade pact** within 2026, reviving bilateral commercial diplomacy.
 
-🎯 Exam Angle → $1.9 billion, 10-year nuclear fuel agreement with Cameco for 22 million pounds of uranium concentrate (2027–2035); India-Canada CEPA targeted for 2026 conclusion.
+🎯 Exam Angle → \$1.9 billion, 10-year nuclear fuel agreement with Cameco for 22 million pounds of uranium concentrate (2027–2035); India-Canada CEPA targeted for 2026 conclusion.
 
 ---
 
 📰 **World Bank Loans — UP & Haryana Clean Air Projects** *(March)*
 
-- **Uttar Pradesh Clean Air Financing**: World Bank approved a **$299.66 million** International Bank for Reconstruction and Development (IBRD) loan for the UP Clean Air and Sustainable Environment Project to combat industrial and vehicular emissions.
-- **Haryana Clean Air Financing**: Separately, the World Bank sanctioned a **$300 million** dedicated credit facility for the Haryana Clean Air Project for Sustainable Development.
+- **Uttar Pradesh Clean Air Financing**: World Bank approved a **\$299.66 million** International Bank for Reconstruction and Development (IBRD) loan for the UP Clean Air and Sustainable Environment Project to combat industrial and vehicular emissions.
+- **Haryana Clean Air Financing**: Separately, the World Bank sanctioned a **\$300 million** dedicated credit facility for the Haryana Clean Air Project for Sustainable Development.
 - **Airshed Regional Approach**: Both credit lines operate under an integrated Indo-Gangetic Plain airshed management strategy targeting cross-boundary particulate pollution.
 
-🎯 Exam Angle → Trap-prone paired numbers: World Bank clean air loan to Uttar Pradesh is **$299.66 million**, whereas Haryana's loan is exactly **$300 million**.
+🎯 Exam Angle → Trap-prone paired numbers: World Bank clean air loan to Uttar Pradesh is **\$299.66 million**, whereas Haryana's loan is exactly **\$300 million**.
 
 ---
 
-📰 **IIFL Home Finance — $300 Million ADB Loan** *(March)*
+📰 **IIFL Home Finance — \$300 Million ADB Loan** *(March)*
 
-- **Multilateral Green Housing Line**: Asian Development Bank (ADB) sanctioned a **$300 million financing facility** to IIFL Home Finance Ltd (IIFL HFL) to scale certified green affordable housing.
+- **Multilateral Green Housing Line**: Asian Development Bank (ADB) sanctioned a **\$300 million financing facility** to IIFL Home Finance Ltd (IIFL HFL) to scale certified green affordable housing.
 - **First Multilateral Credit Line**: Marks IIFL Home Finance's **first-ever direct loan from a multilateral development bank**, dedicated to underserved women borrowers and low-income urban households.
 - **Green Building Standards**: Credit proceeds earmarked for housing projects compliant with recognized green building standards (such as IGBC and EDGE certifications).
 
-🎯 Exam Angle → $300 million ADB credit facility to IIFL Home Finance for green affordable housing (first multilateral credit line for IIFL HFL).
+🎯 Exam Angle → \$300 million ADB credit facility to IIFL Home Finance for green affordable housing (first multilateral credit line for IIFL HFL).
 
 ---
 
 📰 **Sri Lanka's Inaugural Blue Bond — GIFT City Listing** *(March)*
 
-- **Historic GIFT City Listing**: Sri Lanka's DFCC Bank successfully listed its inaugural **$50 million Blue Bond on the NSE International Exchange (NSE IX)** at Gujarat International Finance Tec-City (GIFT City).
+- **Historic GIFT City Listing**: Sri Lanka's DFCC Bank successfully listed its inaugural **\$50 million Blue Bond on the NSE International Exchange (NSE IX)** at Gujarat International Finance Tec-City (GIFT City).
 - **Double Regional First**: Represents both **Sri Lanka's first-ever blue bond** and the **first blue bond issued by any commercial bank in South Asia**, dedicated to funding marine conservation and coastal aquaculture.
 - **GIFT City Sustainable Finance Hub**: Underscores GIFT City's IFSC emergence as a premier offshore sustainable debt-listing destination for South Asian sovereign and corporate issuers.
 
-🎯 Exam Angle → 🔥 HIGH — DFCC Bank of Sri Lanka lists $50 million Blue Bond on NSE IX in GIFT City; double first: Sri Lanka's 1st blue bond and South Asia's 1st commercial bank blue bond.
+🎯 Exam Angle → 🔥 HIGH — DFCC Bank of Sri Lanka lists \$50 million Blue Bond on NSE IX in GIFT City; double first: Sri Lanka's 1st blue bond and South Asia's 1st commercial bank blue bond.
 
 ---
 
@@ -710,9 +710,9 @@
 
 - 🔄 **Henley Passport Index Sequential Climb**: India's passport ranking improved sequentially from 85th (2025) → **80th** (January 2026) → **75th** (February 2026 data), offering visa-free or visa-on-arrival access to **56 global destinations** (**use 75th as the current definitive ranking**).
 - **Urban Safety & Governance**: Mangaluru ranked as the safest city in India on the **Numbeo Safety Index 2026** (scoring 74.4/100, placed 46th globally); Kerala was named 'Top Achiever' under Business Reforms Action Plan (**BRAP/EoDB**) with a 99.1% implementation score.
-- **Global Inward Investment & Innovation**: UNCTAD reported India's Foreign Direct Investment (FDI) inflows surged **73% to $47 billion in 2025**; WIPO Global R&D data placed India **7th globally in aggregate R&D expenditure ($75.73 billion)**.
+- **Global Inward Investment & Innovation**: UNCTAD reported India's Foreign Direct Investment (FDI) inflows surged **73% to \$47 billion in 2025**; WIPO Global R&D data placed India **7th globally in aggregate R&D expenditure (\$75.73 billion)**.
 - **Macroeconomic & Labour Benchmarks**: Periodic Labour Force Survey (PLFS) reported urban unemployment fell to a 3-quarter low of **4.8%**; MoSPI announced new economic base years — **2022-23 for GDP and IIP**, and **2024=100 for Consumer Price Index (CPI)**.
-- **Corporate Valuations & Technology Leadership**: Reliance Retail topped Hurun India's 100 Unlisted Gems 2026 (₹2.7 trillion turnover); Walmart became the 1st retail company globally to cross $1 trillion market cap; India ranked **3rd globally in AI vibrancy** on the Stanford HAI Global AI Vibrancy Index.
+- **Corporate Valuations & Technology Leadership**: Reliance Retail topped Hurun India's 100 Unlisted Gems 2026 (₹2.7 trillion turnover); Walmart became the 1st retail company globally to cross \$1 trillion market cap; India ranked **3rd globally in AI vibrancy** on the Stanford HAI Global AI Vibrancy Index.
 
 🎯 Exam Angle → Henley Passport Index (75th, 56 countries visa-free); MoSPI new base years: GDP/IIP (2022-23) and CPI (2024=100); PLFS unemployment rate (4.8%); Stanford AI Vibrancy (India 3rd).
 
@@ -742,7 +742,7 @@
 
 - **Digital Readiness & Gender Parity**: India improved 4 positions to rank **45th on the Network Readiness Index 2025** (score 54.43); World Bank's "Women, Business and the Law 2025" revealed women globally hold only ~two-thirds the legal economic rights of men.
 - **Inflation Metrics Distinction**: Wholesale Price Index (WPI) inflation rose to **1.81% in January 2026**, while retail Consumer Price Index (CPI) inflation stood at **2.75%** (highlighting the wide gap between wholesale and consumer baskets).
-- **Corporate & Wealth Benchmarks**: **Reliance Retail** led Hurun India's 100 Unlisted Gems 2026 with a ₹2.7 trillion valuation; **Walmart** became the 1st retail corporation in history to reach a **$1 trillion market capitalisation**.
+- **Corporate & Wealth Benchmarks**: **Reliance Retail** led Hurun India's 100 Unlisted Gems 2026 with a ₹2.7 trillion valuation; **Walmart** became the 1st retail corporation in history to reach a **\$1 trillion market capitalisation**.
 
 🎯 Exam Angle → Network Readiness Index (India 45th); WPI (1.81%) vs retail CPI (2.75%) for Jan 2026; Walmart becomes the 1st trillion-dollar retail company.
 
@@ -988,9 +988,9 @@
 
 📰 **External Financing to India — combined cluster**
 
-- **Multilateral Development Banking Inflows**: Asian Development Bank (ADB) and World Bank committed comprehensive project financing loans totaling **$1.85 billion** across India's urban transit, clean water, and green energy infrastructure sectors.
+- **Multilateral Development Banking Inflows**: Asian Development Bank (ADB) and World Bank committed comprehensive project financing loans totaling **\$1.85 billion** across India's urban transit, clean water, and green energy infrastructure sectors.
 - **Bilateral ODA Infrastructure Credit**: Japan International Cooperation Agency (JICA) formalized 399.78 billion Yen (~₹22,000 crore) in concessional assistance for high-speed rail, dedicated freight corridors, and metro lines.
-- **Offshore Sustainable Capital Mobilisation**: India's corporate and renewable energy entities mobilized over **$4.2 billion via foreign external commercial borrowings (ECB) and offshore green bonds** listed at GIFT City's IFSC exchanges.
+- **Offshore Sustainable Capital Mobilisation**: India's corporate and renewable energy entities mobilized over **\$4.2 billion via foreign external commercial borrowings (ECB) and offshore green bonds** listed at GIFT City's IFSC exchanges.
 - **Credit Enhancement & Institutional Backing**: Multilateral risk agencies including MIGA provided credit insurance and guarantee covers safeguarding foreign direct investment lines into India's rooftop solar and clean mobility ecosystems.
 
 🎯 Exam Angle → JICA ~₹22,000 Cr ODA loan package; ADB/World Bank multilateral project financing lines; rising share of offshore green debt listings in GIFT City.
@@ -1003,7 +1003,7 @@
 
 | Metric / Indicator | Value / Level | Authority / Source | Context & Key Exam Angle |
 | :--- | :--- | :--- | :--- |
-| **Global Economy Rank** | **4th Largest** ($4.18 Trillion) | IMF / NSO (Jan 2026) | Overtook Japan ($4.16T); 2030 target: 3rd place ($7.3T, passing Germany) |
+| **Global Economy Rank** | **4th Largest** (\$4.18 Trillion) | IMF / NSO (Jan 2026) | Overtook Japan (\$4.16T); 2030 target: 3rd place (\$7.3T, passing Germany) |
 | **FY26 Real GDP Growth** | **7.4%** (₹201.90 lakh Cr) | NSO 1st Advance Estimates | Q2 FY26 grew 8.2%; Economic Survey FY27 range: 6.8–7.2% |
 | **Fiscal Deficit FY27 (BE)** | **4.3% of GDP** | Union Budget 2026-27 | Consolidation path: 9.2% (FY21) → 4.4% (RE FY26) → 4.3% (BE FY27) |
 | **Capital Expenditure** | **₹12.2 lakh Cr** (4.4% of GDP) | Union Budget 2026-27 | Up 9% YoY; records highest ever public capex allocation |

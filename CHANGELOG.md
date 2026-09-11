@@ -2,6 +2,26 @@
 
 All notable changes to the Current Affairs Dossier repository and Rajputana Gazette Broadsheet System are documented here.
 
+## 🛠️ [v1.9.2] — 2026-09-11
+
+### 🌐 Cross-Repository Presentation Overhaul Across All Months (May, June, July, August, Q1, April & IBPS 35+ Master)
+- **Universal Nested List Hierarchy Restoration (Over 1,700 Bullets Healed)**:
+  - Systematically audited and converted all non-standard Unicode dot bullets (`• `) across `current_affairs_2026_may.md` (397), `current_affairs_2026_june.md` (534), `current_affairs_2026_july.md` (201), `aug_ca_cgb1-31aug_pib1-18aug.md` (128), and `IBPS_MAINS_35PLUS_MASTER_JAN_SEPT.md` (393) to standard GitHub Flavored Markdown list syntax (`  - ` / `- `).
+  - Completely resolved the collapsed/squashed nested bullet bug across the entire broadsheet portal: all sub-points now render with clean, indented hierarchical `<ul><li>` structures.
+- **Universal Multi-Bullet Exam Angle Styling (`.gazette-exam-list`)**:
+  - Re-structured all multi-point `🎯 Exam Angle →` blocks across May (35), June (61), July (30), August (12), and the IBPS 35+ Master file (129) with standard Markdown list syntax and blank line isolation.
+  - In HTML compilation, these blocks are automatically parsed into styled `.gazette-exam-list` cards featuring square bullet markers and comfortable reading line height.
+- **LaTeX Math & Currency Symbol Sanitization**:
+  - Escaped all raw currency dollar figures (`\$`) across all monthly dossiers (including August, April, Q1, and IBPS Master) to prevent accidental KaTeX LaTeX math mode invocation and formula corruption.
+  - Eliminated KaTeX console warnings completely.
+- **Invariant Verification (All 8 Broadhseet Tabs)**:
+  - Total Verified Clusters: **589 / 589 intact**.
+  - Total Exam Angle Boxes: **595 / 595 styled and rendered**.
+  - Total Squashed `<li>` Elements: **0**.
+  - Heading anchor hashes (`#` in `<h1..h6>`): **Strictly 0**.
+  - Interactive checkboxes: **Strictly 0**.
+  - Full synchronization between `current_affairs_hub.html` and `index.html`.
+
 ## 🛠️ [v1.9.1] — 2026-09-11
 
 ### 🎨 September 2026 Presentation Architecture Hotfix & Typographic Overhaul

@@ -24,10 +24,10 @@
 
 🪝 Two separate GDP-adjacent numbers came out this fortnight — don't confuse the "6th-largest" ranking with the FY26 debt/deficit trend.
 
-- **A) India = world's 6th-largest economy**: IMF's April 2026 WEO — nominal GDP **$3.92 trillion** (2025-26); ranking is exchange-rate dependent.
+- **A) India = world's 6th-largest economy**: IMF's April 2026 WEO — nominal GDP **\$3.92 trillion** (2025-26); ranking is exchange-rate dependent.
 - **B) Debt-to-GDP & fiscal deficit (FY26)**: Debt-to-GDP **58.2%** (210 bps above govt's 56.1% target); fiscal deficit declined **9.2% (FY21) → 4.4% (FY26)**.
 
-🎯 Exam Angle → 🔥 HIGH — Don't confuse $3.92 trillion (6th-largest, nominal GDP) with 58.2% vs 56.1% debt-to-GDP trap pair.
+🎯 Exam Angle → 🔥 HIGH — Don't confuse \$3.92 trillion (6th-largest, nominal GDP) with 58.2% vs 56.1% debt-to-GDP trap pair.
 
 ---
 
@@ -90,8 +90,8 @@
 📰 **CRILC, insurance surety bonds & EPF wage ceiling**
 
 - **Credit Risk Monitoring**: RBI's Central Repository of Information on Large Credits (**CRILC**) mandates banks to report all borrower exposures **≥₹5 crore** to track systemic non-performing assets in real time.
-• **Surety Bond Innovation**: NeSL and New India Assurance rolled out India's first digital insurance surety bond, eliminating physical bank guarantees in public infrastructure contracts.
-• **Social Security Ceiling**: Ministry of Labour proposed raising the mandatory EPF wage threshold from **₹15,000 to ₹25,000 per month** (effective 1 April 2027), expanding pension coverage to millions of formal-sector workers.
+- **Surety Bond Innovation**: NeSL and New India Assurance rolled out India's first digital insurance surety bond, eliminating physical bank guarantees in public infrastructure contracts.
+- **Social Security Ceiling**: Ministry of Labour proposed raising the mandatory EPF wage threshold from **₹15,000 to ₹25,000 per month** (effective 1 April 2027), expanding pension coverage to millions of formal-sector workers.
 
 🎯 Exam Angle → 🔥 HIGH — EPF ceiling hike is a clean single-fact MCQ.
 
@@ -160,9 +160,9 @@
 
 📰 **BofA survey: India least-favoured Asian stock market**
 
-• **FII Sentiment Reversal**: In Bank of America's regional fund manager survey, India was ranked the least-favoured equity market across Asia, overtaking Indonesia.
-• **Valuation Headwinds**: Global institutional investors registered a **Net Underweight of 32%** on Indian equities, citing stretched price-to-earnings valuations and slowing corporate earnings.
-• **Capital Rotation**: Foreign portfolio capital shifted heavily toward semiconductor and hardware manufacturing leaders, with **Taiwan and Japan** emerging as the top preferred destinations.
+- **FII Sentiment Reversal**: In Bank of America's regional fund manager survey, India was ranked the least-favoured equity market across Asia, overtaking Indonesia.
+- **Valuation Headwinds**: Global institutional investors registered a **Net Underweight of 32%** on Indian equities, citing stretched price-to-earnings valuations and slowing corporate earnings.
+- **Capital Rotation**: Foreign portfolio capital shifted heavily toward semiconductor and hardware manufacturing leaders, with **Taiwan and Japan** emerging as the top preferred destinations.
 
 🎯 Exam Angle → Standalone survey-result MCQ.
 
@@ -180,9 +180,9 @@
 
 📰 **India enters blue bond market; FAST-DS voluntary disclosure scheme**
 
-• **Blue Bond Market Debut**: India prepared its inaugural sustainable blue bond issuances totalling **₹1,200 crore** to finance coastal port infrastructure (Sagarmala Finance up to ₹1,000 Cr) and urban wastewater recycling (Vadodara Municipal Corp ₹200 Cr).
-• **Voluntary Disclosure Window (FAST-DS)**: Central Board of Direct Taxes notified a one-time compliance scheme running from **16 August to 31 December 2026** for settling undisclosed foreign financial assets.
-• **Two-Tier Settlement Terms**: Category A (unreported foreign income ≤₹1 Cr) requires a **60% effective tax and penalty payment**, while Category B (tax-paid inherited assets ≤₹5 Cr) requires only a **₹1 lakh flat regularization fee**.
+- **Blue Bond Market Debut**: India prepared its inaugural sustainable blue bond issuances totalling **₹1,200 crore** to finance coastal port infrastructure (Sagarmala Finance up to ₹1,000 Cr) and urban wastewater recycling (Vadodara Municipal Corp ₹200 Cr).
+- **Voluntary Disclosure Window (FAST-DS)**: Central Board of Direct Taxes notified a one-time compliance scheme running from **16 August to 31 December 2026** for settling undisclosed foreign financial assets.
+- **Two-Tier Settlement Terms**: Category A (unreported foreign income ≤₹1 Cr) requires a **60% effective tax and penalty payment**, while Category B (tax-paid inherited assets ≤₹5 Cr) requires only a **₹1 lakh flat regularization fee**.
 
 🎯 Exam Angle → 🔥 HIGH — India's first blue bond issuance; FAST-DS Category A vs B (60% vs flat ₹1 lakh) trap.
 
@@ -190,9 +190,9 @@
 
 📰 **CBDC food-subsidy rollout & senior-citizen digital initiatives**
 
-• **CBDC Welfare Delivery**: Chandigarh and Dadra & Nagar Haveli became the first Union Territories to pilot Direct Benefit Transfer (DBT) of food subsidies using RBI's Digital Rupee (**e-Rupee CBDC**) under PMGKAY.
-• **Targeted Welfare Tokens**: Beneficiaries receive programmable digital currency vouchers redeemable strictly at authorized Fair Price Shops, preventing subsidy diversion.
-• **Senior Citizen Digital Stack**: Department of Social Justice launched the **SNEHA** guidance portal and two mobile applications—**JEEVAN** (digital life certificate verification) and **SHATAYU** (geriatric telemedicine and legal assistance).
+- **CBDC Welfare Delivery**: Chandigarh and Dadra & Nagar Haveli became the first Union Territories to pilot Direct Benefit Transfer (DBT) of food subsidies using RBI's Digital Rupee (**e-Rupee CBDC**) under PMGKAY.
+- **Targeted Welfare Tokens**: Beneficiaries receive programmable digital currency vouchers redeemable strictly at authorized Fair Price Shops, preventing subsidy diversion.
+- **Senior Citizen Digital Stack**: Department of Social Justice launched the **SNEHA** guidance portal and two mobile applications—**JEEVAN** (digital life certificate verification) and **SHATAYU** (geriatric telemedicine and legal assistance).
 
 🎯 Exam Angle → Chandigarh + D&NH as first CBDC-DBT UTs.
 
@@ -385,8 +385,8 @@
 
 📰 **Trade data — cumulative exports/imports, April-July FY2026-27** *(PIB 11–18 Aug)*
 
-- Cumulative exports (merchandise + services): **US$316.42 billion** (vs $279.63 bn April-July 2025-26, +13.16% growth)
-- Merchandise Exports $173.78 bn; Merchandise Imports $292.38 bn; Services Exports $142.64 bn; Services Imports $73.47 bn; Total Imports $365.85 bn; **Overall Trade Balance –$49.43 billion**
+- Cumulative exports (merchandise + services): **US\$316.42 billion** (vs \$279.63 bn April-July 2025-26, +13.16% growth)
+- Merchandise Exports \$173.78 bn; Merchandise Imports \$292.38 bn; Services Exports \$142.64 bn; Services Imports \$73.47 bn; Total Imports \$365.85 bn; **Overall Trade Balance –\$49.43 billion**
 - Top 5 export-growth destinations: 1. Tanzania Rep. (+131.20%), 2. Sri Lanka DSR (+111.76%), 3. Singapore (+97.11%), 4. South Africa (+69.75%), 5. China (+35.97%)
 - Top 5 import-growth sources: 1. Oman (+200.68%), 2. Brazil (+166.84%), 3. Russia (+59.65%), 4. China (+29.68%), 5. USA (+22.42%)
 
@@ -449,9 +449,9 @@
 
 📰 **Maritime Development Fund** *(PIB — Schemes in News)*
 
-• **Shipbuilding Renaissance**: Ministry of Ports, Shipping and Waterways approved the **₹25,000 crore** Maritime Development Fund to build domestic vessel construction capacity and reduce reliance on foreign shipping lines.
-• **Equity Financing Pillar (₹20,000 Cr)**: Provides long-term patient equity and debt for shipyard expansion and port modernization, with Union Government holding up to **49% equity**.
-• **Interest Subvention Pillar (₹5,000 Cr)**: Subsidizes commercial borrowing interest rates for domestic shipbuilders to make Indian-manufactured cargo vessels globally price-competitive.
+- **Shipbuilding Renaissance**: Ministry of Ports, Shipping and Waterways approved the **₹25,000 crore** Maritime Development Fund to build domestic vessel construction capacity and reduce reliance on foreign shipping lines.
+- **Equity Financing Pillar (₹20,000 Cr)**: Provides long-term patient equity and debt for shipyard expansion and port modernization, with Union Government holding up to **49% equity**.
+- **Interest Subvention Pillar (₹5,000 Cr)**: Subsidizes commercial borrowing interest rates for domestic shipbuilders to make Indian-manufactured cargo vessels globally price-competitive.
 
 🎯 Exam Angle → 🔥 HIGH — ₹20,000 cr (Investment Fund, 49% equity) vs ₹5,000 cr (Interest Fund) split within the ₹25,000 cr corpus is a clean trap.
 
@@ -461,7 +461,7 @@
 
 - Supports ~30 million people incl. ~10 million farmers; known as "Kalpavriksha"; India **1st in production** (31.24% of global production), **3rd in cultivation area** (17.90% of global area)
 - Leading states: Kerala – area; Tamil Nadu – production; Andhra Pradesh – productivity (followed by West Bengal, Tamil Nadu)
-- Exports 2025-26: **₹7,038.35 crore** (US$794.70 mn), +62% over 2024-25; major products — activated carbon (dominates export volumes), coconut oil, fresh/frozen/grated coconut, copra, desiccated coconut; top markets — USA, UAE, Sri Lanka, Germany, Russia
+- Exports 2025-26: **₹7,038.35 crore** (US\$794.70 mn), +62% over 2024-25; major products — activated carbon (dominates export volumes), coconut oil, fresh/frozen/grated coconut, copra, desiccated coconut; top markets — USA, UAE, Sri Lanka, Germany, Russia
 - **Coconut Development Board**: established 12 Jan 1981, HQ Kochi, works across 22 States/UTs
 - **MSP for Copra, 2026 season**: Milling copra ₹12,027/qtl, Ball copra ₹12,500/qtl (up ₹445 and ₹400 respectively over 2025)
 - Support schemes: DSPFs (₹30 lakh for new farms first 2 years; up to ₹1 lakh/ha/yr maintenance from year 3 for 15-20 years); Area Expansion (₹56,000/ha, 2 instalments, max 2 ha/min 0.08 ha per beneficiary); PICCS (100% subsidy, ₹42,000/ha, max 2 ha); Replanting & Rejuvenation (up to ₹54,000/ha over 2 years)
@@ -508,8 +508,9 @@
 - **Macro-Stress Projections**: Under baseline macroeconomic scenarios, SCBs' aggregate GNPA ratio is projected to improve further to **2.5% by March 2027**.
 
 🎯 Exam Angle →
-• Exact Ratios: GNPA = 2.8% (12-year low); NNPA = 0.6%; CRAR = 16.8%; CET1 = 13.9%.
-• Baseline Stress Test: Projected to drop to 2.5% by March 2027.
+
+- Exact Ratios: GNPA = 2.8% (12-year low); NNPA = 0.6%; CRAR = 16.8%; CET1 = 13.9%.
+- Baseline Stress Test: Projected to drop to 2.5% by March 2027.
 
 ---
 
@@ -574,8 +575,8 @@
 📰 **RBI data releases — House Price Index, LRS remittances, NRI deposits (21–31 Aug)**
 
 - **A) House Price Index**: All-India HPI **117.5** in Q1 FY27; annual growth slowed to **3.6%** (from 4.5% prior quarter); base year 2022-23; covers 18 major cities.
-- **B) LRS outward remittances**: surged **19.9% YoY** to **$2.5 billion** (Apr-Jun FY27); current annual LRS limit $250,000 (introduced 2004, initial limit $25,000).
-- **C) NRI deposit inflows fell 23.24%** to **$2.78 billion** (Apr-Jun FY27, from $3.61 bn); outstanding NRI deposits $168.51 bn (June 2026). Three schemes: FCNR(B) (foreign-currency, no INR risk), NRE (rupee, tax-exempt, freely repatriable), NRO (rupee, taxable, income earned in India).
+- **B) LRS outward remittances**: surged **19.9% YoY** to **\$2.5 billion** (Apr-Jun FY27); current annual LRS limit \$250,000 (introduced 2004, initial limit \$25,000).
+- **C) NRI deposit inflows fell 23.24%** to **\$2.78 billion** (Apr-Jun FY27, from \$3.61 bn); outstanding NRI deposits \$168.51 bn (June 2026). Three schemes: FCNR(B) (foreign-currency, no INR risk), NRE (rupee, tax-exempt, freely repatriable), NRO (rupee, taxable, income earned in India).
 
 🎯 Exam Angle → Don't confuse FCNR(B)/NRE/NRO tax-and-repatriation treatment — a recurring definitional trap.
 
@@ -583,9 +584,9 @@
 
 📰 **NPS charges revised & SEBI bond-reach reforms**
 
-• **Regulatory Fee Restructuring**: PFRDA revised the annual administrative fee structure for the National Pension System (**NPS**), effective **1 October 2026**.
-• **AUM Fee Slab**: Points of Presence (PoPs) will levy an annualized service charge capped at **0.20% of Assets Under Management (AUM)**, deducted seamlessly through Net Asset Value (NAV).
-• **Subscriber Protection**: Dormant pension folios with zero contributions over **4 consecutive quarters** are fully exempt from fee deductions to preserve accumulated worker savings.
+- **Regulatory Fee Restructuring**: PFRDA revised the annual administrative fee structure for the National Pension System (**NPS**), effective **1 October 2026**.
+- **AUM Fee Slab**: Points of Presence (PoPs) will levy an annualized service charge capped at **0.20% of Assets Under Management (AUM)**, deducted seamlessly through Net Asset Value (NAV).
+- **Subscriber Protection**: Dormant pension folios with zero contributions over **4 consecutive quarters** are fully exempt from fee deductions to preserve accumulated worker savings.
 
 🎯 Exam Angle → NPS annual charge (0.20% of AUM) eff. 1 Oct 2026 — standalone fact.
 
@@ -641,9 +642,9 @@
 
 📰 **DFS — Insurance Policyholders' Grievance Redressal (Bima Bharosa)** *(PIB 11–18 Aug)*
 
-• **Consumer Grievance Integration**: IRDAI upgraded **Bima Bharosa**, its central portal that bridges policyholders directly with insurer Complaint Management Systems across life, health, and general insurance.
-• **Mandatory Escalation Workflow**: Aggrieved policyholders must first submit claims to the insurer's internal grievance cell, which is legally bound to resolve disputes within **14 days**.
-• **Multilingual Support**: Unresolved complaints escalate to the Insurance Ombudsman, supported by IRDAI's consumer assistance center operating in **12 regional languages**.
+- **Consumer Grievance Integration**: IRDAI upgraded **Bima Bharosa**, its central portal that bridges policyholders directly with insurer Complaint Management Systems across life, health, and general insurance.
+- **Mandatory Escalation Workflow**: Aggrieved policyholders must first submit claims to the insurer's internal grievance cell, which is legally bound to resolve disputes within **14 days**.
+- **Multilingual Support**: Unresolved complaints escalate to the Insurance Ombudsman, supported by IRDAI's consumer assistance center operating in **12 regional languages**.
 
 🎯 Exam Angle → Bima Bharosa's 14-day resolution timeline is a clean standalone fact.
 
@@ -651,9 +652,9 @@
 
 📰 **National Company Law Tribunal (NCLT) launches e-Inspection and e-Certified Copy Services** *(PIB — Phase 1 items)*
 
-• **Tribunal Digital Infrastructure**: National Company Law Tribunal (**NCLT**) launched two paperless citizen services—**e-Inspection** and **e-Certified Copy**—across all 16 tribunal benches.
-• **Litigant Efficiency**: Corporate lawyers and creditors can securely inspect case records and download digitally watermarked, court-certified copies within 48 hours without visiting registries in person.
-• **Insolvency Acceleration**: Eliminates physical processing bottlenecks, directly shortening timeline overruns under the Insolvency and Bankruptcy Code (IBC).
+- **Tribunal Digital Infrastructure**: National Company Law Tribunal (**NCLT**) launched two paperless citizen services—**e-Inspection** and **e-Certified Copy**—across all 16 tribunal benches.
+- **Litigant Efficiency**: Corporate lawyers and creditors can securely inspect case records and download digitally watermarked, court-certified copies within 48 hours without visiting registries in person.
+- **Insolvency Acceleration**: Eliminates physical processing bottlenecks, directly shortening timeline overruns under the Insolvency and Bankruptcy Code (IBC).
 
 🎯 Exam Angle → Standalone administrative-digitisation MCQ.
 
@@ -661,9 +662,9 @@
 
 📰 **Central Information Commission (CIC) launches AppCoMS 2.0** *(PIB — Phase 1 items)*
 
-• **RTI Appellate Overhaul**: Central Information Commission (**CIC**) deployed **AppCoMS 2.0** on **17 August 2026**, replacing the legacy 2016 management platform.
-• **End-to-End Paperless Workflow**: Integrates digital filing, automated registry scrutiny, video-conferencing hearing schedules, and digital order dispatch for Right to Information (RTI) second appeals.
-• **Systemic Transparency**: Enables citizens to track real-time disposal metrics and compliance reports across all central ministries and public authorities.
+- **RTI Appellate Overhaul**: Central Information Commission (**CIC**) deployed **AppCoMS 2.0** on **17 August 2026**, replacing the legacy 2016 management platform.
+- **End-to-End Paperless Workflow**: Integrates digital filing, automated registry scrutiny, video-conferencing hearing schedules, and digital order dispatch for Right to Information (RTI) second appeals.
+- **Systemic Transparency**: Enables citizens to track real-time disposal metrics and compliance reports across all central ministries and public authorities.
 
 🎯 Exam Angle → CIC AppCoMS 2.0's 2016→2026 upgrade is a clean "old system revamped" MCQ.
 
@@ -675,15 +676,16 @@
 - **Amended Directions**: RBI revised the Basel Pillar 3 disclosure framework for all Scheduled Commercial Banks (excl. RRBs), Small Finance Banks (SFBs), and Payments Banks to align domestic norms with Basel III post-crisis reforms.
 - **Six-Month Extension**: Implementation deferred by **6 months**, moving the effective deadline from 1 October 2026 to **1 April 2027**.
 - **Staggered Phased Disclosure Schedule**:
-  • **Quarterly Disclosures**: Commences with the quarter ending **30 June 2027**, and on a quarterly basis thereafter.
-  • **Semi-Annual Disclosures**: First report for the half-year ended **30 September 2027**, recurring every six months.
-  • **Annual Disclosures**: First mandatory comprehensive report for the financial year ending **31 March 2028**.
+  - **Quarterly Disclosures**: Commences with the quarter ending **30 June 2027**, and on a quarterly basis thereafter.
+  - **Semi-Annual Disclosures**: First report for the half-year ended **30 September 2027**, recurring every six months.
+  - **Annual Disclosures**: First mandatory comprehensive report for the financial year ending **31 March 2028**.
 - **Governance & Verification**: Banks must formulate a formal Board-approved disclosure policy and establish an internal verification mechanism; separate technical templates for market risk, operational risk, CVA, and leverage ratio to follow.
 
 🎯 Exam Angle →
-• Effective Date Trap: Deferral is by 6 months to 1 April 2027 (do NOT confuse with FY26).
-• Disclosure Cadence: Quarterly starts 30 June 2027; Semi-annual starts 30 Sept 2027; Annual starts 31 March 2028.
-• Scope: Applies to SCBs, SFBs, and Payments Banks (RRBs and Local Area Banks are excluded).
+
+- Effective Date Trap: Deferral is by 6 months to 1 April 2027 (do NOT confuse with FY26).
+- Disclosure Cadence: Quarterly starts 30 June 2027; Semi-annual starts 30 Sept 2027; Annual starts 31 March 2028.
+- Scope: Applies to SCBs, SFBs, and Payments Banks (RRBs and Local Area Banks are excluded).
 
 ---
 
@@ -692,16 +694,17 @@
 - **Scope & Applicability**: Issued to all Regulated Entities (REs) including Commercial Banks, All-India Financial Institutions (AIFIs), NBFCs, and Primary (Urban) Co-operative Banks.
 - **Strict Calling Hours Window**: Recovery agents and bank staff are strictly permitted to contact borrowers only between **8:00 AM and 7:00 PM**. Any call, visit, or digital communication before 8 AM or after 7 PM is legally prohibited.
 - **Prohibited Conduct & Anti-Harassment Mandate**:
-  • Zero tolerance for threatening, abusive, or humiliating language towards borrowers or their guarantors.
-  • Strict ban on public humiliation, making unsolicited persistent calls, contacting family members/friends, or intruding on privacy.
-  • REs cannot forward recovery calls through hidden numbers or masked spoofed caller IDs.
+  - Zero tolerance for threatening, abusive, or humiliating language towards borrowers or their guarantors.
+  - Strict ban on public humiliation, making unsolicited persistent calls, contacting family members/friends, or intruding on privacy.
+  - REs cannot forward recovery calls through hidden numbers or masked spoofed caller IDs.
 - **Agent Due Diligence & Certification**: Mandatory police background verification prior to engagement; recovery agents must possess valid **IIBF Debt Recovery Agent (DRA) certification** and undergo structured training on code of conduct.
 - **Sole Accountability**: The Regulated Entity remains solely liable for all actions, misconduct, and transgressions of recovery agents engaged directly or via third-party agencies.
 
 🎯 Exam Angle →
-• Calling Hours Trap: Permitted window is 8:00 AM to 7:00 PM (examiners often trap with 7 AM–9 PM or 9 AM–6 PM).
-• Mandatory Certification: Must hold Indian Institute of Banking & Finance (IIBF) DRA certificate.
-• Entity Liability: Outsourcing recovery does NOT transfer liability; REs face direct penal action for agent harassment.
+
+- Calling Hours Trap: Permitted window is 8:00 AM to 7:00 PM (examiners often trap with 7 AM–9 PM or 9 AM–6 PM).
+- Mandatory Certification: Must hold Indian Institute of Banking & Finance (IIBF) DRA certificate.
+- Entity Liability: Outsourcing recovery does NOT transfer liability; REs face direct penal action for agent harassment.
 
 ---
 
@@ -713,9 +716,10 @@
 - **Retail Investor Protection**: Retail individual investors cannot be directly allotted AT-1 bonds; minimum ticket size on private placement is set at **₹1 crore**.
 
 🎯 Exam Angle →
-• Loss Absorption Trigger: CET1 breaching below 5.5% triggers automatic write-off/conversion.
-• Call Option Restriction: Minimum 5 years (cannot have a put option for investors).
-• Allotment Floor: Minimum ticket size ₹1 crore to restrict vulnerable retail participation.
+
+- Loss Absorption Trigger: CET1 breaching below 5.5% triggers automatic write-off/conversion.
+- Call Option Restriction: Minimum 5 years (cannot have a put option for investors).
+- Allotment Floor: Minimum ticket size ₹1 crore to restrict vulnerable retail participation.
 
 ---
 
@@ -730,7 +734,7 @@
 - CPI FY27 lowered to **5%** (from 5.1%); June 2026 actual CPI 4.4%
 - Real GDP growth FY27 projected **6.7%**
 - Next MPC: 5-7 Oct 2026
-- Gross FDI inflows $30.7 bn (Apr-June 2026) vs $26.7 bn prior year
+- Gross FDI inflows \$30.7 bn (Apr-June 2026) vs \$26.7 bn prior year
 
 🎯 Exam Angle → 🔥 HIGH — Repo held at 5.25%, CPI trimmed to 5% FY27. Don't confuse FY27 projection (5%) with June actual (4.4%).
 
@@ -750,9 +754,9 @@
 
 📰 **Bankers' Books Evidence Act, 2026 — replaces 1891 law**
 
-• **Colonial Law Modernization**: Parliament passed the **Bankers' Books Evidence Act, 2026**, repealing the colonial 1891 statute to align judicial evidentiary procedures with digital banking.
-• **Evidentiary Barrier Eliminated**: Under the 1891 law, courts demanded physical paper ledgers or required branch managers to appear in person with heavy manual ledger books.
-• **Direct Digital Admissibility**: Certified printouts and electronic server logs from core-banking software, UPI gateways, and cloud databases are now recognized as primary legal evidence without summoning bank officials.
+- **Colonial Law Modernization**: Parliament passed the **Bankers' Books Evidence Act, 2026**, repealing the colonial 1891 statute to align judicial evidentiary procedures with digital banking.
+- **Evidentiary Barrier Eliminated**: Under the 1891 law, courts demanded physical paper ledgers or required branch managers to appear in person with heavy manual ledger books.
+- **Direct Digital Admissibility**: Certified printouts and electronic server logs from core-banking software, UPI gateways, and cloud databases are now recognized as primary legal evidence without summoning bank officials.
 
 🎯 Exam Angle → 🔥 HIGH — Clean "old law replaced" MCQ; 1891 → 2026.
 
@@ -771,7 +775,7 @@
 
 📰 **FCNR(B) mobilisation, REPCO dividend & credit ratings cluster**
 
-- Private banks (ICICI, Kotak, Axis, HDFC) each crossed $1 bn FCNR(B); only SBI & BoB among PSBs
+- Private banks (ICICI, Kotak, Axis, HDFC) each crossed \$1 bn FCNR(B); only SBI & BoB among PSBs
 - Amit Shah received **₹22.90 crore dividend** from REPCO Bank; REPCO under **MHA** (not RBI/Finance Ministry)
 - Moody's: first-time **Baa2/P-2** rating for RBL Bank
 - S&P: **BBB-/A-3** to IDFC FIRST Bank
@@ -783,9 +787,9 @@
 
 📰 **Jacob Diamond, NPS e-Shramik & digital-banking launches**
 
-• **Historic Diamond Vaulting**: The famed **Jacob Diamond** (184.75 carats, once owned by the 6th Nizam of Hyderabad) was transferred to the Reserve Bank of India’s Mumbai vaults for permanent sovereign custody.
-• **Gig-Worker Pension Inclusion**: PFRDA introduced **NPS e-Shramik**, tailoring pension accumulation specifically for gig and unorganized platform workers registered on the e-Shram portal.
-• **Flexible Savings Mechanics**: Eliminates mandatory annual contribution minimums, allowing delivery partners and freelance workers to deposit micropayments seamlessly via UPI.
+- **Historic Diamond Vaulting**: The famed **Jacob Diamond** (184.75 carats, once owned by the 6th Nizam of Hyderabad) was transferred to the Reserve Bank of India’s Mumbai vaults for permanent sovereign custody.
+- **Gig-Worker Pension Inclusion**: PFRDA introduced **NPS e-Shramik**, tailoring pension accumulation specifically for gig and unorganized platform workers registered on the e-Shram portal.
+- **Flexible Savings Mechanics**: Eliminates mandatory annual contribution minimums, allowing delivery partners and freelance workers to deposit micropayments seamlessly via UPI.
 
 🎯 Exam Angle → Jacob Diamond's Nizam-of-Hyderabad → RBI-vault journey is a distinctive heritage crossover fact.
 
@@ -793,9 +797,9 @@
 
 📰 **Insurance news cluster**
 
-• **Space Launch Risk Framework**: IN-SPACe and General Insurance Council proposed a mandatory **₹500 crore third-party liability insurance** framework for private rocket launches from Indian soil.
-• **FDI Consolidation**: UK-based Prudential plc announced an agreement to acquire a **75% majority stake** in Bharti AXA Life Insurance for **₹3,500 crore**, utilizing India's relaxed FDI caps.
-• **Regulatory Objective**: Shields emerging domestic spacetech startups from catastrophic mission liabilities while deepening foreign capital participation in domestic underwriting.
+- **Space Launch Risk Framework**: IN-SPACe and General Insurance Council proposed a mandatory **₹500 crore third-party liability insurance** framework for private rocket launches from Indian soil.
+- **FDI Consolidation**: UK-based Prudential plc announced an agreement to acquire a **75% majority stake** in Bharti AXA Life Insurance for **₹3,500 crore**, utilizing India's relaxed FDI caps.
+- **Regulatory Objective**: Shields emerging domestic spacetech startups from catastrophic mission liabilities while deepening foreign capital participation in domestic underwriting.
 
 🎯 Exam Angle → 🔥 HIGH — IN-SPACe's ₹500 crore space-launch insurance is a fresh, distinctive "first."
 
@@ -827,7 +831,7 @@
 
 - **A) IRDAI barred Niva Bupa Health Insurance + Acko General Insurance** from opening new offices for **6 months** — for exceeding prescribed Expense of Management (EoM) limits, FY 2024-25.
 - **B) IRDAI opened NDB's Maharajah INR Bonds** to insurers — NDB (New Development Bank) to raise ₹25,000 crore over 5 years; life-insurer investment norms: min 50% in govt securities, min 15% in infra/social sectors.
-- **C) ADB assistance**: **₹1,750 crore** for 500 Karnataka Public Schools (total outlay ₹2,500 cr, Karnataka govt contributes ₹750 cr); separately, **$230 million ADB loan** to upgrade Chennai's water/sanitation system (170+ km pipes, 7 water + 38 sewer pumping stations upgraded). ADB: HQ Metro Manila, 69 members, President Masato Kanda, India's shareholding 6.3%.
+- **C) ADB assistance**: **₹1,750 crore** for 500 Karnataka Public Schools (total outlay ₹2,500 cr, Karnataka govt contributes ₹750 cr); separately, **\$230 million ADB loan** to upgrade Chennai's water/sanitation system (170+ km pipes, 7 water + 38 sewer pumping stations upgraded). ADB: HQ Metro Manila, 69 members, President Masato Kanda, India's shareholding 6.3%.
 
 🎯 Exam Angle → 🔥 HIGH — IRDAI's 6-month office-opening ban on Niva Bupa/Acko is a fresh regulatory-action MCQ.
 
@@ -855,8 +859,9 @@
 - **Tagline**: *"Experience Next Generation Banking"*.
 
 🎯 Exam Angle →
-• Bank & HQ: South Indian Bank — Thrissur, Kerala.
-• Executive: P R Seshadri (MD & CEO).
+
+- Bank & HQ: South Indian Bank — Thrissur, Kerala.
+- Executive: P R Seshadri (MD & CEO).
 
 ---
 
@@ -911,9 +916,9 @@
 
 📰 **FSSAI HFSS proposal & regulatory/administrative cluster (12–20 Aug)**
 
-• **School Nutrition Defense (FSSAI)**: Food Safety and Standards Authority proposed strict nutritional caps to ban the sale and promotion of **HFSS** (*High Fat, Sugar, and Salt*) junk foods within 50 meters of school campuses.
-• **Global Minimum Tax Alignment (MCA)**: Ministry of Corporate Affairs amended Indian Accounting Standards (**Ind AS**) to enforce **OECD Pillar Two**, ensuring large multinationals pay a minimum **15% effective tax**.
-• **Media Deregulation (MIB)**: Ministry of Information & Broadcasting recommended abolishing the 12-minute-per-hour television commercial ceiling to give private satellite broadcasters operational flexibility.
+- **School Nutrition Defense (FSSAI)**: Food Safety and Standards Authority proposed strict nutritional caps to ban the sale and promotion of **HFSS** (*High Fat, Sugar, and Salt*) junk foods within 50 meters of school campuses.
+- **Global Minimum Tax Alignment (MCA)**: Ministry of Corporate Affairs amended Indian Accounting Standards (**Ind AS**) to enforce **OECD Pillar Two**, ensuring large multinationals pay a minimum **15% effective tax**.
+- **Media Deregulation (MIB)**: Ministry of Information & Broadcasting recommended abolishing the 12-minute-per-hour television commercial ceiling to give private satellite broadcasters operational flexibility.
 
 🎯 Exam Angle → FSSAI's HFSS threshold numbers are a distinctive dataset.
 
@@ -921,9 +926,9 @@
 
 📰 **Tribunal Reforms Bill, 2026 & National Tribunals Data Grid**
 
-• **Tribunal Judicial Architecture**: Parliament passed the Tribunal Reforms Bill, 2026, establishing the **National Tribunals Data Grid (NTDG)** as a single data repository across **16 central tribunals**.
-• **NJDG Replication**: Modelled directly after the Supreme Court's successful National Judicial Data Grid (**NJDG**), the platform tracks case pendency, bench vacancies, and hearing delays in real time.
-• **Jurisdictional Scope**: Covers critical economic and civil bodies including NCLAT, TDSAT, ITAT, and NGT listed in the First Schedule, improving transparency across administrative adjudication.
+- **Tribunal Judicial Architecture**: Parliament passed the Tribunal Reforms Bill, 2026, establishing the **National Tribunals Data Grid (NTDG)** as a single data repository across **16 central tribunals**.
+- **NJDG Replication**: Modelled directly after the Supreme Court's successful National Judicial Data Grid (**NJDG**), the platform tracks case pendency, bench vacancies, and hearing delays in real time.
+- **Jurisdictional Scope**: Covers critical economic and civil bodies including NCLAT, TDSAT, ITAT, and NGT listed in the First Schedule, improving transparency across administrative adjudication.
 
 🎯 Exam Angle → 🔥 HIGH — NTDG covering 16 tribunals is a clean new-body MCQ; don't confuse with NJDG (existing, judiciary-wide, SC e-Committee-run).
 
@@ -944,9 +949,9 @@
 
 📰 **India's first dedicated Quantum & AI University; Mediation Council of India established**
 
-• **India's First Quantum AI Campus**: Andhra Pradesh approved the establishment of India's first dedicated Quantum Computing & Artificial Intelligence University campus in **Amaravati**, developed jointly with NIELIT and MeitY.
-• **Mediation Council Constituted**: Ministry of Law operationalized the **Mediation Council of India (MCI)** in New Delhi under **Section 31(1) of the Mediation Act, 2023** to institutionalize pre-litigation settlement.
-• **Governance & Timelines**: Led by a Chairperson and 2 members (tenure 4 years; age cap 70/67 years). The Act mandates that mediation proceedings must conclude within **180 days** (extendable by 180 days by mutual consent).
+- **India's First Quantum AI Campus**: Andhra Pradesh approved the establishment of India's first dedicated Quantum Computing & Artificial Intelligence University campus in **Amaravati**, developed jointly with NIELIT and MeitY.
+- **Mediation Council Constituted**: Ministry of Law operationalized the **Mediation Council of India (MCI)** in New Delhi under **Section 31(1) of the Mediation Act, 2023** to institutionalize pre-litigation settlement.
+- **Governance & Timelines**: Led by a Chairperson and 2 members (tenure 4 years; age cap 70/67 years). The Act mandates that mediation proceedings must conclude within **180 days** (extendable by 180 days by mutual consent).
 
 🎯 Exam Angle → 🔥 HIGH — Amaravati's Quantum & AI University is a fresh "first" fact; MCI's 180+180-day mediation timeline is a clean numeric MCQ.
 
@@ -954,7 +959,7 @@
 
 📰 **PM Modi's Uzbekistan visit & sovereign-AI/rural-mission launches**
 
-- **A)** PM Modi's 2-day Tashkent visit: 11 agreements signed; trade target **US$5 billion by 2030**; US$1 million grant for Aral Sea rehabilitation; ICCR Sanskrit Chair at Tashkent State University; India-Uzbekistan Green Initiative (Ek Ped Maa Ke Naam + Yashil Makon tree plantation).
+- **A)** PM Modi's 2-day Tashkent visit: 11 agreements signed; trade target **US\$5 billion by 2030**; US\$1 million grant for Aral Sea rehabilitation; ICCR Sanskrit Chair at Tashkent State University; India-Uzbekistan Green Initiative (Ek Ped Maa Ke Naam + Yashil Makon tree plantation).
 - **B) 'Gnani Artha'** — sovereign AI stack (components: Evon 3.3, Plexus) launched by VP C.P. Radhakrishnan; built by GNANI AI (Bengaluru), one of 12 entities developing sovereign LLMs under IndiaAI Mission.
 - **C) Mission Samriddh Gaon** — Ministry of Rural Development's integrated rural-transformation framework; pilot in Madhya Pradesh (Budni, Khategaon blocks).
 
@@ -976,9 +981,9 @@
 
 📰 **Operation GLOBAL-HUNT — international drug trafficker extradited** *(PIB — Phase 1 items)*
 
-• **High-Profile Fugitive Extradition**: Narcotics Control Bureau (**NCB**) successfully extradited international syndicate kingpin **Virender Singh Basoya** back to India from Thailand under **Operation GLOBAL-HUNT**.
-• **Specialized Agency Mandate**: Operation GLOBAL-HUNT was launched by NCB in coordination with Interpol and overseas law-enforcement agencies to track and apprehend drug fugitives operating offshore cartels.
-• **Financial Disruption**: The operation targets the hawala and crypto-laundering channels used by transnational syndicates smuggling synthetic drugs and heroin into Indian maritime zones.
+- **High-Profile Fugitive Extradition**: Narcotics Control Bureau (**NCB**) successfully extradited international syndicate kingpin **Virender Singh Basoya** back to India from Thailand under **Operation GLOBAL-HUNT**.
+- **Specialized Agency Mandate**: Operation GLOBAL-HUNT was launched by NCB in coordination with Interpol and overseas law-enforcement agencies to track and apprehend drug fugitives operating offshore cartels.
+- **Financial Disruption**: The operation targets the hawala and crypto-laundering channels used by transnational syndicates smuggling synthetic drugs and heroin into Indian maritime zones.
 
 🎯 Exam Angle → NCB's Operation GLOBAL-HUNT is a fresh named-operation fact.
 
@@ -1004,7 +1009,7 @@
 - **Lebanon abolished the death penalty** — first Arab-world country to do so
 - **Makkah Joint Defence Agreement** — Saudi Arabia, Türkiye, Pakistan signed collective-defence pact at Al-Safa Palace, Makkah (an armed attack on one = attack on all three)
 - **Operation Economic Outcast** — US campaign to cut off Iran's economic/revenue networks
-- **Nepal flash floods** — ice-rock avalanche near Tibet triggered a Bhotekoshi River surge, affecting Rasuwa & Dhading districts; WHO released $150,000 from its SE Asia Regional Health Emergency Fund for relief
+- **Nepal flash floods** — ice-rock avalanche near Tibet triggered a Bhotekoshi River surge, affecting Rasuwa & Dhading districts; WHO released \$150,000 from its SE Asia Regional Health Emergency Fund for relief
 
 🎯 Exam Angle → 🔥 HIGH — Makkah Joint Defence Agreement's NATO-Article-5-style collective-defence clause (Saudi-Türkiye-Pakistan) is a fresh, testable "why in news" item.
 
@@ -1019,7 +1024,8 @@
 - Includes historical gompas, petroglyphs, rock art, and ancient trade route fortifications across Leh and Kargil districts.
 
 🎯 Exam Angle →
-• Number of Sites: 23 notified heritage monuments in UT Ladakh.
+
+- Number of Sites: 23 notified heritage monuments in UT Ladakh.
 
 ---
 
@@ -1067,16 +1073,16 @@
 📰 **Mergers & Acquisitions**
 
 - **Shivalik SFB** merged with ManiBhavnam Home Finance (~₹109 cr)
-- **BofA–Jio Credit**: NB Holdings to acquire **49.9% stake** in Jio Credit for **₹18,268.22 crore ($1.9 bn)**
+- **BofA–Jio Credit**: NB Holdings to acquire **49.9% stake** in Jio Credit for **₹18,268.22 crore (\$1.9 bn)**
 - **Prudential–Bharti Life**: 75% stake, ₹3,500 crore *(cross-ref Sec 3)*
 
-🎯 Exam Angle → 🔥 HIGH — BofA-Jio Credit deal value (₹18,268.22 cr / $1.9 bn for 49.9%).
+🎯 Exam Angle → 🔥 HIGH — BofA-Jio Credit deal value (₹18,268.22 cr / \$1.9 bn for 49.9%).
 
 ---
 
 📰 **Conferences Cluster (1–20 Aug + 21–31 Aug merged)**
 
-- **UNCCD COP17** — Ulaanbaatar, Mongolia, **17–28 Aug 2026**; theme *"Restoring Land. Restoring Hope"*; 197 Parties; 2026 = Intl Year of Rangelands & Pastoralists (cover 54% of Earth's land, ~2 bn people supported); Rangelands Flagship Initiative — US$1.2 bn across 45 projects *(merged — appeared in both fortnights' clusters)*
+- **UNCCD COP17** — Ulaanbaatar, Mongolia, **17–28 Aug 2026**; theme *"Restoring Land. Restoring Hope"*; 197 Parties; 2026 = Intl Year of Rangelands & Pastoralists (cover 54% of Earth's land, ~2 bn people supported); Rangelands Flagship Initiative — US\$1.2 bn across 45 projects *(merged — appeared in both fortnights' clusters)*
 - **3rd India International FinTech Festival** — India crossed 1,000+ km secure quantum communication
 - **PSB Conclave**, New Delhi, 17-18 Aug
 - **5th SEMICON India 2026** — New Delhi, from 17 Sept 2026
@@ -1089,9 +1095,9 @@
 
 📰 **UNCCD COP17 — India launches first-ever Guide to Grasslands & Open Natural Ecosystems** 🔄 UPDATE (PIB 11–18 Aug, merged with the UNCCD COP17 entry above)
 
-• **First Open Ecosystems Atlas**: Ministry of Environment, Forest and Climate Change (MoEF&CC) unveiled India's first-ever comprehensive **Guide to Grasslands and Open Natural Ecosystems (ONEs)** at UNCCD COP17.
-• **Research Consortium**: Developed by the **Ashoka Trust for Research in Ecology and the Environment (ATREE)** alongside IUCN, ICFRE, and ISRO's Space Applications Centre (SAC).
-• **Ecological Classification**: Re-evaluates arid savannas, scrublands, and alpine meadows—historically misclassified as unproductive "wastelands"—to protect critical habitats for endangered species like the Great Indian Bustard.
+- **First Open Ecosystems Atlas**: Ministry of Environment, Forest and Climate Change (MoEF&CC) unveiled India's first-ever comprehensive **Guide to Grasslands and Open Natural Ecosystems (ONEs)** at UNCCD COP17.
+- **Research Consortium**: Developed by the **Ashoka Trust for Research in Ecology and the Environment (ATREE)** alongside IUCN, ICFRE, and ISRO's Space Applications Centre (SAC).
+- **Ecological Classification**: Re-evaluates arid savannas, scrublands, and alpine meadows—historically misclassified as unproductive "wastelands"—to protect critical habitats for endangered species like the Great Indian Bustard.
 
 🎯 Exam Angle → 🔥 HIGH — India's first-ever Grasslands/ONEs Guide is a fresh, clean "first" layered onto the already-logged COP17 entry.
 
@@ -1099,9 +1105,9 @@
 
 📰 **BRICS Environment Working Group Meeting hosted by India** 🔄 UPDATE (PIB — Phase 1 items, merged with the BRICS Chairship entry above)
 
-• **Ministerial Summit Hosting**: India hosted the **12th BRICS Environment Ministers' Meeting** at Bharat Mandapam, New Delhi on **18 August 2026** under India's Chairship theme: *"Building for Resilience, Innovation, Cooperation and Sustainability"*.
-• **Joint Decarbonization Roadmap**: Deliberations focused on transboundary biodiversity corridors, plastic pollution treaties, and equitable access to international climate finance.
-• **Institutional Background**: The **BRICS Environment Working Group (EWG)** was founded in **2015** in Moscow, while the specialized **Contact Group on Climate Change** was constituted in **2024** to coordinate joint negotiating positions at COP conferences.
+- **Ministerial Summit Hosting**: India hosted the **12th BRICS Environment Ministers' Meeting** at Bharat Mandapam, New Delhi on **18 August 2026** under India's Chairship theme: *"Building for Resilience, Innovation, Cooperation and Sustainability"*.
+- **Joint Decarbonization Roadmap**: Deliberations focused on transboundary biodiversity corridors, plastic pollution treaties, and equitable access to international climate finance.
+- **Institutional Background**: The **BRICS Environment Working Group (EWG)** was founded in **2015** in Moscow, while the specialized **Contact Group on Climate Change** was constituted in **2024** to coordinate joint negotiating positions at COP conferences.
 
 🎯 Exam Angle → BRICS EWG's 2015-Moscow origin vs the Climate Change Contact Group's 2024 origin is a clean two-body trap.
 
@@ -1157,9 +1163,9 @@
 
 📰 **PMIS Industry Awards** *(PIB — Ministry of Corporate Affairs)*
 
-• **Corporate Skill Recognition**: Ministry of Corporate Affairs (MCA) organized the inaugural **PM Internship Scheme (PMIS) Industry Awards** in New Delhi to felicitate top private and public employers in the pilot rollout.
-• **Overall Champion**: Automotive and engineering giant **Mahindra & Mahindra Limited** was awarded the **Overall Industry Champion** for onboarding the largest quota of rural youth interns.
-• **Sectoral Leadership**: Reliance Industries, Infosys, and Dr. Reddy's led private sector categories, while **ONGC and NTPC** topped public sector enterprise rankings across 24 core manufacturing clusters.
+- **Corporate Skill Recognition**: Ministry of Corporate Affairs (MCA) organized the inaugural **PM Internship Scheme (PMIS) Industry Awards** in New Delhi to felicitate top private and public employers in the pilot rollout.
+- **Overall Champion**: Automotive and engineering giant **Mahindra & Mahindra Limited** was awarded the **Overall Industry Champion** for onboarding the largest quota of rural youth interns.
+- **Sectoral Leadership**: Reliance Industries, Infosys, and Dr. Reddy's led private sector categories, while **ONGC and NTPC** topped public sector enterprise rankings across 24 core manufacturing clusters.
 
 🎯 Exam Angle → Mahindra & Mahindra as PMIS's Overall Industry Champion is a clean standalone fact.
 
@@ -1190,9 +1196,9 @@
 
 📰 **Space, AI & nuclear cluster (12–20 Aug)**
 
-• **Lunar Base Collaboration**: NASA formally invited ISRO to contribute robotics and habitat modules to the international lunar surface base under the **Artemis Accords** (India joined as the **27th signatory** in 2023; pact now spans **70 nations**).
-• **Commercial EO Constellation**: IN-SPACe authorized India's first fully private Earth Observation (**EO**) satellite constellation, spearheaded by Allied Orbits with an investment exceeding **₹1,200 crore**.
-• **Indigenous Launch Target**: The 24-satellite optical and radar imaging constellation will achieve full operational deployment by **2029**, servicing agriculture, defence, and disaster management.
+- **Lunar Base Collaboration**: NASA formally invited ISRO to contribute robotics and habitat modules to the international lunar surface base under the **Artemis Accords** (India joined as the **27th signatory** in 2023; pact now spans **70 nations**).
+- **Commercial EO Constellation**: IN-SPACe authorized India's first fully private Earth Observation (**EO**) satellite constellation, spearheaded by Allied Orbits with an investment exceeding **₹1,200 crore**.
+- **Indigenous Launch Target**: The 24-satellite optical and radar imaging constellation will achieve full operational deployment by **2029**, servicing agriculture, defence, and disaster management.
 
 🎯 Exam Angle → 🔥 HIGH — India as 27th Artemis Accords signatory (2023) + current 70-member count.
 
@@ -1253,9 +1259,9 @@
 
 📰 **Defence exercises & indigenous equipment (1–11 Aug)**
 
-• **Strategic Missile Validation**: Strategic Forces Command successfully test-fired the intermediate-range ballistic missile (**Agni-4**) with a strike envelope spanning up to **4,000 km**, validating its re-entry heat shield.
-• **Counter-Drone Drills**: Indian Air Force conducted **Exercise ROTOR CLAP-III**, its 3rd dedicated counter-unmanned aerial systems (Counter-UAS) drill simulating swarm-drone intrusions.
-• **Indigenization Integration**: Trials tested laser direct-energy weapons (DEWs) and automated jamming networks deployed across western border airbases.
+- **Strategic Missile Validation**: Strategic Forces Command successfully test-fired the intermediate-range ballistic missile (**Agni-4**) with a strike envelope spanning up to **4,000 km**, validating its re-entry heat shield.
+- **Counter-Drone Drills**: Indian Air Force conducted **Exercise ROTOR CLAP-III**, its 3rd dedicated counter-unmanned aerial systems (Counter-UAS) drill simulating swarm-drone intrusions.
+- **Indigenization Integration**: Trials tested laser direct-energy weapons (DEWs) and automated jamming networks deployed across western border airbases.
 
 🎯 Exam Angle → 🔥 HIGH — Agni-4's 4,000 km range is a recurring missile-specs MCQ.
 
@@ -1294,7 +1300,7 @@
 - **G) CSIR-NAL unveils 3 indigenous gas-turbine engines** — NJ-05, NJ-50, NJ-100 (5/50/100 kg thrust)
 - **H) DRDO tests high-altitude Military Combat Parachute System** at Nyoma-Mudh, Ladakh (22,000 ft, −15°C) — one of the world's highest-altitude drop zones
 - **I) India–US Javelin Deal** *(cross-ref Sec 5)* — ~100 FGM-148 ATGMs, India's formal entry as a Javelin customer
-- **J) Sixth-generation fighter race**: India is a **Dialogue Partner** in GCAP/Tempest (UK, Japan, Italy) — does NOT make India a buyer/developer; planned induction 2034, ~US$6.1 bn secured for design phase
+- **J) Sixth-generation fighter race**: India is a **Dialogue Partner** in GCAP/Tempest (UK, Japan, Italy) — does NOT make India a buyer/developer; planned induction 2034, ~US\$6.1 bn secured for design phase
 
 🎯 Exam Angle → 🔥 HIGH — AK-203 'Sher' as India's first 100% indigenous AK-203 output and Samarthak as India's first indigenous MPV are the two standout "firsts" this cycle; don't confuse Samarthak (MPV, L&T) with INS Nipun (DSV, HSL) — different vessel classes, same fortnight.
 
@@ -1306,17 +1312,17 @@
 
 📰 **Sports Highlights (1–11 August 2026)**
 
-• **Historic Badminton Milestone**: 16-year-old **Tanvi Sharma** won the Bonn International, becoming the first Indian female shuttler to capture a senior BWF title since **Saina Nehwal** in 2008.
-• **Maiden BWF Tour Trophy**: Indian badminton player **Ashmita Chaliha** clinched her career-first BWF World Tour title at the Maldives International Challenge.
-• **Global Chess Victory**: Grandmaster **R Praggnanandhaa** triumphed at the prestigious **St. Louis Rapid & Blitz 2026**, defeating World No. 1 Magnus Carlsen in the blitz tiebreak segment.
+- **Historic Badminton Milestone**: 16-year-old **Tanvi Sharma** won the Bonn International, becoming the first Indian female shuttler to capture a senior BWF title since **Saina Nehwal** in 2008.
+- **Maiden BWF Tour Trophy**: Indian badminton player **Ashmita Chaliha** clinched her career-first BWF World Tour title at the Maldives International Challenge.
+- **Global Chess Victory**: Grandmaster **R Praggnanandhaa** triumphed at the prestigious **St. Louis Rapid & Blitz 2026**, defeating World No. 1 Magnus Carlsen in the blitz tiebreak segment.
 
 🎯 Exam Angle → 🔥 HIGH — Tanvi Sharma's first-since-Saina-Nehwal (2008) record is a standout sports MCQ.
 
 📰 **Sports Highlights (12–20 August 2026)**
 
-• **World Record in Test Sixes**: Wicketkeeper-batter **Rishabh Pant** became the fastest cricketer in Test history to hit **100 sixes**, needing just **4,918 balls** to eclipse Adam Gilchrist's previous record of 6,578 balls.
-• **Badminton World Championships Hosting**: Badminton World Federation (**BWF**) awarded the hosting rights for the prestigious **BWF World Championships** to New Delhi, marking India's first time hosting the flagship event since 2009.
-• **National Venue Selection**: The championships will be staged at the Indira Gandhi Indoor Arena under the supervision of the Badminton Association of India (BAI).
+- **World Record in Test Sixes**: Wicketkeeper-batter **Rishabh Pant** became the fastest cricketer in Test history to hit **100 sixes**, needing just **4,918 balls** to eclipse Adam Gilchrist's previous record of 6,578 balls.
+- **Badminton World Championships Hosting**: Badminton World Federation (**BWF**) awarded the hosting rights for the prestigious **BWF World Championships** to New Delhi, marking India's first time hosting the flagship event since 2009.
+- **National Venue Selection**: The championships will be staged at the Indira Gandhi Indoor Arena under the supervision of the Badminton Association of India (BAI).
 
 🎯 Exam Angle → 🔥 HIGH — Pant's speed record (4,918 balls to 100 Test sixes) vs Gilchrist (6,578 balls) is a high-yield sports record MCQ.
 
@@ -1327,7 +1333,7 @@
 - **A) Men's FIH Hockey World Cup 2026** — Belgium & Netherlands; Winner: **Germany** (4th title, bt Spain 1-0 final; Spain's first final since 1998); India finished **8th**, lost 3-4 shootout to co-hosts Belgium; captain Harmanpreet Singh. *(India's only-ever title: 1975, bt Pakistan 2-1.)*
 - **B) Women's FIH Hockey World Cup 2026** — Winner: **Argentina** (3rd title, bt Netherlands); **India's best finish in 52 years** (since 4th place in 1974); India beat Germany 3-1 in their final match; ₹50 lakh cash award by Hockey India; captain Salima Tete.
 - **C) BWF Badminton World Championships 2026** — Indira Gandhi Arena, New Delhi (30th edition); Men's Singles: Alex Lanier (France); Women's Singles: An Se Young (S. Korea); **India's Treesa Jolly & Gayatri Gopichand won Bronze in Women's Doubles** — 2nd-ever Indian women's-doubles World Championship medal (after Jwala Gutta/Ashwini Ponnappa's Bronze in 2011).
-- **D) Grand Chess Tour 2026** — R Praggnanandhaa became the **first Indian to win** the Grand Chess Tour, defeating defending champion Fabiano Caruana, St. Louis; prize US$200,000.
+- **D) Grand Chess Tour 2026** — R Praggnanandhaa became the **first Indian to win** the Grand Chess Tour, defeating defending champion Fabiano Caruana, St. Louis; prize US\$200,000.
 - **E) Commonwealth Games (Glasgow)** — India's Armed Forces contingent won 18 medals (Army 16, Navy 2) within India's overall 39-medal (13G-17S-9B) tally.
 - **F) Mitchell Starc** became the leading wicket-taker in WTC history (234 wickets, surpassing Cummins/Lyon's 228).
 
@@ -1343,15 +1349,16 @@
 - **Cabinet Approval**: Union Cabinet sanctioned **Mission Mausam** under the **Ministry of Earth Sciences (MoES)** with an outlay of **₹2,000 crore** over two years to commemorate India Meteorological Department's (IMD) 150th year of service.
 - **Key Executing Agencies**: India Meteorological Department (IMD), Indian Institute of Tropical Meteorology (IITM, Pune), and National Centre for Medium Range Weather Forecasting (NCMRWF, Noida).
 - **Physical Sensor Grid Upgrades**:
-  • Deployment of **up to 50 additional Doppler Weather Radars (DWRs)**.
-  • Installation of **60 Wind Profilers**, **100 Radiometers**, and an extensive network of automated weather stations.
+  - Deployment of **up to 50 additional Doppler Weather Radars (DWRs)**.
+  - Installation of **60 Wind Profilers**, **100 Radiometers**, and an extensive network of automated weather stations.
 - **Cutting-Edge Atmospheric Research**: Construction of an advanced **Cloud Simulation Chamber** at IITM Pune to conduct controlled cloud physics and warm-cloud seeding experiments.
 - **Target Capability**: Sub-kilometer localized weather forecasting, air quality alerts, and real-time monsoonal nowcasting using next-gen High-Performance Computing (HPC) and AI/ML algorithms.
 
 🎯 Exam Angle →
-• Financial Outlay: ₹2,000 crore over 2 years (FY25–FY26).
-• Nodal Ministry: Ministry of Earth Sciences (MoES) — do NOT confuse with Ministry of Environment, Forest and Climate Change (MoEFCC).
-• Milestone Context: Commemorates 150 years of IMD (established 1875).
+
+- Financial Outlay: ₹2,000 crore over 2 years (FY25–FY26).
+- Nodal Ministry: Ministry of Earth Sciences (MoES) — do NOT confuse with Ministry of Environment, Forest and Climate Change (MoEFCC).
+- Milestone Context: Commemorates 150 years of IMD (established 1875).
 
 ---
 
@@ -1361,9 +1368,9 @@
 
 📰 **Global & Domestic Rankings Cluster (1–20 August 2026)**
 
-• **Celebrity Brand Valuation**: Actor **Shah Rukh Khan** reclaimed the **#1 spot** in Kroll’s Celebrity Brand Valuation Report with an estimated brand value of **$177.9 million**, while Virat Kohli shifted to the #3 position.
-• **GenAI Patent Leadership (WIPO)**: India advanced to **5th globally** in Generative AI patent filings in WIPO’s SPARK report, logging an aggressive **64% compound annual growth rate (CAGR)** between 2017 and 2025.
-• **Academic Ranking of World Universities (ARWU)**: In the Shanghai Ranking 2026, the **Indian Institute of Science (IISc Bangalore)** and **Saveetha Institute** shared top honors as India’s highest-ranked higher education institutions.
+- **Celebrity Brand Valuation**: Actor **Shah Rukh Khan** reclaimed the **#1 spot** in Kroll’s Celebrity Brand Valuation Report with an estimated brand value of **\$177.9 million**, while Virat Kohli shifted to the #3 position.
+- **GenAI Patent Leadership (WIPO)**: India advanced to **5th globally** in Generative AI patent filings in WIPO’s SPARK report, logging an aggressive **64% compound annual growth rate (CAGR)** between 2017 and 2025.
+- **Academic Ranking of World Universities (ARWU)**: In the Shanghai Ranking 2026, the **Indian Institute of Science (IISc Bangalore)** and **Saveetha Institute** shared top honors as India’s highest-ranked higher education institutions.
 
 🎯 Exam Angle → 🔥 HIGH — India's 5th global rank in GenAI patent filings with 64% CAGR is a distinctive science & innovation metric.
 
@@ -1381,17 +1388,17 @@
 
 📰 **World Bank & Multilateral Economic Reports (1–11 August 2026)**
 
-• **Economic Cost of Extreme Heat**: A World Bank study revealed that extreme temperature anomalies cost India **247 billion potential labour hours** in 2024, equating to an estimated economic output loss of **$194 billion**.
-• **AI Automation Disruption**: The **World Development Report 2026** projected that generative AI automation risks **4.5% of jobs in low- and middle-income countries**, compared to **14.2% of jobs in advanced high-income economies** with large services sectors.
-• **Labour Vulnerability Factor**: Outdoor manual workers in agriculture and construction face the highest heat productivity losses, urging investments in urban green canopies and heat action plans.
+- **Economic Cost of Extreme Heat**: A World Bank study revealed that extreme temperature anomalies cost India **247 billion potential labour hours** in 2024, equating to an estimated economic output loss of **\$194 billion**.
+- **AI Automation Disruption**: The **World Development Report 2026** projected that generative AI automation risks **4.5% of jobs in low- and middle-income countries**, compared to **14.2% of jobs in advanced high-income economies** with large services sectors.
+- **Labour Vulnerability Factor**: Outdoor manual workers in agriculture and construction face the highest heat productivity losses, urging investments in urban green canopies and heat action plans.
 
-🎯 Exam Angle → 🔥 HIGH — India's heat labour-loss figures (247 bn hours / $194 bn) and World Bank AI disruption disparity (4.5% vs 14.2%) are standout report MCQs.
+🎯 Exam Angle → 🔥 HIGH — India's heat labour-loss figures (247 bn hours / \$194 bn) and World Bank AI disruption disparity (4.5% vs 14.2%) are standout report MCQs.
 
 📰 **Corporate, FMCG & Wealth Reports (12–20 August 2026)**
 
-• **Family Business Wealth Concentration**: The Barclays-Hurun India Family Business Report revealed that India’s top 300 family-owned enterprises command a cumulative valuation of **₹138 lakh crore** (equivalent to over a third of India's GDP).
-• **FMCG Brand Dominance**: Food conglomerate **Parle** retained its position as India’s most-chosen Fast-Moving Consumer Goods (FMCG) brand for the **14th consecutive year** in Kantar’s Brand Footprint study.
-• **Governance Transition**: Over 70% of leading family businesses have instituted formal family constitutions and succession protocols to manage second- and third-generation leadership transfers.
+- **Family Business Wealth Concentration**: The Barclays-Hurun India Family Business Report revealed that India’s top 300 family-owned enterprises command a cumulative valuation of **₹138 lakh crore** (equivalent to over a third of India's GDP).
+- **FMCG Brand Dominance**: Food conglomerate **Parle** retained its position as India’s most-chosen Fast-Moving Consumer Goods (FMCG) brand for the **14th consecutive year** in Kantar’s Brand Footprint study.
+- **Governance Transition**: Over 70% of leading family businesses have instituted formal family constitutions and succession protocols to manage second- and third-generation leadership transfers.
 
 🎯 Exam Angle → 🔥 HIGH — ₹138 lakh crore family-business valuation vs Parle's 14-year consecutive FMCG lead are clean corporate ranking MCQs.
 
@@ -1412,7 +1419,7 @@
 
 - **A)** *India's Services Sector: Insights on Regulatory Regime in Professional Services* — 3rd report under the Services Thematic Series, launched by Vice Chairman **Ashok Kumar Lahiri** at the forum of the High-Powered 'Education to Employment and Enterprise' Standing Committee; provides a factual assessment of India's professional-services regulatory framework, benchmarked against foreign jurisdictions
 - **B)** *Key Sectors to Position India as a Global Manufacturing Hub* — a structured, data-driven framework identifying sectors that can fuel India's manufacturing ambitions; this report analyses **4 sectors**: Chemicals, Telecom & Networking Equipment, Textiles, Solar PV Manufacturing; reports on **8 more sectors** will follow
-- Sector facts — **Chemicals**: Petrochemicals & organic chemicals are the largest segment (vs specialty, inorganic chemicals). **Textiles**: contributes ~2% of GDP, 11% of manufacturing GVA, 9% of merchandise exports; 45 million+ livelihoods; FY2025 exports $37.7 bn; global export share 4.1%; **6th-largest textile exporter globally**. **Telecom & Networking Equipment**: India is the 2nd-largest telecom market, 1.2 billion+ subscribers, ~85% telecom penetration, ~75% internet usage
+- Sector facts — **Chemicals**: Petrochemicals & organic chemicals are the largest segment (vs specialty, inorganic chemicals). **Textiles**: contributes ~2% of GDP, 11% of manufacturing GVA, 9% of merchandise exports; 45 million+ livelihoods; FY2025 exports \$37.7 bn; global export share 4.1%; **6th-largest textile exporter globally**. **Telecom & Networking Equipment**: India is the 2nd-largest telecom market, 1.2 billion+ subscribers, ~85% telecom penetration, ~75% internet usage
 - **C)** NITI Aayog's *"Reimagining Care: Strategies for Empowering Caregivers in Viksit Bharat@2047"* — presents a roadmap for an organised, professional caregiving ecosystem via a proposed **National Policy on Caregiving** and a **National Caregiver Council**
 
 🎯 Exam Angle → 🔥 HIGH — Textiles' "6th-largest exporter globally" + 45-million-livelihoods figures are strong standalone stats from the Manufacturing Hub report.
@@ -1423,9 +1430,9 @@
 
 📰 **National & International Honours (1–20 August 2026)**
 
-• **Prestigious Space Science Award**: Eminent astrophysicist **Prof. Annapurni Subramaniam** was awarded the **COSPAR Vikram Sarabhai Medal**, becoming the **first Indian woman** and only the 4th Indian scientist to receive the global space research accolade.
-• **Khel Ratna Omission**: The National Sports Awards Selection Committee decided that the **Major Dhyan Chand Khel Ratna Award** would have **no recipient** in 2025, prioritizing stricter Olympic and World Championship medal standards.
-• **Arjuna & Dronacharya Conferred**: While the country's highest sporting honour was withheld, 17 athletes were conferred the Arjuna Award for consistent international excellence.
+- **Prestigious Space Science Award**: Eminent astrophysicist **Prof. Annapurni Subramaniam** was awarded the **COSPAR Vikram Sarabhai Medal**, becoming the **first Indian woman** and only the 4th Indian scientist to receive the global space research accolade.
+- **Khel Ratna Omission**: The National Sports Awards Selection Committee decided that the **Major Dhyan Chand Khel Ratna Award** would have **no recipient** in 2025, prioritizing stricter Olympic and World Championship medal standards.
+- **Arjuna & Dronacharya Conferred**: While the country's highest sporting honour was withheld, 17 athletes were conferred the Arjuna Award for consistent international excellence.
 
 🎯 Exam Angle → 🔥 HIGH — Prof. Annapurni Subramaniam's COSPAR Vikram Sarabhai Medal (first Indian woman) and Khel Ratna's blank year (2025) are high-probability MCQ facts.
 
@@ -1480,8 +1487,9 @@
 - Home to the iconic **Dhamek Stupa**, **Chaukhandi Stupa**, and the **Ashoka Pillar with Lion Capital** (India's National Emblem).
 
 🎯 Exam Angle →
-• Location & Monument: Sarnath, Varanasi; Dhamek Stupa and Lion Capital of Ashoka.
-• Event: Added to Tentative List (not final inscription).
+
+- Location & Monument: Sarnath, Varanasi; Dhamek Stupa and Lion Capital of Ashoka.
+- Event: Added to Tentative List (not final inscription).
 
 ---
 
@@ -1494,9 +1502,10 @@
 - **Pupil-Teacher Ratio (PTR)**: Recorded at **23** for regular universities and colleges.
 
 🎯 Exam Angle →
-• Total Enrolment: 4.33 crore students.
-• GER & Gender Parity: Overall GER = 28.4%; Female GER (28.5%) > Male GER (28.3%); GPI = 1.01.
-• Nodal Ministry: Ministry of Education.
+
+- Total Enrolment: 4.33 crore students.
+- GER & Gender Parity: Overall GER = 28.4%; Female GER (28.5%) > Male GER (28.3%); GPI = 1.01.
+- Nodal Ministry: Ministry of Education.
 
 ---
 
@@ -1536,9 +1545,9 @@
 
 📰 **16th Indian Organ Donation Day — new initiatives** *(PIB 1–10 Aug)*
 
-• **National Awareness Campaign**: Ministry of Health launched the year-long **"Jug Jug Jiyo Abhiyaan"** on the 16th Indian Organ Donation Day to dispel sociocultural myths and promote deceased organ pledging in rural districts.
-• **Unified Digital Portal (e-प्रत्यारोपण)**: Operationalized **e-प्रत्यारोपण**, an integrated national digital platform connecting transplant centers, intensive care units, and registered recipients across India.
-• **Algorithm-Driven Matching**: Eliminates commercial exploitation by managing wait-lists, cross-matching tissue algorithms, and organ transport green-corridors through transparent digital tracking.
+- **National Awareness Campaign**: Ministry of Health launched the year-long **"Jug Jug Jiyo Abhiyaan"** on the 16th Indian Organ Donation Day to dispel sociocultural myths and promote deceased organ pledging in rural districts.
+- **Unified Digital Portal (e-प्रत्यारोपण)**: Operationalized **e-प्रत्यारोपण**, an integrated national digital platform connecting transplant centers, intensive care units, and registered recipients across India.
+- **Algorithm-Driven Matching**: Eliminates commercial exploitation by managing wait-lists, cross-matching tissue algorithms, and organ transport green-corridors through transparent digital tracking.
 
 🎯 Exam Angle → e-प्रत्यारोपण as the unified organ-allocation digital platform is a clean standalone fact.
 
@@ -1550,7 +1559,8 @@
 - Observed globally on **August 1** to commemorate the public launch of the World Wide Web by British computer scientist **Sir Tim Berners-Lee** in 1991 at CERN (European Organization for Nuclear Research).
 
 🎯 Exam Angle →
-• Founder & Year: Tim Berners-Lee at CERN, 1991.
+
+- Founder & Year: Tim Berners-Lee at CERN, 1991.
 
 ---
 
@@ -1581,9 +1591,9 @@
 
 📰 **National Company Law Tribunal (NCLT) — e-Inspection & e-Certified Copy Services** *(PIB 11–18 Aug — cross-ref Sec 2)*
 
-• **Paperless Registry Access**: National Company Law Tribunal (**NCLT**) operationalized an automated **e-Inspection Service** to provide real-time digital access to tribunal dossiers for insolvency and company dispute resolution.
-• **Certified Copy Automation**: Integrated **e-Certified Copy Service**, allowing advocates and liquidators to receive legally validated, digitally signed case copies within 48 hours.
-• **Insolvency Speed**: Reduces physical visits to tribunal registries, directly accelerating time-bound resolution under the Insolvency and Bankruptcy Code (IBC).
+- **Paperless Registry Access**: National Company Law Tribunal (**NCLT**) operationalized an automated **e-Inspection Service** to provide real-time digital access to tribunal dossiers for insolvency and company dispute resolution.
+- **Certified Copy Automation**: Integrated **e-Certified Copy Service**, allowing advocates and liquidators to receive legally validated, digitally signed case copies within 48 hours.
+- **Insolvency Speed**: Reduces physical visits to tribunal registries, directly accelerating time-bound resolution under the Insolvency and Bankruptcy Code (IBC).
 
 🎯 Exam Angle → Standalone administrative-digitisation MCQ (cross-ref Section 2's regulatory-bodies detail).
 
@@ -1591,9 +1601,9 @@
 
 📰 **Central Information Commission (CIC) — AppCoMS 2.0** *(PIB 11–18 Aug — cross-ref Sec 2)*
 
-• **RTI Portal Re-architecture**: Central Information Commission deployed **AppCoMS 2.0** on **17 August 2026**, replacing the decade-old 2016 processing software.
-• **Automated Case Workflow**: End-to-end digitisation encompasses initial appeal registration, cause-list scheduling, digital summons dispatch, and real-time decision uploads for citizens.
-• **Accountability Metrics**: Tracks compliance status of Central Public Information Officers (CPIOs), reducing the appellate backlog across all central departments.
+- **RTI Portal Re-architecture**: Central Information Commission deployed **AppCoMS 2.0** on **17 August 2026**, replacing the decade-old 2016 processing software.
+- **Automated Case Workflow**: End-to-end digitisation encompasses initial appeal registration, cause-list scheduling, digital summons dispatch, and real-time decision uploads for citizens.
+- **Accountability Metrics**: Tracks compliance status of Central Public Information Officers (CPIOs), reducing the appellate backlog across all central departments.
 
 🎯 Exam Angle → CIC AppCoMS 2.0's 2016→2026 upgrade (cross-ref Section 2).
 
@@ -1725,7 +1735,7 @@
 - **Production & Market Stats**:
   - Production (2025–26 2nd AE): **80,590 MT** (productivity 2.34 MT/ha); Bihar produces 60,000 MT. Improved varieties: *Swarna Vaidehi* and *Sabour Makhana-1*.
   - Domestic Market: Growing at 17–18% CAGR, projected to reach **₹11,000–12,000 crore by 2029–30**.
-  - Exports: India exports ~40% of production (~0.25 lakh MT). In 2025–26, exports were 7,264.89 MT (₹192.96 crore). **USA (40%) > Canada > UAE** account for **77%** of total exports. Premium markets: Germany ($26/kg), Nepal ($21.6/kg), Australia ($21/kg).
+  - Exports: India exports ~40% of production (~0.25 lakh MT). In 2025–26, exports were 7,264.89 MT (₹192.96 crore). **USA (40%) > Canada > UAE** account for **77%** of total exports. Premium markets: Germany (\$26/kg), Nepal (\$21.6/kg), Australia (\$21/kg).
 
 🎯 Exam Angle → ₹476.03 crore Central Sector Scheme outlay; Bihar's 80–85% global dominance; USA as top export destination (40%).
 
@@ -1742,7 +1752,7 @@
 - **Dairy Production & Productivity**:
   - Annual milk production reached **247.87 million tonnes** in 2024–25 (+69.4% decadal growth).
   - Bovine productivity rose to **2,250 kg/animal/year**; target is **3,000 kg/animal/year by 2030**.
-- **Global Linkage**: **US$25 million** Pandemic Fund project supported by G20 with ADB, FAO, and World Bank.
+- **Global Linkage**: **US\$25 million** Pandemic Fund project supported by G20 with ADB, FAO, and World Bank.
 
 🎯 Exam Angle → 🔥 HIGH — FMD (every 6 months) vs Brucellosis (one-time lifetime at 4–8 months female calves); unique 12-digit Tag ID on Bharat Pashudhan; 3,000 kg/animal bovine productivity target by 2030.
 
@@ -1773,17 +1783,18 @@
 
 - **Cabinet Approval**: Union Cabinet approved **PM Electric Drive Revolution in Innovative Vehicle Enhancement (PM E-DRIVE)** with a financial outlay of **₹10,900 crore** over a 2-year tenure (FY25 to FY27), succeeding the FAME-II program.
 - **Subsidized Fleet Target**:
-  • **24.79 Lakh Electric Two-Wheelers (e-2W)** and **3.16 Lakh Electric Three-Wheelers (e-3W)** supported with ₹3,679 crore demand incentive.
-  • **14,028 Electric Buses (e-buses)** supported with ₹4,391 crore allocation, channeled through Convergence Energy Services Limited (CESL) across 9 major cities (population >4 million).
-  • **88,500 Hybrid & Electric Ambulances**: ₹500 crore dedicated allocation for emergency healthcare transit.
+  - **24.79 Lakh Electric Two-Wheelers (e-2W)** and **3.16 Lakh Electric Three-Wheelers (e-3W)** supported with ₹3,679 crore demand incentive.
+  - **14,028 Electric Buses (e-buses)** supported with ₹4,391 crore allocation, channeled through Convergence Energy Services Limited (CESL) across 9 major cities (population >4 million).
+  - **88,500 Hybrid & Electric Ambulances**: ₹500 crore dedicated allocation for emergency healthcare transit.
 - **Charging Infrastructure (₹2,000 Crore)**: Funds installation of **72,300 public fast chargers** (22,100 for e-4Ws, 1,800 for e-buses, and 48,400 for e-2W/3W).
 - **Paperless Mechanism (Aadhaar e-Voucher)**: Buyers receive a system-generated **Aadhaar-authenticated e-Voucher** at point of sale to claim upfront demand discounts directly via the PM E-DRIVE portal.
 - **Nodal Ministry**: Ministry of Heavy Industries (MHI).
 
 🎯 Exam Angle →
-• Scheme Outlay & Tenure: ₹10,900 Crore for 2 years (replaces FAME-II; does NOT subsidize private e-4W cars, only 2W, 3W, buses, ambulances, and trucks).
-• Infrastructure Outlay: ₹2,000 crore dedicated specifically for 72,300 fast chargers.
-• Authentication Trap: Introduced digital Aadhaar-linked e-Vouchers for seamless consumer subsidy passing.
+
+- Scheme Outlay & Tenure: ₹10,900 Crore for 2 years (replaces FAME-II; does NOT subsidize private e-4W cars, only 2W, 3W, buses, ambulances, and trucks).
+- Infrastructure Outlay: ₹2,000 crore dedicated specifically for 72,300 fast chargers.
+- Authentication Trap: Introduced digital Aadhaar-linked e-Vouchers for seamless consumer subsidy passing.
 
 ---
 
@@ -1796,8 +1807,9 @@
 - **Strategic Components Preserved**: Merges 18 existing Centrally Sponsored Schemes into these two parent heads, granting states greater autonomy through District Agriculture Plans (DAPs).
 
 🎯 Exam Angle →
-• Financial Split Trap: Total outlay ₹1,01,321.61 Cr; Central share is ₹69,088.98 Cr (~68%), States share is ₹32,232.63 Cr (~32%).
-• Dual Architecture: Distinguish PM-RKVY (sustainable agriculture & state infra) vs. Krishonnati Yojana (food security & production missions).
+
+- Financial Split Trap: Total outlay ₹1,01,321.61 Cr; Central share is ₹69,088.98 Cr (~68%), States share is ₹32,232.63 Cr (~32%).
+- Dual Architecture: Distinguish PM-RKVY (sustainable agriculture & state infra) vs. Krishonnati Yojana (food security & production missions).
 
 ---
 
