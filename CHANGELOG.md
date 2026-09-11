@@ -2,6 +2,41 @@
 
 All notable changes to the Current Affairs Dossier repository and Rajputana Gazette Broadsheet System are documented here.
 
+## 🚀 [v1.9] — 2026-09-11
+
+### 💎 September 2026 Dossier Comprehensive Enhancement (55 Clusters) & Weekly PDF Integration
+- **Exhaustive 55-Cluster Enhanced Master Dossier (`current_affairs_2026_september.md`)**:
+  - Filtered, deduplicated, and extracted high-yield institutional, regulatory, economic, and defence anchors from `Sept6927cf5d2b211a2b729e125eember 2026 CA Weekly PDF 1.pdf`.
+  - **7 Existing Sagas Enriched with Numerical & Statutory Anchors**:
+    - **India Post Payments Bank (IPPB)**: Added ₹21.61 Lakh Crore cumulative transaction volume (₹7.41L Cr UPI, ₹36,140 Cr AePS across 12.06 Cr transactions, ₹1.55L Cr DBT) and triple FinTech launch (*“DakPay Sound Box”*, *“Digital Insurance Technology Platform”*, *“Digital Mutual Fund Platform”*).
+    - **NPCI International (NIPL) UPI Grid**: Confirmed formal 11-nation roster (Singapore, UAE, France, Mauritius, Nepal, Bhutan, Qatar, Sri Lanka, Cambodia, Greece, and Uzbekistan) with dual RBI and CBU statutory greenlights.
+    - **August 2026 GST & UPI Records**: Added historical peak monthly UPI volume of 24.51 billion transactions worth ₹29.82 Lakh Crore (22% YoY volume growth, 791 million daily average).
+    - **MoSPI National Accounts Statistics (NAS 2026)**: Q1 FY27 Real GDP 7.8% (₹81.36 Lakh Cr), Nominal GDP 10.3% (₹88.27L Cr), Real GVA 8.2% (₹73.82L Cr), Base Year 2022-23 shift, Double Deflation Method using Output PPI, and GFCF expansion of 11.9%.
+    - **Bihar–Jharkhand Sone River Accord**: Explicit volumetric water distribution (5.75 MAF to Bihar, 2.00 MAF to Jharkhand) resolving the 25-year dispute, with release protocols for Bansagar and Rihand dams.
+    - **AVNL Jabalpur T-Series MBT Facility**: Added national context of ~230 annual Army tank overhauls, Avadi HVF handling ~150/year, and VFJ Jabalpur adding 80 tanks/year under ₹472 Crore outlay.
+    - **Global Summits & International Honours**: Added Prime Minister Narendra Modi conferred with Uzbekistan's highest state honour for foreign dignitaries, the *“Oliy Darajali Do’stlik” Order (Order of Highest Friendship)*, by President Shavkat Mirziyoyev at Tashkent.
+  - **15 New High-Yield Clusters Added to Dossier**:
+    1. **SEBI IT Resilience Index (ITRI) Framework**: 100-point scale across 9 weighted parameters for all Market Infrastructure Institutions (Availability 20%, Security 20%, Integrity 10%, Governance 10%, BCP/DR 10%, Reliability 10%, Modularity 10%, Scalability 5%, Incident Handling 5%) with Industry Standards Forum (ISF) guidelines.
+    2. **RBI Concessional USD-INR Swap Relaxation & Suman Ray ED Appointment**: Banks allowed daily access outside weekly windows for FCNR(B) swaps >$100M (sub-$100M stays on designated day); Suman Ray promoted to RBI Executive Director heading DICGC and Premises Department.
+    3. **SBI BSBDA Branch Cash Withdrawal Revision**: Effective October 1, 2026, 4 free branch cash withdrawals per month on Product Code 1011-1701; flat ₹15 + GST per subsequent branch withdrawal; digital channels remain 100% free.
+    4. **Bank of Baroda 'UPI Global Reverse Acceptance'**: First PSU bank to enable inbound foreign travellers/wallets to scan BoB merchant UPI QR codes across India for cross-border P2M settlements.
+    5. **NCDEX Launches 'RAINCHNNAI' Monsoon Futures**: India's first SEBI-approved weather index futures contract hedging Chennai Northeast monsoon rainfall via Cumulative Deviation Rainfall (CDR) model (1 mm tick, max 50 lots, cash-settled).
+    6. **Union Government Achieves 78% of FY27 Disinvestment Target & Jio Platforms IPO**: Mobilised ₹62,124 Crore in 5 months against ₹80,000 Crore target (6.5% LIC sale yielding ₹31,515 Cr); Jio Platforms receives SEBI nod for ₹37,700 Crore IPO (270M fresh shares; RIL 66.43%, Meta 9.98%, Google 7.73%).
+    7. **DGFT Relaxes 'One Star Export House' Norms**: Exporters now eligible by meeting threshold in ANY 2 of the 3 preceding financial years under FTP 2023 (gems & jewellery excluded; 5-year validity).
+    8. **PPPAC Approves ₹8,622 Crore Privatisation of 11 AAI Airports**: Chaired by DEA Secretary Anuradha Thakur; 50-year PPP concessions in 5 bundles (Amritsar+Kangra, Varanasi+Gaya+Kushinagar, Bhubaneswar+Hubballi, Raipur+Aurangabad, Tiruchirappalli+Tirupati).
+    9. **AISHE Report 2023-24**: National higher education GER reaches 30.0% (female GER 31.2% vs male 28.9%, GPI 1.08 for 7th consecutive year, total enrolment 4.50 Cr, PhD enrolments up 192.9% to 3.43 lakh, STEM enrolment 1.02 Cr with 44% women).
+    10. **Legal Metrology (IST) Rules 2026 & National Tribunals Data Grid**: Mandates IST (UTC+05:30) maintained solely by CSIR-NPL as sole legal reference across banking and power grids within 180 days; NTDG established across 16 tribunals under Tribunals Reforms Bill 2026.
+    11. **Indian Navy Commissions DSV 'INS Nipun' & L&T Delivers 'Samarthak' MPV**: 2nd Nistar-class Diving Support Vessel commissioned at Mumbai (9,350 tonnes, built by HSL Visakhapatnam); L&T delivers 1st Multi-Purpose Vessel under ₹887 Cr contract; GSL delivers ICGS Ajit FPV.
+    12. **HAL–Safran JV Finalises 'Aravalli' Engine Contract & India Joins GCAP**: 50:50 SAFHAL JV to produce 3,500–4,000 shp Aravalli engines at Tumakuru, Karnataka for 13-tonne IMRH and 12.5-tonne DBMRH; India admitted as Dialogue Partner in 6th-gen GCAP / Tempest.
+    13. **Indian Army Signs $45.7M Javelin Missile LOA & Raises 1st 'Baaz Battalion'**: 100 missiles + 25 Block-1 CLUs via US FMS; dedicated drone battalion raised at Jalandhar under 11 Corps; IAF tests Khagantak-243 LRGB; DRDO tests MCPS parachute from 22,000 ft at Nyoma-Mudh Drop Zone.
+    14. **National Critical Minerals Innovation Hackathon (CMiH 2026) & C-DOT Quantum Battery**: NCMM hackathon under Ministry of Mines; C-DOT releases 14 quantum products across QKD and PQC; BIS silver hallmarking (IS 2112:2025) expanded across 102 districts.
+    15. **Institutional Development Accords: ADB ₹1,750 Cr Karnataka Loan & NABARD–NaBFID Pact**: ADB loan for 500 model Karnataka Public Schools (KPS); NABARD-NaBFID strategic infrastructure financing alliance; Mission Rangeen Machhli 2031 launched at Agatti, Lakshadweep.
+- **Strict Invariant & Broadsheet Presentation Verification**:
+  - Recompiled `current_affairs_hub.html` and `index.html` via `generate_broadsheet_hub.mjs` and `build_all.js` (hub count reaches **589 total items**).
+  - Heading anchor hashes strictly verified: **0 '#' symbols in <h1..h6>**.
+  - Interactive checkboxes strictly verified: **0 checkboxes**.
+  - LaTeX math formatting strictly verified: literal dollar amounts safely escaped.
+
 ## 🚀 [v1.8] — 2026-09-11
 
 ### 👑 IBPS PO Mains 35+ Strike File Strategic Enhancement & September 2026 Master Integration
