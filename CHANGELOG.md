@@ -2,6 +2,113 @@
 
 All notable changes to the Current Affairs Dossier repository and Rajputana Gazette Broadsheet System are documented here.
 
+## 🚀 [v1.7] — 2026-09-11
+
+### 🏛️ September 2026 Master Integration (Days 1–10 Daily PDFs): IFSCA Market Abuse, Sovereign Ratings, Scheduled LAB & GFF 2026
+- **Exhaustive 40-Cluster Dedicated Master Dossier ('current_affairs_2026_september.md')**:
+  - **Capital Markets & Financial Regulators**:
+    - **IFSCA Market Abuse Regulations 2026 in GIFT IFSC**: Formally replaces SEBI PIT 2015 and SEBI PFUTP 2003 regimes within GIFT City; designated persons must report quarterly trades exceeding **$25,000 within 2 business days**.
+    - **PFRDA Standardised 5-Category Equity Classification under MSF**: Cat A (80%–100% equity / Aggressive), Cat B (60%–80% / High Growth), Cat C (35%–60% / Balanced), Cat D (10%–35% / Conservative), Cat E (0%–10% / Debt-oriented).
+    - **SEBI FPI Compliance Easing**: Relaxed granular beneficial ownership look-through norms for Category-I FPIs holding 100% of assets in sovereign G-Secs/T-Bills.
+    - **SEBI Cash Market Net Settlement**: Proposed net settlement across mutual fund schemes to eliminate intraday liquidity drag; extended Angel Fund accredited investor compliance while grandfathering PPMs.
+    - **SEBI & ESMA CCP Cooperation Accord**: Bilateral MoU establishing supervisory exchange and equivalence for Indian Central Counterparties.
+    - **NFRA Advisory Committee**: Set up panel on Audit Quality, Assurance, and Forensic Technologies under Section 132 of Companies Act, 2013.
+  - **Banking, Sovereign Credit & Central Banking**:
+    - **Coastal Local Area Bank Scheduled Bank Status**: Vijayawada-headquartered Coastal LAB becomes **India's first Local Area Bank** inscribed in the **Second Schedule of the RBI Act, 1934** with full LAF/MSF access.
+    - **MoF & IFC $1 Billion MSME Financing**: Ministry of Finance secures $1 Billion credit line from IFC (World Bank Group), with **$500 million disbursed directly to SIDBI**.
+    - **RBI Survey Battery for MPC**: Rolled out CCS, IESH, and Rural Consumer Confidence Survey (RCCS) for benchmark policy forecasting.
+    - **UCB Investment in IDPIC**: Urban Co-operative Banks permitted to acquire equity shares in IDPIC for institutional membership exempt from commercial non-SLR ceilings.
+    - **LIC 9.99% Stake in ICICI Bank**: RBI approved acquisition up to 9.99% voting rights/capital to be executed within 1 year; RBI slapped ₹26.82 lakh fine on TransUnion CIBIL under CICRA 2005.
+    - **IPPB 9th Foundation Day**: India Post Payments Bank marks September 1 anniversary with ₹100 crore operating profit milestone across 1.61 lakh branches.
+    - **S&P Assigns 'BBB' to Bank of India**: Investment-grade rating assigned on strong capital and deposit franchise; Bandhan Bank launches 4-tier credit cards; Indian Bank opens Dubai office; Axis Bank launches 'ARISE Homecoming'.
+  - **Digital Payments & FinTech Innovation**:
+    - **Global Fintech Fest (GFF) 2026 (Mumbai)**: PM Modi inaugurates 5th edition; unveils 4-Point Fintech Charter (Cybersecurity, Data Ethics, Regulatory Sandbox, Consumer Protection Index) alongside Agentic AI and tokenisation.
+    - **Jio Payment Solutions PA-CB Licence**: JPSL receives RBI authorization for cross-border export/import payment aggregation; partners with Citi.
+    - **NPCI International (NIPL) in Uzbekistan**: Partners with HUMO (NIPC) enabling Indian tourists to scan national UZQR codes via UPI apps.
+    - **Fintech Deployments**: PhonePe & Visa launch Tap to Pay, Smart Accept, and Cross-Border Scan to Pay across 14 countries; PayGlocal launches 'Flash'; India's first Tokenised Municipal Bond issued on DLT; WhatsApp in-app BBPS utility payments.
+    - **IRDAI Public Insurance Registry (PIR)**: Exposure draft for single insurance repository; ₹1 crore fine levied on ICICI Lombard.
+  - **Macroeconomic & Foreign Trade Milestones**:
+    - **Japan Credit Rating Agency (JCR) Sovereign Upgrade**: Upgraded India's sovereign rating to **'A-' (Investment Grade)** with Stable Outlook.
+    - **August 2026 Gross GST**: Reached **₹1.87 lakh crore (₹1,87,345 crore)**, recording a 14.8% YoY surge.
+    - **Q1 FY27 CAD at $4.2 Billion (0.4% of GDP)**: RBI Balance of Payments data; net services receipts at $39.7 billion.
+    - **MoSPI Q1 FY27 Agri GVA Growth**: Moderated to 3.6% (from 4.4% in Q1 FY26); HSBC Manufacturing PMI at 52.8.
+    - **DEA E-Commerce Export FDI Amendment**: E-commerce marketplace entities permitted to hold physical inventory strictly for export purposes.
+  - **National Heritage, Defence & Deep-Tech**:
+    - **UNESCO Tentative List Expansion**: Added 4 sites (Rangpur-Sivasagar Assam, Andaman Penal Settlement, Nicobar Cultural Continuity, Shekhawati Havelis Rajasthan), taking tentative tally to 57.
+    - **Bihar–Jharkhand Sone River Pact**: Resolved 25-year water dispute across 8 Bihar districts and Jharkhand tracts.
+    - **ASI Protected Monument**: Gollala Gudi Temple (Telangana) declared Monument of National Importance.
+    - **Operation BRICS Kavach**: NSG multi-agency anti-terror drill securing 18th BRICS Summit venues in New Delhi.
+    - **Exercise Veer Guardian 2026**: 2nd edition bilateral air exercise between IAF and Japan JASDF at AFS Jodhpur.
+    - **IAF Dronathon-2026 & Army AASHVAST Lab**: UAS/CUAS live trials at Pokhran; DG EME hardware/software vulnerability lab.
+    - **AVNL Jabalpur Overhaul Facility**: ₹472 crore facility for 80 T-72/T-90 tanks/year; GE Aerospace delivers 3 F404 engines to HAL (14th Maharatna).
+    - **ISRO EOS-05 Satellite**: Geosynchronous Earth Observation satellite launched via GSLV from Sriharikota.
+    - **DRDO BAM-H24 Propellant**: Patented high-energy boron-nitrogen-hydrogen rocket compound with University of Hyderabad; GalaxEye wins US patent for SAR-optical imaging.
+  - **Honours, Appointments & Sports**:
+    - **Ramon Magsaysay Awards 2026**: Tommy Koh (Singapore), Bo Kyi (Myanmar), Runa Khan (Bangladesh).
+    - **72nd National Film Awards in Ekta Nagar, Gujarat**: First ceremony held outside New Delhi since 1970 (Madras).
+    - **Executive Transitions**: John Ternus appointed Apple CEO (Tim Cook becomes Executive Chairman); Vinaya Prakash Singh re-elected APPU Secretary-General (Bangkok); Anil Chakravarthy named Adobe CEO; Shenu Agarwal elected SIAM President.
+    - **Sports Sagas**: Lionel Messi retires from international football (125 goals); Smriti Mandhana becomes highest run-scorer in women's cricket; Satwik-Chirag win maiden China Masters; India places 4th at Pickleball World Cup (41 medals).
+- **Broadsheet Hub Upgrades**:
+  - Activated dedicated **September 2026 (Days 1–10)** interactive tab with 8 high-frequency metric chips and live slide-out Table of Contents.
+  - Hub total expanded to **566 verified clusters** across 8 fully compiled months.
+  - Strict zero-hash (`#` inside `<h1..h6>`) and zero-checkbox invariants passed 100%.
+
+## 🚀 [v1.6] — 2026-09-09
+
+### 🏛️ May 2026 Complete Master Integration: RBI Circulars, Bulletins & Best 200 MCQs Parts 1 & 2 ('apdfH_3VkS8', 'hgPD65GnM1Q', 'PhHymXFO0uY')
+- **Exhaustive 35-Cluster Master Dossier ('current_affairs_2026_may.md')**:
+  - **Part 1 Best 200 MCQs Master Deployments**:
+    - **Critical Mineral Recycling Incentive Scheme**: ₹1,500 Cr outlay over 6 years (FY26–FY31) under National Critical Mineral Mission (NCMM); 58 companies approved; 1/3rd (33.3%) reserved for MSMEs; up to 20% capex subsidy (₹50 Cr large / ₹25 Cr small ceiling); Project Management Agency JNARDDC (Nagpur).
+    - **New Direct Tax Rules 2026 (SEP & Audit Trails)**: Significant Economic Presence (SEP) threshold at >₹2 Cr transaction value or >3 lakh Indian users; mandatory 7-year immutable audit trail across financial intermediaries.
+    - **Panchayat Advancement Index (PAI 2.0)**: Streamlined to 150 indicators and 230 data points across 9 LSDG themes; Rank 1 Tripura (Jugal Kishore Nagar village top GP), Rank 2 Kerala; zero beginner Category D Panchayats in Tripura, Kerala, Sikkim.
+    - **Inauguration of India's 1st PM MITRA Textile Park at Warangal**: Dedicated by PM Modi under ₹4,445 Cr scheme (7 approved parks: Telangana, Tamil Nadu, Gujarat, Karnataka, Madhya Pradesh, Uttar Pradesh, Maharashtra); anchored on 5F Vision.
+  - **Part 2 Best 200 MCQs Master Deployments**:
+    - **Cabinet Coal/Lignite Gasification Scheme**: ₹37,500 Cr outlay; up to 20% plant & machinery capital incentive; 30-year linkage tenure; targets 100 MT gasified by 2030 (75 MT current phase); single project cap ₹5,000 Cr (₹9,000 Cr for SNG/Urea), ₹12,000 Cr per corporate group.
+    - **Thoothukudi Mega Greenfield Shipyard**: Tripartite MoU by MoPSW; dedicated SPV 'NSHIP-TN' promoted by VOCPA & SIPCOT; ₹24,736 Cr under National Shipbuilding Mission targeting Top-10 global by 2030 and Top-5 by 2047 (40-fold output expansion).
+    - **LEADS 2025 & LEAPS Awards (7th Edition)**: DPIIT-World Bank LPI aligned 4-tier model (Exemplars, High Performers, Accelerators, Growth-Seekers); Top Exemplars: Uttar Pradesh (Landlocked), Tamil Nadu & Gujarat (Coastal), Mizoram (North-East), Delhi (UTs).
+    - **Unified Bharat e-Charge (UBC) & PM E-DRIVE Deployments**: MHI launched UBC open interoperable charging platform developed by BHEL & NPCI; ₹10,900 Cr PM E-DRIVE scheme with ₹2,000 Cr for EV Public Charging Stations (1,243 chargers in Karnataka).
+    - **VB-G RAM G Act, 2025 Enforced (Repealing MGNREGA 2005)**: 125 days guaranteed rural wage employment per financial year (up from 100 days); +10% distance allowance for worksites >5 km; highest-ever rural employment outlay of ₹95,692.31 Cr (60:40 general, 90:10 NE/Himalayan states); 3-day DBT processing / 15-day bank credit.
+    - **Digital Bharat Nidhi (DBN) & BharatNet Phase III**: Telecommunications Act 2023 statutory rebrand of USOF funded via 5% AGR Universal Service Levy; non-lapsable rural broadband & 4G saturation expansion.
+    - **BHAVYA Industrial Park Guidelines**: ₹33,668 Cr outlay over 6 years (FY27–FY32) for 100 smart industrial parks (50 in Phase 1); minimum 100 acres (general states) / 25 acres (NE/Hilly); capped at 1,000 acres; chaired by Secretary DPIIT Amardeep Singh Bhatia.
+    - **Somnath Amrut Mahotsav & ₹75 Pure Silver Coin**: Commemorating 75 years of Somnath restoration (1951–2026); 99.9% pure silver, 40 grams, 44 mm, 200 serrations; ₹500 Cr Sardar Dham Education Support Yojana launched in Vadodara.
+    - **3rd Advance Estimates 2025–26**: Record all-time high foodgrain output of 336.563 MT (Rice 134.024 MT, Wheat 120.657 MT, Coarse Cereals 74.47 MT, Oilseeds 41.22 MT).
+  - **RBI Circulars & Bulletins Core Anchors**:
+  - **RBI Deregulates FinTech Cross-Border Outward Remittances**: Discontinued prior approval mandate for AD Cat-I bank tie-ups with non-bank FinTechs for non-trade current account remittances under FEMA 1999; mandatory disclosure of exact foreign exchange credited and maximum delivery time.
+  - **I4C & RBIH Strategic MoU on MuleHunter.ai™**: Indian Cyber Crime Coordination Centre (MHA) and Reserve Bank Innovation Hub (Bengaluru; CEO Sahil Kini) partner to deploy AI/ML 'MuleHunter.ai™' feeding into Digital Payment Intelligence Platform (DPIP).
+  - **Major Revision of Investment Fluctuation Reserve (IFR)**:
+    - Commercial Banks & Foreign Banks: IFR mandatory requirement **completely discontinued** effective May 18, 2026; existing balances moved below the line to Statutory/General Reserve or P&L and recognized as **Tier 1 (Core Capital)**.
+    - PBs, SFBs & RRBs: Maintained only on balance sheet dates at minimum 2% of AFS/FVTPL (Tier 2 Capital).
+    - Urban & Rural Co-op Banks (UCBs/RCBs): Retained at 5% minimum of investment portfolio (Tier 2 Capital).
+  - **RBI Discussion Paper on Digital Payment Safety (Anti-Fraud Friction)**:
+    - 1-Hour Lagged Credit on digital transfers >₹10,000 with unilateral sender cancellation option; instant settlement for whitelisted trusted beneficiaries (transactions >₹10,000 account for 98.5% of fraud value).
+    - Trusted Person Authentication: Transfers >₹50,000 by senior citizens aged >70 years and PwDs require secondary trusted person sign-off.
+    - National Digital 'Kill Switch' to instantly freeze outbound channels; ₹25 lakh annual credit cap on individual/merchant accounts.
+  - **RBI Disaster Relief Loan Restructuring Directions**:
+    - Automatic **suo motu** loan restructuring by banks and NBFCs across NDRF/SDRF declared disaster zones without waiting for formal borrower applications.
+    - **135-day borrower opt-out window**; accounts must be standard (≤30 days overdue) on calamity date; accounts slipping into NPA upgraded back to Standard upon execution; 5% additional specific provision; 45-day invocation / 90-day implementation.
+  - **Master Direction on Expected Credit Loss (ECL) Approach (Effective April 1, 2027)**:
+    - Replaces 40-year 'Incurred Loss' model with 3-stage forward-looking provisioning: Stage 1 (12-month ECL; 0.40% secured, 0.25% MSME/agri, 1.00% unsecured retail); Stage 2 (Lifetime ECL, >30 days overdue, 5% floor); Stage 3 (Lifetime ECL, >90 days overdue, up to 100% unsecured).
+    - Quantitative formula: $\text{ECL} = \text{PD} \times \text{LGD} \times \text{EAD}$.
+    - Full transition of bank loan books to Effective Interest Rate (EIR) accounting by **March 31, 2030**.
+  - **Global OTC Rupee Foreign Exchange Derivatives Reporting to CCIL**:
+    - Mandatory global reporting of all deliverable and NDF Rupee OTC derivative contracts to Clearing Corporation of India Limited (CCIL).
+    - 3-Phase rollout: Phase 1 (100% parent entities by July 1, 2027); Phase 2 (70%–80% related entities by January 1, 2028); Phase 3 (100% all entities globally by July 1, 2028).
+  - **RBI Institutional Governance & Supervisory Milestones**:
+    - 3-year mandatory cooling-off period for UCB/RCB directors completing 10 continuous years.
+    - Q-SAFE Initiative: 8-member Expert Committee on Quantum Technology in FinTech chaired by Dr. Anil Prabhakar (IIT Madras).
+    - Leadership appointments: Shri Rohit Jain appointed RBI Deputy Governor for 3 years (succeeding T. Rabi Sankar); Shri Gunveer Singh appointed Executive Director; Shri Elias George appointed Part-Time Chairman of Federal Bank; One MobiKwik Systems receives in-principle approval for NBFC subsidiary.
+  - **SEBI 'GARUDA' Green-Channel Mechanism for AIFs**:
+    - Rollout timeline slashed from 30 days to within **10 working days** of PPM filing for non-accredited funds.
+    - Immediate green-channel launch for Angel Funds and Accredited Investor schemes without merchant banker certification (signed by CEO & Compliance Officer).
+  - **PFRDA Retirement Income Schemes (RIS) under NPS**:
+    - Post-retirement flexible drawdown up to **age 85 years** via Systematic Payout Rate (SPR, initial 4.0% payout) and Systematic Unit Redemption (SUR, fixed monthly unit redemptions).
+  - **SEBI PaRRVA Framework & Mission Jagrook**:
+    - Past Risk & Return Verification Agency (PaRRVA) live effective May 4, 2026 (CRA verification body + NSE PaRRVA Data Centre; CARE Ratings accredited); Mission Jagrook & SEBI Check Tool launched at 38th Foundation Day.
+- **Broadsheet Hub Upgrades**:
+  - May 2026 interactive tab refreshed to 22 verified clusters with high-yield metric chips.
+  - Total Rajputana Gazette Broadsheet Hub items expanded to **513 verified clusters**.
+  - Zero `#` heading anchor hashes verified across both HTML files.
+
 ## 🚀 [v1.5] — 2026-09-08
 
 ### 🏦 RBI Annual Report 2025–26 Master Deep-Dive Integration (Affairs Mind 'XHlm-gtTkOw')
