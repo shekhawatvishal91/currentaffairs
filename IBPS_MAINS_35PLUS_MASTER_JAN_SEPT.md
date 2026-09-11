@@ -80,13 +80,13 @@
 
 📰 **Unprecedented Liquidity Operations: First-Ever 90-Day VRR Auction**
 - **Historical Tenor Breakthrough**: On January 30, 2026, RBI conducted its **first-ever 90-day Variable Rate Repo (VRR) auction for ₹25,000 crore**, breaking the previous longest historical liquidity tenor of 56 days.
-- **Package Components**: Formed part of an aggregate ₹2.15 lakh crore liquidity intervention, including a **$10 billion 3-year USD/INR Buy-Sell Swap** and ₹1 lakh crore in Open Market Operation (OMO) purchases.
-- **Bilateral Currency Stability**: Renewed the **$75 billion Bilateral Swap Arrangement (BSA)** with the Bank of Japan, signed under Governor Sanjay Malhotra and BoJ leadership.
+- **Package Components**: Formed part of an aggregate ₹2.15 lakh crore liquidity intervention, including a **\$10 billion 3-year USD/INR Buy-Sell Swap** and ₹1 lakh crore in Open Market Operation (OMO) purchases.
+- **Bilateral Currency Stability**: Renewed the **\$75 billion Bilateral Swap Arrangement (BSA)** with the Bank of Japan, signed under Governor Sanjay Malhotra and BoJ leadership.
 - **Policy Objective**: Anchored short-term money market rates near the 5.25% repo rate amid massive advance tax and GST cash drains.
 
 🎯 Exam Angle →
 • Tenor Record: The historic auction tenor was **90 days** (previous high was 56 days).
-• Bilateral Swap Size: India-Japan Bilateral Swap Arrangement is **$75 billion**.
+• Bilateral Swap Size: India-Japan Bilateral Swap Arrangement is **\$75 billion**.
 • Target MCQ Form: "What was the tenor of the historic long-term Variable Rate Repo auction conducted by the RBI in early 2026?" → 90 days.
 
 ---
@@ -179,15 +179,15 @@
 ---
 
 📰 **External Commercial Borrowings (ECB) Liberalised Guidelines**
-- **Automatic Route Borrowing Cap**: RBI raised the automatic borrowing limit under the ECB framework to the higher of **$1 billion or 300% of borrower net worth** per financial year (escalated from $750 million).
-- **Corporate Borrowing Boom**: Indian corporate entities raised a record **$61 billion via ECBs** in FY25, driven by global refinancing and renewable capex lines.
-- **Minimum Average Maturity Period (MAMP)**: Retained at 3 years for general commercial borrowings, and 5 years for borrowings by manufacturing companies up to $50 million.
+- **Automatic Route Borrowing Cap**: RBI raised the automatic borrowing limit under the ECB framework to the higher of **\$1 billion or 300% of borrower net worth** per financial year (escalated from \$750 million).
+- **Corporate Borrowing Boom**: Indian corporate entities raised a record **\$61 billion via ECBs** in FY25, driven by global refinancing and renewable capex lines.
+- **Minimum Average Maturity Period (MAMP)**: Retained at 3 years for general commercial borrowings, and 5 years for borrowings by manufacturing companies up to \$50 million.
 - **End-Use Restrictions**: ECB proceeds strictly prohibited from being deployed in real estate equity trading, capital market speculation, or domestic on-lending.
 
 🎯 Exam Angle →
-• Annual Cap: Automatic ECB cap is the higher of **$1 billion or 300% of net worth** (raised from $750 million).
+• Annual Cap: Automatic ECB cap is the higher of **\$1 billion or 300% of net worth** (raised from \$750 million).
 • MAMP: Minimum Average Maturity Period is **3 years** for standard ECBs.
-• Target MCQ Form: "What is the revised annual borrowing limit for Indian corporates under the automatic route of the RBI ECB framework?" → $1 Billion or 300% of Net Worth.
+• Target MCQ Form: "What is the revised annual borrowing limit for Indian corporates under the automatic route of the RBI ECB framework?" → \$1 Billion or 300% of Net Worth.
 
 ---
 
@@ -281,6 +281,25 @@
 • Penal Charges Rule: Penalties must be levied as **penal charges** and cannot be capitalized (cannot earn additional interest).
 • KFS Universal Scope: Key Fact Statement is mandatory for ALL retail and MSME loans.
 • Target MCQ Form: "Under RBI's Fair Lending Practice guidelines, how must lenders levy penalties for loan defaults?" → As separate penal charges (without adding to principal).
+
+---
+
+📰 **RBI Mission SAKSHAM: Large-Scale Capacity Building for Urban Co-operative Banks (UCBs)**
+- **Genesis & Institutional Upgradation**: The Reserve Bank of India launched **Mission SAKSHAM** (*Sahkari Bank Kshamta Nirman*), an umbrella capacity-building architecture dedicated to modernizing the Urban Co-operative Banking (UCB) ecosystem.
+- **Scale & Participant Outreach**:
+  - Structured to train approximately **1.40 lakh personnel** across Tier-1, Tier-2, Tier-3, and Tier-4 Urban Co-operative Banks nationwide.
+  - Covers board directors, Chief Executive Officers, compliance heads, internal auditors, and frontline technology/cybersecurity officers.
+- **Pedagogy & Curricular Pillars**:
+  - Delivered through a hybrid model combining continuous e-learning modules with immersive classroom workshops via the **College of Agricultural Banking (CAB), Pune** and the Reserve Bank Staff College (RBSC), Chennai.
+  - Focuses on four core regulatory areas: (1) Cyber resilience and IT governance, (2) Credit risk assessment and NPA containment, (3) Compliance culture and statutory reporting, and (4) KYC/AML transaction monitoring.
+- **Strategic Systemic Impact**: Directly addresses the supervisory findings of weak governance, board oversight vacuums, and digital vulnerabilities that historically triggered Prompt Corrective Action (PCA) and licence cancellations across cooperative lenders.
+
+🎯 Exam Angle →
+• Mission Name: **Mission SAKSHAM** (*Sahkari Bank Kshamta Nirman*).
+• Target Audience: **1.40 Lakh personnel** across Urban Co-operative Banks (UCBs).
+• Primary Nodal Institute: **College of Agricultural Banking (CAB), Pune** / RBI.
+• Target MCQ Form: "What is the primary objective of the Reserve Bank of India's newly launched 'Mission SAKSHAM'?" → Large-scale training and capacity building for Urban Co-operative Banks (UCBs).
+
 
 
 ---
@@ -461,16 +480,16 @@
 
 ---
 
-📰 **Multilateral Investment Guarantee Agency (MIGA) $197.67M Guarantee for SBI**
-- **World Bank Group Credit Guarantee**: Multilateral Investment Guarantee Agency (MIGA) issued a **$197.67 million political and non-honoring financial risk guarantee** to Citibank for its credit facility to State Bank of India.
-- **Refinancing Solar Portfolios**: Refinances an initial $500 million World Bank solar rooftop loan extended to SBI in 2016.
+📰 **Multilateral Investment Guarantee Agency (MIGA) \$197.67M Guarantee for SBI**
+- **World Bank Group Credit Guarantee**: Multilateral Investment Guarantee Agency (MIGA) issued a **\$197.67 million political and non-honoring financial risk guarantee** to Citibank for its credit facility to State Bank of India.
+- **Refinancing Solar Portfolios**: Refinances an initial \$500 million World Bank solar rooftop loan extended to SBI in 2016.
 - **Domestic Green Lending Quota**: Mandates that SBI allocate **at least 7.5% of its total domestic lending portfolio** toward certified green and climate-positive projects.
 - **Static Multilateral Anchor**: MIGA HQ in **Washington D.C.**; Executive Vice President Hiroshi Matano; member of the World Bank Group.
 
 🎯 Exam Angle →
-• Exact Guarantee Amount: MIGA guarantee amount is **$197.67 million** (to Citibank for loan to SBI).
+• Exact Guarantee Amount: MIGA guarantee amount is **\$197.67 million** (to Citibank for loan to SBI).
 • Green Mandate Percentage: SBI must direct **≥ 7.5%** of domestic lending to green projects.
-• Target MCQ Form: "Which World Bank Group agency issued a $197.67 million guarantee to Citibank to de-risk green lending via State Bank of India?" → MIGA (Multilateral Investment Guarantee Agency).
+• Target MCQ Form: "Which World Bank Group agency issued a \$197.67 million guarantee to Citibank to de-risk green lending via State Bank of India?" → MIGA (Multilateral Investment Guarantee Agency).
 
 ---
 
@@ -824,16 +843,16 @@
 
 ---
 
-📰 **Historic Milestone: India's Foreign Exchange Reserves Cross $700 Billion**
-- **Historic Record**: India's Foreign Exchange Reserves officially crossed the milestone of **$700 Billion** for the first time in history (peaking above $704.88 Billion).
+📰 **Historic Milestone: India's Foreign Exchange Reserves Cross \$700 Billion**
+- **Historic Record**: India's Foreign Exchange Reserves officially crossed the milestone of **\$700 Billion** for the first time in history (peaking above \$704.88 Billion).
 - **Global Reserve Standing**: India ranks as the **4th largest foreign exchange reserve holder globally**, trailing only **China**, **Japan**, and **Switzerland**.
-- **Reserve Asset Breakdown**: Foreign Currency Assets (FCA) constitute the bulk (~$610B+), followed by **Gold Reserves (~$65B+)**, Special Drawing Rights (SDRs with IMF), and Reserve Tranche Position (RTP).
+- **Reserve Asset Breakdown**: Foreign Currency Assets (FCA) constitute the bulk (~\$610B+), followed by **Gold Reserves (~\$65B+)**, Special Drawing Rights (SDRs with IMF), and Reserve Tranche Position (RTP).
 - **Import Cover Duration**: Current forex reserves provide an import cover of over **11.8 months** of projected merchandise imports.
 
 🎯 Exam Angle →
 • Global Rank: India is the **4th largest** foreign exchange reserve holder in the world.
-• Benchmark Level: Surpassed the historic **$700 Billion** milestone.
-• Target MCQ Form: "Where does India rank globally in terms of foreign exchange reserve holdings following its milestone crossing of $700 Billion?" → 4th.
+• Benchmark Level: Surpassed the historic **\$700 Billion** milestone.
+• Target MCQ Form: "Where does India rank globally in terms of foreign exchange reserve holdings following its milestone crossing of \$700 Billion?" → 4th.
 
 ---
 
@@ -1097,6 +1116,73 @@
 • First Certified District: **Burhanpur (Madhya Pradesh)** was the first certified Har Ghar Jal district.
 • Target MCQ Form: "What is the prescribed benchmark water supply per person per day under the Jal Jeevan Mission?" → 55 litres per capita per day (lpcd).
 
+---
+
+📰 **PM RAHAT Scheme: Cashless Emergency Medical Care for Road Accident Victims**
+- **Genesis & Statutory Backing**: Ministry of Road Transport and Highways (**MoRTH**) operationalized **PM RAHAT** (*Relief and Assistance for Highway Accident Trauma*), providing emergency golden-hour trauma care under Section 162 of the *Motor Vehicles Act, 1988*.
+- **Cashless Treatment Limits & Duration**:
+  - Entitles any road accident victim (regardless of nationality or financial status) to **cashless medical treatment up to ₹1.50 lakh per victim**.
+  - Covers stabilization and in-hospital trauma treatment for a maximum duration of **up to 7 days from the date of the accident**.
+- **Institutional Funding Architecture**:
+  - Financed directly through the **Motor Vehicle Accident Fund (MVAF)**, funded via contributions from general insurance motor third-party premiums.
+  - Seamlessly integrated with the National Emergency Response Support System (**ERSS 112**) and the National Health Authority (NHA) IT portal.
+  - Mandates electronic police authentication of the accident incident within **24 to 48 hours**.
+
+🎯 Exam Angle →
+• Cashless Financial Ceiling: **₹1.50 Lakh per victim**.
+• Treatment Window: **Up to 7 days** from the date of the accident.
+• Statutory Fund: **Motor Vehicle Accident Fund (MVAF)** under Motor Vehicles Act, 1988.
+• Target MCQ Form: "Under the PM RAHAT scheme, what is the maximum cashless treatment assistance provided per road accident victim?" → ₹1.50 Lakh (up to 7 days).
+
+---
+
+📰 **Urban Challenge Fund (UCF): ₹1 Lakh Crore Infrastructure Transformation Architecture**
+- **Flagship Urban Infrastructure Pool**: Ministry of Housing and Urban Affairs (**MoHUA**) unveiled the **Urban Challenge Fund (UCF)** with an aggregate financial outlay of **₹1,00,000 crore (₹1 Lakh Crore)** operational over a 5-year execution horizon (**FY26 to FY31**).
+- **Financing & Contribution Structure**:
+  - **Central Government Share**: Contributes **25% (₹25,000 crore)** as viability gap funding and credit-enhancement grants.
+  - **Commercial Market Sources**: Minimum **50% of total project cost** must be mobilized via market-driven debt, municipal bonds, and private public-private partnerships (PPP).
+  - **State / Urban Local Body (ULB) Share**: Remainder funded through municipal internal revenues and state budget allocations.
+- **Municipal Creditworthiness Corpus**: Creates a dedicated **₹5,000 crore revolving credit-enhancement corpus** covering **4,223 statutory cities and towns** to improve municipal bond credit ratings and bankability.
+
+🎯 Exam Angle →
+• Total Outlay: **₹1,00,000 Crore (₹1 Lakh Crore)** across FY26–FY31.
+• Central Contribution Share: **25%** (Minimum **50%** must come from market/PPP sources).
+• Creditworthiness Corpus: **₹5,000 Crore** covering 4,223 cities.
+• Target MCQ Form: "What proportion of total project funding must be mobilized from market sources under the ₹1 Lakh Crore Urban Challenge Fund?" → Minimum 50%.
+
+---
+
+📰 **GOBARdhan Scheme Overhaul: ₹23,731 Crore Outlay & Statutory CBG Blending Targets**
+- **Cabinet Approval & Decade-Long Horizon**: Union Cabinet approved the revamped **GOBARdhan** (*Galvanizing Organic Bio-Agro Resources Dhan*) – National Circular Bioenergy Scheme with an outlay of **₹23,731 crore** operational over a 10-year period (**FY 2026–27 to FY 2035–36**).
+- **Mandatory CBG Blending Mandate for City Gas Distribution (CGD)**:
+  - **FY 2026–27 (FY27)**: Mandatory **3% blending of Compressed Biogas (CBG)** in City Gas Distribution (CGD) networks.
+  - **FY 2027–28 (FY28)**: Mandatory blending elevated to **4%**.
+  - **FY 2028–29 (FY29) Onwards**: Mandatory blending locked at **5% continuously**.
+- **Financial Support Slabs**:
+  - Provides capital subsidy of **up to ₹2 crore per Tonne per Day (TPD)** of installed CBG production capacity.
+  - Launches specialized **Credit Guarantee Scheme for MSMEs** setting up bio-gas plants and biomass aggregation value chains.
+
+🎯 Exam Angle →
+• Total Outlay: **₹23,731 Crore** (10-year validity: FY27 to FY36).
+• Statutory CGD Blending Glidepath: **3% in FY27 ➔ 4% in FY28 ➔ 5% from FY29 onwards**.
+• Capital Subsidy: **Up to ₹2 Crore per TPD** of installed capacity.
+• Target MCQ Form: "What is the mandatory Compressed Biogas (CBG) blending target for City Gas Distribution networks in FY 2026-27 under the GOBARdhan framework?" → 3%.
+
+---
+
+📰 **PM-SETU Programme: ₹60,000 Crore Modernisation of 1,000 ITIs**
+- **Vocational Upgradation Mission**: Ministry of Skill Development and Entrepreneurship (**MSDE**) approved the **PM-SETU** (*Skill Enhancement and Technical Upgradation*) Programme.
+- **Outlay & Institutional Target**:
+  - Total financial outlay of **₹60,000 crore** to comprehensively upgrade and modernize **1,000 Industrial Training Institutes (ITIs)** across India into state-of-the-art Centers of Excellence (CoEs).
+- **Core Curricular Focus**: Industry 4.0 integration, semiconductor packaging, advanced robotics, drone maintenance, renewable green energy systems, and AI-driven predictive manufacturing.
+
+🎯 Exam Angle →
+• Programme Name: **PM-SETU**.
+• Total Financial Outlay: **₹60,000 Crore**.
+• Target ITIs: **1,000 ITIs** modernized into Centers of Excellence.
+• Target MCQ Form: "How many Industrial Training Institutes (ITIs) will be upgraded under the ₹60,000 Crore PM-SETU programme?" → 1,000 ITIs.
+
+
 
 ---
 
@@ -1255,14 +1341,29 @@
 • KAPP Reactor Capacity: Kakrapar Units 3 and 4 are **700 MWe indigenous Pressurised Heavy Water Reactors (PHWRs)**.
 • Target MCQ Form: "At which location did the historic core loading of India's indigenous 500 MWe Prototype Fast Breeder Reactor (PFBR) take place?" → Kalpakkam, Tamil Nadu.
 
+---
+
+📰 **Maritime India Vision 2030: India Becomes World's Largest Ship Recycling Nation Ahead of Target**
+- **Vision Realisation Milestone**: India officially surpassed global competitors to become the **world's largest ship recycling nation by gross tonnage**, achieving the benchmark set under **Maritime India Vision 2030 five full years ahead of the target schedule**.
+- **Hub of Operations**: Concentrated at **Alang-Sosiya Ship Recycling Yard in Bhavnagar district, Gujarat**, which accounts for over 98% of domestic ship-breaking activity.
+- **Hong Kong Convention (HKC) Compliance**: Over **100+ recycling plots at Alang** have secured Statements of Compliance (SoC) under the IMO's *Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships*.
+- **Economic & Steel Recovery Contribution**: Supplies nearly **10%–15% of India's secondary re-rolled steel feedstock**, conserving iron ore resources and substantially cutting industrial carbon emissions.
+
+🎯 Exam Angle →
+• Global Ranking: India is officially the **No. 1 ship recycling nation globally**.
+• Core Operational Hub: **Alang Ship Breaking Yard (Bhavnagar, Gujarat)**.
+• International Safety Accord: **Hong Kong Convention (HKC)** of the International Maritime Organization (IMO).
+• Target MCQ Form: "Which global milestone did India achieve 5 years ahead of schedule under the Maritime India Vision 2030?" → Becoming the World's Largest Ship Recycling Nation.
+
+
 
 ---
 
 
 ## 7. 🌐 MULTILATERAL LOANS, BILATERAL ACCORDS & GIFT CITY
 
-📰 **World Bank $1.5 Billion Second Low-Carbon Energy Development Policy Operation**
-- **Financial Commitment**: World Bank approved a massive **$1.5 Billion financing package** (Second Low-Carbon Energy Programmatic DPO) to accelerate India's green hydrogen and renewable energy ecosystems.
+📰 **World Bank \$1.5 Billion Second Low-Carbon Energy Development Policy Operation**
+- **Financial Commitment**: World Bank approved a massive **\$1.5 Billion financing package** (Second Low-Carbon Energy Programmatic DPO) to accelerate India's green hydrogen and renewable energy ecosystems.
 - **Strategic Policy Targets**:
   - Scale domestic production of **Green Hydrogen** and electrolyser manufacturing capacity.
   - Mobilize private climate finance through green bonds and renewable energy grid integration.
@@ -1270,19 +1371,19 @@
 - **IBRD & IDA Lending Structure**: Structured via the International Bank for Reconstruction and Development (IBRD) with a sovereign maturity period of 19 years, including a 5-year grace period.
 
 🎯 Exam Angle →
-• Loan Quantum: Exactly **$1.5 Billion** (Second Low-Carbon DPO).
+• Loan Quantum: Exactly **\$1.5 Billion** (Second Low-Carbon DPO).
 • Multilateral Agency: **World Bank (IBRD)**, not Asian Development Bank or IMF.
-• Target MCQ Form: "Which multilateral financial institution approved a $1.5 billion loan to support India's Low-Carbon Energy transition and green hydrogen development?" → World Bank.
+• Target MCQ Form: "Which multilateral financial institution approved a \$1.5 billion loan to support India's Low-Carbon Energy transition and green hydrogen development?" → World Bank.
 
 ---
 
 📰 **Asian Development Bank (ADB) Sovereign Country Partnership & Strategic Loans**
-- **Largest Sovereign Borrower**: India continues as the **largest sovereign borrower of ADB**, holding over $16 billion in active sovereign loan commitments.
+- **Largest Sovereign Borrower**: India continues as the **largest sovereign borrower of ADB**, holding over \$16 billion in active sovereign loan commitments.
 - **Key Sectoral Sanctions**:
-  - *$500 Million*: Approved to modernize and expand **tertiary healthcare and medical education facilities in Maharashtra**.
-  - *$250 Million*: Industrial Corridor Development Programme to strengthen logistics nodes along the Vizag-Chennai and Delhi-Mumbai corridors.
-  - *$200 Million*: Climate-resilient urban water supply and sanitation projects in **Uttarakhand**.
-  - *$181 Million*: Urban mobility and livability infrastructure in **Ahmedabad peri-urban areas (Gujarat)**.
+  - *\$500 Million*: Approved to modernize and expand **tertiary healthcare and medical education facilities in Maharashtra**.
+  - *\$250 Million*: Industrial Corridor Development Programme to strengthen logistics nodes along the Vizag-Chennai and Delhi-Mumbai corridors.
+  - *\$200 Million*: Climate-resilient urban water supply and sanitation projects in **Uttarakhand**.
+  - *\$181 Million*: Urban mobility and livability infrastructure in **Ahmedabad peri-urban areas (Gujarat)**.
 - **Headquarters & Governance**: ADB Headquarters located in **Mandaluyong, Metro Manila, Philippines**; President is **Masatsugu Asakawa**.
 
 🎯 Exam Angle →
@@ -1295,7 +1396,7 @@
 📰 **Asian Infrastructure Investment Bank (AIIB) India Engagements**
 - **India's Apex Shareholding**: India is the **second-largest shareholder** in AIIB with an **8.36% shareholding (7.6% voting power)**, trailing only China (26.6% voting power).
 - **Flagship Project Sanctions**:
-  - Co-financing **Chennai Metro Rail Project Phase 2** ($356.67 Million).
+  - Co-financing **Chennai Metro Rail Project Phase 2** (\$356.67 Million).
   - Financing private sector renewable energy through Tata Cleantech Capital and green transmission corridors.
 - **Governance Anchor**: Headquartered in **Beijing, China**; President is **Jin Liqun**; operational since January 2016.
 
@@ -1370,13 +1471,13 @@
 
 📰 **India-EFTA Trade and Economic Partnership Agreement (TEPA)**
 - **Historic European Free Trade Accord**: Signed between India and the 4-nation **European Free Trade Association (EFTA)** comprising **Switzerland, Norway, Iceland, and Liechtenstein**.
-- **First-of-its-Kind $100 Billion Investment Commitment**: EFTA nations committed legally to invest **$100 Billion in India over 15 years** (generating over 1 million direct jobs) as a reciprocal condition for tariff concessions.
+- **First-of-its-Kind \$100 Billion Investment Commitment**: EFTA nations committed legally to invest **\$100 Billion in India over 15 years** (generating over 1 million direct jobs) as a reciprocal condition for tariff concessions.
 - **Tariff Phase-Out Scope**: India provided tariff concessions on 82.7% of its tariff lines covering Swiss watches, machinery, precision instruments, and chocolates (excluding domestic agriculture and dairy sectors).
 
 🎯 Exam Angle →
 • EFTA Member Nations: **Switzerland, Norway, Iceland, Liechtenstein** (EFTA is separate from the European Union).
-• Investment Commitment: **$100 Billion over 15 years** (not $50B or $200B).
-• Target MCQ Form: "How much foreign direct investment has the European Free Trade Association (EFTA) legally committed to inject into India over 15 years under the TEPA pact?" → $100 Billion.
+• Investment Commitment: **\$100 Billion over 15 years** (not \$50B or \$200B).
+• Target MCQ Form: "How much foreign direct investment has the European Free Trade Association (EFTA) legally committed to inject into India over 15 years under the TEPA pact?" → \$100 Billion.
 
 ---
 
@@ -1616,7 +1717,7 @@
 - **Three Dimensions & Four Indicators**:
   1. *Long and Healthy Life*: Life expectancy at birth in India improved to **67.7 years**.
   2. *Knowledge*: Expected years of schooling reached **12.6 years**; Mean years of schooling stood at **6.57 years**.
-  3. *Decent Standard of Living*: Gross National Income (GNI) per capita (2017 PPP $) stood at **$6,951**.
+  3. *Decent Standard of Living*: Gross National Income (GNI) per capita (2017 PPP $) stood at **\$6,951**.
 - **Global Benchmark**: **Switzerland** ranked 1st globally (HDI 0.967), followed by Norway (2nd) and Iceland (3rd).
 
 🎯 Exam Angle →
@@ -1652,19 +1753,47 @@
 ---
 
 📰 **SIPRI Global Military Expenditure Report 2024**
-- **India's Global Standing**: India was ranked as the **4th largest military spender in the world** in 2023–24, with total defence outlays reaching **$83.6 Billion** (up 4.2% year-on-year), published by Stockholm International Peace Research Institute (SIPRI).
+- **India's Global Standing**: India was ranked as the **4th largest military spender in the world** in 2023–24, with total defence outlays reaching **\$83.6 Billion** (up 4.2% year-on-year), published by Stockholm International Peace Research Institute (SIPRI).
 - **Top 5 Military Spenders**:
-  1. **United States**: $916 Billion (accounts for 37% of global total).
-  2. **China**: $296 Billion.
-  3. **Russia**: $109 Billion.
-  4. **India**: $83.6 Billion.
-  5. **Saudi Arabia**: $75.8 Billion.
-- **Global Military Outlay**: Surpassed an all-time record of **$2.44 Trillion**, driven by geopolitical conflicts in Eastern Europe and the Middle East.
+  1. **United States**: \$916 Billion (accounts for 37% of global total).
+  2. **China**: \$296 Billion.
+  3. **Russia**: \$109 Billion.
+  4. **India**: \$83.6 Billion.
+  5. **Saudi Arabia**: \$75.8 Billion.
+- **Global Military Outlay**: Surpassed an all-time record of **\$2.44 Trillion**, driven by geopolitical conflicts in Eastern Europe and the Middle East.
 
 🎯 Exam Angle →
-• India's Rank & Amount: India is **4th largest spender** ($83.6 Billion).
+• India's Rank & Amount: India is **4th largest spender** (\$83.6 Billion).
 • Top 3 Order: 1st USA, 2nd China, 3rd Russia, 4th India.
 • Target MCQ Form: "According to the latest SIPRI report, what is India's global rank in terms of military expenditure?" → 4th.
+
+---
+
+📰 **LSEG Global Green Economy Report: India Generates US\$110 Billion in Green Revenues**
+- **Global Sustainable Leadership**: According to the benchmark *Global Green Revenues* study released by the **London Stock Exchange Group (LSEG)**, Indian enterprises generated approximately **US\$110 billion (approx. ₹9.24 lakh crore) in green revenues** during 2025.
+- **Leading Contributing Verticals**:
+  - Utility-scale renewable solar and wind energy generation.
+  - Electric mobility (EV manufacturing and charging network infrastructure).
+  - Energy-efficient industrial machinery, green hydrogen tech, and smart grid components.
+- **Global Standing**: Positions India among the world's leading emerging-market green economy powerhouses, accelerating corporate decarbonization ahead of national COP commitments.
+
+🎯 Exam Angle →
+• Publishing Entity: **London Stock Exchange Group (LSEG)**.
+• Quantum of Green Revenues: Approximately **US\$110 Billion**.
+• Target MCQ Form: "According to a study by the London Stock Exchange Group (LSEG), what was the approximate volume of green revenues generated by Indian firms?" → US\$110 Billion.
+
+---
+
+📰 **NITI Aayog Releases 8th Trade Watch Quarterly: India's Export Pivot Towards Asia & Africa**
+- **Institutional Trade Diagnostics**: NITI Aayog released the **8th edition of its Trade Watch Quarterly**, evaluating India's post-pandemic trade trajectory and geopolitical tariff realignments.
+- **Geographical Pivot**:
+  - Highlights a structural shift in India's merchandise export footprint towards **Asia, Africa, and Latin America**, reducing historical over-reliance on traditional EU and North American markets.
+  - Driven by the operationalization of CEPA/ECTA trade agreements and strong outbound shipments of engineering goods, electronics, and specialty active pharmaceutical ingredients (APIs).
+
+🎯 Exam Angle →
+• Publishing Body: **NITI Aayog** (8th edition of Trade Watch Quarterly).
+• Core Finding: Structural trade diversification toward **Asia and Africa**.
+
 
 ---
 

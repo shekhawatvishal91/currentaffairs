@@ -2,9 +2,9 @@
 
 All notable changes to the Current Affairs Dossier repository and Rajputana Gazette Broadsheet System are documented here.
 
-## 🚀 [v1.7] — 2026-09-11
+## 🚀 [v1.8] — 2026-09-11
 
-### 🏛️ September 2026 Master Integration (Days 1–10 Daily PDFs): IFSCA Market Abuse, Sovereign Ratings, Scheduled LAB & GFF 2026
+### 👑 IBPS PO Mains 35+ Strike File Strategic Enhancement & September 2026 Master Integration
 - **Exhaustive 40-Cluster Dedicated Master Dossier ('current_affairs_2026_september.md')**:
   - **Capital Markets & Financial Regulators**:
     - **IFSCA Market Abuse Regulations 2026 in GIFT IFSC**: Formally replaces SEBI PIT 2015 and SEBI PFUTP 2003 regimes within GIFT City; designated persons must report quarterly trades exceeding **$25,000 within 2 business days**.
@@ -52,6 +52,16 @@ All notable changes to the Current Affairs Dossier repository and Rajputana Gaze
   - Activated dedicated **September 2026 (Days 1–10)** interactive tab with 8 high-frequency metric chips and live slide-out Table of Contents.
   - Hub total expanded to **566 verified clusters** across 8 fully compiled months.
   - Strict zero-hash (`#` inside `<h1..h6>`) and zero-checkbox invariants passed 100%.
+- **IBPS PO Mains 35+ Marks Guarantee Strike File Enhancement ('IBPS_MAINS_35PLUS_MASTER_JAN_SEPT.md')**:
+  - Enhanced from 121 to **129 high-yield sagas**:
+    - **RBI Mission SAKSHAM (Section 1)**: Large-scale capacity building and governance training for 1.40 lakh personnel across Urban Co-operative Banks (UCBs) via College of Agricultural Banking (CAB), Pune.
+    - **PM RAHAT Scheme (Section 5)**: Cashless golden-hour medical treatment up to ₹1.50 lakh per victim for up to 7 days under MVAF (Motor Vehicles Act, 1988) with 24–48 hr police authentication.
+    - **Urban Challenge Fund (UCF, Section 5)**: ₹1 Lakh Crore outlay (FY26–FY31); 25% Centre grant, min 50% commercial market debt/PPP; ₹5,000 Cr creditworthiness corpus for 4,223 cities.
+    - **GOBARdhan Revamped Scheme (Section 5)**: ₹23,731 Cr outlay across 10 years (FY27–FY36); mandatory CGD CBG blending glidepath: 3% in FY27 ➔ 4% in FY28 ➔ 5% from FY29 onwards; ₹2 Cr/TPD capital subsidy.
+    - **PM-SETU Programme (Section 5)**: ₹60,000 Cr outlay to upgrade 1,000 ITIs into Industry 4.0 Centers of Excellence under MSDE.
+    - **Maritime India Vision 2030 Breakthrough (Section 6)**: India becomes world's #1 ship recycling nation 5 years ahead of schedule; 100+ Hong Kong Convention (HKC) compliant plots at Alang, Gujarat.
+    - **LSEG Green Revenues Report (Section 9)**: Indian firms generated ~$110 Billion in green revenues in 2025 across solar/wind, EV charging, and green hydrogen.
+    - **NITI Aayog 8th Trade Watch Quarterly (Section 9)**: Structural export pivot towards Asia, Africa, and Latin America.
 
 ## 🚀 [v1.6] — 2026-09-09
 
