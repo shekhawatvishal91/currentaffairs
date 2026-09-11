@@ -2,6 +2,26 @@
 
 All notable changes to the Current Affairs Dossier repository and Rajputana Gazette Broadsheet System are documented here.
 
+## 🛠️ [v1.9.1] — 2026-09-11
+
+### 🎨 September 2026 Presentation Architecture Hotfix & Typographic Overhaul
+- **Markdown Nested Ladder List Standardization (`current_affairs_2026_september.md`)**:
+  - Replaced all 403 non-standard unicode dot markers (`•`) with standard GitHub Flavored Markdown (GFM) nested list syntax (`  - `).
+  - **Resolved Visual Flaw**: Sub-bullets under major news points (e.g., NPS categories, AAI airport bundles, SEBI ITRI weightages) previously collapsed into single run-on text lines in Markdown readers; now render as true, properly indented hierarchical lists.
+- **Exam Angle Block Layout & Typography Revamp**:
+  - Upgraded both `generate_broadsheet_hub.mjs` and `build_all.js` to parse list-based `🎯 Exam Angle →` blocks into dedicated `<ul class="gazette-exam-list">` elements.
+  - Added custom CSS for `.gazette-exam-list` (square bullet markers, 18px padding, optimal line spacing) so multi-point exam angles display as clean, legible cards rather than horizontal walls of text.
+- **Cluster 52 Heading Structure Restoration**:
+  - Fixed a missing blank line before `---` in Cluster 52 (Global Summits & International Honours) that caused standard Markdown engines to parse the entire Exam Angle block as an `<h2>` heading, breaking broadsheet columns and polluting the Table of Contents.
+  - Cluster 52 now resides cleanly inside its broadsheet article container with its dedicated exam box.
+- **Numerical Metric Integrity**:
+  - Corrected the Indian Army's FGM-148 Javelin missile FMS package outlay back to **\$45.7 Million** (restoring corruption caused by JS regex replacement).
+- **Strict Invariants Verified**:
+  - Total September Clusters: **55 verified clusters**.
+  - Total Exam Angle Boxes: **55/55 present and formatted**.
+  - Heading anchor hashes: **Strictly 0 '#' symbols in <h1..h6>**.
+  - Interactive checkboxes: **Strictly 0 checkboxes**.
+
 ## 🚀 [v1.9] — 2026-09-11
 
 ### 💎 September 2026 Dossier Comprehensive Enhancement (55 Clusters) & Weekly PDF Integration
