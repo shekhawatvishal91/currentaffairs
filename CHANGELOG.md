@@ -2,6 +2,23 @@
 
 All notable changes to the Current Affairs Dossier repository and Rajputana Gazette Broadsheet System are documented here.
 
+## 🛠️ [v1.9.3] — 2026-09-12
+
+### 📊 Rajputana Broadsheet Metric Strip & Chrono-Timeline Architectural Styling Hotfix
+- **High-Frequency Metric Strip Styling & Alignment Overhaul**:
+  - Resolved the unstyled raw vertical text collapse on `.metric-strip-container` across all 8 broadsheet tabs (prominently visible on the 35+ Strike File and monthly tabs).
+  - Injected authentic Rajputana Broadsheet CSS targeting `.metric-strip-container`, `.feature-panel-header`, `.panel-heading`, `.panel-title`, `.panel-tag`, `.panel-count`, `.metric-cards-grid`, `.metric-card`, `.metric-val`, `.metric-trend`, `.metric-label`, and `.metric-sub`.
+  - Metric chips now render as crisp, interactive geometric cards in a multi-column responsive grid with `--paper` backgrounds, `--wash` hover effects, and bold terracotta values.
+- **Interactive Chrono-Map Timeline Grid Support**:
+  - Added full broadsheet styles for `.chrono-timeline-container`, `.timeline-horizontal-wrapper`, `.timeline-stepper`, `.timeline-step`, step dots/lines, and date badges.
+- **Metric Card Click-to-Jump Navigation (`jumpToTarget`)**:
+  - Implemented the missing `jumpToTarget(targetId)` JavaScript handler in the broadsheet hub compiler.
+  - Scoped cluster element lookups to the currently active monthly document card, preventing DOM ID collisions across tabs and ensuring smooth, centered auto-scrolling with `.pulse-highlight` animations when any metric chip is clicked.
+- **Reading Focus Mode Cleanup**:
+  - Added `.metric-strip-container` and `.chrono-timeline-container` to the zen distraction-free hiding list (`body.reading-focus-mode`).
+- **Synchronized HTML Distribution**:
+  - Recompiled both `current_affairs_hub.html` and `index.html`.
+
 ## 🛠️ [v1.9.2] — 2026-09-11
 
 ### 🌐 Cross-Repository Presentation Overhaul Across All Months (May, June, July, August, Q1, April & IBPS 35+ Master)
