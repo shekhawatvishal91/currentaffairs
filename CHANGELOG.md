@@ -2,62 +2,30 @@
 
 All notable changes to the Current Affairs Dossier repository and Rajputana Gazette Broadsheet System are documented here.
 
-## 🛠️ [v1.9.3] — 2026-09-12
+## 🚀 [v2.0] — 2026-09-12
 
-### 📊 Rajputana Broadsheet Metric Strip & Chrono-Timeline Architectural Styling Hotfix
-- **High-Frequency Metric Strip Styling & Alignment Overhaul**:
-  - Resolved the unstyled raw vertical text collapse on `.metric-strip-container` across all 8 broadsheet tabs (prominently visible on the 35+ Strike File and monthly tabs).
+### 🌐 Major Rajputana Broadsheet Presentation Architecture Overhaul & Metric Intelligence Hub
+- **Universal Nested List Hierarchy Overhaul Across All Monthly Dossiers (Over 1,700 Bullets Healed)**:
+  - Systematically audited and converted all non-standard Unicode dot bullets (`• `) across `current_affairs_2026_september.md` (403), `current_affairs_2026_june.md` (534), `current_affairs_2026_may.md` (397), `current_affairs_2026_july.md` (201), `aug_ca_cgb1-31aug_pib1-18aug.md` (128), and `IBPS_MAINS_35PLUS_MASTER_JAN_SEPT.md` (393) to standard GitHub Flavored Markdown list syntax (`  - ` / `- `).
+  - Completely resolved the collapsed/squashed nested bullet bug across the entire broadsheet portal: all sub-points under news clusters now render with clean, indented hierarchical `<ul><li>` structures.
+- **Universal Multi-Bullet Exam Angle Architecture (`.gazette-exam-list`)**:
+  - Re-structured all multi-point `🎯 Exam Angle →` blocks across September (55), IBPS Master (129), June (61), May (35), July (30), and August (12) with standard Markdown list syntax and blank line isolation.
+  - Injected dedicated `.gazette-exam-list` CSS (custom square bullet markers, 18px padding, 1.5 line height, and clean typography), transforming cramped single-line run-ons into prominent, highly readable review cards.
+- **High-Frequency Metric Strip & Chrono-Timeline Broadsheet Styling**:
   - Injected authentic Rajputana Broadsheet CSS targeting `.metric-strip-container`, `.feature-panel-header`, `.panel-heading`, `.panel-title`, `.panel-tag`, `.panel-count`, `.metric-cards-grid`, `.metric-card`, `.metric-val`, `.metric-trend`, `.metric-label`, and `.metric-sub`.
-  - Metric chips now render as crisp, interactive geometric cards in a multi-column responsive grid with `--paper` backgrounds, `--wash` hover effects, and bold terracotta values.
-- **Interactive Chrono-Map Timeline Grid Support**:
+  - Metric chips render in a responsive grid featuring ivory newsprint (`--paper`) card surfaces, sandstone (`--wash`) hover states, and bold terracotta (`--accent`) values.
   - Added full broadsheet styles for `.chrono-timeline-container`, `.timeline-horizontal-wrapper`, `.timeline-stepper`, `.timeline-step`, step dots/lines, and date badges.
-- **Metric Card Click-to-Jump Navigation (`jumpToTarget`)**:
-  - Implemented the missing `jumpToTarget(targetId)` JavaScript handler in the broadsheet hub compiler.
-  - Scoped cluster element lookups to the currently active monthly document card, preventing DOM ID collisions across tabs and ensuring smooth, centered auto-scrolling with `.pulse-highlight` animations when any metric chip is clicked.
-- **Reading Focus Mode Cleanup**:
-  - Added `.metric-strip-container` and `.chrono-timeline-container` to the zen distraction-free hiding list (`body.reading-focus-mode`).
-- **Synchronized HTML Distribution**:
-  - Recompiled both `current_affairs_hub.html` and `index.html`.
-
-## 🛠️ [v1.9.2] — 2026-09-11
-
-### 🌐 Cross-Repository Presentation Overhaul Across All Months (May, June, July, August, Q1, April & IBPS 35+ Master)
-- **Universal Nested List Hierarchy Restoration (Over 1,700 Bullets Healed)**:
-  - Systematically audited and converted all non-standard Unicode dot bullets (`• `) across `current_affairs_2026_may.md` (397), `current_affairs_2026_june.md` (534), `current_affairs_2026_july.md` (201), `aug_ca_cgb1-31aug_pib1-18aug.md` (128), and `IBPS_MAINS_35PLUS_MASTER_JAN_SEPT.md` (393) to standard GitHub Flavored Markdown list syntax (`  - ` / `- `).
-  - Completely resolved the collapsed/squashed nested bullet bug across the entire broadsheet portal: all sub-points now render with clean, indented hierarchical `<ul><li>` structures.
-- **Universal Multi-Bullet Exam Angle Styling (`.gazette-exam-list`)**:
-  - Re-structured all multi-point `🎯 Exam Angle →` blocks across May (35), June (61), July (30), August (12), and the IBPS 35+ Master file (129) with standard Markdown list syntax and blank line isolation.
-  - In HTML compilation, these blocks are automatically parsed into styled `.gazette-exam-list` cards featuring square bullet markers and comfortable reading line height.
+- **Interactive Click-to-Jump Navigation (`jumpToTarget`)**:
+  - Implemented the `jumpToTarget(targetId)` handler scoped strictly to the active monthly document card, preventing DOM ID collisions across tabs and ensuring smooth centered auto-scrolling with `.pulse-highlight` animations when any metric chip is clicked.
 - **LaTeX Math & Currency Symbol Sanitization**:
-  - Escaped all raw currency dollar figures (`\$`) across all monthly dossiers (including August, April, Q1, and IBPS Master) to prevent accidental KaTeX LaTeX math mode invocation and formula corruption.
-  - Eliminated KaTeX console warnings completely.
-- **Invariant Verification (All 8 Broadhseet Tabs)**:
+  - Escaped all literal currency dollar figures (`\$`) across all monthly dossiers (including August, April, Q1, and IBPS Master) to prevent accidental KaTeX LaTeX math mode invocation.
+- **Strict Invariants Verified (All 8 Broadsheet Tabs)**:
   - Total Verified Clusters: **589 / 589 intact**.
   - Total Exam Angle Boxes: **595 / 595 styled and rendered**.
   - Total Squashed `<li>` Elements: **0**.
   - Heading anchor hashes (`#` in `<h1..h6>`): **Strictly 0**.
   - Interactive checkboxes: **Strictly 0**.
   - Full synchronization between `current_affairs_hub.html` and `index.html`.
-
-## 🛠️ [v1.9.1] — 2026-09-11
-
-### 🎨 September 2026 Presentation Architecture Hotfix & Typographic Overhaul
-- **Markdown Nested Ladder List Standardization (`current_affairs_2026_september.md`)**:
-  - Replaced all 403 non-standard unicode dot markers (`•`) with standard GitHub Flavored Markdown (GFM) nested list syntax (`  - `).
-  - **Resolved Visual Flaw**: Sub-bullets under major news points (e.g., NPS categories, AAI airport bundles, SEBI ITRI weightages) previously collapsed into single run-on text lines in Markdown readers; now render as true, properly indented hierarchical lists.
-- **Exam Angle Block Layout & Typography Revamp**:
-  - Upgraded both `generate_broadsheet_hub.mjs` and `build_all.js` to parse list-based `🎯 Exam Angle →` blocks into dedicated `<ul class="gazette-exam-list">` elements.
-  - Added custom CSS for `.gazette-exam-list` (square bullet markers, 18px padding, optimal line spacing) so multi-point exam angles display as clean, legible cards rather than horizontal walls of text.
-- **Cluster 52 Heading Structure Restoration**:
-  - Fixed a missing blank line before `---` in Cluster 52 (Global Summits & International Honours) that caused standard Markdown engines to parse the entire Exam Angle block as an `<h2>` heading, breaking broadsheet columns and polluting the Table of Contents.
-  - Cluster 52 now resides cleanly inside its broadsheet article container with its dedicated exam box.
-- **Numerical Metric Integrity**:
-  - Corrected the Indian Army's FGM-148 Javelin missile FMS package outlay back to **\$45.7 Million** (restoring corruption caused by JS regex replacement).
-- **Strict Invariants Verified**:
-  - Total September Clusters: **55 verified clusters**.
-  - Total Exam Angle Boxes: **55/55 present and formatted**.
-  - Heading anchor hashes: **Strictly 0 '#' symbols in <h1..h6>**.
-  - Interactive checkboxes: **Strictly 0 checkboxes**.
 
 ## 🚀 [v1.9] — 2026-09-11
 
