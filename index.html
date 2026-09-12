@@ -206,6 +206,7 @@ code.hljs {
       border: none !important;
       padding: 0 !important;
       background: transparent !important;
+      column-count: 1 !important;
     }
 
     /* Floating Exit Button for Focus Mode */
@@ -548,11 +549,27 @@ code.hljs {
       width: 100%;
     }
 
-    /* Main article container */
+    /* Main article container - 2-Column Broadsheet Grid */
     .document-card {
       background: transparent;
       border: none;
       padding: 0;
+      column-count: 2;
+      column-gap: 24px;
+    }
+
+    .document-card > h1,
+    .document-card > h2,
+    .document-card > h3:not(.gazette-headline),
+    .document-card > blockquote,
+    .document-card > hr,
+    .document-card > table,
+    .document-card > p,
+    .document-card > ul,
+    .document-card > ol,
+    .document-card > .metric-strip-container,
+    .document-card > .chrono-timeline-container {
+      column-span: all;
     }
 
     /* Section Headings */
@@ -606,6 +623,10 @@ code.hljs {
       padding: 20px 22px;
       position: relative;
       break-inside: avoid;
+      page-break-inside: avoid;
+      display: inline-block;
+      width: 100%;
+      box-sizing: border-box;
     }
 
     .gazette-cluster-header {
@@ -660,9 +681,7 @@ code.hljs {
     }
 
     .broadsheet-column-divider {
-      height: 1px;
-      background: var(--rule);
-      margin: 24px 0;
+      display: none;
     }
 
     /* ============================================================
@@ -829,6 +848,9 @@ code.hljs {
     }
 
     @media (max-width: 992px) {
+      .document-card {
+        column-count: 1 !important;
+      }
       .metric-cards-grid,
       .metric-grid {
         grid-template-columns: repeat(2, 1fr);
