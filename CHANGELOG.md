@@ -2,7 +2,31 @@
 
 All notable changes to the Current Affairs Dossier repository and Rajputana Gazette Broadsheet System are documented here.
 
+## 🚀 [v2.4] — 2026-09-15
+
+### 🏛️ Static Banking & Regulatory Foundations (Section 0) & 136-Cluster Strike Dossier
+- **Dedicated High-Yield Matrix (`static_banking_regulatory_core.md`) & Section 0 Master Integration**:
+  - Authored and integrated Section `0. 🏛️ MASTER STATIC BANKING & REGULATORY FOUNDATIONS` (+218 lines) into `IBPS_MAINS_35PLUS_MASTER_JAN_SEPT.md`, expanding the Examiner Strike Dossier to **136 comprehensive clusters**.
+  - **Financial Message Identifiers & Codes**: Codified exact alphanumeric lengths and structures for RTGS UTR (22 chars), NEFT UTR (16 chars), IFSC (11 chars, 5th character permanently '0'), MICR (9 digits: City-Bank-Branch sequence), LEI (20 chars, ISO 17442, mandatory for non-individual borrowers ≥ ₹50 Cr), SWIFT/BIC (8 or 11 chars, ISO 9362, HQ La Hulpe, Belgium), PRAN/UAN (12 digits), PAN (10 chars, 4th char entity type: 'P' = person), and GSTIN (15 chars, 2-digit state code prefix).
+  - **Statutory Banking Genesis & Acts**:
+    - Presidency Banks (Calcutta 1806, Bombay 1840, Madras 1843) to Imperial Bank (1921) to SBI (July 1, 1955 via SBI Act 1955 on A.D. Gorwala Committee recommendations).
+    - 14 Banks nationalised in 1969 (deposits ≥ ₹50 Cr) and 6 banks in 1980 (deposits ≥ ₹200 Cr).
+    - RBI Act 1934: Section 17 (legitimate transactions), Section 22 (exclusive currency issuance), Section 24 (note ceiling ₹10,000; Coinage Act ₹1,000), Section 42(1) (CRR on NDTL), and Sections 45-ZB to 45-ZG (MPC 6-member framework).
+    - Banking Regulation Act 1949: Section 5(b) (definition of banking), Section 22 (licensing), Section 24 (SLR ceiling 40%, operational 18.00%), Section 35A (binding executive directions), Section 49A (restricting deposits).
+    - Negotiable Instruments Act 1881: Section 4 (Promissory Note), Section 5 (Bill of Exchange), Section 6 (Cheque), and Section 138 (Dishonour for insufficiency of funds: up to 2 years prison / 2x fine).
+  - **Basel III Prudential Architecture**: Minimum CET-1 (5.5%), AT-1 (1.5%), Tier-1 (7.0%), Tier-2 (2.0%), Total Capital Adequacy Ratio (9.00% / 11.50% with 2.50% Capital Conservation Buffer); D-SIB surcharges (SBI +0.80%, HDFC +0.40%, ICICI +0.20%).
+  - **Constitutional Schedules, Tax Certificates & Macro Foundations**:
+    - Constitutional Schedules (1st through 12th; 4th Schedule Rajya Sabha seats, 8th Schedule 22 languages, 11th Panchayats 29 subjects, 12th Municipalities 18 subjects).
+    - Articles 280 (16th Finance Commission - Dr. Arvind Panagariya), 300A (Right to Property legal right via 44th Amendment 1978), 112 (Budget), 246A/279A (GST Council 1/3rd Centre, 2/3rd States, 3/4th majority), 266/267 (Consolidated, Public Account, Contingency Fund corpus ₹30,000 Cr).
+    - Tax Forms: Form 16 (TDS on salary under Sec 203), Form 16A (non-salary TDS), Form 15G (<60 yrs) vs 15H (≥60 yrs senior citizens), Form 26AS & AIS, Form 60/61.
+    - Three Functions of Money: Unit of Account (accounting baseline for GDP/balance sheets), Medium of Exchange, Store of Value.
+    - Strategic Maritime Straits (Hormuz, Bab-el-Mandeb, Malacca, Turkish Straits Montreux Convention) and Chabahar Port 10-year bilateral pact.
+- **Broadsheet Hub Recompilation & Invariant Verification**:
+  - Cleanly recompiled `current_affairs_hub.html` and `index.html` via `build_all.js`.
+  - Verified presence of Section 0 and all 136 IBPS Master clusters, maintaining 0 unescaped LaTeX math formulas, 0 squashed `<li>` elements, and 0 heading anchor hashes.
+
 ## 🚀 [v2.0] — 2026-09-12
+
 
 ### 🌐 Major Rajputana Broadsheet Presentation Architecture Overhaul & Metric Intelligence Hub
 - **Universal Nested List Hierarchy Overhaul Across All Monthly Dossiers (Over 1,700 Bullets Healed)**:
