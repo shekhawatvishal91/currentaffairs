@@ -83,6 +83,61 @@
 
 ---
 
+📰 **AustralianSuper Invests AU\$500 Million in NIIF; Total India Exposure Reaches AU\$3.3 Billion**
+
+- **Headline Investment Commitment**: AustralianSuper, Australia's largest pension and superannuation fund manager with over AU\$300 billion in assets under management, committed an additional **AU\$500 million (over ₹3,300 crore)** to the National Investment and Infrastructure Fund (NIIF).
+- **Cumulative Sovereign Footprint**: With this tranche, AustralianSuper's cumulative direct and indirect investment in India expanded to **AU\$3.3 billion (~₹18,500 crore)**, making it one of the largest foreign institutional investors in Indian infrastructure.
+- **National Investment and Infrastructure Fund (NIIF) Institutional Architecture**:
+  - **Establishment**: Set up in **December 2015** as a sovereign-linked quasi-sovereign wealth alternative asset manager registered with SEBI under Category-II Alternative Investment Fund (AIF) regulations.
+  - **Equity Ownership**: Government of India holds a **49% statutory anchor stake**, while 51% is held by domestic and global institutional investors (including ADIA, Temasek, and domestic financial institutions).
+  - **Operational Focus**: Channeling institutional patient capital into green energy, expressways, ports, airports, logistics, and digital telecom infrastructure.
+  - **Leadership**: Headquartered in Mumbai; led by Sanjiv Aggarwal (MD & CEO).
+
+🎯 Exam Angle →
+
+- Capital Outlay: AustralianSuper committed **AU\$500 million (over ₹3,300 Cr)** to NIIF.
+- Total Exposure: AustralianSuper's aggregate India portfolio reaches **AU\$3.3 billion**.
+- NIIF Shareholding Structure: Government of India maintains exactly **49% equity**, preventing public debt consolidation while ensuring sovereign backing.
+- Operational Form: NIIF is registered with SEBI as a **Category-II Alternative Investment Fund (AIF)**.
+
+---
+
+📰 **NPCI Partners with HSBC India & JP Morgan Payments for Real-Time FX Conversion in Cross-Border UPI**
+
+- **Cross-Border FX Settlement Architecture**: National Payments Corporation of India (NPCI) forged strategic infrastructure partnerships with **HSBC India** and **JP Morgan Payments** to integrate dynamic, live-market foreign exchange conversion directly into cross-border UPI transactions.
+- **Technical Mechanism & API Integration**:
+  - **HSBC India**: Delivers real-time foreign exchange pricing feeds via direct banking APIs, enabling Indian and overseas travelers to lock in transparent, live conversion rates at point-of-sale (POS) QR terminals.
+  - **JP Morgan Payments**: Merges global treasury clearing with UPI rails to provide instant settlement for cross-border merchant transactions, eliminating post-settlement FX volatility.
+  - **Unified Agent Protocol (UAP)**: NPCI concurrently initiated development of the Unified Agent Protocol (UAP), an interoperable standard enabling autonomous agentic AI models to execute pre-authorized UPI transactions within user-defined security parameters.
+- **Consumer Transparency Mandate**: Eliminates outdated end-of-day markups and opaque foreign currency conversion fees by showing the exact INR deduction before authorization.
+
+🎯 Exam Angle →
+
+- Lead Banking Partners: **HSBC India** (real-time FX rates) and **JP Morgan Payments** (clearing and settlement).
+- Protocol Innovation: NPCI's **Unified Agent Protocol (UAP)** designed to govern Agentic AI-driven automated micro-transactions.
+- Regulatory Objective: Enforces transparent, pre-transaction pricing disclosure for international outward and inward merchant payments.
+
+---
+
+📰 **RBI Master Circular on Special Rupee Vostro Accounts (SRVA) for Cross-Border Trade Settlement**
+
+- **Consolidated Regulatory Architecture**: Reserve Bank of India issued a comprehensive Master Circular consolidating all directions governing **Special Rupee Vostro Accounts (SRVA)** issued between 2022 and 2025 under the Foreign Exchange Management Act, 1999 (FEMA).
+- **Core Operational Directives**:
+  - **Account Opening & Approvals**: Authorised Dealer (AD Category-I) banks are permitted to open SRVAs for partner foreign banks after obtaining prior approval from the Foreign Exchange Department, Central Office of RBI.
+  - **Denomination & Invoicing**: All export and import contracts settled via the mechanism must be **invoiced and denominated strictly in Indian Rupees (INR)**.
+  - **Market-Determined Exchange Rates**: Currency conversion between INR and partner foreign currencies takes place at market-driven exchange rates rather than administratively pegged corridors.
+  - **Settlement Process**: Indian importers making payments through this mechanism credit the invoice amount in INR into the SRVA of the correspondent overseas bank against bills of lading; Indian exporters are paid directly in INR from the balances in the SRVA.
+  - **Surplus Rupee Balance Deployment**: Overseas banks holding surplus INR balances in SRVAs are permitted to invest funds in **Government Treasury Bills (T-Bills)**, sovereign G-Secs, and designated local bank deposits.
+
+🎯 Exam Angle →
+
+- Account Type: **Special Rupee Vostro Account (SRVA)** allows foreign correspondent banks to hold INR balances in Indian AD banks.
+- Currency Mandate: Trade invoices must be denominated in **Indian Rupees (INR)**.
+- Permitted Investment of Surplus: Surplus balances can be invested in **Government Treasury Bills and Sovereign G-Secs** (not equities or unapproved corporate bonds).
+- Strategic Impact: Critical vehicle for the **internationalisation of the Indian Rupee** and bilateral dedollarisation.
+
+---
+
 ## 2. 🏛️ REGULATORY BODIES NEWS
 
 📰 **RBI Master Direction — Treatment of Wilful Defaulters and Large Defaulters (July 30)**
@@ -250,6 +305,98 @@
 
 ---
 
+📰 **SEBI Depository Investor Protection Fund (IPF) Norms: Operational Expense Utilization Capped at 5%**
+
+- **Regulatory Framework & Effective Date**: Securities and Exchange Board of India (SEBI) amended norms governing Investor Protection Funds (IPF) maintained by depositories (NSDL and CDSL), permitting depositories to utilize **up to 5% of annual interest or income** earned from the IPF corpus for administrative and operational expenses, effective **September 2026**.
+- **Eligible Operating Outlays**:
+  - Remuneration and salaries of dedicated personnel employed directly by the independent IPF Trust.
+  - Statutory compliance expenditures, including independent audit fees, taxation, and Charity Commissioner registration fees.
+- **Corpus Protection Invariant**:
+  - At least **95% of the annual income/interest** generated by the fund must be compulsorily credited back to replenish the principal IPF corpus.
+  - In case administrative expenses exceed the 5% threshold, the deficit must be absorbed entirely by the depository from its own corporate balance sheet, not from the IPF principal.
+  - Unutilized portions of the 5% allowance cannot be carried forward as profit and must revert to the corpus.
+
+🎯 Exam Angle →
+
+- Permitted Expense Cap: Maximum **5% of annual interest/income** from the IPF corpus (not 5% of the total corpus).
+- Mandatory Replenishment: At least **95% of annual income** must be added back into the principal fund.
+- Deficit Bearing: Any expense exceeding the 5% ceiling must be borne **by the depository itself**.
+
+---
+
+📰 **SEBI Reintroduces Open-Market Share Buybacks via Stock Exchanges; Freezes Promoter ISINs**
+
+- **Policy Reversal & Streamlining**: SEBI formally reintroduced corporate share buybacks conducted through the secondary stock exchange trading window, effective **August 1, 2026**.
+- **Core Prudential Parameters**:
+  - **Aggregate Quantum Cap**: Share buybacks via the open-market exchange route are capped at **less than 15%** of the company's total paid-up equity capital and free reserves (tested against both standalone and consolidated balance sheets).
+  - **Drastic Execution Compression**: The buyback window must open within **4 working days** of the public announcement and must be fully concluded within **66 working days** (drastically reduced from the erstwhile 6-month timeline).
+  - **Promoter Share Freezing**: To prevent front-running, manipulation, and insider offloading, promoter group shareholdings are **frozen at the depository ISIN level** throughout the entire buyback duration.
+  - **Merchant Banker Option**: Appointment of a merchant banker for open-market buybacks is made optional, placing direct compliance accountability on the corporate board.
+  - **Minimum Public Shareholding (MPS)**: Companies are strictly prohibited from announcing buyback volumes that would reduce post-offer public shareholding below the statutory **25% MPS threshold**.
+
+🎯 Exam Angle →
+
+- Open-Market Buyback Cap: Strictly **less than 15%** of paid-up capital and free reserves.
+- Execution Timeline: Opens within **4 working days** and closes within **66 working days** (earlier 6 months).
+- Promoter Lock: Promoters' holdings are **frozen at the ISIN level** for the duration of the buyback.
+- Statutory Limit: Cannot breach the **25% Minimum Public Shareholding (MPS)** requirement.
+
+---
+
+📰 **SEBI Comprehensive Employee Code of Conduct: Mandatory Divestment of Non-Permitted Equities**
+
+- **Governance & Conflict-of-Interest Overhaul**: SEBI notified a stringent, revised employee Code of Conduct requiring all whole-time officers and staff members to immediately disclose, freeze, or systematically divest holdings in non-permitted securities.
+- **Divestment & Disclosure Mandates**:
+  - **Prohibited Instruments**: Direct investments in listed equity shares, convertible debentures, equity-linked derivatives, and commodity derivative contracts.
+  - **Divestment Timeline**: Employees possessing legacy non-permitted assets must submit a time-bound exit plan; during the holding period, they are barred from exercising voting rights, receiving discretionary corporate perks, or subscribing to rights issues.
+  - **Mandatory Reporting Windows**: Staff must report professional interests held over the preceding 3 years, disclose gifts exceeding **₹50,000**, and report any negotiations for future employment with regulated entities within **30 days**.
+  - **Cooling-Off Period**: Prescribed a mandatory **2-year cooling-off period** for former SEBI officers before they can represent private clients or appear before the Board.
+
+🎯 Exam Angle →
+
+- Mandatory Cooling-Off: **2 years** for former employees before appearing before SEBI.
+- Gift Reporting Threshold: Any gift valued above **₹50,000** must be officially declared.
+- Prohibited Assets: Direct equity shares, equity derivatives, and commodity derivatives.
+
+---
+
+📰 **SEBI Authorises Intraday Borrowing Window for Mutual Funds to Bridge Same-Day Settlement Gaps**
+
+- **Liquidity Management Relaxation**: SEBI permitted Asset Management Companies (AMCs) to access intraday borrowing credit lines to resolve temporary same-day cash flow mismatches arising from lumpy redemption pressures and delayed banking settlement legs.
+- **Operational Boundaries**:
+  - **Permitted Uses**: Strictly confined to meeting intraday redemption payouts, dividend/interest distributions, settlement of underlying market purchases, mark-to-market (MTM) margin calls, and foreign exchange settlement legs.
+  - **End-of-Day Repayment Invariant**: AMCs must ensure that **100% of intraday borrowings are fully extinguished and repaid before the close of the trading day**.
+  - **Zero Cost Transfer to Unit-Holders**: Unit-holders cannot be charged for intraday facility expenses; any interest cost, commitment fee, or losses resulting from delays in receiving anticipated funds must be borne **exclusively by the AMC**, not the scheme.
+  - **Board Governance**: AMCs must formulate an independent Board-approved policy on intraday credit limits and publish the operational architecture on their official portals.
+
+🎯 Exam Angle →
+
+- Repayment Mandate: Intraday borrowings must be repaid **before the end of the same trading day**.
+- Expense Liability: Costs must be absorbed **100% by the AMC** (zero cost transfer to mutual fund unit-holders).
+- Allowed Facility: Designed strictly to service intraday liquidity timing gaps against expected same-day inflows.
+
+---
+
+📰 **Delhi High Court Orders Liquidation of Paytm Payments Bank; Appoints Official Liquidator**
+
+- **Judicial Liquidation Order**: On **July 8, 2026** (supplemented by directions on July 22), the Delhi High Court officially admitted a winding-up petition against **Paytm Payments Bank Limited (PPBL)** and appointed **Shri Girikumar M. Nair (former Chief General Manager, State Bank of India)** as the Official Liquidator.
+- **Statutory Enforcement Background**:
+  - Followed the statutory cancellation of PPBL's banking licence by the Reserve Bank of India on **April 24, 2026** under **Section 22(4) of the Banking Regulation Act, 1949** due to chronic supervisory non-compliance and AML KYC deficiencies.
+  - Proceeding executed jointly under the Banking Regulation Act, 1949 and Section 271/272 of the Companies Act, 2013.
+- **Institutional Context of Payment Banks in India**:
+  - Conceived on the recommendations of the **Nachiket Mor Committee on Comprehensive Financial Services (2013)** to advance micro-savings and digital remittances.
+  - Operational Rules: Minimum paid-up capital of ₹100 crore; demand deposits capped at **₹2,00,000 per individual customer**; permitted to issue debit cards but **strictly prohibited from lending, issuing credit cards, or accepting time deposits**.
+  - Active Surviving Entities: Airtel Payments Bank (first to launch, 2016), India Post Payments Bank (IPPB), Fino Payments Bank, Jio Payments Bank, and NSDL Payments Bank.
+
+🎯 Exam Angle →
+
+- Statutory Power: Banking licence cancelled under **Section 22(4) of Banking Regulation Act 1949**.
+- Committee Genesis: Payment Banks conceptualized by the **Nachiket Mor Committee (2013)**.
+- Deposit Ceiling: Maximum balance of **₹2,00,000 per customer**.
+- Regulatory Restriction: Payment Banks can issue **Debit Cards ONLY**; strictly barred from lending, advances, and credit card issuance.
+
+---
+
 ## 3. 🏦 BANKING & INSURANCE NEWS
 
 📰 **State Bank of India raises ₹10,000 Crore via 15-Year Infrastructure Bonds**
@@ -325,6 +472,24 @@
 
 ---
 
+📰 **RBI Prohibits Bank SMS Alert Charges for Compliance & Promos; Makes Alerts Below ₹500 Optional**
+
+- **Customer Protection Directive**: Reserve Bank of India directed all Scheduled Commercial Banks, Payment Banks, and Small Finance Banks to immediately cease levying quarterly SMS alert fees on account holders for mandatory compliance notices, financial literacy alerts, or promotional broadcasts.
+- **Industry Financial Impact**:
+  - Banks historically deducted between **₹15 to ₹18 per quarter plus GST** from active savings accounts, generating an estimated cumulative fee revenue of over **₹300 crore annually**.
+  - A large commercial bank servicing an active base of 50 million savings accounts faces an annual non-interest fee contraction of approximately **₹360 crore**.
+- **Operational Transaction Alert Threshold**:
+  - To prevent unnecessary notification spam and reduce telecom transmission expenses, RBI clarified that automated transactional SMS alerts for debit transactions valued at **₹500 or less are now optional** (at the bank's discretion or customer opt-in).
+  - High-value debit transaction notifications, critical OTPs, and unauthorized debit warning prompts remain mandatory and must be delivered free of charge.
+
+🎯 Exam Angle →
+
+- Prohibited Fee: Levying quarterly charges for regulatory, awareness, and promotional SMS messages.
+- Discretionary Alert Ceiling: Transactional SMS alerts for amounts **≤ ₹500** are made optional.
+- Historic Baseline Fee: Banks earlier charged **₹15–₹18 per quarter**.
+
+---
+
 ## 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS
 
 📰 **Historic Legal Transition: Three New Criminal Laws Enacted Nationwide (July 1)**
@@ -377,6 +542,101 @@
 - Banking Exam Coverage: Explicitly governs **IBPS** examinations alongside UPSC, SSC, and NTA.
 - Organized Syndicate Penalties: Minimum fine of **₹1 Crore**; 5 to 10 years imprisonment.
 - Legal Classification: **Cognizable and Non-Bailable** offences.
+
+---
+
+📰 **Andhra Pradesh Launches 'Pillale Sampada' Demographic Policy; Ladakh Notifies 25% Pashmina Production Incentive**
+
+- **Andhra Pradesh 'Pillale Sampada' (Children are Wealth) Paradigm Shift**:
+  - Chief Minister N. Chandrababu Naidu officially announced a pivot from population control to **population conservation and demographic renewal** on World Population Day (July 11) in Vijayawada.
+  - Addressed declining Total Fertility Rates (TFR) across southern states and impending demographic aging by proposing the repeal of the two-child norm disqualification for local body elections.
+  - Under the associated **Talliki Vandanam Scheme**, the state government allocates **₹15,000 per child annually** to mothers to finance schooling and higher education.
+- **Ladakh Livestock Development Incentive Programme for Pashmina Herders**:
+  - Lieutenant Governor approved a landmark **25% top-up production-based incentive** on total raw Pashmina procurement value, credited via Direct Benefit Transfer (DBT) to Aadhaar-linked accounts of Changpa nomadic pastoralists.
+  - Sanctioned an **₹8 crore dedicated revolving fund** for the All Changthang Pashmina Growers Cooperative Marketing Society Ltd.
+  - Pastoral Context: Pashmina is derived exclusively from the undercoat fleece of the indigenous **Changthangi (Capra hircus) goat**, reared at altitudes above 14,000 feet in eastern Ladakh.
+
+🎯 Exam Angle →
+
+- Andhra Initiative: **Pillale Sampada** focuses on demographic conservation; Talliki Vandanam provides **₹15,000 per child**.
+- Ladakh Pashmina Top-up: **25% procurement incentive** delivered via Direct Benefit Transfer.
+- Caprine Breed: Pashmina fleece is harvested from the high-altitude **Changthangi goat** reared by the **Changpa community**.
+
+---
+
+📰 **Geographical Indication (GI) Registrations: West Bengal Sweets & Boats, Gujarat Unjha Spices, Rajasthan Jodhpuri Mojari**
+
+- **Tripartite Regional GI Accords**: Geographical Indications Registry (Chennai) under DPIIT (Ministry of Commerce and Industry) granted statutory GI protection under the **Geographical Indications of Goods (Registration and Protection) Act, 1999** across three major states:
+  - **West Bengal (Triple Inscription)**:
+    1. **Jalbhara Sandesh**: Confection originating from Chandannagar, Hooghly district, featuring a distinctive liquid rosewater-and-nolen-gur syrup center.
+    2. **Janai's Manohara**: Traditional sweetmeat crafted from Janai village, Hooghly district, encapsulated in a solidified sugar shell.
+    3. **Balagarh Traditional Handcrafted Wooden Boats**: Indigenous shipbuilding craft practiced along the Hooghly river basin in Balagarh, historically utilizing Sal, Teak, and Babool timbers.
+  - **Gujarat (Mehsana Spices Hub)**:
+    1. **Unjha Cumin (Jeera)** and **Unjha Fennel (Saunf)**: Cultivated in Mehsana district; Unjha is recognized as Asia's largest regulated spot market and physical trading exchange for seed spices.
+  - **Rajasthan (Jodhpuri Mojari)**:
+    - 200-year-old handcrafted traditional leather footwear crafted by artisans in Jodhpur utilizing vegetable-tanned leather and intricate silk-thread embroidery.
+- **Statutory Framework**: GI tags are valid for a duration of **10 years**, renewable indefinitely upon payment of statutory renewal fees.
+
+🎯 Exam Angle →
+
+- Law: **Geographical Indications of Goods Act, 1999** (administered by GI Registry, Chennai under DPIIT).
+- Validity Period: **10 years** (renewable).
+- Inscribed Goods: WB (*Jalbhara Sandesh*, *Manohara*, *Balagarh Boats*); Gujarat (*Unjha Cumin* & *Unjha Fennel*); Rajasthan (*Jodhpuri Mojari*).
+
+---
+
+## 6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS
+
+📰 **CSIR-IICT Develops India's First Indigenous HFO-1234yf Green Refrigerant & Smart Algal Liquid Tree (SALT)**
+
+- **Breakthrough Clean Refrigerant Synthesis**: CSIR–Indian Institute of Chemical Technology (CSIR-IICT), Hyderabad, successfully synthesized India's first fully indigenous process technology for **Hydrofluoroolefin-1234yf (HFO-1234yf)**.
+  - **Environmental Profile**: Zero Ozone Depletion Potential (ODP) and an ultra-low Global Warming Potential (**GWP < 1**), engineered to replace hydrofluorocarbons (HFC-134a, which has a GWP of 1,430) in automotive air-conditioning and industrial chillers.
+  - **Treaty Alignment**: Fulfills India's statutory phase-down obligations under the **Kigali Amendment to the Montreal Protocol** (aiming for an 85% reduction in national HFC consumption by 2047).
+- **Smart Algal Liquid Tree (SALT) Mobile Photobioreactor**:
+  - Developed by CSIR–Central Institute of Mining and Fuel Research (CSIR-CIMFR), Dhanbad.
+  - Utilizes concentrated microalgae cultures in a mobile photobioreactor column to absorb carbon dioxide ($CO_2$) and discharge pure oxygen at rates equivalent to 10–20 mature urban trees; deployed at CIMFR Dhanbad and Northern Coalfields Limited (NCL) Singrauli.
+
+🎯 Exam Angle →
+
+- Green Chemical: **HFO-1234yf** developed by **CSIR-IICT Hyderabad** with Global Warming Potential **GWP < 1**.
+- International Treaty: Replaces HFCs pursuant to the **Kigali Amendment to the Montreal Protocol**.
+- Carbon Capture Tech: **Smart Algal Liquid Tree (SALT)** developed by **CSIR-CIMFR Dhanbad**.
+
+---
+
+📰 **Indian Navy Commissions Guided-Missile Stealth Frigate INS Mahendragiri (Project 17A Nilgiri-Class)**
+
+- **Warship Commissioning Milestone**: Indian Navy commissioned **INS Mahendragiri** at Mumbai on **July 11, 2026**, marking the operational induction of the **seventh and final Nilgiri-class stealth guided-missile frigate** under **Project 17A**.
+- **Shipbuilding & Indigenous Pedigree**:
+  - Constructed by **Mazagon Dock Shipbuilders Limited (MDL)**, Mumbai; designed in-house by the Indian Navy's Warship Design Bureau (WDB).
+  - Indigenous Content: Features over **75% indigenous content**, incorporating steel, propulsion equipment, and weapon systems from Indian MSMEs.
+  - Follow-on Class: Follows the Project 17 (Shivalik-class) frigates, boasting advanced radar-absorbent coatings, low acoustic signatures, and flush deck superstructures.
+- **Armament & Radar Suites**:
+  - Fitted with supersonic **BrahMos anti-ship cruise missiles** and **Barak-8 / LRSAM (Long Range Surface-to-Air Missiles)** developed jointly with Israel Aerospace Industries (IAI).
+  - Equipped with the indigenous **MF-STAR (Multi-Function Surveillance, Track and Missile Guidance Radar)**.
+
+🎯 Exam Angle →
+
+- Final Frigate: **INS Mahendragiri** is the 7th and final warship under **Project 17A (Nilgiri-class)**.
+- Shipbuilder: Constructed by **Mazagon Dock Shipbuilders Limited (MDL)** in Mumbai.
+- Indigenous Content Ratio: Exceeds **75% indigenous sourcing**.
+- Predecessor Class: Follows the **Project 17 (Shivalik-class)**.
+
+---
+
+📰 **Novo Nordisk Launches World's First Once-Weekly Basal Insulin 'Awiqli' (Insulin Icodec) in India**
+
+- **Therapeutic Innovation in Endocrinology**: Pharmaceutical major Novo Nordisk received Central Drugs Standard Control Organisation (CDSCO) marketing authorization to commercialize **Awiqli (Insulin Icodec)** in India.
+- **Clinical Paradigm Shift**:
+  - Represents the **world's first once-weekly basal insulin analog** approved for adult patients with Type 1 and Type 2 Diabetes Mellitus.
+  - **Injection Burden Compression**: Slashes the requisite basal insulin injection frequency from **365 subcutaneous daily injections per year down to just 52 weekly injections per year**.
+  - **Pharmacokinetics**: Features a multi-day extended half-life achieved through strong, reversible albumin binding, delivering steady basal glycemic control over a full 7-day therapeutic window via a single pen injection.
+
+🎯 Exam Angle →
+
+- Brand & Molecule: **Awiqli (Insulin Icodec)** manufactured by Novo Nordisk.
+- Dosing Innovation: **Once-weekly basal insulin** (52 annual injections vs. traditional 365 daily injections).
+- Indication: Management of glycemic control in adult **Type 1 and Type 2 Diabetes**.
 
 ---
 

@@ -2,7 +2,38 @@
 
 All notable changes to the Current Affairs Dossier repository and Rajputana Gazette Broadsheet System are documented here.
 
+## 🚀 [v2.5] — 2026-09-16
+
+### 💎 July 2026 Dossier Comprehensive Enrichment (+14 Clusters) & Broadsheet Synchronization
+- **Major July Expansion from 5 Weekly Ingestion Streams (`current_affairs_2026_july.md`)**:
+  - Systematically audited and ingested high-yield regulatory, economic, institutional, and scientific anchors from the 5 weekly July PDFs (Weeks 1 to 5), expanding the July Master Dossier from **30 clusters to 44 clusters** (+46% expansion).
+  - **ESI, Finance & Business News (Section 1 Enriched)**:
+    - **AustralianSuper AU\$500 Million NIIF Commitment**: Australia's largest superannuation fund committed an additional AU\$500M (~₹3,300 Cr), scaling cumulative India institutional exposure to **AU\$3.3 billion** in partnership with the National Investment and Infrastructure Fund (NIIF, 49% GoI equity, Category-II AIF).
+    - **NPCI Cross-Border UPI FX Integration**: Real-time FX dynamic pricing with **HSBC India** (live API rates) and **JP Morgan Payments** (clearing/settlement), alongside development of the **Unified Agent Protocol (UAP)** for autonomous Agentic AI micro-payments.
+    - **RBI Special Rupee Vostro Accounts (SRVA) Master Circular**: Consolidated circular under FEMA 1999; mandatory INR denomination and invoicing, market-determined conversion, and permitted investment of surplus balances strictly in sovereign G-Secs and T-Bills.
+  - **Regulatory Bodies & Central Banking (Section 2 Enriched)**:
+    - **SEBI Depository Investor Protection Fund (IPF) Rules**: Permitted depositories (NSDL/CDSL) to utilize **up to 5% of annual income/interest** for administrative/audit expenses (at least 95% credited back to principal; deficits absorbed by depository).
+    - **SEBI Reintroduction of Open-Market Share Buybacks**: Reintroduced through secondary stock exchanges effective August 1, 2026; cap of **<15% of paid-up capital & free reserves**; window opens in 4 working days, closes in **66 working days**; promoter holdings **frozen at ISIN level**; mandatory compliance with 25% Minimum Public Shareholding.
+    - **SEBI Employee Ethics Code Overhaul**: Mandatory divestment/freeze of listed equities and commodity derivatives; declaration of gifts >₹50,000; **2-year cooling-off period** for former staff.
+    - **SEBI Mutual Fund Intraday Borrowing Window**: Permitted to bridge same-day liquidity gaps for redemptions/settlement; **100% repaid before end of day**; expenses absorbed **entirely by the AMC**.
+    - **Delhi High Court Liquidation of Paytm Payments Bank**: Appointed Shri Girikumar M. Nair (former CGM, SBI) as Official Liquidator following RBI licence cancellation under Section 22(4) of Banking Regulation Act, 1949.
+  - **Banking & Insurance (Section 3 Enriched)**:
+    - **RBI Prohibition on SMS Alert Charges**: Barred quarterly fee deductions (₹15–₹18/quarter, ~₹300 Cr industry impact) for compliance/promotional notices; automated SMS alerts for transactions **≤ ₹500 made optional**.
+  - **National Policy & Regional GI Inscriptions (Section 4 Enriched)**:
+    - **Andhra Pradesh 'Pillale Sampada' (Children are Wealth)**: Demographic conservation initiative addressing declining southern TFR; ₹15,000/child under *Talliki Vandanam*.
+    - **Ladakh Pashmina Herders Incentive**: 25% top-up procurement incentive via DBT + ₹8 Cr revolving fund for Changpa pastoralists rearing Changthangi goats.
+    - **Tripartite GI Accords (1999 Act)**: West Bengal (*Jalbhara Sandesh*, *Manohara*, *Balagarh Handcrafted Wooden Boats*); Gujarat (*Unjha Cumin* & *Unjha Fennel*); Rajasthan (*Jodhpuri Mojari*).
+  - **Science, Technology & Defence (Section 6 Injected)**:
+    - **CSIR-IICT Indigenous HFO-1234yf**: Process technology with **GWP < 1** replacing high-GWP HFC-134a under Kigali Amendment to Montreal Protocol; CSIR-CIMFR **Smart Algal Liquid Tree (SALT)** mobile photobioreactor.
+    - **INS Mahendragiri Commissioned**: 7th and final stealth guided-missile frigate under **Project 17A (Nilgiri-class)** by Mazagon Dock Shipbuilders Limited (MDL) (>75% indigenous content).
+    - **Novo Nordisk 'Awiqli' (Insulin Icodec)**: World's first **once-weekly basal insulin** analog in India (slashing injections from 365 daily to 52 weekly).
+- **Rajputana Broadsheet Portal Synchronization**:
+  - Recompiled `current_affairs_hub.html` and `index.html` via `build_all.js`.
+  - Total verified news clusters across the entire broadsheet portal expanded from **589 to 603 items**.
+  - Strict invariants verified: **0 heading anchor hashes**, **0 interactive checkboxes**, and **100% LaTeX math dollar escaping**.
+
 ## 🚀 [v2.4] — 2026-09-15
+
 
 ### 🏛️ Static Banking & Regulatory Foundations (Section 0) & 136-Cluster Strike Dossier
 - **Dedicated High-Yield Matrix (`static_banking_regulatory_core.md`) & Section 0 Master Integration**:
