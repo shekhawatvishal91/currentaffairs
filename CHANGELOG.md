@@ -2,6 +2,24 @@
 
 All notable changes to the Current Affairs Dossier repository and Rajputana Gazette Broadsheet System are documented here.
 
+## 🚀 [v2.8] — 2026-09-17
+
+### 📖 Maximized Reading Screen Estate: Non-Sticky Header with Sticky Top Navbar & Jump-to-Top
+- **Unobtrusive Masthead with 100% Vertical Reading Immersion (Direct User Request)**:
+  - Transformed `.portal-header` from sticky to `position: relative`, allowing the masthead and month selector bar to scroll naturally out of view as the user reads down the page.
+  - Eliminates vertical clutter and reclaims ~150px of prime screen estate for content reading.
+- **Sticky Top-Aligned Left Sections Navbar**:
+  - Re-anchored `.portal-left-nav` to `position: sticky; top: 20px; max-height: calc(100vh - 40px);`.
+  - As the reader scrolls through long dossiers, the left navbar cleanly pins to the top of the viewport, keeping the section directory, section filter, and section count accessible at all times.
+- **Instant "↑ Top" Jump in Navbar**:
+  - Added an elegant `↑ Top` button directly inside the sticky left navbar header (`.left-nav-header`), enabling 1-click smooth jump back to the masthead and month switcher from anywhere in the document stream.
+- **Refined Scroll Margins & ScrollSpy Sensitivity**:
+  - Adjusted `scroll-margin-top` on `.gazette-section-block`, `.gazette-section-heading`, and `.gazette-news-cluster` from 165px to 24px, matching the new natural reading flow.
+  - Calibrated the ScrollSpy trigger offset (`window.scrollY + 80`) for seamless, real-time section active highlighting during reading.
+- **Strict Invariant Enforcement**:
+  - Verified 100% preservation of all **610 clusters** across 8 monthly dossiers (September: 55, August: 133, July: 44, June: 61, May: 35, April: 55, Q1: 91, IBPS Master: 136).
+  - Strictly 0 `<input type="checkbox">` elements, 0 heading hashes (`#`).
+
 ## 🚀 [v2.7] — 2026-09-17
 
 ### 🏛️ Streamlined Intelligence Architecture: Persistent Left Sections Navbar + Centre Full-Scroll Stream

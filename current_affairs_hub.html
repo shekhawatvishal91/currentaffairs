@@ -221,10 +221,7 @@ code.hljs {
       background-color: var(--paper);
       border-bottom: 2.5px solid var(--ink);
       padding: 18px 24px 0 24px;
-      position: sticky;
-      top: 0;
-      z-index: 1000;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+      position: relative;
     }
 
     .masthead-container {
@@ -400,8 +397,8 @@ code.hljs {
       width: var(--left-nav-width);
       flex-shrink: 0;
       position: sticky;
-      top: 155px; /* Sits cleanly below sticky masthead */
-      max-height: calc(100vh - 175px);
+      top: 20px;
+      max-height: calc(100vh - 40px);
       background: #ffffff;
       border: 1px solid var(--rule);
       border-radius: 4px;
@@ -441,6 +438,29 @@ code.hljs {
       background: rgba(0,0,0,0.05);
       padding: 1px 5px;
       border-radius: 2px;
+    }
+
+    .left-nav-top-btn {
+      background: #ffffff;
+      border: 1px solid var(--rule);
+      color: var(--muted);
+      font-family: var(--font-ui);
+      font-size: 10px;
+      font-weight: 700;
+      padding: 2px 7px;
+      border-radius: 3px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 3px;
+      transition: all 0.12s ease;
+      text-decoration: none;
+    }
+
+    .left-nav-top-btn:hover {
+      background: var(--ink);
+      color: #ffffff;
+      border-color: var(--ink);
     }
 
     .left-nav-search-wrap {
@@ -532,7 +552,7 @@ code.hljs {
     /* Section Headings */
     .gazette-section-block {
       margin-bottom: 36px;
-      scroll-margin-top: 165px;
+      scroll-margin-top: 24px;
     }
 
     .gazette-section-heading {
@@ -546,7 +566,7 @@ code.hljs {
       border-bottom: 2px solid var(--ink);
       padding-bottom: 6px;
       text-transform: uppercase;
-      scroll-margin-top: 165px;
+      scroll-margin-top: 24px;
     }
 
     /* Single-Column Clusters Stream */
@@ -569,7 +589,7 @@ code.hljs {
       box-sizing: border-box;
       width: 100%;
       box-shadow: 0 1px 3px rgba(0,0,0,0.03);
-      scroll-margin-top: 165px;
+      scroll-margin-top: 24px;
       transition: border-color 0.15s ease, box-shadow 0.15s ease;
     }
 
@@ -1214,7 +1234,10 @@ code.hljs {
           <span>🏛️</span>
           <span>SECTIONS</span>
         </span>
-        <span class="left-nav-badge" id="leftNavCount">0 Sections</span>
+        <div style="display: flex; align-items: center; gap: 6px;">
+          <button class="left-nav-top-btn" onclick="window.scrollTo({top: 0, behavior: 'smooth'})" title="Jump to top / Masthead">↑ Top</button>
+          <span class="left-nav-badge" id="leftNavCount">0 Sections</span>
+        </div>
       </div>
 
       <div class="left-nav-search-wrap">
@@ -24848,7 +24871,7 @@ code.hljs {
     // ScrollSpy to highlight active section in left navbar as user scrolls
     window.addEventListener('scroll', () => {
       const sections = monthSections[activeMonthId] || [];
-      const scrollPos = window.scrollY + 180;
+      const scrollPos = window.scrollY + 80;
 
       for (let i = sections.length - 1; i >= 0; i--) {
         const sec = sections[i];
