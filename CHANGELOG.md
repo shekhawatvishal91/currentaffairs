@@ -2,6 +2,23 @@
 
 All notable changes to the Current Affairs Dossier repository and Rajputana Gazette Broadsheet System are documented here.
 
+## 🚀 [v2.10] — 2026-09-17
+
+### ☀️ International Solar Alliance (ISA) Institutional Static & 2026 Multilateral Status Cluster
+- **Curated IBPS Mains Delta Injection (`IBPS_MAINS_35PLUS_MASTER_JAN_SEPT.md`)**:
+  - Inserted comprehensive static and current regulatory cluster on the **International Solar Alliance (ISA)** under Section 0 (`🏛️ MASTER STATIC BANKING & REGULATORY FOUNDATIONS`).
+  - **Treaty Origin & Paris Agreement**: COP21 Paris launch on 30 Nov 2015 by India and France; entered into force 6 Dec 2017.
+  - **Headquarters**: National Institute of Solar Energy (NISE) campus in Gurugram, Haryana — India's first treaty-based intergovernmental organization headquarters.
+  - **Leadership & Governance**: India holds the Presidency ex-officio; France holds the Co-Presidency; Director General Dr. Ajay Mathur.
+  - **Membership & Multilateral Shifts**: Universal UN membership amendment (125 member states); recent 2025–2026 accessions by Moldova, Malta, and Angola; official US withdrawal notice submitted January 7, 2026.
+  - **Flagship Goals**: "Towards 1000" strategy ($1,000B investment, 1,000M people, 1,000 GW solar, 1,000M tonnes CO2 reduction by 2030) and OSOWOG initiative.
+  - **Dedicated Exam Angle Box**: Highlights HQ trap (Gurugram, not Delhi/Geneva), founding duo, UN membership rule, and target MCQs.
+- **Dossier & Portal Invariant Verification**:
+  - IBPS Master Dossier cluster count increased from 136 to **137**.
+  - Total rendered clusters across all 8 monthly dossiers increased from 610 to **611** (September: 55, August: 133, July: 44, June: 61, May: 35, April: 55, Q1: 91, IBPS Master: 137).
+  - Preserved exactly 70 sections across all 8 dossiers.
+  - Invariants maintained: 0 checkboxes, 0 heading hashes (`#`), clean broadsheet styling.
+
 ## 🚀 [v2.9] — 2026-09-17
 
 ### 🧭 Functional News Item Stepping Engine & Refined Visual Contrast Hierarchy

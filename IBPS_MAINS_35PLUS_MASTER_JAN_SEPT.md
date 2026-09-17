@@ -105,6 +105,32 @@
 
 ---
 
+📰 **International Solar Alliance (ISA): Institutional Framework, Treaty Architecture & 2026 Multilateral Status**
+- **Genesis & Paris Treaty Origin**: Conceived as a joint global initiative by India and France; formally launched on **30 November 2015 at COP21 in Paris** by Prime Minister Narendra Modi and French President François Hollande; entered into force on **6 December 2017** as a treaty-based intergovernmental organization.
+- **Headquarters & Secretariat**: Headquartered at the **National Institute of Solar Energy (NISE) campus in Gurugram, Haryana, India** — notably the **first international treaty-based intergovernmental organization headquartered in India**.
+- **Institutional Governance & Leadership**:
+  - **President**: **India** (held ex-officio by the Union Minister of New and Renewable Energy).
+  - **Co-President**: **France** (represented by the French Minister for Ecological Transition).
+  - **Director General**: Dr. Ajay Mathur (leads the international secretariat in Gurugram).
+- **Membership Evolution & 2026 Status**:
+  - **Scope Expansion**: Originally restricted to 121 "Sunshine Countries" situated entirely or partially between the Tropic of Cancer and Tropic of Capricorn; amended in 2020 to open membership to **all 193 United Nations member states**.
+  - **Signatory & Member Tally**: **125 member countries** have formally ratified/joined the Framework Agreement.
+  - **Recent 2025–2026 Accessions**: **Moldova, Malta, and Angola** recently completed full accession instruments.
+  - **Major Geopolitical Shift (US Withdrawal)**: United States issued formal notice of withdrawal from 66 international organizations including the ISA on **January 7, 2026**.
+- **Flagship Global Programs & Targets**:
+  - **"Towards 1000" Strategy**: Mobilize **$1,000 Billion** (US$1 Trillion) of solar investment by **2030**; provide clean energy access to **1,000 Million people**; install **1,000 GW** of solar capacity; mitigate **1,000 Million tonnes of CO2** emissions annually.
+  - **OSOWOG (One Sun One World One Grid)**: Transnational interconnected solar electricity grid initiative spearheaded by India to transfer solar power across time zones.
+
+🎯 Exam Angle →
+
+- The HQ Trap: ISA headquarters is located in **Gurugram, Haryana** (NOT New Delhi, Geneva, or Paris). It is the FIRST international treaty-based organization headquartered in India.
+- Founding Year & Summit: COP21 Paris in **2015** (came into force December 2017).
+- Founding Duo: **India and France** (President = India, Co-President = France).
+- Membership Rule: Originally "Sunshine Countries" (between Tropics); amended to allow **ALL UN member states**. Current tally: **125 member states**.
+- Target MCQ: 'Where is the global headquarters of the International Solar Alliance (ISA) situated?' → **Gurugram, Haryana, India**.
+
+---
+
 📰 **Basel III Regulatory Architecture, Balance Sheet Ratios & Delinquency Timeline**
 - **Basel III Regulatory Capital Framework**:
   - Developed by the Basel Committee on Banking Supervision (BCBS) headquartered at BIS in Basel, Switzerland, in response to the 2008 Lehman Brothers liquidity collapse.
