@@ -2,6 +2,23 @@
 
 All notable changes to the Current Affairs Dossier repository and Rajputana Gazette Broadsheet System are documented here.
 
+## 🚀 [v2.9] — 2026-09-17
+
+### 🧭 Functional News Item Stepping Engine & Refined Visual Contrast Hierarchy
+- **Functional Right Arrow & Sequential Item Navigation (Direct User Request)**:
+  - **Keyboard Right Arrow (`ArrowRight` / `N` / `L`)**: Instantly advances from the currently viewed news item to the next (e.g. Item 5 → 6 → 7).
+  - **Keyboard Left Arrow (`ArrowLeft` / `P` / `H`)**: Seamlessly steps back to previous news items (e.g. Item 6 → 5 → 4).
+  - **Auto-Sync Reading Eyeline**: Natural mouse wheel scrolling automatically detects whichever news item is closest to the reader's viewport eye line, ensuring that pressing the Right Arrow key always advances from whatever dispatch you are currently reading.
+  - **Smooth Positioning & Glow**: Stepping smoothly aligns the target item with comfortable breathing space and pulses with an authoritative terracotta highlight.
+  - **Cluster Header Steppers**: Every news cluster card header now features dedicated `‹` and `›` arrow buttons adjacent to `№ X`, enabling single-click mouse stepping.
+  - **Floating Reader Stepper HUD (Bottom Center)**: Persistent pill docked cleanly at the bottom viewport showing `Dispatch № X of Y`, with `[ ← Prev ]`, `[ Next → ]`, and a 1-click mode switcher `[ 📑 All Scroll / 📄 Single Item ]` (hotkey <kbd>V</kbd>).
+- **Lighter Navbar in Shade and Color (Direct User Request)**:
+  - **Delicate Secondary Rail**: Left Sections Navbar restyled with an airy, ultra-light ivory tint (`#faf8f5`), softer borders (`#e7e2d7`), delicate header wash (`#f4efe6`), and lighter slate text (`#635b52`), allowing it to quietly recede into the side.
+  - **High-Contrast Foreground Hero**: Front centre content given crisp, pure white cards (`#ffffff`), solid 1.5px structural borders (`#cfc7b8`), and deep black ink typography (`#141210`), establishing an immediate, effortless visual hierarchy between navigation and reading content.
+- **Strict Invariant Enforcement**:
+  - Exactly **610 clusters** verified and preserved across all 8 dossiers.
+  - Strictly 0 `<input type="checkbox">` elements, 0 heading hashes (`#`).
+
 ## 🚀 [v2.8] — 2026-09-17
 
 ### 📖 Maximized Reading Screen Estate: Non-Sticky Header with Sticky Top Navbar & Jump-to-Top
