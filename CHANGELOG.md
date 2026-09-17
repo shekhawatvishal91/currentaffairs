@@ -2,7 +2,34 @@
 
 All notable changes to the Current Affairs Dossier repository and Rajputana Gazette Broadsheet System are documented here.
 
-## 🚀 [v2.5] — 2026-09-16
+## 🚀 [v2.6] — 2026-09-17
+
+### 🏛️ Portal Architecture Overhaul: Executive Split-Deck Dossier Deployment (Option 5)
+- **Elimination of Fatiguing 2-Column Grid Across All 8 Monthly Dossiers**:
+  - Successfully redesigned and deployed the user-approved **Option 5 (Executive Split-Deck)** reading architecture across the live Command Center portal (`current_affairs_hub.html` and `index.html`).
+  - Completely replaced the rigid, eye-straining 2-column newspaper grid with an uncluttered, high-contrast, dual-pane intelligence deck designed for rapid exam revision and deep focus.
+- **Left Master Rail (Command & Discovery)**:
+  - **Live Search Filtering**: Instant fuzzy filtering as you type across headlines, summary anchors, and kickers (hotkeys: <kbd>/</kbd> or <kbd>Ctrl+K</kbd> to focus, <kbd>Esc</kbd> to clear).
+  - **Dynamic Category Filter Pills**: Auto-tallied category badges per month (`All`, `RBI & Banking`, `SEBI & Markets`, `Economy & Tax`, `Policy & Accords`, `Science & Tech`, `Defence & Security`, `Indices & Ratings`, `Global`).
+  - **Compact Dispatch Cards**: High-yield card stack displaying category kickers, lead badges, crisp 2-line headlines, and 1-line key anchor summaries (e.g. *Cap <15% • 66 working days • ISIN lock*).
+  - **Keyboard Hints & Counter**: Live status bar with keyboard guidance (<kbd>J</kbd>/<kbd>K</kbd>, <kbd>↑</kbd>/<kbd>↓</kbd>) and dispatch counter (`X / Y Dispatches`).
+- **Right Focus Reading Canvas (Tri-Drawer Architecture)**:
+  - **Authoritative Headline Bar**: Clean serif typography (`Georgia`/`Cambria`), prominent category kicker, lead dispatch badge, and dispatch index number.
+  - **Drawer 1: Core Regulatory Directives & Quantitative Parameters**: Collapsible drawer housing the primary operational directives, numerical anchors, interest rates, capital thresholds, and statutory timelines.
+  - **Drawer 2: Statutory Architecture, Governance & Safeguards**: Collapsible drawer dedicated to governing Acts, statutory sections, committee panels, penal provisions, and supervisory mechanisms (smoothly omitted when a dispatch has no secondary clauses).
+  - **Drawer 3: 🎯 Exam Angle Flashcard & Distractor Traps**: Authentic sandstone review card (`--wash` `#f3efe6` with terracotta border) highlighting high-yield exam traps, MCQ distractors, and key memory hooks.
+- **Universal Keyboard Controls & Reading Focus Mode**:
+  - <kbd>J</kbd> / <kbd>↓</kbd>: Instant next dispatch navigation.
+  - <kbd>K</kbd> / <kbd>↑</kbd>: Instant previous dispatch navigation.
+  - <kbd>E</kbd>: 1-click toggle to Expand / Collapse all drawers simultaneously.
+  - <kbd>F</kbd>: Distraction-free Reading Focus Mode (expands reading canvas, collapses rails and masthead, floating <kbd>Esc</kbd> exit).
+  - Seamless jump from Metric Cards and Chrono-Map Timeline milestones into the Split-Deck with an animated pulse highlight.
+- **Invariant Audit & Fact Discipline**:
+  - **Total News Clusters**: Exactly **610 verified clusters** preserved across all 8 monthly dossiers (September: 55, August: 133, July: 44, June: 61, May: 35, April: 55, Q1: 91, IBPS Master: 136).
+  - **Zero Checkboxes**: Strictly 0 `<input type="checkbox">` elements.
+  - **Zero Heading Hashes**: Strictly 0 `#` characters inside heading tags.
+  - **No Gimmicks**: Gimmicky blur filters ("Recall Mode") and volatile checkboxes ("Mark as Studied") completely eliminated.
+
 
 ### 💎 July 2026 Dossier Comprehensive Enrichment (+14 Clusters) & Broadsheet Synchronization
 - **Major July Expansion from 5 Weekly Ingestion Streams (`current_affairs_2026_july.md`)**:
