@@ -2,7 +2,29 @@
 
 All notable changes to the Current Affairs Dossier repository and Rajputana Gazette Broadsheet System are documented here.
 
-## 🚀 [v2.6] — 2026-09-17
+## 🚀 [v2.7] — 2026-09-17
+
+### 🏛️ Streamlined Intelligence Architecture: Persistent Left Sections Navbar + Centre Full-Scroll Stream
+- **Dual-Pane Streamlined Reading Experience (Direct User Directive Implementation)**:
+  - Deployed a clean, intuitive layout: a **persistent, sticky Left Sections Navbar** paired with a **single-column, full-scroll reading stream in the centre**.
+  - Completely removed the 2-column newspaper grid (`.gazette-clusters-grid`), eliminating horizontal eye strain and column jumping.
+- **Persistent Left Sections Navbar**:
+  - Docked permanently on the left (`position: sticky`, width: 290px), displaying the full Table of Contents / sections directory for the active month.
+  - **Live Section Search**: Real-time filtering input (`Filter sections... [/]`) to quickly find any section.
+  - **ScrollSpy Active Highlighting**: Automatically detects scroll position and highlights the section currently in view.
+  - **1-Click Smooth Jump**: Clicking any section link smoothly scrolls the centre reading column directly to that section header.
+- **Centre Full-Scroll Reading Stream**:
+  - Single, generous, high-legibility reading column (`max-width: 960px`) where all content flows naturally from top to bottom.
+  - Houses the High-Frequency Metric Strip, Chrono-Map Timelines, and every news cluster in a single vertical stream (`.gazette-clusters-stream`).
+  - **Full-Width News Cluster Cards**: Authoritative headline, prominent category kicker, dispatch index number (`№ X`), and lead badge (`⭐ LEAD DISPATCH`).
+  - **Dedicated Sandstone Exam Angle Inset**: `.gazette-exam-box` with warm sandstone background (`#f3efe6` / `--wash`), terracotta left border (`#b43b1e`), high-yield takeaways, and MCQ distractor alerts.
+  - Clicking any Metric Card or Timeline Milestone smoothly scrolls to that cluster and highlights it with an animated terracotta pulse.
+- **Strict Invariant Verification**:
+  - **Clusters Preserved**: Exactly **610 clusters** across all 8 monthly dossiers (September: 55, August: 133, July: 44, June: 61, May: 35, April: 55, Q1: 91, IBPS Master: 136).
+  - **Sections Total**: 70 structured sections across all 8 months.
+  - **Checkboxes**: Strictly 0.
+  - **Heading Anchor Hashes**: Strictly 0.
+  - **No Gimmicks**: Clean, distraction-free reading without blur filters or volatile checkboxes.
 
 ### 🏛️ Portal Architecture Overhaul: Executive Split-Deck Dossier Deployment (Option 5)
 - **Elimination of Fatiguing 2-Column Grid Across All 8 Monthly Dossiers**:
