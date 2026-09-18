@@ -2,6 +2,25 @@
 
 All notable changes to the Current Affairs Dossier repository and Rajputana Gazette Broadsheet System are documented here.
 
+## 🚀 [v2.14] — 2026-09-18
+
+### 🏦 Adda247 "General Awareness Complete Series 2026" Audit & Banking Awareness Master Ingestion
+- **Full Playlist Audit (12 Videos — "General Awareness Complete Series 2026" by Adda247 Banking Exams / Ashish Gautam)**:
+  - Systematically evaluated all 12 videos across daily classes (Classes 1–7) and rapid-fire marathon revisions (May–June 200 MCQs, July 100 MCQs, August 100 MCQs, Best 100 Revision MCQs).
+  - Confirmed 100% loss-free coverage of monthly current affairs events across existing dossiers.
+  - Extracted critical missing banking schemes and regulatory frameworks tested across SBI Clerk & IBPS PO/Clerk Mains.
+- **IBPS Master Dossier Ingestion (`IBPS_MAINS_35PLUS_MASTER_JAN_SEPT.md`)**:
+  - **1. Cheque Truncation System (CTS) & Positive Pay System (PPS)** *(Section 3)*: Transition from batch T+1/T+2 clearing to continuous clearing within a few hours; NPCI Positive Pay System (PPS) details (voluntary at ₹50,000+, mandatory at ₹5,00,000+; CTS dispute redressal requirement).
+  - **2. Pradhan Mantri MUDRA Yojana (PMMY) & New 'Tarun Plus' ₹20 Lakh Tier** *(Section 5)*: Detailed 4-slab breakdown: Shishu (≤₹50k), Kishore (₹50k–₹5L), Tarun (₹5L–₹10L), and the new **Tarun Plus (₹10L–₹20L)** for repeat borrowers with proven credit track records; CGFMU / NCGTC credit guarantee.
+  - **3. Stand-Up India Scheme (SUI)** *(Section 5)*: SC/ST and Women greenfield entrepreneurship; ₹10 Lakh to ₹100 Lakh (₹1 Crore); mandatory 2 loans per bank branch; margin money up to 15%; 7-year repayment with 18 months moratorium; CGFSI / NCGTC backed.
+  - **4. Strike Grid 5 Expansion (Static Banking & Financial Regulatory Anchors)** *(Section 10)*: Added DICGC Deposit Insurance (₹5L cap, 12 paise/₹100 premium, Sec 18A 90-day payout rule); Payment Systems Windows & Limits (RTGS min ₹2L 24x7x365, NEFT no floor, IMPS ₹5L/day, UPI limits); Priority Sector Lending (PSL) complete targets matrix (40% SCBs, 75% RRBs/SFBs/UCBs, 18% Agri, 10% SMF, 7.5% Micro, 12% Weaker Sections).
+  - **5. New Strike Grid 6 (Flagship Social Security & Financial Inclusion Schemes Matrix)** *(Section 10)*: Full cross-cutting comparative table comparing PMJJBY, PMSBY, APY, PMJDY, PMMY, Stand-Up India, PM SVANidhi, and PM Vishwakarma across age brackets, premiums, loan limits, and nodal agencies.
+- **Portal & Invariant Verification**:
+  - IBPS Master Dossier clusters increased from 145 to **148 clusters** (+3).
+  - Total rendered clusters across all 8 monthly dossiers elevated from 626 to **629 clusters** (+3).
+  - Exact 70 sections preserved across all dossiers.
+  - Invariants strictly validated: 0 checkboxes, 0 heading hashes (`#`), clean broadsheet typography.
+
 ## 🚀 [v2.13] — 2026-09-18
 
 ### 🏛️ PIB 2026 Playlist Audit, EPFO Statutory Wage Ceiling Hike & Macro Base Year Matrix

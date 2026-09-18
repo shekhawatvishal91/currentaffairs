@@ -1154,9 +1154,27 @@
 - Weekly Expiries: Limited to **one benchmark index per exchange** per week.
 - Target MCQ Form: "What is the proposed revised minimum contract value for equity index derivatives recommended by SEBI's expert working group?" → ₹15 Lakh to ₹20 Lakh.
 
-
 ---
 
+📰 **Cheque Truncation System (CTS): Continuous Clearing Transition & Positive Pay System (PPS) Architecture**
+- **Continuous Clearing Paradigm Shift**: Reserve Bank of India (**RBI**) initiated the transition of the Cheque Truncation System (**CTS**) from legacy batch-based clearing (processing cycles taking up to two business days, T+1/T+2) to **continuous clearing with 'on-realisation-settlement'** during standard banking hours.
+- **Speed & Settlement Speed**: Cheques will be scanned, presented, and settled within **a few hours** of lodgement, dramatically compressing the settlement cycle and mitigating counterparty float risk.
+- **Positive Pay System (PPS) Regulatory Framework**:
+  - Developed by the National Payments Corporation of India (**NPCI**) under Section 10(2) read with Section 18 of the *Payment and Settlement Systems Act, 2007*.
+  - **Verification Mechanism**: The drawer electronically re-confirms key cheque details—cheque number, cheque date, payee name, and amount—via SMS, mobile banking, internet banking, or ATM before physical presentation.
+  - **Statutory Thresholds**:
+    - **Voluntary Tier**: Available for all cheques valued at **₹50,000 and above**.
+    - **Mandatory Discretion**: Banks are empowered to make PPS mandatory for high-value cheques of **₹5,00,000 and above**.
+  - **Dispute Redressal Firewall**: Only cheques verified and compliant with PPS guidelines are eligible for dispute resolution under the CTS grievance and dispute mechanism; non-PPS cheques forfeit CTS dispute redressal rights.
+
+🎯 Exam Angle →
+- Continuous Clearing Horizon: Settlement compressed from two business days (T+1/T+2) to **within a few hours**.
+- Positive Pay Thresholds: Voluntary at **₹50,000 and above**; Banks can mandate at **₹5,00,000 and above**.
+- Developing Agency: Positive Pay System was developed by **NPCI** (not RBI or CCIL).
+- Dispute Clause: Only PPS-compliant cheques are admissible under the **CTS dispute resolution mechanism**.
+- Target MCQ Form: "Under the RBI Positive Pay System (PPS) guidelines, at what cheque value threshold are banks permitted to make confirmation mandatory?" → ₹5,00,000 and above.
+
+---
 
 ## 4. 📊 UNION BUDGET, MACROECONOMIC INDICATORS & TAXATION
 
@@ -1695,6 +1713,54 @@
 - Target MCQ Form: "What is the revised statutory wage ceiling approved by the Union Cabinet for mandatory coverage under EPFO in September 2026?" → ₹25,000 per month.
 
 ---
+
+📰 **Pradhan Mantri MUDRA Yojana (PMMY) & The New 'Tarun Plus' ₹20 Lakh Tier**
+- **Genesis & Institutional Architecture**: Launched on **April 8, 2015**, under the Ministry of Finance to provide formal institutional credit to non-corporate, non-farm micro and small enterprises.
+- **The 4 Statutory Loan Categories**:
+  - **Shishu**: Covering loans up to **₹50,000** (initial seed capital for micro-vendors and solo entrepreneurs).
+  - **Kishore**: Covering loans above **₹50,000 and up to ₹5,00,000** (equipment purchase and working capital).
+  - **Tarun**: Covering loans above **₹5,00,000 and up to ₹10,00,000** (business expansion and modernization).
+  - **NEW — Tarun Plus**: Union Budget introduced an enhanced tier elevating the credit ceiling to **₹20,00,000 (₹20 Lakh)** specifically for entrepreneurs who have successfully availed and repaid previous loans under the Tarun category.
+- **Collateral-Free Guarantee Mechanism**:
+  - No collateral security or third-party guarantee is required for loans under PMMY.
+  - Credit guarantee coverage provided through the **Credit Guarantee Fund for Micro Units (CGFMU)** managed by the National Credit Guarantee Trustee Company (**NCGTC**).
+  - Processing charges and upfront fees are completely waived for Shishu category loans.
+
+🎯 Exam Angle →
+- Launch Date: **April 8, 2015**.
+- Original Maximum Cap: **₹10 Lakh** (Tarun).
+- New 'Tarun Plus' Ceiling: **₹20 Lakh** for repeat borrowers with disciplined repayment history.
+- The 4 Slabs: Shishu (≤₹50k), Kishore (₹50k–₹5L), Tarun (₹5L–₹10L), Tarun Plus (₹10L–₹20L).
+- Guarantee Agency: **NCGTC / CGFMU** (not DICGC or CGTMSE).
+- Target MCQ Form: "What is the enhanced loan limit approved under the new 'Tarun Plus' category of Pradhan Mantri MUDRA Yojana (PMMY) for repeat borrowers?" → ₹20 Lakh.
+
+---
+
+📰 **Stand-Up India Scheme (SUI): Credit Guarantee & Greenfield Entrepreneurship Architecture**
+- **Statutory Mandate & Vision**: Launched on **April 5, 2016** (extended through **2025/2026**), administered by the Department of Financial Services (**DFS**), Ministry of Finance, to promote entrepreneurship at the grassroots level.
+- **Mandatory Bank Branch Target**: Mandates **every scheduled commercial bank branch** in India to facilitate at least **two loans**:
+  1. At least **one Scheduled Caste (SC) or Scheduled Tribe (ST) borrower**.
+  2. At least **one Woman borrower**.
+- **Credit Quantum & Enterprise Nature**:
+  - Offers composite loans (including term loan and working capital) between **₹10 Lakh and up to ₹100 Lakh (₹1 Crore)**.
+  - Exclusively for setting up **greenfield enterprises** (first-time venture) in manufacturing, services, agri-allied activities, or the trading sector.
+  - In non-individual enterprises, at least **51% of shareholding and controlling stake** must be held by either an SC/ST or woman entrepreneur.
+- **Margin Money & Repayment Horizon**:
+  - Margin money requirement rationalized to **up to 15%** (which can be converged with eligible central/state subsidies; borrower must provide minimum 10% own contribution).
+  - Repayable over a period of **7 years** with a maximum moratorium period of **18 months**.
+  - Credit guarantee backed by the **Credit Guarantee Fund for Stand Up India (CGFSI)** operated by NCGTC.
+
+🎯 Exam Angle →
+- Target Borrowers: Strictly **SC, ST, and Women entrepreneurs**.
+- Branch Mandate: At least **one SC/ST and one woman borrower per bank branch**.
+- Loan Range: **₹10 Lakh to ₹100 Lakh (₹1 Crore)**.
+- Margin Money Cap: **Up to 15%** (minimum 10% borrower contribution).
+- Enterprise Condition: Strictly **greenfield** (new) enterprises only.
+- Repayment Term: **7 years** with up to **18 months moratorium**.
+- Target MCQ Form: "What is the loan quantum eligible under the Stand-Up India Scheme for SC/ST and Women entrepreneurs?" → ₹10 Lakh to ₹1 Crore.
+
+---
+
 
 ## 6. ⚡ SOVEREIGN INDUSTRIAL MISSIONS, DEEP-TECH & GREEN ENERGY
 
@@ -2515,3 +2581,22 @@
 | **Prompt Corrective Action (PCA) Framework** | RBI Master Direction on PCA for Scheduled Commercial Banks | **Three Trigger Parameters**: 1. **Capital (CRAR / CET1)**, 2. **Asset Quality (Net NPA Ratio >6.0%)**, 3. **Leverage (Tier 1 Leverage Ratio)** | • Return on Assets (RoA) was removed as a PCA trigger.<br>• NBFCs are also covered under a dedicated PCA framework (effective Oct 2022). |
 | **Money Market Tenures** | RBI Master Direction — Money Market Instruments | • **Call Money**: Overnight (1 Day)<br>• **Notice Money**: **2 Days to 14 Days**<br>• **Term Money**: **15 Days to 1 Year** | • Trap: Notice Money is 2 to 14 days (examiners frequently test notice money upper limit = 14 days). |
 | **Lead Bank Scheme** | Gadgil Study Group (1969) & Nariman Committee (1969) | • District Credit Plans (DCP)<br>• **Target Credit-Deposit (CD) Ratio: 60%** | • Recommended by Nariman Committee.<br>• Monitored at district level by Lead District Manager (LDM) and DLCC. |
+| **DICGC Deposit Insurance** | Deposit Insurance and Credit Guarantee Corporation Act, 1961 | • **Statutory Coverage**: **₹5,00,000 (₹5 Lakh)** per depositor per bank (Principal + Interest combined across all branches)<br>• **Premium**: **12 paise per ₹100** deposit per annum (borne 100% by the bank)<br>• **Section 18A Payout**: 90-day interim payout rule (45 days for bank claim compilation + 45 days for DICGC disbursement) | • Covers Commercial, RRB, Local Area, and Cooperative Banks.<br>• Excludes foreign government deposits, central/state government deposits, and inter-bank deposits.<br>• Trap: ₹5 Lakh limit applies per bank, not per branch or account. |
+| **Payment Systems Windows & Limits** | Payment and Settlement Systems Act, 2007 (PSS Act) | • **RTGS**: Minimum **₹2,00,000 (₹2 Lakh)**; No maximum limit; 24x7x365<br>• **NEFT**: Minimum **₹1**; No maximum limit; 24x7x365 (half-hourly batches)<br>• **IMPS**: Capped at **₹5,00,000 (₹5 Lakh)** per day<br>• **UPI**: Standard **₹1,00,000**; **₹5,00,000** for Hospital/Educational/Tax/IPO/RBI Retail Direct | • RTGS minimum floor is ₹2 Lakh (NEFT has no minimum floor).<br>• IMPS daily cap is ₹5 Lakh.<br>• Tax payments via UPI elevated to ₹5 Lakh in 2024. |
+| **Priority Sector Lending (PSL) Targets** | RBI Master Directions — Priority Sector Lending (PSL) | • **Total PSL Target**: **40% of ANBC** for Scheduled Commercial Banks & Foreign Banks (≥20 branches)<br>• **RRBs & Small Finance Banks (SFBs)**: **75% of ANBC**<br>• **Urban Co-operative Banks (UCBs)**: Glide path to **75% of ANBC by March 31, 2026**<br>• **Sub-Targets**: Agriculture = **18%** (Small & Marginal Farmers = **10%**); Micro Enterprises = **7.5%**; Weaker Sections = **12%** | • Foreign banks with <20 branches have 40% PSL target, out of which up to 32% can be in exports.<br>• UCB target moves to 75% by March 31, 2026. |
+| **Cheque Truncation & Positive Pay (PPS)** | Negotiable Instruments Act, 1881 & PSS Act, 2007 | • **CTS Clearing**: Transition to continuous clearing within a few hours<br>• **PPS Thresholds**: Voluntary at **₹50,000+**; Mandatory at banks' discretion at **₹5,00,000+** | • Developed by NPCI.<br>• Only PPS-compliant cheques are admissible under CTS dispute mechanism. |
+
+---
+
+### 🏛️ Strike Grid 6: Flagship Social Security & Financial Inclusion Schemes Matrix
+
+| Scheme | Launch Date & Ministry | Eligibility Age & Beneficiary | Financial Assistance / Loan Slab | Premium / Contribution / Moratorium | Nodal / Guarantee Agency |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **PMJJBY** (Pradhan Mantri Jeevan Jyoti Bima Yojana) | **May 9, 2015**<br>Ministry of Finance | **18 to 50 years** (life cover up to age 55)<br>Bank account holders | **₹2,00,000 (₹2 Lakh)** life insurance cover for death due to any cause | **₹436 per annum** (auto-debited from bank account in single installment) | LIC & empanelled life insurers |
+| **PMSBY** (Pradhan Mantri Suraksha Bima Yojana) | **May 9, 2015**<br>Ministry of Finance | **18 to 70 years**<br>Bank account holders | • **₹2,00,000** for accidental death or permanent total disability<br>• **₹1,00,000** for permanent partial disability | **₹20 per annum** (auto-debited in single installment before May 31) | Public General Insurance Companies (PSGICs) |
+| **APY** (Atal Pension Yojana) | **May 9, 2015**<br>Ministry of Finance | **18 to 40 years**<br>All bank account holders (*Income taxpayers excluded since Oct 1, 2022*) | Guaranteed minimum monthly pension: **₹1,000, ₹2,000, ₹3,000, ₹4,000, or ₹5,000** starting at **age 60** | Age-based monthly contribution (lowest: ₹42/mo for ₹1k at age 18; highest: ₹1,454/mo for ₹5k at age 40) | PFRDA (administered through NPS architecture) |
+| **PMJDY** (Pradhan Mantri Jan Dhan Yojana) | **August 28, 2014**<br>Ministry of Finance | Any Indian citizen aged **10 years and above** | • Zero-balance basic savings account<br>• **₹2,00,000** free RuPay accidental cover (for post-28 Aug 2018 accounts)<br>• **₹10,000** Overdraft (OD) facility | No minimum balance requirement; OD up to ₹2,000 without conditions (age 18–65) | Department of Financial Services (DFS), MoF |
+| **PMMY** (Pradhan Mantri MUDRA Yojana) | **April 8, 2015**<br>Ministry of Finance | Non-corporate, non-farm small/micro enterprises | • **Shishu**: Up to **₹50,000**<br>• **Kishore**: **₹50,000 to ₹5,00,000**<br>• **Tarun**: **₹5,00,000 to ₹10,00,000**<br>• **Tarun Plus**: **₹10,00,000 to ₹20,00,000** | Zero collateral; processing fee waived for Shishu; interest linked to RBI benchmark/MCLR | Credit Guarantee Fund for Micro Units (CGFMU) / NCGTC |
+| **Stand-Up India Scheme** (SUI) | **April 5, 2016**<br>Ministry of Finance | **SC, ST, and Women entrepreneurs** (greenfield enterprise) | Composite loan: **₹10 Lakh to ₹100 Lakh (₹1 Crore)** | Repayable in **7 years** with up to **18 months moratorium**; margin money up to **15%** | Credit Guarantee Fund for Stand Up India (CGFSI) / NCGTC |
+| **PM SVANidhi** (PM Street Vendor's AtmaNirbhar Nidhi) | **June 1, 2020**<br>MoHUA | Urban street vendors vending on or before March 24, 2020 | • **1st Tranche**: Up to **₹10,000** (1-year term)<br>• **2nd Tranche**: Up to **₹20,000**<br>• **3rd Tranche**: Up to **₹50,000** | **7% interest subsidy** credited quarterly via DBT; cash-back up to ₹1,200/yr for digital transactions | SIDBI (Credit Guarantee: CGTMSE) |
+| **PM Vishwakarma Scheme** | **September 17, 2023**<br>Ministry of MSME | Artisans and craftspersons across **18 traditional trades** (age 18+) | • **1st Tranche**: Up to **₹1,00,000** (18-month tenure)<br>• **2nd Tranche**: Up to **₹2,00,000** (30-month tenure)<br>• **Toolkit Grant**: **₹15,000** | Concessional interest rate of **5%** (8% subvention by MoMSME); **₹500/day** training stipend | MoMSME, MoSDE, and DFS MoF (Credit Guarantee: NCGTC) |
