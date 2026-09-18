@@ -742,6 +742,38 @@
 
 ---
 
+📰 **Union Cabinet Approves Landmark Hike in EPFO Mandatory Wage Ceiling to ₹25,000/Month**
+
+- **First Revision in 12 Years**: The Union Cabinet chaired by Prime Minister Narendra Modi approved a historic hike in the statutory wage ceiling for mandatory coverage under the Employees' Provident Fund Organisation (**EPFO**) from **₹15,000 to ₹25,000 per month** (effective **September 17, 2026**).
+- **Historic Precedent**: The previous statutory revision occurred on September 1, 2014, when the wage threshold was increased from ₹6,500 to ₹15,000.
+- **Massive Social Security Expansion**: Mandatorily extends coverage under the *Employees' Provident Funds and Miscellaneous Provisions Act, 1952* to over **51 lakh additional formal sector employees**.
+- **Statutory Tripartite Framework**:
+  - **EPF (Employees' Provident Fund)**: 12% employee contribution matched by 12% employer contribution (employer's share split: **8.33% to EPS**, **3.67% to EPF**).
+  - **EPS (Employees' Pension Scheme)**: Pensionable salary calculation base elevated to ₹25,000/month.
+  - **EDLI (Employees' Deposit-Linked Insurance)**: Statutory life insurance coverage cap proportionately scaled.
+
+🎯 Exam Angle →
+- Revised Wage Ceiling: **₹25,000 per month** (hiked from ₹15,000).
+- Effective Date: **September 17, 2026**.
+- Additional Workforce Covered: **51 Lakh workers**.
+- Previous Revision Year: **2014** (from ₹6,500 to ₹15,000).
+- Target MCQ Form: "What is the revised statutory wage ceiling approved by the Union Cabinet for mandatory coverage under EPFO in September 2026?" → ₹25,000 per month.
+
+---
+
+📰 **Cabinet Approves Strategic Railway Multi-Tracking Projects: ₹9,450 Crore Capacity Expansion**
+
+- **Infrastructure Outlay**: Union Cabinet approved 4 major multi-tracking projects under the Ministry of Railways with an aggregate capital outlay of **₹9,450 Crore**.
+- **Geographical Footprint**: Covers 8 districts across four states: **West Bengal, Odisha, Tamil Nadu, and Andhra Pradesh**.
+- **Track Addition**: Adds **410 km** of dedicated track infrastructure to debottleneck critical freight corridors transporting coal, cement, iron ore, and agro-commodities.
+
+🎯 Exam Angle →
+- Total Outlay: **₹9,450 Crore**.
+- Track Capacity Added: **410 km** across 4 states (WB, Odisha, TN, AP).
+- Target MCQ Form: "What is the total capital outlay approved by the Union Cabinet for 4 multi-tracking railway projects in August 2026?" → ₹9,450 Crore.
+
+---
+
 ## 6. 🛡️ DEFENCE, STRATEGIC MISSIONS & AEROSPACE
 
 📰 **Operation 'BRICS Kavach': NSG Mounts Multi-Agency Counter-Terror Drill Ahead of 18th BRICS Summit**

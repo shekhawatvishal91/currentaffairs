@@ -1339,9 +1339,31 @@
 - Award Period: Covers **April 1, 2026 to March 31, 2031** (5 years).
 - Target MCQ Form: "Who has been appointed as the Chairman of the Sixteenth Finance Commission of India?" → Dr. Arvind Panagariya.
 
-
 ---
 
+📰 **Macroeconomic Architecture: CPI, WPI, GDP & IIP Base Year Revision Matrix**
+- **Synchronized National Accounts Overhaul**: Ministry of Statistics and Programme Implementation (**MoSPI**) and DPIIT operationalized a synchronized overhaul of India's foundational macroeconomic statistical indicators.
+- **Consumer Price Index (CPI)**:
+  - Current Base Year: **2012 = 100** (compiled by National Statistical Office / NSO, MoSPI).
+  - Revised Target Base Year: **2024 = 100** (anchored in the Household Consumption Expenditure Survey / HCES 2022-23 and 2023-24).
+  - Weightage Realignment: Projected drop in the weighting of **Food and Beverages from 45.86% to approximately 39.5%–40.0%**, reflecting Engel's Law and structural consumption shifts.
+- **Wholesale Price Index (WPI)**:
+  - Current Base Year: **2011-12 = 100** (compiled by Office of Economic Adviser, DPIIT).
+  - Revised Target Base Year: **2017-18 = 100** (recommended by the Working Group chaired by **Dr. Ramesh Chand**, Member, NITI Aayog).
+- **Gross Domestic Product (GDP / National Accounts)**:
+  - Current Base Year: **2011-12 = 100** (compiled by NSO, MoSPI).
+  - Revised Target Base Year: **2022-23 = 100** (finalized by the Advisory Committee on National Accounts Statistics / ACNAS chaired by **Prof. Biswanath Goldar**).
+- **Index of Industrial Production (IIP)**:
+  - Current Base Year: **2011-12 = 100** (NSO, MoSPI) → revising in tandem to **2017-18 = 100**.
+
+🎯 Exam Angle →
+- Current Base Years: CPI = **2012**; WPI = **2011-12**; GDP = **2011-12**; IIP = **2011-12**.
+- Proposed Base Years: CPI = **2024**; WPI = **2017-18**; GDP = **2022-23**; IIP = **2017-18**.
+- CPI Food Weight Shift: Projected to fall from **45.86% to ~39.5%**.
+- WPI Committee: Working Group chaired by **Dr. Ramesh Chand**.
+- Target MCQ Form: "What is the current base year for computing the Consumer Price Index (CPI) combined in India?" → 2012 = 100.
+
+---
 
 ## 5. 🏛️ FLAGSHIP CENTRAL GOVERNMENT SCHEMES & MISSIONS
 
@@ -1654,10 +1676,25 @@
 - Target ITIs: **1,000 ITIs** modernized into Centers of Excellence.
 - Target MCQ Form: "How many Industrial Training Institutes (ITIs) will be upgraded under the ₹60,000 Crore PM-SETU programme?" → 1,000 ITIs.
 
-
-
 ---
 
+📰 **EPFO Mandatory Wage Ceiling Raised to ₹25,000/Month: Landmark Social Security Expansion**
+- **First Revision in 12 Years**: The Union Cabinet chaired by Prime Minister Narendra Modi approved a historic hike in the statutory wage ceiling for mandatory coverage under the Employees' Provident Fund Organisation (**EPFO**) from **₹15,000 to ₹25,000 per month** (effective **September 17, 2026**).
+- **Historic Precedent**: The previous statutory revision occurred on September 1, 2014, when the wage threshold was increased from ₹6,500 to ₹15,000.
+- **Massive Social Security Expansion**: Mandatorily extends coverage under the *Employees' Provident Funds and Miscellaneous Provisions Act, 1952* to over **51 lakh additional formal sector employees**.
+- **Statutory Tripartite Framework**:
+  - **EPF (Employees' Provident Fund)**: 12% employee contribution matched by 12% employer contribution (employer's share split: **8.33% to EPS**, **3.67% to EPF**).
+  - **EPS (Employees' Pension Scheme)**: Pensionable salary calculation base elevated to ₹25,000/month.
+  - **EDLI (Employees' Deposit-Linked Insurance)**: Statutory life insurance coverage cap proportionately scaled.
+
+🎯 Exam Angle →
+- Revised Wage Ceiling: **₹25,000 per month** (hiked from ₹15,000).
+- Effective Date: **September 17, 2026**.
+- Additional Workforce Covered: **51 Lakh workers**.
+- Previous Revision Year: **2014** (from ₹6,500 to ₹15,000).
+- Target MCQ Form: "What is the revised statutory wage ceiling approved by the Union Cabinet for mandatory coverage under EPFO in September 2026?" → ₹25,000 per month.
+
+---
 
 ## 6. ⚡ SOVEREIGN INDUSTRIAL MISSIONS, DEEP-TECH & GREEN ENERGY
 

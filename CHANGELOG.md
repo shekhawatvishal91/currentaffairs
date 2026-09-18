@@ -2,6 +2,30 @@
 
 All notable changes to the Current Affairs Dossier repository and Rajputana Gazette Broadsheet System are documented here.
 
+## 🚀 [v2.13] — 2026-09-18
+
+### 🏛️ PIB 2026 Playlist Audit, EPFO Statutory Wage Ceiling Hike & Macro Base Year Matrix
+- **Full Playlist Audit (74 Videos — "PIB 2026" by CGB Mentors / Crack Grade B)**:
+  - Systematically evaluated all 74 videos across the January–August/September 2026 syllabus.
+  - Verified that routine PIB dispatches (Videos 7–74, Jan–Aug 18, 2026) are already 100% captured across monthly dossiers.
+  - Isolated and extracted high-yield strategic deltas from Video 60 (Macro Base Year Revision) and latest Union Cabinet determinations.
+- **September Dossier Expansion (`current_affairs_2026_september.md`)**:
+  - **1. Landmark EPFO Statutory Wage Ceiling Hike to ₹25,000/Month** *(Section 5)*: First revision in 12 years (raised from ₹15,000 to ₹25,000/month; effective Sept 17, 2026); expands mandatory social security coverage to **51 Lakh additional formal sector workers** under the *EPF & MP Act, 1952*; scales EPF/EPS/EDLI contributions.
+  - **2. Strategic Railway Multi-Tracking Projects (₹9,450 Crore)** *(Section 5)*: Union Cabinet approval for 4 major multi-tracking projects across 8 districts in **West Bengal, Odisha, Tamil Nadu, and Andhra Pradesh**; adds **410 km** of dedicated track infrastructure debottlenecking freight traffic.
+- **IBPS Master Dossier Ingestion (`IBPS_MAINS_35PLUS_MASTER_JAN_SEPT.md`)**:
+  - **1. Macroeconomic Base Year Revision Matrix** *(Section 4)*: Synchronized overhaul by MoSPI and DPIIT:
+    - **CPI**: 2012=100 ➔ **2024=100** (anchored in HCES 2022-24; food weight drops from 45.86% to ~39.5%).
+    - **WPI**: 2011-12=100 ➔ **2017-18=100** (Dr. Ramesh Chand Committee).
+    - **GDP / National Accounts**: 2011-12=100 ➔ **2022-23=100** (ACNAS chaired by Prof. Biswanath Goldar).
+    - **IIP**: 2011-12=100 ➔ **2017-18=100** (NSO, MoSPI).
+  - **2. EPFO Mandatory Wage Ceiling Hike to ₹25,000/Month** *(Section 5)*: Comprehensive social security framework entry.
+- **Portal & Invariant Verification**:
+  - September Dossier clusters increased from 60 to **62 clusters** (+2).
+  - IBPS Master Dossier clusters increased from 143 to **145 clusters** (+2).
+  - Total rendered clusters across all 8 monthly dossiers elevated from 622 to **626 clusters** (+4).
+  - Exact 70 sections preserved across all dossiers.
+  - Invariants strictly validated: 0 checkboxes, 0 heading hashes (`#`), clean broadsheet typography.
+
 ## 🚀 [v2.12] — 2026-09-18
 
 ### ⚡ Mid-September 2026 Regulatory Ingestion & NPCI UPI MDR Architecture
