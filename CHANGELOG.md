@@ -2,6 +2,23 @@
 
 All notable changes to the Current Affairs Dossier repository and Rajputana Gazette Broadsheet System are documented here.
 
+## 🚀 [v2.15] — 2026-09-18
+
+### 🏦 Yes Officer "SBI IBPS PO Mains Marathon" Audit & Regulatory Directives Ingestion
+- **Full Playlist Audit (4 Marathon Sessions — "SBI IBPS PO Mains Marathon Playlist" by Yes Officer / Kush Pandey)**:
+  - Systematically evaluated all 4 marathon videos: 500 Most Expected MCQs (April–July 2026), Last 6 Months Govt Schemes 2026, RBI & SEBI August 2026 Marathon, and RBI & SEBI June & July MCQs.
+  - Confirmed 100% loss-free capture of monthly current affairs across existing dossiers.
+  - Isolated critical missing regulatory frameworks and sovereign schemes heavily tested in SBI & IBPS PO Mains.
+- **IBPS Master Dossier Ingestion (`IBPS_MAINS_35PLUS_MASTER_JAN_SEPT.md`)**:
+  - **1. RBI Default Loss Guarantee (DLG) in Digital Lending Framework** *(Section 1)*: Master Directions governing DLG arrangements between Regulated Entities (REs) and Lending Service Providers (LSPs); statutory portfolio cap strictly at **5% of outstanding portfolio**; permissible forms (Cash, FD with lien, Bank Guarantee); asset classification (IRAC/NPA) remains 100% with RE.
+  - **2. RBI Draft Prudential Framework for Project Finance** *(Section 1)*: Harmonized project lending standards; phased general standard asset provisioning: **up to 5% during construction**, stepping down to **2.5% at COD**, and further to **1% upon 20% debt paydown** and DSCR ≥ 1.25; mandatory positive Net Present Value (NPV) and formal financial closure.
+  - **3. PM-eBus Sewa Payment Security Mechanism (PSM) Scheme (₹3,435 Crore)** *(Section 5)*: Union Cabinet approval for payment security mechanism to support deployment of **38,000+ electric buses (e-buses)** from FY25 to FY29; operated on PPP Gross Cost Contract (GCC) model; nodal agency **CESL (Convergence Energy Services Limited)**.
+- **Portal & Invariant Verification**:
+  - IBPS Master Dossier clusters increased from 148 to **151 clusters** (+3).
+  - Total rendered clusters across all 8 monthly dossiers elevated from 629 to **632 clusters** (+3).
+  - Exact 70 sections preserved across all dossiers.
+  - Invariants strictly validated: 0 checkboxes, 0 heading hashes (`#`), clean broadsheet typography.
+
 ## 🚀 [v2.14] — 2026-09-18
 
 ### 🏦 Adda247 "General Awareness Complete Series 2026" Audit & Banking Awareness Master Ingestion

@@ -678,6 +678,46 @@
 
 ---
 
+📰 **Reserve Bank of India (Default Loss Guarantee in Digital Lending) Master Directions**
+- **Statutory Authorization & Scope**: The Reserve Bank of India (**RBI**) issued regulatory guidelines governing **Default Loss Guarantee (DLG)** arrangements in digital lending, permitting Regulated Entities (**REs** — Commercial Banks, Primary Urban Co-operative Banks, and NBFCs) to enter into DLG contracts with Lending Service Providers (**LSPs**) or other REs.
+- **Strict 5% Portfolio Cap**:
+  - The aggregate DLG cover across all credit facilities extended through any LSP arrangement **must not exceed 5% of the total loan portfolio**.
+  - Prevents excessive synthetic credit risk transfer and regulatory arbitrage by unregulated fintech entities.
+- **Permissible Forms of DLG**:
+  1. **Cash deposits** placed directly with the RE.
+  2. **Fixed Deposits (FDs)** maintained with a Scheduled Commercial Bank with a lien marked in favor of the RE.
+  3. **Bank Guarantee** issued in favor of the RE by a Scheduled Commercial Bank.
+- **Tenure & Risk Recognition Firewall**:
+  - The DLG arrangement must be backed by an explicit legally enforceable contract and must cover a tenure **not less than the longest tenure of the underlying loan portfolio**.
+  - **Uncompromised NPA Recognition**: Responsibility for loan asset classification (SMA/NPA tagging) and provisioning remains **100% with the Regulated Entity** in accordance with Prudential Framework for Income Recognition and Asset Classification (IRAC) norms, irrespective of DLG invocation.
+
+🎯 Exam Angle →
+- Maximum DLG Portfolio Cap: **5% of the total loan portfolio** (heavily tested numerical ceiling).
+- Permissible Forms: **Cash, Fixed Deposit with lien, or Bank Guarantee** (equity or shares strictly prohibited).
+- Asset Classification Responsibility: Rests **solely with the Regulated Entity (RE)**, NOT the LSP.
+- Target MCQ Form: "Under the RBI Digital Lending framework, what is the maximum permissible Default Loss Guarantee (DLG) cap that a Regulated Entity can accept on an outstanding loan portfolio?" → 5%.
+
+---
+
+📰 **Reserve Bank of India Draft Prudential Framework for Project Finance**
+- **Harmonized Project Lending Standards**: The Reserve Bank of India (**RBI**) released the *Draft Prudential Framework for Financing of Project Loans (Infrastructure, Non-Infrastructure and Commercial Real Estate)* to address asset-liability mismatches and enforce capital discipline during multi-year gestation cycles.
+- **Phased General Provisioning Glidepath**:
+  - **Construction Phase**: Mandates a phased general standard asset provisioning requirement of **up to 5%** across all exposures under implementation (a steep elevation from the legacy 0.40% baseline).
+  - **Operational Phase (Stage 1)**: Provisioning drops to **2.5%** once the project achieves its commercial operations date (**COD**) and operations commence.
+  - **Operational Phase (Stage 2)**: Further scales down to **1.0%** once the borrowing entity pays down at least 20% of the long-term debt and maintains a healthy Debt Service Coverage Ratio (**DSCR ≥ 1.25**).
+- **Mandatory Financial & Legal Prerequisites**:
+  - **Financial Closure**: No disbursement is permitted until complete financial closure is achieved by all consortium lenders.
+  - **Positive Net Present Value (NPV)**: Project economic viability must reflect a strictly positive Net Present Value.
+  - **Resolution Horizon**: Mandates an expedited 180-day resolution period if the project's operational date (COD) suffers unviable delays.
+
+🎯 Exam Angle →
+- Peak Provisioning During Construction: Proposed standard provisioning of **5%** (up from 0.4%).
+- Operational Stage Provisioning Drops: Drops to **2.5% at COD**, and further to **1.0% upon debt repayment (20% paydown)**.
+- Essential Viability Metric: Must establish a **positive Net Present Value (NPV)**.
+- Target MCQ Form: "Under the RBI Draft Prudential Framework for Project Finance, what is the proposed standard asset provisioning requirement during the construction phase of project loans?" → 5.0%.
+
+---
+
 ## 2. 🏦 BANKING, CREDIT FACILITIES & FINANCIAL INCLUSION
 
 📰 **DICGC Four-Tier Risk-Based Premium Architecture**
@@ -1761,6 +1801,24 @@
 
 ---
 
+📰 **PM-eBus Sewa Payment Security Mechanism (PSM) Scheme: ₹3,435 Crore E-Mobility Guarantee**
+- **Cabinet Sanction & Financial Outlay**: The Union Cabinet approved the *Scheme for Payment Security Mechanism (PSM) for procurement and operation of electric buses by Public Transport Authorities (PTAs)* with a dedicated budgetary allocation of **₹3,435 Crore**.
+- **Massive Fleet Transformation**:
+  - Facilitates the procurement, deployment, and operation of more than **38,000 electric buses (e-buses)** nationwide across Indian cities from **FY 2024-25 to FY 2028-29**.
+  - Operates on a Public-Private Partnership (**PPP**) Gross Cost Contract (**GCC**) framework where original equipment manufacturers (OEMs) and private bus operators supply and operate buses.
+- **Sovereign Payment Guarantee Architecture**:
+  - Cash-strapped state road transport corporations and municipal transport undertakings historically suffered credit unviability and payment defaults.
+  - The PSM acts as a credit enhancement mechanism: if a public transport authority defaults on daily/monthly operational payments, the dedicated fund under PSM immediately fulfills payments to bus operators.
+- **National Nodal Implementing Agency**: **Convergence Energy Services Limited (CESL)**, a subsidiary of Energy Efficiency Services Limited (EESL) under the Ministry of Power, manages the central guarantee fund.
+
+🎯 Exam Angle →
+- Total Budgetary Outlay: **₹3,435 Crore**.
+- Target Electric Bus Deployment: **38,000+ electric buses** (FY25 to FY29).
+- Implementing Agency: **CESL (Convergence Energy Services Limited)**.
+- Operating Model: **Gross Cost Contract (GCC)** under Public-Private Partnership (PPP).
+- Target MCQ Form: "What is the financial outlay approved by the Union Cabinet for the PM-eBus Sewa Payment Security Mechanism (PSM) Scheme to support 38,000+ electric buses?" → ₹3,435 Crore.
+
+---
 
 ## 6. ⚡ SOVEREIGN INDUSTRIAL MISSIONS, DEEP-TECH & GREEN ENERGY
 
