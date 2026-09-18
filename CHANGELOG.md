@@ -2,6 +2,23 @@
 
 All notable changes to the Current Affairs Dossier repository and Rajputana Gazette Broadsheet System are documented here.
 
+## 🚀 [v2.11] — 2026-09-18
+
+### 🏦 Comprehensive Banking Regulatory Expansion: "TOP 50 RBI Circulars" Delta Ingestion
+- **Systematic Ingestion of 7 Regulatory Master Frameworks (`IBPS_MAINS_35PLUS_MASTER_JAN_SEPT.md`)**:
+  - **1. NDS-OM Access Criteria Directions 2025 (Updated April 2026)** *(Section 1 New Cluster)*: CCIL-operated secondary G-Sec platform, 3 access tiers (Direct Access with SGL/Current Account/CCIL membership, Indirect Access with CSGL, Stock Broker Connect for SEBI-registered brokers), and mandatory PRAVAAH portal routing.
+  - **2. Reserve Bank - Integrated Ombudsman Scheme 2021 (RB-IOS)** *(Section 0 Deep Enhancement)*: Integrated 3 legacy schemes; covered entities (SCBs, RRBs, UCBs ≥₹50 cr, NBFCs ≥₹100 cr, CICs); Centralised Receipt and Processing Centre (CRPC) at RBI Chandigarh; 30-day bank escalation rule; Appellate Authority under Executive Director CEPD; ₹30 Lakh financial loss + ₹3 Lakh mental agony caps.
+  - **3. Priority Sector Lending (PSL) Norms & PSLC Architecture** *(Section 2 Deep Enhancement)*: Comprehensive 8 categories; detailed sub-targets (Total Agri 18%, SMF 10%, Micro 7.5%, Weaker Sections 12%); UCB glide path to 75% by March 31, 2026; Foreign banks (<20 branches) export credit cap (32%); 4 PSLC types (Agriculture, SF/MF, Micro, General) traded on e-Kuber in ₹25 Lakh lot sizes without credit risk transfer.
+  - **4. Bank Corporate Governance Framework (Section 35B BR Act)** *(Section 1 New Cluster)*: MD & CEO upper age limit (70 yrs), tenure cap (15 yrs; 12 yrs for promoter MD/CEO), 3-year cooling-off period; Non-Executive Chairperson cap (75 yrs, 8 yrs max tenure); 50% independent directors; Audit Committee of the Board (ACB) firewall with zero MD/CEO membership.
+  - **5. IFSCA Statutory Architecture & IFSC Banking Units (IBUs)** *(Section 7 New Cluster)*: IFSCA Act 2019, operationalized 2020 at GIFT City, Gandhinagar; unified super-regulator replacing RBI, SEBI, IRDAI, PFRDA; 9-member governing board; IBU rules ($20M minimum parent capital, FEMA foreign residency status, 100% exemption from CRR and SLR).
+  - **6. RBI (Small Finance Banks – Licensing) Guidelines, 2025** *(Section 1 New Cluster)*: Nov 28, 2025 on-tap guidelines: ₹200 Cr minimum net worth (₹100 Cr scaling to ₹200 Cr in 5 years for UCBs); promoter lock-in (40% for 5 yrs, 30% in 10 yrs, 26%/15% in 15 yrs); 74% FDI; 15% CRAR; 25% branches in Unbanked Rural Centres (URCs); 75% PSL target (50% loans ≤₹25 lakh); SFB-to-Universal Bank transition criteria (₹1,000 Cr net worth, 5-yr track record, CRAR ≥15%, GNPA ≤3%, NNPA ≤1%).
+  - **7. RBI (Universal Banks – Licensing) Guidelines, 2025 (`RBI/DOR/2025-26/143`)** *(Section 1 New Cluster)*: Nov 28, 2025 on-tap framework: minimum net worth elevated to **₹1,000 Crore** (up from ₹500 Cr); NOFHC mandatory for multi-entity promoters; 13% CRAR for first 3 years; promoter lock-in (40% for 5 yrs, 26% over 15 yrs); mandatory listing within 6 years; 25% URC branches; PRAVAAH portal digital processing.
+- **Portal & Invariant Verification**:
+  - IBPS Master Dossier clusters increased from 137 to **142 clusters** (+5 new clusters, 2 deep enhancements).
+  - Total rendered clusters across all 8 dossiers elevated from 611 to **616 clusters**.
+  - Exactly 70 sections preserved across all dossiers.
+  - Strict invariants verified: exactly 0 checkboxes, 0 heading hashes (`#`).
+
 ## 🚀 [v2.10] — 2026-09-17
 
 ### ☀️ International Solar Alliance (ISA) Institutional Static & 2026 Multilateral Status Cluster

@@ -173,10 +173,13 @@
   - **Permissible Interchange Fees Capped by RBI**: Maximum **₹17 per financial transaction** and **₹6 per non-financial transaction**.
   - **Failed ATM Transaction Compensation ($T+5$ Rule)**: If an account is debited but cash is not dispensed, bank must reverse the funds within **$T+5$ calendar days**; delay beyond $T+5$ days attracts statutory penalty of **₹100 per day** payable directly to the customer without requiring a complaint.
 - **Reserve Bank - Integrated Ombudsman Scheme, 2021 (RB-IOS)**:
-  - Unifies 3 earlier ombudsman programs into 'One Nation One Ombudsman'; covers all Scheduled Commercial Banks, RRBs, UCBs, and systemically important NBFCs.
-  - **Monetary Jurisdiction & Award Ceiling**: Ombudsman has power to award compensation up to **₹30 Lakh** for actual financial loss caused by deficiency in banking service.
-  - **Additional Mental Agony Award**: Over and above the ₹30L limit, Ombudsman can award up to **₹3 Lakh** for mental agony, harassment, and loss of time.
-  - **Appellate Authority**: Executive Director in-charge of Consumer Education and Protection Department (CEPD) at RBI; appeal must be preferred within **30 days**.
+  - **Treaty & Statutory Architecture**: Unifies 3 predecessor schemes under the 'One Nation One Ombudsman' vision — *Banking Ombudsman Scheme (2006)*, *Ombudsman Scheme for NBFCs (2018)*, and *Ombudsman Scheme for Digital Transactions (2019)*.
+  - **Covered Regulated Entities (REs)**: Encompasses all Scheduled Commercial Banks (SCBs), Regional Rural Banks (RRBs), Non-Scheduled Primary (Urban) Co-operative Banks with deposit size **≥ ₹50 Crore**, all deposit-taking NBFCs (NBFC-Ds), non-deposit taking NBFCs with asset size **≥ ₹100 Crore** having public interface, and **Credit Information Companies (CICs)** (brought under RB-IOS via 2022 amendment).
+  - **Centralised Receipt and Processing Centre (CRPC)**: Single centralized portal and physical clearing intake established at **RBI Chandigarh** for registration and initial scrutiny of complaints from across the nation.
+  - **Escalation Protocol & Deadlines**: Complainant must first lodge grievance directly with the bank/RE; if rejected, not resolved within **30 days**, or resolved unsatisfactorily, complaint can be submitted to Ombudsman within **1 year**.
+  - **Monetary Jurisdiction & Award Ceiling**: Ombudsman possesses authority to award compensation up to **₹30 Lakh** for direct financial loss caused by deficiency in banking service.
+  - **Additional Mental Agony Award**: Over and above the ₹30L financial limit, Ombudsman can award up to **₹3 Lakh** for mental agony, harassment, and loss of time (aggregate cap = ₹33 Lakh).
+  - **Appellate Authority**: Executive Director in-charge of the **Consumer Education and Protection Department (CEPD) at RBI**; appeal must be submitted within **30 days** of receiving the award or rejection.
 - **Deposit Insurance and Credit Guarantee Corporation (DICGC) Act, 1961**:
   - Wholly owned subsidiary of RBI; insures bank deposits across Commercial Banks, RRBs, Local Area Banks, and Co-operative Banks.
   - **Coverage Slabs**: Insures each depositor up to a maximum of **₹5 Lakh** (principal + interest) across all deposit accounts held in the same right and capacity in each bank.
@@ -185,6 +188,9 @@
 🎯 Exam Angle →
 
 - RB-IOS Ceiling: Direct financial loss compensation is **₹30 Lakh**; compensation for mental agony is **₹3 Lakh** (maximum possible award is ₹33 Lakh).
+- RB-IOS Centralised Processing Centre (CRPC): Located at **RBI Chandigarh** (NOT Mumbai or New Delhi).
+- RB-IOS Appellate Authority: **Executive Director in-charge of CEPD at RBI**; appeal period is **30 days**.
+- Escalation Horizon: Customer must wait **30 days** for bank response before filing with Ombudsman; maximum filing window is **1 year**.
 - Failed ATM Reversal: Timeline is **$T+5$ days**; delay penalty is **₹100 per day**.
 - DICGC Payout Window: **90 days** from date of RBI moratorium/directions.
 
@@ -565,10 +571,112 @@
 - Primary Nodal Institute: **College of Agricultural Banking (CAB), Pune** / RBI.
 - Target MCQ Form: "What is the primary objective of the Reserve Bank of India's newly launched 'Mission SAKSHAM'?" → Large-scale training and capacity building for Urban Co-operative Banks (UCBs).
 
+---
 
+📰 **Master Direction — RBI (Access Criteria for NDS-OM) Directions, 2025 & Broker Connect**
+- **Secondary Sovereign Debt Architecture**:
+  - Negotiated Dealing System - Order Matching (NDS-OM) is an electronic, screen-based, anonymous order-driven trading system for secondary market transactions in Government Securities (Central G-Secs, T-Bills, State Development Loans, and Sovereign Green Bonds).
+  - Hosted and operated by the **Clearing Corporation of India Limited (CCIL)** on behalf of the Reserve Bank of India.
+- **Three-Tier Access Classification Framework**:
+  - **Direct Access**: Regulated institutional participants maintaining both a **Subsidiary General Ledger (SGL) account** with RBI and a **Current Account** with RBI (or Designated Settlement Bank / DSB), alongside membership in the securities settlement segment of CCIL. Covers Scheduled Commercial Banks, Primary Dealers (PDs), AIFIs (NABARD, EXIM, SIDBI, NHB), Mutual Funds, Insurance Companies, and Pension Funds.
+  - **Indirect Access (Gilt Account Holders)**: Entities without direct SGL/current accounts maintain a **Constituent Subsidiary General Ledger (CSGL) account** through direct members (custodians and Primary Dealers).
+  - **Stock Broker Connect (SEBI-Registered Brokers)**: Historic inclusion permitting SEBI-registered non-bank stockbrokers to directly interface with NDS-OM, allowing their retail demat clients seamless secondary G-Sec trading.
+- **Digital Streamlining via PRAVAAH Portal (April 2026 Mandate)**:
+  - All applications for granting, renewing, or modifying NDS-OM access must be submitted digitally via the Reserve Bank's **PRAVAAH portal** (*Platform for Regulatory Application, VAlidation and AutHorisation*).
+  - Prescribed physical forms rationalized and transitioned online to enhance Ease of Doing Business.
+
+🎯 Exam Angle →
+
+- Platform Operator: NDS-OM is operated by **CCIL** on behalf of the RBI.
+- Direct Access Prerequisites: Must hold **SGL Account** with RBI + **Current Account** with RBI/DSB + **CCIL Membership**.
+- Retail Channel Innovation: SEBI-registered brokers interface via **Stock Broker Connect**.
+- Application Portal: Mandatorily submitted through **PRAVAAH**.
+- Target MCQ: 'Which entity operates the Negotiated Dealing System - Order Matching (NDS-OM) platform on behalf of the Reserve Bank of India?' → **Clearing Corporation of India Limited (CCIL)**.
 
 ---
 
+📰 **Corporate Governance Framework in Commercial Banks & SFBs (Section 35B BR Act Norms)**
+- **Statutory Foundation & Regulatory Perimeter**:
+  - Enforced under Section 35B of the Banking Regulation Act, 1949; applies to private sector commercial banks, Small Finance Banks (SFBs), and Wholly Owned Subsidiaries (WOS) of foreign banks in India.
+- **Tenure, Age Limits & Cooling-Off Ceilings**:
+  - **Maximum Continuous Tenure for MD & CEO / Whole-Time Directors (WTDs)**: Capped at **15 years** in a single banking entity.
+  - **Promoter / Major Shareholder MD & CEO Cap**: Capped at **12 years** (can be extended to 15 years strictly at RBI's sole discretion under exceptional circumstances).
+  - **Mandatory Cooling-Off Period**: Minimum **3 years** cooling-off period required after completing maximum tenure before re-appointment; during cooling-off, the individual cannot be appointed or associated with the bank or its group entities in any capacity, directly or indirectly.
+  - **Upper Age Limit**: Absolute statutory ceiling of **70 years** for MD & CEO and WTDs (banks' internal boards may prescribe a lower retirement age).
+- **Non-Executive Directors (NEDs) & Chairperson Architecture**:
+  - **Upper Age Limit for Non-Executive Chairperson & NEDs**: Capped at **75 years**.
+  - **Tenure Limit on Board**: Total tenure of a Non-Executive Director (continuous or otherwise) capped at **8 years**.
+- **Board Independence & Committee Firewall**:
+  - **Independent Directors**: At least **50% of the Board** must comprise Independent Directors.
+  - **Audit Committee of the Board (ACB)**: Must be chaired by an Independent Director; **MD & CEO cannot be a member** of the ACB.
+  - **Risk Management Committee of the Board (RMCB)** and **Nomination and Remuneration Committee (NRC)**: Mandatory board-level committees with independent governance.
+
+🎯 Exam Angle →
+
+- MD/CEO Tenure Cap: **15 years** (12 years if promoter/major shareholder).
+- MD/CEO Age Ceiling: **70 years**; Non-Executive Chairperson/Director Age Ceiling: **75 years**.
+- Cooling-off Duration: **3 years** (complete disassociation with bank and group entities).
+- Audit Committee Firewall: MD & CEO **cannot be a member** of the Audit Committee of the Board (ACB).
+- Target MCQ: 'Under RBI Corporate Governance guidelines, what is the upper age limit for an MD & CEO of a commercial bank?' → **70 years**.
+
+---
+
+📰 **Reserve Bank of India (Small Finance Banks – Licensing) Guidelines, 2025 & Transition Norms**
+- **Consolidated On-Tap Architecture (Notified November 28, 2025)**:
+  - Formalizes continuous ("on-tap") licensing of private sector Small Finance Banks (SFBs) under Section 22 of the Banking Regulation Act, 1949.
+- **Capital & Net Worth Mandates**:
+  - **Minimum Initial Net Worth / Paid-up Voting Equity**: **₹200 Crore** for new banking entities.
+  - **Primary (Urban) Co-operative Banks (UCBs) Transition**: Minimum initial net worth of **₹100 Crore**, which must be scaled up to **₹200 Crore within 5 years** from commencement of business.
+  - **Capital Adequacy (CRAR)**: Mandatory minimum CRAR of **15%** of risk-weighted assets (RWA) with Tier 1 capital minimum of **7.5%**.
+- **Promoter Shareholding & Dilution Glide Path**:
+  - Minimum **40%** paid-up voting equity locked in for the initial **5 years**.
+  - Dilution schedule: Scaled down to **30% within 10 years**, and capped at **26% (or 15%) within 15 years**.
+  - Foreign Direct Investment (FDI): Permissible up to **74%** (automatic up to 49%, approval route up to 74%).
+- **Financial Inclusion & Operational Safeguards**:
+  - **Priority Sector Lending (PSL)**: Mandatory **75% of Adjusted Net Bank Credit (ANBC)** or CEOBE.
+  - **Small Ticket Loan Focus**: At least **50% of aggregate loan portfolio** must comprise loans and advances of up to **₹25 Lakh**.
+  - **Unbanked Outlets**: Minimum **25% of total banking outlets** must be established in **Unbanked Rural Centres (URCs)** (population < 10,000).
+  - **Mandatory Listing**: Must list shares on recognised stock exchanges within **3 years** of achieving a net worth of ₹500 Crore.
+- **Voluntary Transition from SFB to Universal Bank**:
+  - SFBs meeting criteria can apply to convert into a Universal Bank: (1) Minimum **5 years** satisfactory operational track record, (2) Net worth of **₹1,000 Crore** at previous quarter end, (3) Scheduled bank status, (4) Listed equity, (5) Minimum CRAR of 15% for preceding 2 years, (6) Net profit in last 2 financial years with **Gross NPA ≤ 3% and Net NPA ≤ 1%**.
+
+🎯 Exam Angle →
+
+- Minimum Net Worth for SFB: **₹200 Crore** (₹100 Crore for UCBs scaling to ₹200 Cr in 5 years).
+- PSL Target for SFBs: **75% of ANBC** (50% portfolio in loans ≤ ₹25 Lakh).
+- Unbanked Rural Outlets: **25%** of total banking outlets.
+- SFB-to-Universal Bank Conversion: Minimum **₹1,000 Crore net worth**, **5 years track record**, and GNPA ≤ 3% / NNPA ≤ 1%.
+- Target MCQ: 'What is the minimum net worth required for an existing Small Finance Bank to voluntarily transition into a Universal Bank?' → **₹1,000 Crore**.
+
+---
+
+📰 **Reserve Bank of India (Universal Banks – Licensing) Guidelines, 2025 (RBI/DOR/2025-26/143)**
+- **Consolidated On-Tap Framework (Notified November 28, 2025)**:
+  - Supersedes legacy 2013/2016 stop-and-go licensing guidelines to institutionalize permanent on-tap licensing for universal banks in the private sector.
+- **Substantial Capital Net Worth Elevation**:
+  - **Minimum Initial & Continuous Net Worth**: Statutorily elevated to **₹1,000 Crore** (doubled from the legacy ₹500 Crore requirement under 2016 guidelines).
+  - **Capital Adequacy Ratio (CRAR)**: Mandatory minimum CRAR of **13%** of risk-weighted assets for the first **3 years** of commercial operations (thereafter adhering to Basel III 11.5% CRAR).
+- **Eligibility, Promoters & Corporate Structure**:
+  - **Eligible Promoters**: Resident individuals/professionals with at least **10 years of successful experience** in banking and finance; entities/groups owned and controlled by residents with a 10-year successful track record.
+  - **Disqualifications**: Large industrial houses are strictly barred from promoting banks; shell companies, certain offshore vehicles, and entities with non-financial group assets >40% (if group assets exceed ₹5,000 Cr) are disqualified.
+  - **NOFHC Mandate**: Setting up a **Non-Operative Financial Holding Company (NOFHC)** is compulsory if the promoter has other financial or non-financial group entities; NOFHC must hold at least **51%** of the bank's voting equity. Standalone promoters without other group entities are exempt from NOFHC.
+- **Promoter Shareholding Lock-in & Listing Glide Path**:
+  - Promoter must hold minimum **40%** voting equity locked in for **5 years**.
+  - Staged dilution: Reduced to **30% within 10 years**, and capped at **26% over 15 years**.
+  - **Mandatory Stock Exchange Listing**: Bank must list on a recognized Indian stock exchange within **6 years** of commencing business.
+  - **Rural Branch Presence**: Minimum **25% of branches** must be located in **Unbanked Rural Centres (URCs)**.
+  - **Digital Submission via PRAVAAH**: All applications (Form III) processed through RBI's PRAVAAH portal with 18-month in-principle validity.
+
+🎯 Exam Angle →
+
+- Universal Bank Capital Bar: Minimum Net Worth is **₹1,000 Crore** (elevated from ₹500 Cr in 2025).
+- Mandatory Listing Horizon: Within **6 years** from commencement of operations.
+- CRAR for Initial 3 Years: Minimum **13%** (vs normal 11.5%).
+- Promoter Equity Cap after 15 Years: **26%** (NOT 15%).
+- In-Principle Approval Validity: **18 months**.
+- Target MCQ: 'Under the revised RBI (Universal Banks - Licensing) Guidelines 2025, what is the mandatory minimum net worth requirement?' → **₹1,000 Crore**.
+
+---
 
 ## 2. 🏦 BANKING, CREDIT FACILITIES & FINANCIAL INCLUSION
 
@@ -618,20 +726,32 @@
 
 ---
 
-📰 **Priority Sector Lending (PSL) Targets & Statutory Sub-Targets**
-- **Mandatory Aggregate Targets**: Domestic Scheduled Commercial Banks and Foreign Banks (≥20 branches) must direct **40% of Adjusted Net Bank Credit (ANBC)** or Credit Equivalent of Off-Balance Sheet Exposure (CEOBE) to Priority Sectors.
-- **Mandatory Sub-Sector Targets**:
-  - **Total Agriculture**: **18% of ANBC** (with **10%** specifically mandated for Small and Marginal Farmers / SMFs)
-  - **Micro Enterprises**: **7.5% of ANBC**
-  - **Weaker Sections**: **12% of ANBC**
-- **PSL Categories (8 Broad Sectors)**: (1) Agriculture, (2) MSME, (3) Export Credit, (4) Education, (5) Housing, (6) Social Infrastructure, (7) Renewable Energy, and (8) Others.
-- **Non-Achievement Penalty**: Shortfalls must be deposited in the **Rural Infrastructure Development Fund (RIDF)** administered by NABARD.
+📰 **Priority Sector Lending (PSL) Targets, Statutory Sub-Targets & PSLC Architecture**
+- **Mandatory Institutional Lending Targets**:
+  - **Domestic Scheduled Commercial Banks (SCBs) & Foreign Banks (≥20 branches)**: **40% of ANBC** (Adjusted Net Bank Credit) or Credit Equivalent of Off-Balance Sheet Exposure (CEOBE), whichever is higher.
+  - **Foreign Banks with <20 branches**: **40% of ANBC/CEOBE** (up to 32% permissible in Export Credit, and not less than 8% in any other priority sector).
+  - **Regional Rural Banks (RRBs)**: **75% of ANBC/CEOBE** (mandatory focus on rural smallholders and artisans).
+  - **Primary Urban Co-operative Banks (UCBs)**: Graded regulatory glide path reaching **75% of ANBC/CEOBE by March 31, 2026** (60% by March 2024, 65% by March 2025, 75% by March 31, 2026).
+- **Mandatory Sub-Sector Targets for Domestic Commercial Banks**:
+  - **Total Agriculture**: **18% of ANBC/CEOBE** (within which **10%** is mandated specifically for Small and Marginal Farmers / SMFs owning up to 2 hectares of land).
+  - **Micro Enterprises**: **7.5% of ANBC/CEOBE**.
+  - **Weaker Sections**: **12% of ANBC/CEOBE** (covers small/marginal farmers, artisans, SC/ST, beneficiaries of DRI, SHGs, persons with disabilities, and individual women beneficiaries up to ₹1 lakh).
+- **Eight Prescribed Priority Sectors**: (1) Agriculture, (2) Micro, Small and Medium Enterprises (MSME), (3) Export Credit, (4) Education (loans up to ₹20 lakh), (5) Housing, (6) Social Infrastructure (schools, healthcare, sanitation), (7) Renewable Energy (solar/wind plants up to ₹30 cr, individuals up to ₹10 lakh), and (8) Others.
+- **Priority Sector Lending Certificates (PSLC) Trading Mechanism**:
+  - Market-driven instrument enabling deficit banks to meet statutory PSL targets by purchasing certificates from surplus banks without transferring underlying loan assets or credit risk.
+  - **Four Standard PSLC Categories**: (1) **PSLC Agriculture**, (2) **PSLC Small and Marginal Farmers (SF/MF)**, (3) **PSLC Micro Enterprises**, and (4) **PSLC General**.
+  - **Trading Platform & Denomination**: Traded anonymously through RBI's core banking portal **e-Kuber** in standard lot sizes of **₹25 Lakh**; all certificates expire automatically at financial year-end on **March 31**.
+- **Statutory Shortfall Penalties**: Shortfalls are computed quarterly and banks must deposit shortfall tranches into dedicated rural/urban development funds: **RIDF** (NABARD), **UIDF** (NHB), or specialized development funds managed by SIDBI and MUDRA.
 
 🎯 Exam Angle →
 
-- Sub-Target Math: Total Agriculture = **18%**; Small & Marginal Farmers sub-target = **10%**; Weaker Sections = **12%**; Micro Enterprises = **7.5%**.
-- Shortfall Fund: PSL shortfalls are invested in **RIDF** (administered by NABARD).
-- Target MCQ Form: "What is the mandatory sub-target for lending to Small and Marginal Farmers (SMFs) under Priority Sector Lending norms for commercial banks?" → 10% of ANBC.
+- The 8 Sectors: Agriculture, MSME, Export Credit, Education, Housing, Social Infrastructure, Renewable Energy, Others.
+- Sub-Target Math: Total Agriculture = **18%**; Small & Marginal Farmers (SMFs) = **10%**; Weaker Sections = **12%**; Micro Enterprises = **7.5%**.
+- Foreign Banks (<20 branches): Export credit capped at **32%** out of total 40% target.
+- UCB Final PSL Deadline: Must achieve **75% of ANBC by March 31, 2026**.
+- PSLC Denomination & Platform: Lot size is **₹25 Lakh**; traded on RBI **e-Kuber** (all expire on March 31; zero credit risk transfer).
+- Shortfall Fund: Administered primarily in **RIDF** by NABARD.
+- Target MCQ Form: "What is the standard lot size for trading Priority Sector Lending Certificates (PSLC) on the RBI e-Kuber portal?" → **₹25 Lakh**.
 
 ---
 
@@ -1757,6 +1877,31 @@
 - NDB Headquarters vs AIIB: NDB is headquartered in **Shanghai, China** (AIIB is in Beijing).
 - Regional Office Location: NDB's India Regional Office is in **GIFT City, Gandhinagar**.
 - Target MCQ Form: "In which financial hub has the New Development Bank (NDB) established its Indian Regional Office (IRO)?" → GIFT City, Gandhinagar.
+
+---
+
+📰 **IFSCA: Statutory Foundation, Unified Regulatory Architecture & IFSC Banking Units (IBUs)**
+- **Genesis & Statutory Super-Regulator Status**:
+  - Established under the **International Financial Services Centres Authority Act, 2019** passed by Parliament; formally constituted on **April 27, 2020** and operationalized in October 2020.
+  - Headquartered permanently at **GIFT City, Gandhinagar, Gujarat**.
+  - **Unified Regulatory Authority**: Functions as India's single unified statutory regulator exercising the consolidated powers of **four apex domestic regulators** — Reserve Bank of India (RBI), Securities and Exchange Board of India (SEBI), Insurance Regulatory and Development Authority of India (IRDAI), and Pension Fund Regulatory and Development Authority (PFRDA) — within IFSC jurisdictions.
+- **Institutional Composition & Board Governance**:
+  - Apex leadership headed by a **Chairperson** (appointed by Central Government; tenure up to 3 years or age 65; K. Rajaraman).
+  - **Governing Board Structure (9 Members)**: Chairperson + 4 nominated members (1 each from RBI, SEBI, IRDAI, and PFRDA) + 2 members from the Ministry of Finance + 2 whole-time or part-time members appointed by Central Government.
+- **IFSC Banking Units (IBUs) Regulatory Architecture**:
+  - **Legal Status under FEMA**: An IBU is a branch of an Indian or foreign bank set up in GIFT IFSC; treated statutorily as a **person resident outside India** under the Foreign Exchange Management Act (FEMA), 1999.
+  - **Minimum Regulatory Capital**: The parent bank must provide minimum capital of **$20 Million** (US Dollars) or equivalent in freely convertible currency.
+  - **Statutory Reserve Exemption**: IBUs are **100% exempt from domestic Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR)** mandates of the RBI.
+  - **Currency of Operation**: Transacts strictly in freely convertible foreign currencies (USD, EUR, GBP, JPY), not Indian Rupees (INR allowed only for local administrative expenses).
+  - **Asset & Liability Powers**: Authorized to accept foreign currency deposits from non-residents and eligible residents (under LRS), arrange External Commercial Borrowings (ECBs), and underwrite global syndicated loans.
+
+🎯 Exam Angle →
+
+- Unified Regulator Powers: Replaces **RBI, SEBI, IRDAI, and PFRDA** inside IFSCs (consolidating 4 regulators into 1).
+- Governing Law & HQ: **IFSCA Act, 2019**; HQ at **GIFT City, Gandhinagar, Gujarat**.
+- Board Composition: **Chairperson + 9 members** (includes 1 nominee each from RBI, SEBI, IRDAI, PFRDA).
+- IBU Capital & Reserve Exemption: Parent bank minimum capital = **$20 Million**; IBUs are **completely exempt from CRR and SLR**.
+- Target MCQ Form: "Which statutory authority acts as the single unified regulator replacing RBI, SEBI, IRDAI, and PFRDA in GIFT City?" → **International Financial Services Centres Authority (IFSCA)**.
 
 ---
 
