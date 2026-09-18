@@ -742,6 +742,7 @@
   - **Four Standard PSLC Categories**: (1) **PSLC Agriculture**, (2) **PSLC Small and Marginal Farmers (SF/MF)**, (3) **PSLC Micro Enterprises**, and (4) **PSLC General**.
   - **Trading Platform & Denomination**: Traded anonymously through RBI's core banking portal **e-Kuber** in standard lot sizes of **₹25 Lakh**; all certificates expire automatically at financial year-end on **March 31**.
 - **Statutory Shortfall Penalties**: Shortfalls are computed quarterly and banks must deposit shortfall tranches into dedicated rural/urban development funds: **RIDF** (NABARD), **UIDF** (NHB), or specialized development funds managed by SIDBI and MUDRA.
+- **PSL Third Amendment Directions, 2026 (September 11, 2026)**: RBI advanced the cut-off date from September 30, 2026 to **August 31, 2026** for mobilizing fresh FCNR(B) and NRE term deposits eligible for exclusion from Adjusted Net Bank Credit (ANBC) computation.
 
 🎯 Exam Angle →
 
@@ -944,6 +945,31 @@
 - Tax Payment Ceiling: Tax payments on UPI are capped at **₹5 Lakh** (hiked from ₹1 Lakh).
 - UPI Lite Balance: Maximum wallet balance is **₹2,000**; per-transaction cap is **₹500**.
 - Target MCQ Form: "What is the enhanced per-transaction limit for tax payments made through the Unified Payments Interface (UPI)?" → ₹5 Lakh.
+
+---
+
+📰 **NPCI UPI Merchant Discount Rate (MDR) Policy Framework 2026 (Effective October 15, 2026)**
+- **Genesis & Institutional Sustainability**: National Payments Corporation of India (NPCI) in coordination with RBI and Ministry of Finance announced a recalibrated Merchant Discount Rate (MDR) structure taking effect **October 15, 2026**, to ensure long-term server infrastructure, cybersecurity, and technological funding of UPI payment rails.
+- **Consumer & P2P Absolute Exemption**:
+  - **Zero Cost for Common Public**: Customers will **never be charged any platform fee or transaction charge** for making UPI payments; banks are strictly prohibited from passing MDR to customers.
+  - **Person-to-Person (P2P)**: All P2P transfers remain **100% free with Zero MDR**, regardless of the amount.
+- **Person-to-Merchant (P2M) Commercial Slabs**:
+  - **Transactions up to ₹2,000**: Attract **Zero MDR (0.0%)**, safeguarding over **95% of total P2M transactions**.
+  - **Transactions above ₹2,000**: Subject to a nominal merchant-paid **MDR of 0.4%**.
+  - **High-Value Cap**: For transactions of **₹75,000 and above**, MDR is strictly capped at a maximum of **₹300 per transaction**.
+- **Special Categories & Sectoral Exemptions**:
+  - **Small Merchants (P2PM)**: Micro-merchants receiving up to **₹1 Lakh per month** via QR codes are completely **exempt from MDR**.
+  - **Essential Utilities & Public Services**: Railways, fuel stations, telecom, utilities, insurance, and agricultural inputs attract a flat concessional fee of **₹5 per transaction** for payments above ₹2,000.
+  - **Capital Markets**: Payments to mutual funds and stockbrokers attract an ultra-low MDR of **0.02%, capped at ₹300**.
+
+🎯 Exam Angle →
+
+- Effective Date: **October 15, 2026**.
+- Consumer & P2P Transactions: **100% Free / Zero MDR**.
+- P2M Small-Ticket Threshold: Transactions **up to ₹2,000 attract Zero MDR** (>95% of transactions).
+- Commercial Rate: **0.4%** for transactions above ₹2,000; capped at **₹300** (for payments ≥ ₹75,000).
+- Small Merchant Ceiling: QR code intake up to **₹1 Lakh per month** is exempt.
+- Target MCQ: 'Under the NPCI UPI MDR framework effective October 15, 2026, what is the maximum MDR cap for high-value transactions of ₹75,000 and above?' → **₹300 per transaction**.
 
 ---
 

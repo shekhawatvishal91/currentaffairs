@@ -2,6 +2,29 @@
 
 All notable changes to the Current Affairs Dossier repository and Rajputana Gazette Broadsheet System are documented here.
 
+## 🚀 [v2.12] — 2026-09-18
+
+### ⚡ Mid-September 2026 Regulatory Ingestion & NPCI UPI MDR Architecture
+- **Full Playlist Audit (146 Videos — "Current Affairs 2026" by CGB Mentors)**:
+  - Verified that Videos 8–146 (January 1 through September 10, 2026) are 100% captured across existing dossiers.
+  - Ingested fresh regulatory deltas from Videos 1–7 (September 11–17, 2026 + UPI MDR Feature).
+- **September Dossier Expansion (`current_affairs_2026_september.md`)**:
+  - Title elevated to **(DAYS 1–17 CONSOLIDATED DOSSIER - ENHANCED)**.
+  - **1. Reserve Bank of India (PSL – Targets and Classification) Third Amendment Directions, 2026 (`RBI/2026-27/256`)**: Revised terminal date advancing fresh FCNR(B) and NRE deposit mobilization cut-off from Sept 30 to **August 31, 2026** for ANBC target exclusion.
+  - **2. Reserve Bank of India (Local Area Banks – CRR and SLR) Second Amendment Directions, 2026 (`RBI/2026-27/255`)**: Harmonizes computation and reporting schedules for Local Area Banks with commercial banks.
+  - **3. NPCI UPI Merchant Discount Rate (MDR) Policy Framework 2026 (Effective Oct 15, 2026)**: Consumers and P2P remain 100% Free / Zero MDR; P2M transactions ≤₹2,000 attract Zero MDR (>95% volume); P2M >₹2,000 attracts 0.4% MDR capped at ₹300 for ₹75,000+; small QR merchants (<₹1L/month) exempt; flat ₹5 for essential services.
+  - **4. RBI Cyber Fraud Mitigation ("Lien Over Disputed Amount" Mandate)**: Prohibits wholesale account freezing; mandates surgical lien on the exact disputed amount; real-time AI monitoring for digital transfers ≥₹1,000.
+  - **5. Airtel Payments Bank Leadership Transition & World Bank $112B Milestone**: Shabnam Sinha appointed Chairperson succeeding Sunil Bharti Mittal; World Bank records $112B private capital mobilization; World Circular Economy Forum (WCEF 2026) in India.
+- **IBPS Master Dossier Cross-Indexing (`IBPS_MAINS_35PLUS_MASTER_JAN_SEPT.md`)**:
+  - Ingested dedicated **NPCI UPI Merchant Discount Rate (MDR) Framework** cluster into Section 3 (`💳 DIGITAL PAYMENTS, FINTECH & SEBI MASTER DIRECTIONS`).
+  - Added PSL Third Amendment FCNR(B)/NRE ANBC cut-off bullet to Section 2.
+- **Dossier & Portal Verification**:
+  - September Dossier clusters increased from 55 to **60 clusters** (+5).
+  - IBPS Master Dossier clusters increased from 142 to **143 clusters** (+1).
+  - Total rendered clusters across all 8 monthly dossiers increased from 616 to **622 clusters**.
+  - All 70 sections preserved across all dossiers.
+  - Invariants maintained: 0 checkboxes, 0 heading hashes (`#`), clean broadsheet styling.
+
 ## 🚀 [v2.11] — 2026-09-18
 
 ### 🏦 Comprehensive Banking Regulatory Expansion: "TOP 50 RBI Circulars" Delta Ingestion

@@ -1,4 +1,4 @@
-# 🎯 CURRENT AFFAIRS — SEPTEMBER 2026 (DAYS 1–10 CONSOLIDATED DOSSIER - ENHANCED)
+# 🎯 CURRENT AFFAIRS — SEPTEMBER 2026 (DAYS 1–17 CONSOLIDATED DOSSIER - ENHANCED)
 *Senior Paper-Setter Master Strike File: Verified Regulatory Directives, IFSCA Market Abuse Code, Sovereign Ratings, Central Counterparties, Multilateral Accords & Defence Milestones*
 
 > **EXAMINER'S BLUEPRINT & COMPLIANCE STANDARD**:
@@ -283,6 +283,44 @@
 
 ---
 
+📰 **Reserve Bank of India (PSL – Targets and Classification) Third Amendment Directions, 2026 (RBI/2026-27/256)**
+
+- **Genesis & Statutory Notification**: Notified by the Reserve Bank of India on **September 11, 2026** (Ref: *RBI/2026-27/256*), amending the *Master Direction – Reserve Bank of India (Priority Sector Lending – Targets and Classification) Directions, 2025*.
+- **Advance in Terminal Cut-Off Date for ANBC Exemption**:
+  - The central amendment alters the terminal date for mobilizing fresh foreign currency deposits eligible for exclusion from Adjusted Net Bank Credit (ANBC) computation.
+  - The deadline for mobilizing eligible fresh deposits was formally advanced from **September 30, 2026 to August 31, 2026**.
+- **Eligible Foreign Currency Deposit Slabs**:
+  - **Fresh FCNR(B) Deposits**: Minimum tenor of 3 years and maximum tenor of 5 years, mobilized between **June 8, 2026 and August 31, 2026**.
+  - **Fresh NRE Term Deposits**: Tenor of 3 years or more, mobilized between **June 19, 2026 and August 31, 2026**.
+- **Ceiling & Regulatory Alignment**:
+  - Total amount excluded from ANBC for priority sector target computation cannot exceed the fresh outstanding FCNR(B) or NRE deposits eligible for CRR/SLR exemption under corresponding RBI liquidity directives.
+
+🎯 Exam Angle →
+- Notification Date: **September 11, 2026** (Circular Ref: *RBI/2026-27/256*).
+- Revised Cut-Off Date: Mobilization terminal date advanced to **August 31, 2026** (earlier September 30, 2026).
+- Minimum Tenor Requirement: FCNR(B) = **3 to 5 years**; NRE = **3 years or more**.
+- Target MCQ Form: "Under the RBI (PSL - Targets and Classification) Third Amendment Directions 2026, what was the revised terminal date for mobilizing fresh FCNR(B)/NRE deposits eligible for ANBC exemption?" → **August 31, 2026**.
+
+---
+
+📰 **Reserve Bank of India (Local Area Banks – CRR and SLR) Second Amendment Directions, 2026 (RBI/2026-27/255)**
+
+- **Regulatory Harmonization**: Issued by the RBI on **September 11, 2026** (Ref: *RBI/2026-27/255*), amending the statutory liquidity management framework for **Local Area Banks (LABs)** under Section 24 and Section 42 of the Banking Regulation Act, 1949.
+- **Reporting Cycle & Liquidity Synchronization**:
+  - Aligns the Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR) computation cycles and reporting schedules of Local Area Banks directly with Scheduled Commercial Banks (SCBs).
+  - Eliminates reporting lags and ensures uniform liquidity risk monitoring across small geographical niche banks.
+- **Current Operational LABs in India**:
+  - Focuses supervisory rigor on India's operational Local Area Banks (including *Coastal Local Area Bank Ltd.* and *Krishna Bhima Samruddhi Local Area Bank Ltd.*).
+  - Maintains mandatory CRR holding in current account with RBI and SLR in approved sovereign securities.
+
+🎯 Exam Angle →
+- Notification Date: **September 11, 2026** (Ref: *RBI/2026-27/255*).
+- Regulated Entities: **Local Area Banks (LABs)** (niche banks introduced in 1996 to mobilize rural/semi-urban savings across contiguous districts).
+- Statutory Baseline: Section 24 (SLR) and Section 42 (CRR) of the Banking Regulation Act.
+- Target MCQ Form: "Which niche banking category had its CRR and SLR maintenance and reporting cycles synchronized with commercial banks via RBI directions on September 11, 2026?" → **Local Area Banks (LABs)**.
+
+---
+
 ## 3. 💳 DIGITAL PAYMENTS, FINTECH INNOVATION & INSURANCE
 
 📰 **Prime Minister Inaugurates Global Fintech Fest (GFF) 2026: Unveils 4-Point Strategic Fintech Roadmap**
@@ -408,6 +446,53 @@
 - Index Model: **Cumulative Deviation Rainfall (CDR)** model.
 - Contract Parameters: **1 mm tick size**, max **50 lots**, strictly **cash-settled**.
 - Examiner's Trap: Setting the question as Southwest Monsoon or claim physical commodity delivery—it is cash-settled on precipitation index deviation.
+
+---
+
+📰 **NPCI Notifies UPI Merchant Discount Rate (MDR) Regulatory Framework 2026 (Effective October 15, 2026)**
+
+- **Genesis & Institutional Sustainability**: National Payments Corporation of India (**NPCI**) in consultation with the Reserve Bank of India and Ministry of Finance announced a recalibrated Merchant Discount Rate (MDR) framework for specific UPI transactions, taking effect on **October 15, 2026**, to ensure long-term technological and cybersecurity funding of the UPI rails.
+- **Strict Protection for Consumers & P2P (Zero Charges)**:
+  - **Consumers Pay ₹0**: Government reaffirmed that customers will **never be charged any platform fee or transaction charge** for UPI payments; banks and payment aggregators are strictly prohibited from passing MDR to end-consumers.
+  - **Person-to-Person (P2P)**: All P2P transfers (wallet-to-wallet, account-to-account) remain **100% free with Zero MDR**, irrespective of transaction value.
+- **Person-to-Merchant (P2M) Rate Slabs**:
+  - **Transactions up to ₹2,000**: Attract strictly **Zero MDR (0.0%)**, shielding over **95% of total P2M transaction volume**.
+  - **Transactions above ₹2,000**: Subject to a nominal **MDR of 0.4%** paid by merchants.
+  - **High-Value Cap**: For large commercial transactions of **₹75,000 and above**, MDR is capped at a maximum of **₹300 per transaction**.
+- **Special Categories & Sectoral Exemptions**:
+  - **Small Merchants (P2PM)**: Micro-merchants receiving up to **₹1 Lakh per month** via QR codes are completely **exempt from MDR (0%)**.
+  - **Essential Utilities & Public Services**: Railways, fuel stations, telecom, utilities, insurance, and agricultural inputs attract a flat concessional fee of **₹5 per transaction** for payments above ₹2,000.
+  - **Capital Market Inflows**: Payments to mutual funds and SEBI-registered stockbrokers attract an ultra-low MDR of **0.02%, capped at ₹300**.
+
+🎯 Exam Angle →
+- Effective Implementation Date: **October 15, 2026**.
+- Consumer & P2P Impact: **100% Free / Zero MDR** (banks barred from passing fees to customers).
+- Small Ticket P2M Threshold: Transactions **up to ₹2,000 attract Zero MDR** (covers >95% of volume).
+- Standard Commercial Rate: **0.4%** for transactions above ₹2,000; maximum cap = **₹300** (for transactions ≥ ₹75,000).
+- Small Merchant Exemption: Receiving up to **₹1 Lakh per month** via QR codes.
+- Essential Utilities Flat Fee: **₹5 per transaction** above ₹2,000.
+- Target MCQ Form: "Under the NPCI UPI MDR framework effective October 15, 2026, what is the maximum MDR cap for high-value transactions of ₹75,000 and above?" → **₹300 per transaction**.
+
+---
+
+📰 **RBI Directs "Lien Over Disputed Amount" Protocol & Mandatory AI Monitoring for Transfers ≥ ₹1,000**
+
+- **Genesis & Paradigm Shift in Fraud Containment**: In response to widespread operational harassment caused by blunt, wholesale freezing of bank accounts flagged in cybercrime inquiries, the Reserve Bank of India (**RBI**) issued supervisory directions prohibiting banks from blanket account-freezing.
+- **The "Surgical Lien" Mandate**:
+  - Banks are mandatorily directed to place a **targeted lien strictly on the exact disputed transaction amount** identified in cyber fraud / mule alerts, rather than locking or freezing the entire customer savings or current account.
+  - Restores full operational freedom to customers to transact, deposit, and withdraw legitimately owned balances outside the disputed lien amount.
+- **Mandatory AI-Powered Real-Time Transaction Screening**:
+  - Mandates all commercial banks, payment banks, and fintech payment gateways to deploy **real-time AI-based monitoring tools** for funds transfers of **₹1,000 or more**.
+  - System is programmed to identify behavioral anomalies: sudden high-velocity transfers through newly opened accounts, immediate layering across multiple digital wallets, and transactions disproportionate to historical turnover.
+- **Inter-Agency Coordination via I4C**:
+  - Integrates direct automated API workflows with the **Indian Cyber Crime Coordination Centre (I4C)** under the Ministry of Home Affairs and the National Cybercrime Reporting Portal (NCRP / Citizen Financial Cyber Fraud Reporting System Helpline 1930).
+
+🎯 Exam Angle →
+- Key Operational Shift: **Lien over disputed amount** instead of complete account freezing.
+- AI Screening Floor: Applies to digital transfers of **₹1,000 or more**.
+- Reporting Helpline & Portal: **1930** (Citizen Financial Cyber Fraud Reporting System) operated by **I4C** (MHA).
+- Supervisory Intent: Eliminates collateral disruption for innocent retail customers and legitimate small business accounts caught in mule tracing networks.
+- Target MCQ Form: "Under the RBI's September 2026 cyber fraud mitigation directions, what is the minimum transaction threshold subject to mandatory real-time AI-based anomaly screening?" → **₹1,000**.
 
 ---
 
@@ -992,3 +1077,24 @@
 - Women's Cricket Milestone: **Smriti Mandhana** (highest all-format run-scorer).
 - Badminton Milestone: **Satwik-Chirag** won India's first **China Masters title** (Shenzhen).
 - Pickleball World Cup: India finished **4th with 41 medals** (Da Nang, Vietnam).
+
+---
+
+📰 **Airtel Payments Bank Leadership Transition & World Bank Record $112B Private Capital Milestone**
+
+- **Airtel Payments Bank Board Restructuring**:
+  - **Shabnam Sinha** appointed as the new **Non-Executive Chairperson** of Airtel Payments Bank, effective **October 1, 2026**.
+  - She succeeds **Sunil Bharti Mittal**, who transitioned off the payments bank board to focus on Bharti Enterprises' global telecom satellite expansions (Eutelsat OneWeb).
+  - *Institutional Context*: Airtel Payments Bank was India's first operational payments bank (launched in January 2017); regulated under RBI Payments Bank licensing norms.
+- **World Bank Group Historic Private Capital Mobilization**:
+  - The World Bank Group reported a landmark record for fiscal year 2026, mobilizing over **$112 Billion in private capital** for developing economies—more than tripling the annual volume mobilized four years prior.
+  - Accelerated by the **Private Sector Investment Lab (PSIL)**, focusing on renewable energy transitions, climate resilience, and digital infrastructure across emerging markets.
+- **World Circular Economy Forum (WCEF 2026) in South Asia**:
+  - Hosted in India from **September 15–18, 2026**, marking the forum's inaugural South Asian edition; focused on resource circularity, critical mineral recycling, and bio-economy frameworks.
+
+🎯 Exam Angle →
+- Airtel Payments Bank New Chairperson: **Shabnam Sinha** (takes charge October 1, 2026).
+- First Payments Bank in India: **Airtel Payments Bank** (launched January 2017).
+- World Bank FY26 Private Capital Milestone: **$112 Billion** mobilized.
+- Circular Economy Summit: **WCEF 2026** hosted in India (South Asia's first edition).
+- Target MCQ Form: "Who was appointed as the Non-Executive Chairperson of Airtel Payments Bank in September 2026, succeeding Sunil Bharti Mittal?" → **Shabnam Sinha**.
