@@ -2,6 +2,30 @@
 
 All notable changes to the Current Affairs Dossier repository and Rajputana Gazette Broadsheet System are documented here.
 
+## 🚀 [v2.16] — 2026-09-18
+
+### 🧭 Portal Navigation & Stream Reorganization: Chronological Dossier Flow
+- **Top Sticky Navigation Pill Bar Reordering**:
+  - Reordered dossier pills to prioritize the comprehensive mains anchor and follow chronological progression:
+    1. `35+ STRIKE FILE` (`ibps-master`) [Active on launch]
+    2. `Q1 (JAN-MAR)` (`q1-2026`)
+    3. `APR 2026` (`apr-2026`)
+    4. `MAY 2026` (`may-2026`)
+    5. `JUN 2026` (`jun-2026`)
+    6. `JUL 2026` (`jul-2026`)
+    7. `AUG 2026` (`aug-2026`)
+    8. `SEP 2026` (`sep-2026`)
+    9. Upcoming slots: `OCT 2026`, `NOV 2026`, `DEC 2026`.
+- **Default Landing & Stream Synchronization**:
+  - Initial active document on portal load configured to `35+ STRIKE FILE` (`ibps-master`), immediately populating the left sticky navigation rail with the 10 IBPS Master section anchors.
+  - Central stream (`<main class="portal-centre-content">`) `<article class="document-card">` DOM structure updated to mirror the chronological progression (`ibpsDocument`, `q1Document`, `aprilDocument`, `mayDocument`, `juneDocument`, `julyDocument`, `augustDocument`, `septemberDocument`).
+  - Client-side navigation engine updated: `activeMonthId = 'ibps-master'`, `validMonths` array sequence aligned, and initial `selectMonth('ibps-master')` state initialized.
+- **Repository Invariants Maintained**:
+  - Total active clusters: Exactly 632 clusters preserved (IBPS: 151, Q1: 91, Apr: 55, May: 35, Jun: 61, Jul: 44, Aug: 133, Sep: 62).
+  - Total active sections: Exactly 70 sections preserved.
+  - 0 interactive checkboxes (`<input type="checkbox">`) and 0 heading hashes (`#`).
+  - Bit-for-bit parity verified: `current_affairs_hub.html === index.html`.
+
 ## 🚀 [v2.15] — 2026-09-18
 
 ### 🏦 Yes Officer "SBI IBPS PO Mains Marathon" Audit & Regulatory Directives Ingestion
