@@ -261,6 +261,52 @@
 
 ---
 
+📰 **RBI KYC Master Directions — 'Small Account' Regulatory Architecture & Statutory Caps**
+- **Statutory Genesis & Applicability**: Governed by the **RBI Master Direction – Know Your Customer (KYC) Directions, 2016** and the Prevention of Money-Laundering (Maintenance of Records) Rules, 2005; permits individuals who do not possess Officially Valid Documents (OVDs) to open a basic banking account on simplified self-attestation.
+- **Strict Prudential Operating Ceilings**:
+  - **Aggregate Credits**: Total credits in a financial year must **NOT exceed ₹1,00,000 (₹1 Lakh)**.
+  - **Aggregate Withdrawals / Transfers**: Total withdrawals and transfers in a calendar month must **NOT exceed ₹10,000**.
+  - **Account Balance Ceiling**: The balance at any point in time must **NOT exceed ₹50,000**.
+- **Statutory Operational Restrictions & Validity**:
+  - **Initial Validity**: Remains operational for an initial period of **12 months**.
+  - **Extension Window**: Extendable for another **12 months** (total 24 months) if the account holder presents official evidence of having applied for an Officially Valid Document (OVD) within the initial 12 months.
+  - **Geographical & Channel Bounds**: Small accounts can only be operated at **Core Banking Solution (CBS)** linked bank branches or through the bank's authorized Business Correspondent (BC) network.
+  - **Remittance Embargo**: Foreign inward and outward remittances are **strictly prohibited** in small accounts.
+
+🎯 Exam Angle →
+
+- Balance Ceiling vs Annual Credit: Balance at ANY time cannot exceed **₹50,000**; Annual credit cannot exceed **₹1,00,000** (₹1 Lakh); Monthly withdrawal cap is **₹10,000**.
+- Validity Period Trap: Valid initially for **12 months**; extendable by **12 months** (maximum 24 months with proof of OVD application).
+- Foreign Remittance Rule: Foreign inward remittances are **strictly disallowed** in Small Accounts.
+- Target MCQ Form: "Under the RBI KYC Master Directions, what is the maximum balance permitted at any point in time in a 'Small Account'?" → ₹50,000.
+
+---
+
+📰 **Statutory Acts Matrix: Administered by RBI vs. Ministry of Finance & Other Regulators**
+- **Sovereign Statutory Division of Regulatory Powers**: Banking exams frequently set trap questions swapping Acts administered directly by the Reserve Bank of India with those administered by Central Board of Direct Taxes (CBDT), Ministry of Finance, or other statutory watchdogs.
+- **Statutory Acts Directly Administered / Enforced by RBI**:
+  - **Reserve Bank of India Act, 1934**: RBI constitution, currency issue, CRR, and Monetary Policy Committee.
+  - **Banking Regulation Act, 1949**: Licensing, SLR, prudential inspections, management appointments, and Section 35A binding directives.
+  - **Foreign Exchange Management Act (FEMA), 1999**: Administration and regulation of foreign exchange, cross-border capital flows, and external commercial borrowings.
+  - **Government Securities Act, 2006 (and G-Sec Regulations, 2007)**: Administration of sovereign debt, primary auctions, subsidiary general ledger (SGL) accounts, and retail direct gilt infrastructure.
+  - **Payment and Settlement Systems Act, 2007 (PSS Act)**: Regulation and supervision of clearing corporations, RTGS, NEFT, UPI, pre-paid payment instruments (PPIs), and card payment networks.
+  - **Credit Information Companies (Regulation) Act, 2005 (CICRA)**: Licensing and supervision of credit information bureaus (CIBIL, Equifax, Experian, CRIF High Mark).
+  - **Factoring Regulation Act, 2011**: Registration and regulation of factoring companies and TReDS trade discount platforms.
+- **Examiner Trap Acts (Administered by Other Authorities, NOT RBI)**:
+  - **Prohibition of Benami Property Transactions Act, 1988**: Administered by the **Central Board of Direct Taxes (CBDT) / Department of Revenue, Ministry of Finance** (Initiating Officer / Adjudicating Authority).
+  - **Prevention of Money Laundering Act (PMLA), 2002**: Administered by the **Directorate of Enforcement (ED)** and **Financial Intelligence Unit - India (FIU-IND)** under Department of Revenue, Ministry of Finance.
+  - **Securities Contracts (Regulation) Act, 1956 & SEBI Act, 1992**: Administered by **Securities and Exchange Board of India (SEBI)**.
+  - **Insurance Act, 1938 & IRDAI Act, 1999**: Administered by **IRDAI**.
+  - **PFRDA Act, 2013**: Administered by **PFRDA**.
+
+🎯 Exam Angle →
+
+- The Benami Trap: The *Prohibition of Benami Property Transactions Act, 1988* is administered by **CBDT / Ministry of Finance**, NEVER RBI.
+- G-Sec Act Administration: The *Government Securities Act, 2006* is administered by **RBI**, not SEBI or MoF directly.
+- Target MCQ Form: "Which of the following acts is NOT administered by the Reserve Bank of India?" → Prohibition of Benami Property Transactions Act, 1988.
+
+---
+
 ## 1. 🏛️ RBI POLICY, MASTER DIRECTIONS & PRUDENTIAL NORMS
 
 📰 **Monetary Policy Committee (MPC) — Benchmark Rate Corridor Trajectory**
@@ -715,6 +761,29 @@
 - Operational Stage Provisioning Drops: Drops to **2.5% at COD**, and further to **1.0% upon debt repayment (20% paydown)**.
 - Essential Viability Metric: Must establish a **positive Net Present Value (NPV)**.
 - Target MCQ Form: "Under the RBI Draft Prudential Framework for Project Finance, what is the proposed standard asset provisioning requirement during the construction phase of project loans?" → 5.0%.
+
+---
+
+📰 **IRDAI Policyholders' Education and Protection Fund (PEPF) & Unclaimed Policy Framework**
+- **Regulatory Genesis & Operationalisation**: The Insurance Regulatory and Development Authority of India (**IRDAI**) notified the comprehensive framework operationalising the **Policyholders' Education and Protection Fund (PEPF)** to institutionalise consumer financial literacy, empower grievance redressal, and track unclaimed insurance balances.
+- **Core Statutory Objectives**:
+  - Promote insurance awareness, financial literacy, and education among policyholders and prospective insurance buyers.
+  - Strengthen consumer grievance handling infrastructure and dispute escalation mechanisms across insurers.
+  - Facilitate search, tracking, and seamless recovery of long-pending **unclaimed insurance policy amounts** for legitimate beneficiaries across life, health, and general insurers.
+- **Funding & Accrual Architecture**:
+  - Fed by unclaimed insurance amounts remaining with insurers for more than **10 years** (which transfer annually to the Senior Citizens' Welfare Fund / SCWF under the Finance Act, 2015, with interest proceeds routed to PEPF).
+  - Income and returns generated on fund investments, statutory penalties, and dedicated budgetary contributions approved by IRDAI.
+- **Regulatory Triad Comparison (Examiner Benchmark)**:
+  - **IRDAI**: *Policyholders' Education and Protection Fund (PEPF)*.
+  - **RBI**: *Depositor Education and Awareness (DEA) Fund* (unclaimed bank deposits >10 years under Section 26A of Banking Regulation Act).
+  - **MCA / SEBI**: *Investor Education and Protection Fund (IEPF)* (unclaimed corporate dividends/shares >7 years under Section 125 of Companies Act, 2013).
+
+🎯 Exam Angle →
+
+- Fund Name: **Policyholders' Education and Protection Fund (PEPF)** under IRDAI.
+- Core Mandate: Insurance awareness, grievance redressal, and recovery of unclaimed policy amounts.
+- Regulators Triad Trap: DEA Fund is **RBI**; IEPF is **MCA/SEBI**; PEPF is **IRDAI**.
+- Target MCQ Form: "Which fund was operationalised by IRDAI to promote insurance awareness, strengthen grievance redressal, and facilitate recovery of unclaimed policy amounts?" → Policyholders' Education and Protection Fund (PEPF).
 
 ---
 
@@ -1820,6 +1889,48 @@
 
 ---
 
+📰 **PM Vidyalaxmi Scheme: Central Sector Collateral-Free Higher Education Loan Architecture**
+- **Cabinet Approval & Mission Scope**: The Union Cabinet approved the **PM Vidyalaxmi Scheme** on **November 6, 2024** as a central sector scheme under the Ministry of Education to ensure no meritorious student is denied higher education due to financial constraints.
+- **Institutional Eligibility (Top 860 QHEIs)**:
+  - Applicable to all students admitted to the **Top 860 Quality Higher Education Institutions (QHEIs)** in the country.
+  - Includes all institutions ranked in the **Top 100 overall, category-specific, and domain-specific NIRF rankings**, plus government higher education institutions.
+- **Prudential Financing & Guarantee Architecture**:
+  - **Collateral & Guarantor Free**: Financial institutions provide **100% collateral-free and guarantor-free education loans** covering tuition fees and course-related expenses.
+  - **75% Credit Guarantee**: Government of India provides a **75% credit guarantee** on outstanding default balances for loan amounts **up to ₹7.5 Lakh**, encouraging commercial banks to lend aggressively.
+  - **3% Interest Subvention**: Students with annual gross family income **up to ₹8 Lakh** (and not availing other scholarships) receive a **3% interest subvention** during the moratorium period on loan amounts **up to ₹10 Lakh** (benefiting ~1 lakh students annually).
+  - **Full Interest Subvention**: Students with family income **up to ₹4.5 Lakh** continue to receive full interest subvention under the Central Sector Interest Subsidy (CSIS / PM-USP).
+- **Scale Milestone**: Crossed **1,12,817 sanctioned collateral-free education loans** within months of nationwide unified portal rollout.
+
+🎯 Exam Angle →
+
+- Cabinet Approval Date: **November 6, 2024**.
+- Institutional Scope: Top **860 Quality Higher Education Institutions (QHEIs)** as per NIRF.
+- Credit Guarantee Floor: Government provides **75% credit guarantee** for loans up to **₹7.5 Lakh**.
+- Income Slab for 3% Subvention: Family income **up to ₹8 Lakh** per annum.
+- Target MCQ Form: "Under the PM Vidyalaxmi Scheme, what percentage of credit guarantee is provided by the Central Government for loans up to ₹7.5 Lakh?" → 75%.
+
+---
+
+📰 **Atal Beemit Vyakti Kalyan Yojana (ABVKY) & ESIC Social Security Net**
+- **Institutional Governance**: Administered by the **Employees' State Insurance Corporation (ESIC)** under the Ministry of Labour and Employment, enacted under Section 2(9) and Section 46 of the ESI Act, 1948.
+- **Core Unemployment Relief Architecture**:
+  - Provides cash relief directly to the bank accounts of Insured Persons (IPs) who face involuntary unemployment or job loss.
+  - **Relief Quantum**: Payout of **50% of the average daily earnings** for a maximum duration of **up to 90 days** in a lifetime.
+- **Relaxed Eligibility Conditions**:
+  - The insured person must have been in insurable employment for a minimum period of **two years** prior to unemployment.
+  - Must have contributed for not less than **78 days** in each of the four contribution periods immediately preceding unemployment.
+  - Claim payable within **30 days** of filing (reduced from earlier 90-day waiting period).
+- **Statutory Scheme Extension**: ESIC officially approved successive extensions of the scheme through **June 30, 2026** (and ongoing regulatory review) to protect formal-sector workers against cyclical job shocks.
+
+🎯 Exam Angle →
+
+- Implementing Agency: **Employees' State Insurance Corporation (ESIC)**, Ministry of Labour and Employment.
+- Payout Rate: Cash relief of **50% of average daily earnings** for up to **90 days**.
+- Incurred Contribution Requirement: Minimum **78 days of contribution** in preceding periods.
+- Target MCQ Form: "What is the maximum duration for which unemployment relief is payable to an insured worker under the Atal Beemit Vyakti Kalyan Yojana (ABVKY)?" → 90 days.
+
+---
+
 ## 6. ⚡ SOVEREIGN INDUSTRIAL MISSIONS, DEEP-TECH & GREEN ENERGY
 
 📰 **India Semiconductor Mission (ISM) & Sovereign Fab Sanctions**
@@ -1999,10 +2110,40 @@
 - International Safety Accord: **Hong Kong Convention (HKC)** of the International Maritime Organization (IMO).
 - Target MCQ Form: "Which global milestone did India achieve 5 years ahead of schedule under the Maritime India Vision 2030?" → Becoming the World's Largest Ship Recycling Nation.
 
+---
 
+📰 **DRDO Long-Range Hypersonic Maritime Missile (LR-AShM / Mach 10)**
+- **Strategic Flight Test Milestone**: Defence Research and Development Organisation (**DRDO**) successfully conducted the flight test of its indigenous **Long-Range Anti-Ship Missile (LR-AShM)** / Hypersonic Glide demonstrator off the coast of Odisha from **Dr. APJ Abdul Kalam Island**.
+- **Extreme Kinetic & Flight Parameters**:
+  - **Operational Strike Range**: Exceeds **1,500 kilometers**, providing unprecedented anti-access/area-denial (A2/AD) capabilities across the Indian Ocean Region.
+  - **Velocity Ceiling**: Capable of sustaining flight speeds of **up to Mach 10** (extreme hypersonic regime, substantially exceeding Mach 5).
+  - **Manoeuvring Flight Path**: Powered by solid-propellant rocket booster stages and high-altitude hypersonic glide avionics capable of evasive mid-course manoeuvres to defeat modern shipborne anti-missile air defence shields.
+- **Operational Integration**: Developed to equip front-line Indian Navy destroyers and coastal missile batteries, positioning India among an elite group of nations (USA, Russia, China) possessing verified long-range hypersonic maritime strike technology.
+
+🎯 Exam Angle →
+
+- Strike Range: Exceeding **1,500 km**.
+- Velocity: Speeds of **up to Mach 10** (hypersonic domain).
+- Test Location: **Dr. APJ Abdul Kalam Island (Wheeler Island), Odisha coast**.
+- Target MCQ Form: "What is the strike range and maximum speed capability of the DRDO-developed hypersonic maritime missile tested off the Odisha coast?" → Strike range > 1,500 km, Speed up to Mach 10.
 
 ---
 
+📰 **Pioneering State AI Cabinet Portfolios & Sovereign Tech Governance**
+- **Historic Institutional First**: The State Government of **Andhra Pradesh** issued a landmark State Gazette order formally creating India's first dedicated Cabinet-level **Department of Artificial Intelligence, Cloud Infrastructure & Emerging Technologies**.
+- **Governance Mandate**:
+  - Formulates sovereign AI governance guidelines, responsible AI deployment, and data centre regulatory frameworks.
+  - Established a dedicated ministerial portfolio to attract global deep-tech hyperscale data centres, GPU clusters, and autonomous systems manufacturing.
+  - Integrates AI-driven public service delivery, precision agriculture analytics, and administrative grievance processing.
+- **National Benchmark**: Precedent followed by ministerial-level AI and digital task forces across Telangana and Karnataka, signaling the decentralization of deep-tech economic policy to state administrative structures.
+
+🎯 Exam Angle →
+
+- First State with AI Cabinet Portfolio: **Andhra Pradesh** (issued via state Gazette order).
+- Focus: Artificial Intelligence, GPU clusters, and emerging technology governance.
+- Target MCQ Form: "Which Indian state became the first in the country to create a dedicated Artificial Intelligence portfolio at the cabinet level through an official Gazette order?" → Andhra Pradesh.
+
+---
 
 ## 7. 🌐 MULTILATERAL LOANS, BILATERAL ACCORDS & GIFT CITY
 
@@ -2373,9 +2514,27 @@
 - UIDF City Focus: Targeted exclusively at **Tier-2 and Tier-3 cities**.
 - Target MCQ Form: "Which financial institution is responsible for managing the Urban Infrastructure Development Fund (UIDF) established with an annual corpus of ₹10,000 Crore?" → National Housing Bank (NHB).
 
-
 ---
 
+📰 **Financial Action Task Force (FATF) — India's Historic Vice-Presidency Leadership**
+- **Historic Leadership Breakthrough**: In June 2026, the **Financial Action Task Force (FATF)** elected and appointed India to its executive leadership as **Vice-President of FATF for a one-year term from July 2026 to June 2027**.
+- **First-Ever Indian Entry**: Marks India's **first-ever accession to the FATF Vice-Presidency / Presidency hierarchy** since joining the 40-member intergovernmental body as a full member in **2010**.
+- **Institutional Context & Mutual Evaluation Backing**:
+  - Follows the unanimous adoption of India's **Mutual Evaluation Report (MER)** at the FATF Plenary in Singapore (June 2024), where India was placed in the highest rating tier ('Regular Follow-up' / High Compliance alongside only a handful of G20 nations).
+  - India plays an active role in shaping global standards on countering terrorist financing (CFT), anti-money laundering (AML), and regulating virtual digital asset (crypto) transactions.
+- **FATF Institutional Profile**:
+  - Established: **1989 at G7 Summit in Paris**.
+  - Headquarters: **Paris, France** (at OECD headquarters).
+  - Membership: 40 members (38 countries + 2 regional organizations: European Commission and GCC).
+
+🎯 Exam Angle →
+
+- Term of Leadership: **July 2026 to June 2027** (one-year Vice-Presidency).
+- Historic Context: **First-ever Indian entry** into FATF executive leadership since joining in 2010.
+- Headquarters: **Paris, France** (established 1989 at G7 summit).
+- Target MCQ Form: "Who was appointed to the Vice-Presidency of the Financial Action Task Force (FATF) for the term July 2026 to June 2027, marking the country's first-ever entry into the body's leadership?" → India.
+
+---
 
 ## 9. 🌐 GLOBAL INDICES, BENCHMARK REPORTS & HONOURS
 
@@ -2557,9 +2716,28 @@
 - Nationality Milestone: Jenny Erpenbeck is the **first German writer** to win the International Booker Prize.
 - Target MCQ Form: "Which novel won the International Booker Prize 2024, making its author Jenny Erpenbeck the first German writer to achieve this honour?" → Kairos.
 
-
 ---
 
+📰 **Environmental Performance Index (EPI) 2026 — Yale/Columbia Component Framework**
+- **Institutional Architecture & Methodology**: Published biennially by the **Yale Center for Environmental Law & Policy** and **Columbia University's Center for International Earth Science Information Network (CIESIN)**; evaluates **180 countries** across 58 performance indicators.
+- **The Three Core Policy Objectives & India's Ranks**:
+  - **1. Environmental Health**: Measures protection of human health from environmental hazards (air quality, sanitation & drinking water, heavy metals, waste management). India ranked **174th out of 180 countries**.
+  - **2. Ecosystem Vitality**: Measures ecosystem health, conservation of natural resources, biodiversity & habitat protection, forests, fisheries, and agricultural sustainability. India ranked **171st out of 180 countries**.
+  - **3. Climate Change Mitigation**: Evaluates greenhouse gas emissions trajectories, net-zero commitment pace, and carbon intensity of economic growth. India ranked **130th out of 180 countries**.
+- **India's Overall Placement**: India was placed **176th overall** with an aggregate score of 27.6, reflecting severe pressures in urban air quality and biodiversity loss, while outperforming its aggregate score on renewable capacity ramp-up.
+- **Global Leaders**: **Estonia** ranked 1st globally, followed by **Denmark (2nd)** and the **United Kingdom (3rd)**.
+
+🎯 Exam Angle →
+
+- Publishers: **Yale University & Columbia University**.
+- The 3 Sub-Objective Ranks for India:
+  - Environmental Health: **174th**.
+  - Ecosystem Vitality: **171st**.
+  - Climate Change: **130th**.
+- Overall Rank: **176th / 180**.
+- Target MCQ Form: "Under the Environmental Performance Index (EPI), what was India's rank under the Environmental Health and Ecosystem Vitality objectives?" → 174th and 171st respectively.
+
+---
 
 ## 10. 🎯 CURATED HIGH-YIELD STRIKE GRIDS: SCHEMES, SPORTS, DAYS & STATIC ANCHORS
 
@@ -2658,3 +2836,21 @@
 | **Stand-Up India Scheme** (SUI) | **April 5, 2016**<br>Ministry of Finance | **SC, ST, and Women entrepreneurs** (greenfield enterprise) | Composite loan: **₹10 Lakh to ₹100 Lakh (₹1 Crore)** | Repayable in **7 years** with up to **18 months moratorium**; margin money up to **15%** | Credit Guarantee Fund for Stand Up India (CGFSI) / NCGTC |
 | **PM SVANidhi** (PM Street Vendor's AtmaNirbhar Nidhi) | **June 1, 2020**<br>MoHUA | Urban street vendors vending on or before March 24, 2020 | • **1st Tranche**: Up to **₹10,000** (1-year term)<br>• **2nd Tranche**: Up to **₹20,000**<br>• **3rd Tranche**: Up to **₹50,000** | **7% interest subsidy** credited quarterly via DBT; cash-back up to ₹1,200/yr for digital transactions | SIDBI (Credit Guarantee: CGTMSE) |
 | **PM Vishwakarma Scheme** | **September 17, 2023**<br>Ministry of MSME | Artisans and craftspersons across **18 traditional trades** (age 18+) | • **1st Tranche**: Up to **₹1,00,000** (18-month tenure)<br>• **2nd Tranche**: Up to **₹2,00,000** (30-month tenure)<br>• **Toolkit Grant**: **₹15,000** | Concessional interest rate of **5%** (8% subvention by MoMSME); **₹500/day** training stipend | MoMSME, MoSDE, and DFS MoF (Credit Guarantee: NCGTC) |
+
+---
+
+### 🏛️ Strike Grid 7: Landmark Banking Reform Committees & Statutory Genesis Matrix
+
+| Committee Name & Year | Chairperson & Mandate | Key Landmark Recommendations & Impact | High-Yield Examiner Trap / Distractor |
+| :--- | :--- | :--- | :--- |
+| **Narasimham Committee I (1991)** | **M. Narasimham**<br>Committee on the Financial System | • Phased reduction in **CRR (down to 3-5%)** and **SLR (down to 25%)**<br>• Introduction of **Prudential Norms (IRAC)**: 90-day NPA classification<br>• 4-tier banking structure (3-4 international banks, 8-10 national banks, local/rural banks)<br>• Deregulation of interest rates and establishment of **Debt Recovery Tribunals (DRTs)** | • Trap: Narasimham I was 1991 (Financial System); Narasimham II was 1998 (Banking Reforms).<br>• IRAC norms and DRTs were recommended by Narasimham I. |
+| **Narasimham Committee II (1998)** | **M. Narasimham**<br>Committee on Banking Sector Reforms | • Capital Adequacy (**CRAR**) enhancement to **9%** (aligned with Basel norms)<br>• Creation of **Asset Reconstruction Companies (ARCs)** to take over bad loans<br>• Autonomy to PSB Boards and revision of Banking Regulation Act Section 35A guidelines<br>• Concept of **Universal Banking** (merging DFIs with commercial banks) | • Trap: Capital adequacy hike to 9% and ARCs were recommended by **Narasimham-II (1998)**.<br>• Led to the enactment of the SARFAESI Act, 2002. |
+| **R.V. Gupta Committee (1998)** | **R.V. Gupta** (Deputy Governor, RBI)<br>Committee on Agricultural Credit | • Conceptualisation and launch of the **Kisan Credit Card (KCC)** scheme<br>• Simplification of agricultural loan appraisal, sanction procedures, and collateral norms | • Trap: Recommended the Kisan Credit Card (KCC) framework (introduced in 1998 by NABARD/RBI). |
+| **Khan Committee (1998)** | **S.H. Khan** (Chairman, IDBI)<br>Working Group on DFIs and Banks | • Structural transition to **Universal Banking** in India<br>• Removal of operational boundaries between Development Financial Institutions (DFIs) and Commercial Banks<br>• Paved the way for ICICI and IDBI transforming into commercial banks | • Recommended Universal Banking framework in India (ICICI Bank reverse merger, IDBI Bank transformation). |
+| **Raghuram Rajan Committee (2008)** | **Raghuram Rajan**<br>Committee on Financial Sector Reforms | • Report titled: *"A Hundred Small Steps"*<br>• Recommended entry of **Small Finance Banks**, liberalized branch licensing, and electronic trade receivables discount system (TReDS)<br>• Conceptualized shift toward formal inflation targeting | • Known as the *"A Hundred Small Steps"* report.<br>• Laid conceptual foundation for differentiated banking licences. |
+| **Nachiket Mor Committee (2014)** | **Nachiket Mor**<br>Committee on Comprehensive Financial Services for Small Businesses and Low-Income Households | • Recommended two new categories of **Differentiated Banks**: **Payments Banks** and **Small Finance Banks (SFBs)**<br>• Mandatory Universal Electronic Bank Account (UEBA) for all adult citizens<br>• Priority Sector Lending (PSL) obligation reforms | • Trap: Recommended **Payments Banks & SFBs** (NOT universal banks).<br>• Recommended priority sector lending guidelines recalibration. |
+| **Urjit Patel Committee (2014)** | **Dr. Urjit Patel**<br>Committee to Revise and Strengthen the Monetary Policy Framework | • Adoption of **Flexible Inflation Targeting (FIT)** with headline **Consumer Price Index (CPI)** as the primary anchor<br>• Target inflation rate of **4% with a tolerance band of ±2% (2% to 6%)**<br>• Recommended creation of the statutory 6-member **Monetary Policy Committee (MPC)** under RBI Act | • Shifted India's policy anchor from Wholesale Price Index (WPI) to **CPI Combined**.<br>• Statutory 6-member MPC under Section 45-ZB. |
+| **B. Sivaraman Committee (1981)** | **B. Sivaraman**<br>Committee to Review Arrangements for Institutional Credit for Agriculture and Rural Development (CRAFICARD) | • Statutory establishment of **National Bank for Agriculture and Rural Development (NABARD)**<br>• Transferred agricultural credit functions of RBI and ACD to NABARD under NABARD Act, 1981 (inaugurated **12 July 1982**) | • CRAFICARD report led to the formation of **NABARD** on **12 July 1982**. |
+| **Hilton Young Commission (1926)** | **Edward Hilton Young**<br>Royal Commission on Indian Currency and Finance | • Recommended creation of a central bank for India<br>• Led to the enactment of the **Reserve Bank of India Act, 1934** and RBI commencing operations on **April 1, 1935** | • Led to the creation of **RBI** in 1935. |
+| **A.D. Gorwala Committee (1951)** | **A.D. Gorwala**<br>All India Rural Credit Survey Committee | • Recommended amalgamation and conversion of the Imperial Bank of India into a state-partnered national institution<br>• Led to the enactment of **State Bank of India Act, 1955** and formation of **SBI on July 1, 1955** | • Led to the creation of **State Bank of India (SBI)** in 1955. |
+

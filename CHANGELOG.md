@@ -2,6 +2,30 @@
 
 All notable changes to the Current Affairs Dossier repository and Rajputana Gazette Broadsheet System are documented here.
 
+## 🚀 [v2.17] — 2026-09-20
+
+### 🛡️ Mock Test & PYQ Diagnostic Ingestion: Static Banking & Regulatory Gap Fortification
+- **Comprehensive 45-Question Mock Audit**:
+  - Systematically evaluated all 45 questions from candidate mock examination.
+  - Classified questions into 4 rigorous tiers: Direct Hits in Notes (12 items / 27%), Static Banking/GK (8 items / 18%), Content Gaps (11 items / 24%), and Low-Grade Mock Distortion/PR Noise (14 items / 31%).
+- **IBPS Master Dossier Ingestion (`IBPS_MAINS_35PLUS_MASTER_JAN_SEPT.md`)**:
+  - **1. RBI KYC Master Directions — 'Small Account' Architecture** *(Section 0)*: Aggregate credits ceiling (≤ ₹1,00,000/yr), monthly withdrawals/transfers cap (≤ ₹10,000), balance cap (≤ ₹50,000), 12-month initial validity (extendable by 12 months on OVD application proof), and foreign remittance embargo.
+  - **2. Statutory Acts Matrix (Administered by RBI vs MoF/CBDT/Other Regulators)** *(Section 0)*: Explicit demarcation of RBI-administered Acts (RBI Act 1934, BR Act 1949, FEMA 1999, G-Sec Act 2006, PSS Act 2007, CICRA 2005, Factoring Act 2011) vs Examiner Traps (Prohibition of Benami Property Transactions Act, 1988 administered by CBDT/MoF; PMLA administered by ED/FIU-IND; SEBI Act; IRDAI Act).
+  - **3. IRDAI Policyholders' Education and Protection Fund (PEPF)** *(Section 1)*: IRDAI framework operationalising PEPF for consumer awareness, grievance redressal, and recovery of >10-year unclaimed insurance amounts; comparison matrix with DEA Fund (RBI) and IEPF (MCA/SEBI).
+  - **4. PM Vidyalaxmi Scheme (₹7.5L Guarantee & ₹8L Income Slab)** *(Section 5)*: Cabinet approval (6 Nov 2024) for Top 860 QHEIs (NIRF); 100% collateral-free & guarantor-free loans; 75% credit guarantee up to ₹7.5 Lakh; 3% interest subvention up to ₹8 Lakh family income (full subvention up to ₹4.5 Lakh under CSIS); 1,12,817 loans sanctioned milestone.
+  - **5. Atal Beemit Vyakti Kalyan Yojana (ABVKY) & ESIC Social Security Net** *(Section 5)*: Involuntary unemployment cash relief of 50% average daily earnings for up to 90 days; 78-day contribution condition; extended through June 30, 2026.
+  - **6. DRDO Long-Range Hypersonic Maritime Missile (LR-AShM / Mach 10)** *(Section 6)*: Flight tested off APJ Abdul Kalam Island, Odisha; strike range >1,500 km; velocity up to Mach 10; naval anti-access/area-denial (A2/AD).
+  - **7. Pioneering State AI Cabinet Portfolios & Sovereign Tech Governance** *(Section 6)*: Andhra Pradesh State Gazette notification creating India's first Cabinet-level Department and Minister for AI, Cloud Infrastructure & Emerging Technologies.
+  - **8. FATF — India's Historic Vice-Presidency Leadership** *(Section 8)*: India elected Vice-President of the Financial Action Task Force for July 2026 to June 2027; first-ever Indian entry into FATF executive leadership since joining in 2010.
+  - **9. Environmental Performance Index (EPI) 2026 Component Framework** *(Section 9)*: Yale/Columbia 3 core objectives: Environmental Health (India 174th), Ecosystem Vitality (India 171st), Climate Change (India 130th); Overall Rank: 176th / 180.
+  - **10. New Strike Grid 7 (Landmark Banking Reform Committees & Statutory Genesis Matrix)** *(Section 10)*: 10-row master matrix codifying Narasimham-I (1991), Narasimham-II (1998), R.V. Gupta (1998 - KCC), Khan (1998 - Universal Banking), Raghuram Rajan (2008 - Small Finance Banks), Nachiket Mor (2014 - Payments Banks & SFBs), Urjit Patel (2014 - FIT/MPC/CPI), B. Sivaraman (1981 - NABARD), Hilton Young (1926 - RBI), and A.D. Gorwala (1951 - SBI).
+- **Portal & Invariant Verification**:
+  - IBPS Master Dossier clusters increased from 151 to **160 clusters** (+9).
+  - Total rendered clusters across all 8 monthly dossiers elevated from 632 to **641 clusters** (+9).
+  - Exact 70 sections preserved across all dossiers.
+  - Invariants strictly validated: 0 checkboxes, 0 heading hashes (`#`), clean broadsheet typography.
+  - Bit-for-bit parity verified: `current_affairs_hub.html === index.html`.
+
 ## 🚀 [v2.16] — 2026-09-18
 
 ### 🧭 Portal Navigation & Stream Reorganization: Chronological Dossier Flow
