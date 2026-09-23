@@ -2,6 +2,40 @@
 
 All notable changes to the Current Affairs Dossier repository and Rajputana Gazette Broadsheet System are documented here.
 
+## 🚀 [v2.19] — 2026-09-23
+
+### 🏛️ 16th Finance Commission Master Blueprint Ingestion (`16th_Finance_Commission_lyst1770203027654.pdf`)
+- **Apex Institutional Upgrade in `IBPS_MAINS_35PLUS_MASTER_JAN_SEPT.md`**:
+  - Replaced preliminary 4-line stub with the complete, definitive **16th Finance Commission Comprehensive Architecture & Blueprint (2026–2031)** based on CrackGradeB/CGB Mentors official release analysis.
+  - **Full Commission & Advisory Council**: Documents Chairman Dr. Arvind Panagariya, Secretary Ritvik Ranjanam Pandey, Full-Time Members Smt. Annie George Mathew & Dr. Manoj Panda, Part-Time Members Dr. Soumya Kanti Ghosh (SBI Chief Economic Advisor) & Shri T. Rabi Sankar (RBI Deputy Governor), and the 5-member Advisory Council convened by Dr. Poonam Gupta.
+  - **Report Deadline Extension**: Noted extension to November 30, 2025 (notified Oct 10, 2025; original Oct 31, 2025).
+  - **Vertical Devolution & Reform**: Retains divisible pool at **41%**; explicitly documents the landmark discontinuation of **Revenue Deficit Grants (RDGs)** under Article 275(1) to curb moral hazard and discom debt conversions; zero sector/state-specific grants.
+  - **Horizontal Devolution 6-Pillar Formula**:
+    1. Per Capita GSDP Distance: **42.5%** (linear benchmark average of top 3 States)
+    2. Population (2011 Census): **17.5%**
+    3. Area: **10.0%** (minimum floor lowered from 2% to 1.5%)
+    4. Forest Cover & Ecology: **10.0%** (rewards 2015–2023 forest expansion)
+    5. Demographic Performance: **10.0%** (shifts from TFR to inverse population growth 1971–2011)
+    6. Contribution to GDP: **10.0%** (**New Efficiency Pillar** replacing Tax Effort; square root of GSDP)
+  - **Inter-Se Devolution Rankings**: Top 6 States (UP 17.619%, Bihar 9.948%, MP 7.347%, WB 7.215%, Maharashtra 6.441%, Rajasthan 5.926%).
+  - **Local Body Grants Architecture (₹7,91,493 Cr Outlay)**:
+    - 60% Rural Local Bodies (RLBs) : 40% Urban Local Bodies (ULBs).
+    - 80% Basic Component (50% Tied for Water/SWM : 50% Untied; max 20% on roads; 0% salaries/establishment) : 20% Performance Component (100% Untied; 10% Local Body + 10% State).
+    - ₹10,000 Cr Urbanisation Premium (₹2,000/person for peri-urban mergers into ULBs $\ge$ 1 lakh).
+    - ₹56,100 Cr Special Infrastructure Component for wastewater/drainage in cities 10–40 lakh pop (60:40 Union:State/ULB; max 2 cities per State).
+    - Mandatory 10 working days transfer window for States, penalized at SDL borrowing rates.
+  - **Disaster Management Financing (₹2,04,401 Cr State Corpus)**:
+    - 80% SDRF (₹1,63,521 Cr) : 20% SDMF (₹40,880 Cr); 75:25 (Non-NEH) and 90:10 (NEH).
+    - 3-year unspent SDRF withholding ceiling; ₹79,406 Cr NDRF/NDMF; mandatory NDMIS portal validation by May 31 from FY28.
+  - **Macro-Fiscal Discipline & FRBM Anchors**:
+    - State Fiscal Deficit strictly capped at **3.0% of GSDP** under Article 293(3).
+    - Union Fiscal Deficit target anchored at **3.5% of GDP** by FY31.
+    - Complete ban on off-budget borrowings for States.
+- **Broadsheet Hub & Parity**:
+  - Recompiled broadsheet portal via `md-to-html-system/build_all.js`.
+  - Bit-for-bit parity maintained: `current_affairs_hub.html === index.html` (2,073,570 bytes).
+  - 0 checkboxes, 0 heading hashes, 81 sections preserved.
+
 ## 🚀 [v2.18] — 2026-09-23
 
 ### 📑 CGB Mentors September Daily PDFs Ingestion (September 11–22, 2026 Complete Integration)

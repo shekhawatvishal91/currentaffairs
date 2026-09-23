@@ -1488,20 +1488,60 @@
 
 ---
 
-📰 **Sixteenth Finance Commission (16th FC) Mandate & Governance**
-- **Constitutional Basis**: Formed under **Article 280** of the Constitution of India with **Dr. Arvind Panagariya** (former Vice Chairman of NITI Aayog) appointed as Chairman.
-- **Terms of Reference (ToR)**:
-  1. Distribution of net proceeds of taxes between Union and States (vertical devolution) and allocation among states (horizontal devolution).
-  2. Principles governing grants-in-aid to states under Article 275.
-  3. Measures to augment Consolidated Funds of States to supplement resources of Panchayats and Municipalities.
-  4. Financing of Disaster Management initiatives under Disaster Management Act, 2005.
-- **Submission & Award Period**: The 16th FC will submit its report by **October 31, 2025**, covering a 5-year award period from **April 1, 2026 to March 31, 2031** (15th FC devolution share under N.K. Singh was 41%).
+📰 **Sixteenth Finance Commission (16th FC) Comprehensive Architecture & Blueprint (2026–2031)**
+- **Constitutional Basis & Governance**: Constituted under **Article 280(1)** of the Constitution of India and governed by the Finance Commission (Miscellaneous Provisions) Act, 1951.
+  - *Award Period*: 5 years spanning **April 1, 2026 to March 31, 2031** (FY27 to FY31).
+  - *Report Submission Timeline*: Extended to **November 30, 2025** (notified on October 10, 2025; original deadline was October 31, 2025).
+- **Leadership, Composition & Advisory Council**:
+  - *Chairman*: **Dr. Arvind Panagariya** (former Vice-Chairman, NITI Aayog; Professor, Columbia University).
+  - *Secretary*: **Shri Ritvik Ranjanam Pandey**.
+  - *Full-Time Members*: **Smt. Annie George Mathew** (former Special Secretary, Department of Expenditure) and **Dr. Manoj Panda** (former Director, Institute of Economic Growth).
+  - *Part-Time Members*: **Dr. Soumya Kanti Ghosh** (Group Chief Economic Advisor, State Bank of India) and **Shri T. Rabi Sankar** (Deputy Governor, Reserve Bank of India).
+  - *Advisory Council*: 5-member macroeconomic think tank led by **Dr. Poonam Gupta** (Convenor), alongside Dr. D.K. Srivastava, Neelkanth Mishra, Pranjul Bhandari, and Rahul Bajoria.
+- **Vertical Devolution & Grant Rationalisation**:
+  - *Divisible Pool Share*: Retained at **41%** for the 28 States (status quo maintained post-J&K bifurcation where ~1% was carved out for UTs from the 14th FC's 42%).
+  - *Zero Revenue Deficit Grants (RDGs)*: Recommends **complete discontinuation of Revenue Deficit Grants** under Article 275(1), citing adverse moral hazard, structural expenditure distortion (converting discretionary spending/DISCOM debt into committed liabilities), and erosion of state own-tax effort.
+  - *Zero Sector-Specific / State-Specific Grants*: Replaced discretionary and ad-hoc allocations with transparent, formula-driven transfers.
+- **Horizontal Devolution Criteria & Weightage Matrix (The 6 Pillars)**:
+  - *1. Per Capita GSDP Distance (42.5%)*: Dominant equity equalizer measuring distance from the average GSDP of the top 3 states using linear formula.
+  - *2. Population (2011 Census) (17.5%)*: Pure equity component based consistently on the 2011 Census.
+  - *3. Area (10.0%)*: Compensates for geographical cost disabilities in service delivery; **minimum floor area reduced from 2% to 1.5%**.
+  - *4. Forest Cover & Ecology (10.0%)*: Incentivizes ecological preservation across very dense, moderately dense, and open forests; **rewards net forest expansion between 2015 and 2023**.
+  - *5. Demographic Performance (10.0%)*: **Major Paradigm Shift** — phases out inverse Total Fertility Rate (TFR) and replaces it with the **inverse of population growth rate (1971–2011)** to reward long-term population stabilization without penalizing transition states.
+  - *6. Contribution to GDP (10.0%)*: **Brand New Efficiency Criterion** replacing the erstwhile 'Tax Effort'; rewards growth-oriented states based on the share of State GSDP in aggregate States' GSDP, modulated via square root to prevent excessive disparity.
+- **Inter-Se Devolution Ranking of Top States**:
+  - *Highest Allocations*: **Uttar Pradesh (17.619%)**, **Bihar (9.948%)**, **Madhya Pradesh (7.347%)**, **West Bengal (7.215%)**, **Maharashtra (6.441%)**, **Rajasthan (5.926%)**, **Odisha (4.420%)**, **Andhra Pradesh (4.217%)**, **Karnataka (4.131%)**, **Tamil Nadu (4.097%)**.
+  - *Lowest Allocations*: Sikkim (0.335%), Goa (0.365%), Nagaland (0.481%), Mizoram (0.564%).
+- **Local Body Grants Architecture (Total Outlay: ₹7,91,493 Crore)**:
+  - *Macro Split*: **60% Rural Local Bodies (RLBs)** : **40% Urban Local Bodies (ULBs)**.
+  - *Component Division*: **80% Basic Component** : **20% Performance Component** across both RLBs and ULBs.
+  - *Basic Component (80%)*: Earmarked as **50% Tied** (strictly for Drinking Water supply and Sanitation / Solid Waste Management) and **50% Untied** (roads capped at max 20%; strictly prohibited for salaries or establishment expenses).
+  - *Performance Component (20%)*: **100% Untied**, split equally into Local Body Performance (10%) and State Performance (10%). Disbursed based on Own Source Revenue (OSR) thresholds (Gram Panchayats must achieve 2.5% p.a. growth or ₹1,200/household/yr; ULBs must achieve 5% p.a. growth).
+  - *Urbanisation Premium (₹10,000 Cr)*: One-time grant of **₹2,000 per person** (2011 Census) to incentivize peri-urban village mergers into ULBs with population $\ge$ 1 lakh, subject to a state rural-to-urban transition policy.
+  - *Special Infrastructure Component (₹56,100 Cr)*: Targeted wastewater and drainage overhaul in cities with population **10 lakh to 40 lakh** (max 2 cities per state; funded **60% Centre : 40% State/ULB**; project ceilings ₹5,000 Cr for pop $\ge$ 15L and ₹3,500 Cr for pop < 15L).
+  - *State Transfer Mandate*: States must pass on grants to local bodies within **10 working days** of receipt from the Centre; delays attract penalty interest at the State's previous year SDL / market borrowing rate.
+- **Financing of Disaster Management (Total Corpus: ₹2,04,401 Crore)**:
+  - *State Level (SDRF + SDMF)*: **₹2,04,401 crore** (Centre: ₹1,55,915.85 Cr; States: ₹48,485.15 Cr) covering FY27–FY31.
+  - *Funding Ratio*: **75:25** for Non-NEH States; **90:10** for Northeastern and Hilly (NEH) States.
+  - *Allocation Split*: **80% State Disaster Response Fund (SDRF: ₹1,63,521 Cr)** : **20% State Disaster Mitigation Fund (SDMF: ₹40,880 Cr)**.
+  - *Prudence Safeguard*: If unspent SDRF balances exceed the sum of the past 3 years' annual allocations, central releases are temporarily withheld.
+  - *National Level Funds (NDRF + NDMF)*: **₹79,406 crore** with graded state matching contributions (10% to 25% for Non-NEH).
+  - *Compliance Gate*: Mandatory data validation on the **NDMIS (National Disaster Management Information System)** portal by May 31 of each succeeding year (operational from FY28).
+- **Macro-Fiscal Discipline & Debt Sustainability**:
+  - *State Fiscal Deficit Ceiling*: Anchored at **3.0% of GSDP** strictly enforced under **Article 293(3)** of the Constitution (excluding Special Assistance for Capital Investment loans).
+  - *Union Fiscal Deficit Target*: Glidepath to **3.5% of GDP** by FY31 (end of the award period).
+  - *Off-Budget Liabilities*: Recommends a complete ban on off-budget borrowings, mandating all state liabilities to be transparently brought onto the formal budget.
 
 🎯 Exam Angle →
 
-- Chairman Name: 16th Finance Commission Chairman is **Dr. Arvind Panagariya** (Secretary: Ritvik Ranjanam Pandey).
-- Award Period: Covers **April 1, 2026 to March 31, 2031** (5 years).
-- Target MCQ Form: "Who has been appointed as the Chairman of the Sixteenth Finance Commission of India?" → Dr. Arvind Panagariya.
+- Constitutional Article: Finance Commission is constituted under **Article 280(1)**; Grants-in-Aid under **Article 275(1)**; Discretionary transfers (CSS) under **Article 282**; State borrowing limits under **Article 293(3)**.
+- Commission Personnel: Chairman is **Dr. Arvind Panagariya**; Secretary is **Ritvik Ranjanam Pandey**; RBI Deputy Governor member is **T. Rabi Sankar**; SBI Chief Economic Advisor member is **Dr. Soumya Kanti Ghosh**; Advisory Council Convenor is **Dr. Poonam Gupta**.
+- Devolution Numbers: Vertical tax devolution retained at **41%**; Revenue Deficit Grants = **₹0 (discontinued)**.
+- Horizontal Weights: Income Distance (**42.5%**), Population 2011 (**17.5%**), Area (**10.0%**), Forest Cover (**10.0%**), Demographic Performance (**10.0%**), Contribution to GDP (**10.0%**).
+- Local Body Grants: Total ₹7,91,493 Cr; RLB:ULB = **60:40**; Basic:Performance = **80:20**; Tied:Untied = **50:50**; Urbanisation Premium = **₹10,000 Cr** (₹2,000/person); State transfer window = **10 working days**.
+- Disaster Financing: Total State corpus ₹2,04,401 Cr; SDRF:SDMF = **80:20**; Union:State = **75:25** (General) and **90:10** (NEH).
+- Target MCQ Form: "Which new criterion was introduced by the 16th Finance Commission in horizontal devolution with a 10% weightage, replacing Tax Effort?" → Contribution to GDP (using square root of GSDP).
+- Target MCQ Form: "What is the mandatory timeline within which State Governments must transfer Finance Commission local body grants to Panchayats and Municipalities?" → Within 10 working days of receipt.
 
 ---
 
