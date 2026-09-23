@@ -2,6 +2,50 @@
 
 All notable changes to the Current Affairs Dossier repository and Rajputana Gazette Broadsheet System are documented here.
 
+## 🚀 [v2.18] — 2026-09-23
+
+### 📑 CGB Mentors September Daily PDFs Ingestion (September 11–22, 2026 Complete Integration)
+- **Comprehensive Audit of 7 CGB Mentors September PDFs (`docs/PDF/`)**:
+  - Ingested granular news, regulatory directives, multilateral accords, and awards across 7 daily files: Sept 11, Sept 12–15, Sept 16, Sept 17, Sept 18–19, Sept 20–21, and Sept 22, 2026.
+  - Coverage window officially elevated to **September Days 1–22, 2026**.
+- **September Dossier Expansion (`current_affairs_2026_september.md`)**:
+  - Title updated to **(DAYS 1–22 CONSOLIDATED DOSSIER - ENHANCED)**.
+  - Added **22 new high-yield news clusters** spanning all 9 sections:
+    1. **Bankers’ Books Evidence Act, 2026** *(Section 1)*: Takes effect October 1, 2026; repeals 135-year-old 1891 Act; establishes digital CBS records and cloud logs as primary admissible judicial proof.
+    2. **SEBI 'Demat 2.0' Pilot** *(Section 1)*: Tokenised corporate bonds on DLT with wholesale CBDC (Digital Rupee e₹) atomic settlement.
+    3. **FIU-IND Anti-Money Laundering Enforcement** *(Section 1)*: Crackdown on 15 offshore VDA platforms; reporting structure to Economic Intelligence Council (EIC) chaired by Finance Minister.
+    4. **IDFC FIRST Bank Zero Forex Markup** *(Section 2)*: First Indian lender to abolish 1.5%–3.5% foreign transaction markup across all credit cards.
+    5. **Maldives US\$150M SBI T-Bill Debt Clearance** *(Section 2)*: Repaid final \$50M tranche on Sept 17; India absorbed nearly \$45M in interest grant assistance alongside ₹3,000 Cr currency swap.
+    6. **NSE First Tokenised Corporate Bonds (₹1,000 Cr)** *(Section 3)*: REC Limited (₹500 Cr) and Larsen & Toubro (₹500 Cr) on NSE EBP.
+    7. **FASTag 'OneTag' Portability** *(Section 3)*: IHMCL and NPCI solution enabling bank switching on Rajmargyatra app without RFID physical replacement.
+    8. **India–New Zealand Free Trade Agreement (FTA)** *(Section 4)*: Effective October 20, 2026; 100% duty-free access for Indian exports; New Zealand commits US\$20 Billion investment over 15 years.
+    9. **GIFT City Climbs to 37th Globally (GFCI 40)** *(Section 4)*: Z/Yen ranking jumps 9 spots to 37th; FinTech rank climbs to 26th.
+    10. **JLL Global Real Estate Transparency Index 2026** *(Section 4)*: India ranks 26th globally; recognized as #1 most-improved real estate market in Asia-Pacific.
+    11. **Asia's First Telecom Manufacturing Zone (TMZ)** *(Section 5)*: ₹5,500 Crore outlay at SADA Gwalior, Madhya Pradesh.
+    12. **Passports (Amendment) Rules, 2026** *(Section 5)*: Minor passport upper eligibility ceiling raised from 15 to 18 years.
+    13. **Tulu Language Administrative Status** *(Section 5)*: Karnataka declares Tulu as second additional administrative language in Udupi and Dakshina Kannada.
+    14. **SLINEX-26 (13th Edition) & Regional Naval Maneuvers** *(Section 6)*: Bilateral maritime drill off Visakhapatnam featuring INS Kavaratti and INS Jyoti.
+    15. **TRISHNA Satellite Mission** *(Section 7)*: Joint ISRO–CNES (France) thermal imaging satellite at 761 km SSO for evapotranspiration and drought tracking; 5-yr life.
+    16. **Project Cheetah 4-Year Milestone** *(Section 7)*: Total wild cheetah population expands to 52 (32 born in India; 49 in Kuno, 3 in Gandhi Sagar).
+    17. **IAEA ATLAS Project** *(Section 7)*: India joins Vienna-based initiative advancing Small Modular Reactors (SMRs) for civilian shipping.
+    18. **UK Recognition of India's CCTS** *(Section 7)*: Provides UK-CBAM import tax offset for Indian industrial exporters from 2027.
+    19. **Dadasaheb Phalke Award 2024** *(Section 8)*: Conferred on veteran actor Anant Nag at Kevadia, Gujarat by Ministry of I&B.
+    20. **Arthur M. Bueche Award 2026** *(Section 8)*: Conferred on Dr. Sethuraman Panchanathan (first Indian-American laureate).
+    21. **Savita Punia Most-Capped Milestone** *(Section 9)*: 321st international cap at Asian Games 2026, surpassing Vandana Katariya (320).
+    22. **Marathi Film 'Gondhal' India's Official Oscar Entry** *(Section 9)*: Selected for 99th Academy Awards (Oscars 2027) Best International Feature Film.
+- **IBPS Master Dossier Ingestion (`IBPS_MAINS_35PLUS_MASTER_JAN_SEPT.md`)**:
+  - Ingested **Bankers’ Books Evidence Act, 2026** into Section 0 (Statutory Foundations).
+  - Ingested **NSE First Tokenised Corporate Bonds (REC & L&T ₹1,000 Cr on DLT/CBDC)** into Section 3.
+  - Ingested **India–New Zealand Free Trade Agreement (100% duty-free, \$20B investment)** into Section 7.
+  - Ingested **Maldives \$150M T-Bill Repayment & India's \$45M Sovereign Grant Relief** into Section 7.
+- **Portal & Invariant Verification**:
+  - September Dossier clusters expanded from 62 to **84 clusters** (+22).
+  - IBPS Master Dossier clusters expanded from 160 to **164 clusters** (+4).
+  - Total rendered clusters across all 8 monthly dossiers increased from 641 to **667 clusters** (+26).
+  - Exact 70 sections preserved across all dossiers.
+  - Invariants strictly validated: 0 checkboxes, 0 heading hashes (`#`), clean broadsheet typography.
+  - Bit-for-bit parity verified: `current_affairs_hub.html === index.html`.
+
 ## 🚀 [v2.17] — 2026-09-20
 
 ### 🛡️ Mock Test & PYQ Diagnostic Ingestion: Static Banking & Regulatory Gap Fortification

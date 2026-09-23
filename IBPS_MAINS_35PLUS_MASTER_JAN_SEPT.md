@@ -307,6 +307,24 @@
 
 ---
 
+
+---
+
+📰 **Bankers’ Books Evidence Act, 2026: Replacement of 1891 Colonial Statute & Cloud CBS Proof**
+- **Enactment & Repeal of Colonial Statute**: The **Bankers’ Books Evidence Act, 2026** officially comes into force on **October 1, 2026**, repealing and replacing the 135-year-old **Bankers’ Books Evidence Act, 1891**.
+- **Digital Admissibility Architecture**:
+  - Grants statutory recognition to electronic records, cloud-hosted Core Banking Solution (CBS) transaction ledgers, digital audit trails, and payment switch logs as **primary admissible evidence** in all civil, commercial, and criminal court proceedings.
+  - Eliminates the necessity of producing bulky physical books of accounts, ledgers, or manual certified vouchers in judicial trials.
+- **Statutory Certification Norms**:
+  - Certificates authenticating electronic records can be executed by designated branch managers, principal accountants, or authorized bank compliance officers.
+
+🎯 Exam Angle →
+
+- Effective Date: **October 1, 2026**.
+- Repealed Law: **Bankers’ Books Evidence Act, 1891** (1891 Act repealed after 135 years).
+- Key Provision: Legal validity of **electronic CBS records and digital ledgers** without physical ledger production.
+- Target MCQ Form: "The Bankers’ Books Evidence Act, 2026, which comes into force on October 1, 2026, replaces which colonial-era enactment?" → **Bankers’ Books Evidence Act, 1891**.
+
 ## 1. 🏛️ RBI POLICY, MASTER DIRECTIONS & PRUDENTIAL NORMS
 
 📰 **Monetary Policy Committee (MPC) — Benchmark Rate Corridor Trajectory**
@@ -1284,6 +1302,25 @@
 - Target MCQ Form: "Under the RBI Positive Pay System (PPS) guidelines, at what cheque value threshold are banks permitted to make confirmation mandatory?" → ₹5,00,000 and above.
 
 ---
+
+
+---
+
+📰 **NSE First Tokenised Corporate Bonds on DLT & Wholesale CBDC (e₹): REC & L&T ₹1,000 Crore Issuance**
+- **Tokenised Debt Milestone**: The **National Stock Exchange (NSE)** enabled India's first tokenised corporate bond issuances on its Electronic Bidding Platform (**NSE EBP**) mobilizing **₹1,000 Crore**.
+- **Corporate Issuers & Allocation**:
+  - **REC Limited**: State-owned Maharatna NBFC raised **₹500 Crore** (India's 1st tokenised corporate bond on NSE EBP).
+  - **Larsen & Toubro (L&T)**: Infrastructure major raised **₹500 Crore** on distributed ledgers.
+- **Integration with SEBI Demat 2.0 & Digital Rupee (e₹)**:
+  - Executed on a shared Distributed Ledger Technology (DLT) network owned by depositories (**NSDL & CDSL**) under SEBI's **Demat 2.0** initiative.
+  - Connected with RBI's **wholesale Central Bank Digital Currency (CBDC / e₹)** for instant delivery-versus-payment (DvP) atomic settlement.
+
+🎯 Exam Angle →
+
+- Total Tokenised Issuance: **₹1,000 Crore** on NSE EBP.
+- Pioneer Issuer: **REC Limited (₹500 Crore)**.
+- Infrastructure: SEBI **Demat 2.0** (DLT) linked with RBI **Wholesale CBDC (e₹)**.
+- Target MCQ Form: "Which entity became the first in India to issue a tokenised corporate bond on the NSE Electronic Bidding Platform?" → **REC Limited**.
 
 ## 4. 📊 UNION BUDGET, MACROECONOMIC INDICATORS & TAXATION
 
@@ -2340,6 +2377,34 @@
 
 ---
 
+
+
+---
+
+📰 **India–New Zealand Free Trade Agreement (FTA): 100% Duty-Free Access & US$20B Investment**
+- **Operational Date**: Formally takes effect on **October 20, 2026** (signed April 27, 2026).
+- **Tariff-Free Access**: Grants **100% duty-free access** for Indian exports entering New Zealand, eliminating peak 10% tariffs on autos, auto components, ceramics, textiles, and carpets.
+- **Investment Pillar**: New Zealand committed to invest **US$20 Billion in India over 15 years** in agri-tech, cold-chains, and green energy.
+
+🎯 Exam Angle →
+
+- Enforcement: **October 20, 2026**.
+- Tariffs: **100% duty-free entry** for Indian goods.
+- Investment: **US$20 Billion over 15 years**.
+- Target MCQ Form: "Under the India–New Zealand FTA, what is New Zealand's 15-year investment commitment in India?" → **US$20 Billion**.
+
+---
+
+📰 **Maldives US$150 Million SBI T-Bill Full Repayment: India's US$45 Million Sovereign Interest Support**
+- **Debt Clearance**: Maldives cleared the final **US$50 Million tranche** on September 17, 2026, completing full repayment of the **US$150 Million T-bill facility** subscribed by State Bank of India (SBI) in 2019.
+- **India's Grant Assistance**: Government of India absorbed nearly **US$45 Million in interest payments** over 5 years as direct sovereign support to Male.
+- **Currency Swap & Bonds**: India maintains a **₹3,000 Crore currency swap line** and holds **$350 Million in Maldivian T-Bonds** valid till 2029–2030.
+
+🎯 Exam Angle →
+
+- Repaid Facility: **US$150 Million** (SBI subscribed 2019; final $50M cleared Sept 2026).
+- India's Interest Relief: **Nearly US$45 Million** absorbed by Government of India.
+- Target MCQ Form: "How much interest assistance did the Government of India absorb on the US$150M SBI T-bill facility extended to the Maldives?" → **Nearly US$45 Million**.
 
 ## 8. ⚖️ REGULATORY BODIES, ACTS, COMMITTEES & APPOINTMENTS
 

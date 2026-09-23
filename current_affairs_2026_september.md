@@ -1,4 +1,4 @@
-# 🎯 CURRENT AFFAIRS — SEPTEMBER 2026 (DAYS 1–17 CONSOLIDATED DOSSIER - ENHANCED)
+# 🎯 CURRENT AFFAIRS — SEPTEMBER 2026 (DAYS 1–22 CONSOLIDATED DOSSIER - ENHANCED)
 *Senior Paper-Setter Master Strike File: Verified Regulatory Directives, IFSCA Market Abuse Code, Sovereign Ratings, Central Counterparties, Multilateral Accords & Defence Milestones*
 
 > **EXAMINER'S BLUEPRINT & COMPLIANCE STANDARD**:
@@ -125,6 +125,61 @@
 - Dominant Weightage Parameters: **Availability (20%)** and **Cybersecurity (20%)** together constitute 40% of the aggregate index.
 - 5% Weightage Parameters: **Scalability (5%)** and **Incident Handling (5%)** (classic examiner trap).
 - Standard-Setting Body: **Industry Standards Forum (ISF)** in consultation with SEBI.
+
+---
+
+
+📰 **Bankers’ Books Evidence Act, 2026 to Come into Force on October 1: Modernisation of Digital Judicial Proof**
+- **Statutory Overhaul & Colonial Repeal**: Parliament enacted the **Bankers’ Books Evidence Act, 2026**, officially notified to take effect from **October 1, 2026**, completely repealing and replacing the 135-year-old colonial **Bankers’ Books Evidence Act, 1891**.
+- **Statutory Admissibility of Electronic Records**:
+  - Formally establishes printouts, encrypted digital ledgers, cloud-hosted Core Banking Solution (CBS) databases, and electronic transaction audit trails as **primary admissible evidence** in all civil and criminal judicial proceedings without requiring physical ledger production.
+  - Eliminates earlier statutory ambiguity regarding the legal admissibility of electronic extracts from mobile banking apps, pre-paid payment instruments, and UPI switch logs.
+- **Verification & Certificate Architecture**:
+  - Mandates that digital evidence certificates must be signed by the principal accountant, branch manager, or authorized IT compliance officer of the bank verifying system integrity.
+  - Grants legal protection to bank personnel against routine personal court appearances where certified electronic records are presented.
+
+🎯 Exam Angle →
+
+- Effective Date: **October 1, 2026**.
+- Repealed Law: **Bankers’ Books Evidence Act, 1891** (135-year-old statute).
+- Primary Focus: Legal admissibility of **electronic banking records, CBS logs, and cloud data** in judicial proceedings.
+- Target MCQ Form: "The Bankers’ Books Evidence Act, 2026, which comes into force on October 1, 2026, repeals and replaces which colonial-era enactment?" → **Bankers’ Books Evidence Act, 1891**.
+
+---
+
+📰 **SEBI Unveils 'Demat 2.0' Pilot: Tokenised Corporate Debt on DLT & Wholesale CBDC (e₹)**
+- **Next-Generation Market Infrastructure**: At the Global Fintech Fest (GFF) 2026 in Mumbai, the Securities and Exchange Board of India (**SEBI**) announced the rollout of **“Demat 2.0”**—a flagship pilot project testing the tokenisation of corporate bonds.
+- **Distributed Ledger Architecture**:
+  - The pilot enables the end-to-end issuance, trading, holding, and delivery-versus-payment (DvP) settlement of corporate bonds as digital tokens recorded on a shared **Distributed Ledger Technology (DLT)** network.
+  - The distributed ledger is simultaneously maintained and validated across Market Infrastructure Institutions (MIIs), while legal ownership of the underlying ledger remains anchored with the registered depositories (**NSDL and CDSL**).
+- **Integration with Wholesale Digital Rupee (e₹-W)**:
+  - Demat 2.0 is directly bridged to the Reserve Bank of India’s **wholesale Central Bank Digital Currency (CBDC / Digital Rupee e₹)** via the Unified Market Interface, achieving real-time atomic settlement and eliminating counterparty settlement risk.
+
+🎯 Exam Angle →
+
+- Project Name: **Demat 2.0** (initiated by SEBI).
+- Asset Class Tested: **Tokenised Corporate Bonds**.
+- Underlying Infrastructure: **Distributed Ledger Technology (DLT)** operated across MIIs and depositories.
+- Settlement Mechanism: Integrated with RBI's **wholesale CBDC (Digital Rupee e₹)** for atomic settlement.
+- Target MCQ Form: "Which capital market initiative was unveiled by SEBI at GFF 2026 to test the tokenisation and atomic settlement of corporate bonds on distributed ledgers?" → **Demat 2.0**.
+
+---
+
+📰 **FIU-IND Cracks Down on 15 Offshore Virtual Digital Asset (VDA) Service Providers under PMLA**
+- **Sovereign AML/CFT Enforcement**: The **Financial Intelligence Unit - India (FIU-IND)** issued formal show-cause notices and initiated restrictive compliance proceedings against **15 offshore Virtual Digital Asset (VDA) service providers** and crypto platforms operating without mandatory registration.
+- **Statutory Mandate & Reporting Hierarchy**:
+  - Established in **2004** as an independent central national agency under the Department of Revenue, Ministry of Finance.
+  - Reports directly to the **Economic Intelligence Council (EIC)**, which is statutory chaired by the **Union Finance Minister**.
+  - Serves as the national nodal agency responsible for receiving, analyzing, and disseminating Suspicious Transaction Reports (STRs) and Cash Transaction Reports (CTRs).
+- **Mandatory PMLA Registration Norms**:
+  - All domestic and offshore VDA entities serving Indian residents are legally mandated to register as Reporting Entities under the **Prevention of Money Laundering Act (PMLA), 2002**, maintain 5-year KYC transaction logs, and report high-risk wallet transfers.
+
+🎯 Exam Angle →
+
+- Institutional Origin: **FIU-IND** established in **2004** under Department of Revenue, Ministry of Finance.
+- Governing Council: Reports directly to the **Economic Intelligence Council (EIC)** headed by the **Union Finance Minister**.
+- Governing Statute: **Prevention of Money Laundering Act (PMLA), 2002**.
+- Target MCQ Form: "To which high-level council headed by the Union Finance Minister does the Financial Intelligence Unit - India (FIU-IND) report directly?" → **Economic Intelligence Council (EIC)**.
 
 ---
 
@@ -321,6 +376,46 @@
 
 ---
 
+
+📰 **IDFC FIRST Bank Becomes India's First Lender to Eliminate Forex Markup Across All Credit Cards**
+- **Pioneering Retail FX Disruption**: **IDFC FIRST Bank** became the first commercial bank in India to introduce **Zero Forex Markup** across its entire existing and newly issued credit card portfolio.
+- **Consumer Cost Relief**:
+  - Standard commercial credit cards in India levy a foreign currency conversion/markup fee ranging from **1.5% to 3.5% plus GST** on overseas POS transactions and international e-commerce billings.
+  - IDFC FIRST Bank abolished this fee entirely across all customer segments without requiring minimum spend thresholds or annual tier subscriptions.
+- **Institutional Profile of IDFC FIRST Bank**:
+  - Headquarters: **Mumbai, Maharashtra**.
+  - Genesis: Founded following the landmark reverse merger between **IDFC Bank** and non-bank retail financing powerhouse **Capital First** in **December 2018**.
+  - Leadership: Managing Director and CEO is **V. Vaidyanathan**; Part-Time Non-Executive Chairperson is **Sanjeeb Chaudhuri**.
+
+🎯 Exam Angle →
+
+- First Bank with Zero Forex Markup on All Cards: **IDFC FIRST Bank**.
+- Typical Industry Fee Abolished: **1.5% to 3.5%** foreign transaction markup.
+- Merger Year: December 2018 (IDFC Bank + Capital First).
+- MD & CEO: **V. Vaidyanathan**.
+- Target MCQ Form: "Which private sector bank became the first in India to offer Zero Forex Markup across all its existing and new credit cards in September 2026?" → **IDFC FIRST Bank**.
+
+---
+
+📰 **Maldives Clears Final $50M Tranche to Repay US$150M SBI Facility: India Borne $45M Sovereign Interest**
+- **Full Debt Retirement**: The Government of Maldives successfully completed the final repayment of a **US$50 Million tranche** on September 17, 2026, marking the complete settlement of the **US$150 Million Treasury Bill (T-bill) facility** extended through the State Bank of India (**SBI**).
+- **India's Sovereign Financial Relief Package**:
+  - The original T-bill facility was subscribed by SBI in **2019** to support Male’s budgetary stability during severe foreign exchange liquidity crises.
+  - While the Maldivian Government paid the principal amount, the **Government of India bore nearly US$45 Million in interest payments** over the five-year lifecycle as budgetary grant support.
+- **Ongoing Bilateral Currency Backstops**:
+  - To prevent future balance of payments stress, India has extended a bilateral **₹3,000 Crore currency swap facility** to the Maldives Monetary Authority (MMA).
+  - Additionally, the Government of India has subscribed to **$350 Million worth of Maldivian sovereign Treasury Bonds (T-Bonds)** with extended tenures maturing in **2029 and 2030**.
+
+🎯 Exam Angle →
+
+- Retired T-Bill Facility: **US$150 Million** subscribed by SBI (final $50M repaid September 2026).
+- Interest Borne by India: **Nearly US$45 Million** in sovereign interest support over 5 years.
+- Active Currency Swap Size: **₹3,000 Crore** currency swap line.
+- Bilateral T-Bond Subscription: **$350 Million** maturing in 2029–2030.
+- Target MCQ Form: "How much interest assistance did the Government of India absorb to support the Maldives in servicing its US$150 Million SBI T-bill facility?" → **Nearly US$45 Million**.
+
+---
+
 ## 3. 💳 DIGITAL PAYMENTS, FINTECH INNOVATION & INSURANCE
 
 📰 **Prime Minister Inaugurates Global Fintech Fest (GFF) 2026: Unveils 4-Point Strategic Fintech Roadmap**
@@ -496,6 +591,44 @@
 
 ---
 
+
+📰 **NSE Enables India's First Tokenised Corporate Bond Issuance (₹1,00,0 Crore): REC & L&T on DLT**
+- **Historic Tokenised Debt Milestone**: The **National Stock Exchange (NSE)** successfully enabled India's inaugural tokenised corporate bond issuances on its Electronic Bidding Platform (**NSE EBP**) with an aggregate mobilization of **₹1,000 Crore**.
+- **Pioneering Corporate Issuers**:
+  - **REC Limited**: State-owned Maharatna NBFC raised **₹500 Crore**, recording the very first tokenised corporate bond issuance executed on the NSE EBP platform.
+  - **Larsen & Toubro (L&T)**: Infrastructure conglomerate raised **₹500 Crore** in private placement tokenised debt.
+- **Institutional Market Architecture**:
+  - Executed under SEBI's pilot framework utilizing distributed ledgers to tokenize securities, providing automated corporate actions, digital coupon distribution, and real-time ownership ledger synchronization.
+  - *NSE Leadership*: Headquartered in Mumbai; Chairperson is **Srinivas Injeti**; Managing Director & CEO is **Ashishkumar Chauhan**.
+
+🎯 Exam Angle →
+
+- Total Tokenised Debt Mobilised: **₹1,000 Crore** across two issuers.
+- First Tokenised Corporate Bond Issuer: **REC Limited (₹500 Crore)**.
+- Co-Issuer: **Larsen & Toubro (₹500 Crore)**.
+- Platform: **NSE Electronic Bidding Platform (NSE EBP)**.
+- Target MCQ Form: "Which public sector enterprise became the first entity in India to issue a tokenised corporate bond on the NSE Electronic Bidding Platform?" → **REC Limited**.
+
+---
+
+📰 **FASTag 'One Tag' Interoperability & Portability Initiative Launched by IHMCL & NPCI**
+- **Seamless Issuer Portability**: Union Minister for Road Transport & Highways Nitin Gadkari unveiled the **“OneTag”** facility at the Global Fintech Fest (GFF) 2026 in Mumbai.
+- **National Electronic Toll Collection (NETC) Upgrade**:
+  - Developed as a joint initiative between the **Indian Highways Management Company Limited (IHMCL)** and the **National Payments Corporation of India (NPCI)**.
+  - Resolves a primary user pain point by enabling vehicle owners to **port or switch their FASTag issuer bank digitally** without having to physically remove, repurchase, or affix a new RFID tag to the vehicle windscreen.
+- **Digital Deployment via Rajmargyatra**:
+  - Integrated directly into the National Highways Authority of India's (**NHAI**) flagship mobile portal, the **Rajmargyatra app**, allowing bank switching through basic vehicle registration and mobile OTP authentication.
+
+🎯 Exam Angle →
+
+- Portal Solution Name: **OneTag** (FASTag issuer portability).
+- Joint Developers: **IHMCL (Indian Highways Management Company Ltd)** and **NPCI**.
+- Mobile Platform: NHAI’s **Rajmargyatra** mobile application.
+- Operational Advantage: Porting FASTag bank account without physical RFID tag replacement.
+- Target MCQ Form: "What is the name of the NETC FASTag portability facility launched by IHMCL and NPCI allowing users to change their issuer bank without physical tag replacement?" → **OneTag**.
+
+---
+
 ## 4. 📊 MACROECONOMIC TRENDS, SOVEREIGN RATINGS & FOREIGN TRADE
 
 📰 **Japan Credit Rating Agency (JCR) Upgrades India's Sovereign Rating to 'A-' with Stable Outlook**
@@ -622,6 +755,68 @@
 - Status Holder Validity: **5 years** from date of issue.
 - Governing Body: **DGFT** (Director General: Lav Aggarwal; HQ: New Delhi).
 - Target MCQ Form: "Under DGFT's revised FTP 2023 norms, One Star Export House recognition can be achieved by meeting thresholds in how many preceding financial years?" → Any 2 of the 3 preceding financial years.
+
+---
+
+
+📰 **India–New Zealand Free Trade Agreement (FTA) Comes Into Force: US$20 Billion Investment Accord**
+- **Enforcement Milestone**: Union Commerce and Industry Minister Piyush Goyal announced that the **India–New Zealand Free Trade Agreement (FTA)** will formally come into force on **October 20, 2026** (signed earlier on April 27, 2026).
+- **100% Tariff Elimination for Indian Exports**:
+  - The comprehensive trade pact guarantees **100% duty-free market access** for all Indian merchandise and industrial exports entering New Zealand from Day 1 of enforcement.
+  - Eliminates peak tariffs of up to **10%** historically imposed by New Zealand on key Indian manufacturing sectors: **automobiles, auto components, ceramics, textiles, and carpets**.
+- **Long-Term Sovereign Investment Commitment**:
+  - New Zealand formally committed to mobilizing and investing **US$20 Billion in India over a 15-year period** across renewable energy, agricultural technology, cold-chain logistics, and education.
+
+🎯 Exam Angle →
+
+- Enforcement Date: **October 20, 2026** (Signed: 27 April 2026).
+- Market Access: **100% duty-free access** for Indian exports to New Zealand.
+- Investment Commitment: New Zealand committed **US$20 Billion over 15 years**.
+- Target MCQ Form: "What is the total investment commitment made by New Zealand in India over a 15-year period under the India–New Zealand Free Trade Agreement?" → **US$20 Billion**.
+
+---
+
+📰 **GIFT City Climbs 9 Spots to 37th Globally in Global Financial Centres Index (GFCI 40)**
+- **Global Financial Ranking Surge**: In the 40th edition of the **Global Financial Centres Index (GFCI 40)** published by London-based think tank **Z/Yen Group** in collaboration with the China Development Institute, India's sole IFSC, **GIFT City (Gandhinagar)**, climbed 9 places to rank **37th globally** (up from 46th in GFCI 39).
+- **FinTech Global Benchmark**:
+  - In the specialized global FinTech sub-index, GIFT City surged 3 positions to secure the **26th rank globally** (improving from 29th).
+  - Outperformed several established regional financial centres across Central Europe and Southeast Asia in regulatory responsiveness, green bond issuances, and cross-border banking infrastructure.
+- **Top 5 Global Financial Centres**:
+  1. *New York* (1st)
+  2. *London* (2nd)
+  3. *Hong Kong* (3rd)
+  4. *Singapore* (4th)
+  5. *San Francisco* (5th)
+
+🎯 Exam Angle →
+
+- GIFT City Overall Rank: **37th globally** (climbed 9 places from 46th).
+- GIFT City FinTech Rank: **26th globally** (climbed 3 places from 29th).
+- Index Publisher: **Z/Yen Group (London)** and China Development Institute.
+- Top Ranked Financial Centre: **New York**.
+- Target MCQ Form: "What is GIFT City's global rank in the 40th edition of the Global Financial Centres Index (GFCI 40)?" → **37th**.
+
+---
+
+📰 **JLL Global Real Estate Transparency Index 2026: India Ranks 26th Globally as Top APAC Mover**
+- **Biennial Transparency Benchmark**: Global real estate advisory firm **JLL** and LaSalle Investment Management released the 14th edition of the **Global Real Estate Transparency Index (GRETI 2026)**, evaluating 89 markets across 256 individual indicators.
+- **India's Tier-1 Markets Milestone**:
+  - India’s composite real estate market (anchored by Tier-1 metropolitan centres) advanced 5 positions to rank **26th globally** (improving from 31st in 2024).
+  - Recognized as the **#1 most-improved real estate market in Asia-Pacific** and ranked among the **Top 5 most-improved markets globally**, propelled by digital land titling, REIT regulatory enhancements, and RERA compliance.
+- **Top 5 Transparent Real Estate Markets**:
+  1. *United Kingdom* (1st)
+  2. *France* (2nd)
+  3. *Australia* (3rd)
+  4. *United States* (4th)
+  5. *Netherlands* (5th)
+
+🎯 Exam Angle →
+
+- India Rank: **26th globally** (up from 31st).
+- Regional Distinction: **#1 most-improved market in Asia-Pacific**.
+- Publisher: **JLL & LaSalle** (14th biennial edition, published since 1999).
+- Global Rank 1: **United Kingdom**.
+- Target MCQ Form: "In the 2026 JLL Global Real Estate Transparency Index, what rank did India secure globally while being named the top-improved market in Asia-Pacific?" → **26th**.
 
 ---
 
@@ -774,6 +969,56 @@
 
 ---
 
+
+📰 **Asia's First Dedicated Telecom Manufacturing Zone (TMZ) Sanctioned in Gwalior (₹5,500 Crore)**
+- **Industrial Infrastructure Milestone**: The Government sanctioned the establishment of **Asia’s first Telecom Manufacturing Zone (TMZ)** with an aggregate investment of approximately **₹5,500 Crore**.
+- **Geographical Location & Layout**:
+  - Located at the **Shrimant Madhavrao Scindia Counter Magnet City (SADA)** in **Gwalior, Madhya Pradesh**.
+  - Engineered as a specialized plug-and-play manufacturing enclave covering telecom equipment, 5G/6G optical transmission modules, routers, satellite communications hardware, and semiconductor sub-assemblies.
+- **Strategic Policy Intent**:
+  - Complements the Telecom PLI Scheme to reduce import dependency on telecom hardware, positioning Gwalior as an industrial node alongside the Delhi-Mumbai Industrial Corridor (DMIC).
+
+🎯 Exam Angle →
+
+- Project: **Asia's first Telecom Manufacturing Zone (TMZ)**.
+- Location: **Gwalior, Madhya Pradesh (SADA City)**.
+- Investment Outlay: **Approximately ₹5,500 Crore**.
+- Target MCQ Form: "Where is Asia’s first dedicated Telecom Manufacturing Zone (TMZ) being established with an outlay of ₹5,500 Crore?" → **Gwalior, Madhya Pradesh**.
+
+---
+
+📰 **Passports (Amendment) Rules, 2026: Minor Passport Upper Validity Ceiling Extended to 18 Years**
+- **Statutory Revision by MEA**: The Ministry of External Affairs (**MEA**) officially notified the **Passports (Amendment) Rules, 2026**, amending the parent statutory framework of the **Passports Rules, 1980**.
+- **Age Harmonization with Majority Law**:
+  - Elevates the upper age eligibility threshold for minor passports from **15 years to 18 years**, aligning passport administrative regulations directly with the Indian Majority Act and child rights laws.
+- **New Validity Rules for Minors**:
+  - For children below 15 years, ordinary passports will now carry a validity of **5 years or until the child turns 18 years of age**, whichever is earlier.
+  - Minors aged between 15 and 18 years are granted the option to apply for an adult-tenure passport valid for **10 years** (subject to full adult passport fee and police verification norms).
+
+🎯 Exam Angle →
+
+- Governing Regulation: **Passports (Amendment) Rules, 2026** amending **Passports Rules, 1980**.
+- Upper Age Threshold Shift: Increased from **15 years to 18 years**.
+- Validity Formula (<15 years): **5 years or until attaining 18 years**, whichever is earlier.
+- Target MCQ Form: "Under the Passports (Amendment) Rules, 2026 notified by MEA, what is the revised upper age threshold for minor passport validity rules?" → **18 years**.
+
+---
+
+📰 **Karnataka Declares Tulu as Second Additional Administrative Language in Coastal Districts**
+- **Linguistic Administrative Accord**: The State Government of Karnataka officially granted **Tulu** the status of a **second additional administrative language** within the coastal jurisdictions of **Udupi and Dakshina Kannada districts**.
+- **Linguistic Heritage & Geography**:
+  - Tulu is an ancient Dravidian language spoken predominantly in southwestern coastal Karnataka (historically known as *Tulu Nadu*) and the Kasaragod district of northern Kerala.
+  - Enables official state gazette notifications, government application forms, and municipal administrative signage to be printed in Tulu alongside Kannada and English.
+
+🎯 Exam Angle →
+
+- State Granting Status: **Karnataka**.
+- Districts Covered: **Udupi and Dakshina Kannada**.
+- Language Family: **Dravidian Language** (Tulu).
+- Target MCQ Form: "Which Indian state granted Tulu the status of a second additional administrative language in its coastal districts?" → **Karnataka**.
+
+---
+
 ## 6. 🛡️ DEFENCE, STRATEGIC MISSIONS & AEROSPACE
 
 📰 **Operation 'BRICS Kavach': NSG Mounts Multi-Agency Counter-Terror Drill Ahead of 18th BRICS Summit**
@@ -908,6 +1153,28 @@
 
 ---
 
+
+📰 **SLINEX-26 Maritime Exercise (13th Edition) & Trilateral Naval Security Maneuvers**
+- **Bilateral Maritime Engagement**: The Indian Navy and Sri Lanka Navy conducted the **13th edition** of their annual bilateral maritime exercise, **SLINEX-26**, off the coast of **Visakhapatnam, Andhra Pradesh**.
+- **Indian Navy Operational Assets**:
+  - **INS Kavaratti**: Indigenous *Kamorta-class* Anti-Submarine Warfare (ASW) stealth corvette.
+  - **INS Jyoti**: Fleet replenishment tanker.
+  - Sri Lanka Navy deployed its Advanced Offshore Patrol Vessel (SLNS Sayurala).
+- **Tactical Warfare Phases**:
+  - Harbor Phase at Visakhapatnam focusing on cross-deck communications, VBSS (visit, board, search and seizure), and tactical briefings.
+  - Sea Phase involving anti-surface warfare firings, ASW maneuvers, and coordinated maritime air patrols with Dornier-228 aircraft.
+  - *Institutional Context*: SLINEX was first conceptualised and initiated in **2005**.
+
+🎯 Exam Angle →
+
+- Exercise Name & Edition: **SLINEX-26 (13th Edition)**.
+- Participating Navies: **Indian Navy and Sri Lanka Navy**.
+- Venue: **Visakhapatnam, Andhra Pradesh**.
+- Key Indian Warship: **INS Kavaratti** (Indigenous ASW Corvette).
+- Target MCQ Form: "Where was the 13th edition of the India–Sri Lanka bilateral naval exercise SLINEX-26 conducted in September 2026?" → **Visakhapatnam**.
+
+---
+
 ## 7. 🔬 SCIENCE, DEEP-TECH, SPACE & ENVIRONMENT
 
 📰 **ISRO Launches EOS-05 Earth Observation Satellite into Geosynchronous Orbit via GSLV**
@@ -994,6 +1261,81 @@
 
 ---
 
+
+📰 **TRISHNA Mission: Joint ISRO–CNES Thermal Satellite for Natural Resource & Evapotranspiration Mapping**
+- **Bilateral Space Collaboration**: The Indian Space Research Organisation (**ISRO**) and the French National Centre for Space Studies (**CNES**) finalized technical deployment protocols for their flagship joint satellite mission, **TRISHNA**.
+- **Mission Acronym & Objectives**:
+  - *TRISHNA* stands for **Thermal infraRed Imaging Satellite for High-resolution Natural resource Assessment**.
+  - Operates in a **Sun-Synchronous Orbit at 761 km altitude** with a designed operational mission life of **5 years**.
+- **Scientific Payload & Environmental Impact**:
+  - Equipped with dual state-of-the-art optical payloads: a Thermal Infrared (TIR) instrument developed by CNES and a Visible Near-Infrared (VNIR) optical sensor built by ISRO.
+  - Delivers high-resolution, high-frequency thermal imaging to measure field-level crop **evapotranspiration**, monitor agricultural drought vulnerabilities, assess urban heat islands, and track glacial retreat across the Himalayas.
+
+🎯 Exam Angle →
+
+- Space Agencies: **ISRO (India) and CNES (France)**.
+- Satellite Name: **TRISHNA** (Thermal infraRed Imaging Satellite for High-resolution Natural resource Assessment).
+- Orbit & Altitude: **Sun-Synchronous Orbit at 761 km**.
+- Mission Life: **5 years**.
+- Target MCQ Form: "The TRISHNA thermal earth observation satellite is being jointly developed by ISRO in partnership with the space agency of which country?" → **France (CNES)**.
+
+---
+
+📰 **Project Cheetah Completes 4 Years: India's Wild Feline Population Expands to 52 across Kuno & Gandhi Sagar**
+- **Four-Year Reintroduction Milestone**: India's landmark transcontinental wildlife restoration initiative, **Project Cheetah**, completed **4 full years** on **September 17, 2026** (launched by PM Narendra Modi on September 17, 2022).
+- **Wild Population Growth (52 Cheetahs)**:
+  - From the original batch of 8 wild cheetahs translocated from **Namibia in 2022** and 12 from **South Africa in 2023**, India's total cheetah population expanded to **52 cheetahs**.
+  - **32 cheetahs were born on Indian soil**, demonstrating successful reproductive acclimatization.
+- **Geographical Distribution**:
+  - **49 cheetahs** inhabit **Kuno National Park (Sheopur, Madhya Pradesh)**.
+  - **3 cheetahs** successfully introduced into the second landscape, **Gandhi Sagar Wildlife Sanctuary (Mandsaur, Madhya Pradesh)**.
+  - Genetic diversification bolstered in 2026 through the arrival of **9 cheetahs from Botswana**.
+
+🎯 Exam Angle →
+
+- Launch Date: **17 September 2022** (Kuno National Park, MP).
+- 4th Anniversary Total Population: **52 cheetahs** (32 born in India).
+- The Two Habitat Reserves: **Kuno National Park** and **Gandhi Sagar Wildlife Sanctuary** (both in Madhya Pradesh).
+- Translocation Partner Nations: **Namibia (2022), South Africa (2023), and Botswana (2026)**.
+- Target MCQ Form: "On the completion of four years of Project Cheetah in September 2026, what was the total cheetah count in India including Indian-born cubs?" → **52 cheetahs**.
+
+---
+
+📰 **India Joins IAEA ATLAS Initiative: Advancing Small Modular Reactors (SMRs) for Civilian Maritime Fleets**
+- **Nuclear Maritime Expansion**: India officially joined the **ATLAS (Atomic Technologies Licensed for Applications at Sea)** project launched by the **International Atomic Energy Agency (IAEA)** at its ministerial conference in Washington D.C.
+- **Small Modular Reactor (SMR) Focus**:
+  - Formulates global safety, regulatory, and non-proliferation protocols for deploying **Small Modular Reactors (SMRs)** in commercial cargo shipping, container carriers, and floating coastal nuclear power barges.
+  - Bolsters India's net-zero maritime commitment and maritime decarbonisation under *Harit Nauka* guidelines.
+- **IAEA Institutional Profile**:
+  - Established: **1957** as the world’s "Atoms for Peace" watchdog within the United Nations family.
+  - Headquarters: **Vienna, Austria**.
+  - Leadership: Director General is **Rafael Mariano Grossi**; membership comprises **182 member states**.
+
+🎯 Exam Angle →
+
+- Project Acronym: **ATLAS** (Atomic Technologies Licensed for Applications at Sea).
+- Lead Agency: **IAEA (International Atomic Energy Agency)**.
+- Core Technology: **Small Modular Reactors (SMRs)** for commercial shipping and floating power plants.
+- IAEA Headquarters: **Vienna, Austria** (DG: Rafael Mariano Grossi).
+- Target MCQ Form: "Which global initiative did India join in September 2026 to support the deployment of Small Modular Reactors (SMRs) in civilian shipping?" → **ATLAS project (IAEA)**.
+
+---
+
+📰 **UK Recognises India's Carbon Credit Trading Scheme (CCTS) for Carbon Border Adjustment Relief**
+- **Sovereign Climate Trade Alignment**: The United Kingdom officially recognised India’s domestic **Carbon Credit Trading Scheme (CCTS)**, providing Indian industrial exporters relief under the UK's upcoming **Carbon Border Adjustment Mechanism (UK-CBAM)** scheduled for implementation in 2027.
+- **Protection for Hard-to-Abate Sectors**:
+  - Ensures that carbon fees paid by Indian heavy industrial manufacturers (steel, aluminium, cement, and fertilisers) under the Bureau of Energy Efficiency’s (**BEE**) carbon market will be offset against UK-CBAM import taxes.
+  - Prevents double carbon taxation and preserves the export competitiveness of Indian engineering goods entering the British and European markets.
+
+🎯 Exam Angle →
+
+- Foreign Country Recognizing Indian Carbon Scheme: **United Kingdom (UK)**.
+- Indian Scheme: **Carbon Credit Trading Scheme (CCTS)** (administered by Bureau of Energy Efficiency, Ministry of Power).
+- Import Tax Relieved: **UK-CBAM (Carbon Border Adjustment Mechanism)** effective 2027.
+- Target MCQ Form: "Which country officially recognized India's Carbon Credit Trading Scheme (CCTS) to provide tax offsets against its upcoming Carbon Border Adjustment Mechanism?" → **United Kingdom**.
+
+---
+
 ## 8. 🏆 HONOURS, AWARDS, SUMMITS & INTERNATIONAL DIPLOMACY
 
 📰 **Ramon Magsaysay Awards 2026: Tommy Koh, Bo Kyi, and Runa Khan Conferred Asia's Nobel Prize**
@@ -1060,6 +1402,41 @@
 - DFI Alliance: **NABARD + NaBFID** for rural infrastructure financing.
 - Ornamental Fisheries Plan: **Mission Rangeen Machhli 2031** launched in **Agatti, Lakshadweep** under **PMMSY**.
 - Examiner's Trap: Distractor claiming the ADB school loan was granted to Andhra Pradesh or Tamil Nadu—it was signed with Karnataka.
+
+---
+
+
+📰 **Dadasaheb Phalke Award 2024: Veteran Actor Anant Nag Conferred India's Highest Cinema Honour**
+- **Apex Cinematic Accolade**: The Ministry of Information & Broadcasting announced the prestigious **Dadasaheb Phalke Award for the year 2024** to legendary actor **Anant Nag** in recognition of his illustrious lifetime contribution to Indian and Kannada cinema.
+- **Ceremony Venue Milestone**:
+  - The formal investiture ceremony took place at **Kevadia (Ekta Nagar), Gujarat**, marking the continuation of hosting apex national cultural awards outside the national capital.
+- **Laureate's Legacy**:
+  - Over a distinguished career spanning 5 decades across 300+ films, Anant Nag worked extensively in Kannada, Hindi, Marathi, and Telugu cinema, known for landmark collaborations in parallel cinema with Shyam Benegal (*Ankur, Nishant, Manthan, Bhumika*).
+  - *Statutory Anchor*: The Dadasaheb Phalke Award was instituted in **1969** (first recipient: Devika Rani); carries a Swarna Kamal medallion, shawl, and cash prize of **₹10 Lakh**.
+
+🎯 Exam Angle →
+
+- Dadasaheb Phalke Award 2024 Recipient: **Anant Nag**.
+- Awarding Authority: **Ministry of Information & Broadcasting**.
+- First Recipient (1969): **Devika Rani**.
+- Award Components: **Swarna Kamal (Golden Lotus)**, shawl, and **₹10 Lakh cash prize**.
+- Target MCQ Form: "Who was conferred the prestigious Dadasaheb Phalke Award for 2024 for outstanding lifetime contributions to Indian cinema?" → **Anant Nag**.
+
+---
+
+📰 **Arthur M. Bueche Award 2026: Dr. Sethuraman Panchanathan Becomes First Indian-American Honouree**
+- **Global Engineering Triumph**: The U.S. **National Academy of Engineering (NAE)** conferred the **2026 Arthur M. Bueche Award** upon distinguished computer scientist and engineer **Dr. Sethuraman Panchanathan**.
+- **Historic Distinction**:
+  - Dr. Panchanathan became the **first Indian-American** and the first resident of Arizona to receive this apex engineering leadership award.
+  - Recognized for seminal contributions to science and technology policy, human-centered computing, and national innovation ecosystems during his tenure as Director of the U.S. National Science Foundation (NSF).
+
+🎯 Exam Angle →
+
+- Award: **2026 Arthur M. Bueche Award**.
+- Conferred By: **U.S. National Academy of Engineering (NAE)**.
+- Recipient: **Dr. Sethuraman Panchanathan**.
+- Historic First: First **Indian-American** to win the Bueche Award.
+- Target MCQ Form: "Who became the first Indian-American to be honoured with the prestigious Arthur M. Bueche Award by the US National Academy of Engineering?" → **Sethuraman Panchanathan**.
 
 ---
 
@@ -1130,3 +1507,39 @@
 - World Bank FY26 Private Capital Milestone: **$112 Billion** mobilized.
 - Circular Economy Summit: **WCEF 2026** hosted in India (South Asia's first edition).
 - Target MCQ Form: "Who was appointed as the Non-Executive Chairperson of Airtel Payments Bank in September 2026, succeeding Sunil Bharti Mittal?" → **Shabnam Sinha**.
+
+---
+
+📰 **Savita Punia Becomes India's Most-Capped Women's Hockey Player (321 International Caps)**
+- **Historic Hockey Milestone**: Veteran Indian goalkeeper **Savita Punia** became the **most-capped player in the history of Indian women’s hockey**, earning her **321st international senior cap**.
+- **Record-Breaking Appearance**:
+  - Achieved the landmark during India’s Pool B clash against Indonesia at the Asian Games 2026.
+  - Surpassed the longstanding record of former Indian captain and striker **Vandana Katariya (320 international appearances)**.
+- **Accolades & Recognition**:
+  - Reared as *"The Wall of India"* for her heroic performances in penalty shoot-outs and the Tokyo 2020 Olympics; awarded a ₹10 Lakh cash reward by Hockey India.
+  - Stands alongside Vandana Katariya as the only two Indian women to cross 300 caps, and only the second Indian goalkeeper after legendary **PR Sreejesh** to achieve the 300-cap milestone.
+
+🎯 Exam Angle →
+
+- Most-Capped Indian Woman Hockey Player: **Savita Punia (321 caps)**.
+- Surpassed: **Vandana Katariya (320 caps)**.
+- Nickname: **"The Wall of India"**.
+- Only Goalkeeper Precedent: **PR Sreejesh** (men's hockey).
+- Target MCQ Form: "Who surpassed Vandana Katariya to become the most-capped player in the history of Indian women's hockey with 321 international appearances?" → **Savita Punia**.
+
+---
+
+📰 **Marathi Feature Film 'Gondhal' Selected as India's Official Entry for 99th Academy Awards (Oscars 2027)**
+- **Official Sovereign Selection**: The **Film Federation of India (FFI)** officially announced that the critically acclaimed Marathi feature film **'Gondhal'** has been chosen as **India’s official entry for the 99th Academy Awards (Oscars 2027)** in the **Best International Feature Film category**.
+- **Selection Process & Thematic Core**:
+  - Selected by a 15-member jury headed by prominent filmmakers after screening 35 shortlisted multi-lingual Indian films.
+  - Explores traditional folk ritual theater, rural agrarian resilience, and social justice tensions in rural Maharashtra.
+  - *Historical Precedent*: Follows previous Marathi official Oscar entries including *Shwaas (2004)* and *Harishchandrachi Factory (2009)*.
+
+🎯 Exam Angle →
+
+- India's Official Oscar Entry (Oscars 2027): **'Gondhal'** (Marathi film).
+- Selecting Authority: **Film Federation of India (FFI)**.
+- Award Category: **Best International Feature Film**.
+- Language: **Marathi**.
+- Target MCQ Form: "Which feature film was selected by the Film Federation of India as India's official entry for the Oscars 2027 in the Best International Feature Film category?" → **Gondhal** (Marathi).
