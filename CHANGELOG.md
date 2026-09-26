@@ -2,6 +2,35 @@
 
 All notable changes to the Current Affairs Dossier repository and Rajputana Gazette Broadsheet System are documented here.
 
+## 🚀 [v2.20] — 2026-09-26
+
+### 📑 SmartKeeda September Week 3 Ingestion (`sept week3.pdf` Complete Integration)
+- **Comprehensive Audit of `docs/PDF/sept week3.pdf` (75 Pages, 108 Stories)**:
+  - Extracted and integrated **16 fresh high-yield news clusters** spanning regulatory directives, flagship scheme milestones, statutory enactments, macro labor statistics, and clean energy mandates.
+  - Elevated September Dossier title to **(DAYS 1–25 CONSOLIDATED DOSSIER - WEEK 3 EXPANDED)**.
+  - September Dossier cluster count expanded from 84 to **exactly 100 clusters** (+16 clusters).
+- **The 16 Fresh September Ingestions**:
+  1. **IRDAI 'Maharajah INR Bonds' Regulatory Clearance** *(Section 1)*: Authorises Indian insurers to invest in New Development Bank's (NDB) proposed ₹25,000 Cr onshore rupee bonds; assigned category codes \`EORB\` and \`IORB\` under SCRA 1956.
+  2. **PFRDA Point of Presence (PoP) Charge Overhaul** *(Section 1)*: Standardised charge framework eliminating legacy Multiple Scheme Framework (MSF) fee tiers under NPS and NPS Lite.
+  3. **PM Jan Dhan Yojana (PMJDY) 12-Year Milestone** *(Section 2)*: Accounts cross 59.09 Cr (77.8% rural/semi-urban; 55.6% women); deposits exceed ₹2.31 Lakh Cr; average balance reaches ₹3,912; 36.86 Cr RuPay debit cards issued.
+  4. **DFS Section 10A PSS Act Gazette Notification** *(Section 3)*: Statutory prohibition of direct or indirect charges (zero-MDR) on UPI transactions up to ₹2,000 and all RuPay debit cards.
+  5. **Global Fintech Fest (GFF) 2026 'UPI Tap & Pay'** *(Section 3)*: Contactless NFC payments on PoS terminals functioning without active mobile internet connectivity, alongside delegated payments.
+  6. **NSO PLFS August 2026 Bulletin** *(Section 4)*: India's all-India unemployment rate (age 15+) drops to 6-month low of 5.0% (rural UR at 4.1%, urban UR at 6.8%).
+  7. **India–MERCOSUR e-CoO Additional Protocol** *(Section 4)*: First Additional Protocol to PTA amending Article 16 Annex III Rules of Origin for electronic Certificates of Origin.
+  8. **WEF Global Gender Gap Report 2026** *(Section 4)*: 20th edition; Iceland ranked #1 for 17th consecutive year; India ranks 131st out of 145 countries (score 64.5%).
+  9. **NITI Aayog India Electric Mobility Index (IEMI) 2025** *(Section 4)*: Delhi #1 (84/100) for 2nd year, followed by Maharashtra (78) and Karnataka (73).
+  10. **Registration of Births and Deaths (Amendment) Act, 2026** *(Section 5)*: Takes effect October 1, 2026; establishes 2-tier delayed registration (1–2 yrs: DM/SDM/Executive Magistrate; >2 yrs: Judicial Magistrate First Class).
+  11. **DILRMP 3.0 Operational Guidelines (₹565.50 Cr)** *(Section 5)*: 5-year Central Sector Scheme (2026–2031); 14-digit Bhu-Aadhaar (ULPIN); 75 Sub-Registrar Offices upgraded to Registration Seva Kendras (₹37.5 Cr).
+  12. **MoPNG GOBARdhan Bioenergy Guidelines (₹23,731 Cr)** *(Section 5)*: 100% CBG offtake assurance; Administered CBG Price fixed at ₹2,110/MMBtu (~₹98/kg) for 10 years until March 31, 2036; mandatory CGD blending 3% (FY27) to 5% (FY29).
+  13. **PM Vishwakarma Scheme 3-Year Milestone** *(Section 5)*: Reaches 30 lakh verified artisans across 18 traditional trades; ₹13,000 Cr outlay; 5% concessional credit (Tranche 1: ₹1L, Tranche 2: ₹2L); ₹15,000 toolkits.
+  14. **PM Kisan Maandhan Yojana (PM-KMY) 7-Year Milestone** *(Section 5)*: Assured ₹3,000/month pension at 60 yrs for Small & Marginal Farmers (cultivable land up to 2 ha; age 18–40; LIC managed).
+  15. **ORV 'Sagar Manthan' (Yard 3041) Launch** *(Section 7)*: Built by GRSE Kolkata for NCPOR under ₹840 Cr Deep Ocean Mission Vertical-4; 89.5m length; 30-yr life; replaces 43-yr-old Sagar Kanya.
+  16. **Akasa Air 1% SAF Commercial Flight** *(Section 7)*: Mumbai–Goa commercial flight with BPCL; targets national 5% mandatory SAF blending by 2030 (IATA Net-Zero 2050).
+- **Portal & Invariant Verification**:
+  - Total rendered clusters across all dossiers increased from 667 to **683 clusters** (+16).
+  - Bit-for-bit parity maintained: `current_affairs_hub.html === index.html` (2,130,845 bytes).
+  - 0 checkboxes, 0 heading hashes, 81 sections preserved.
+
 ## 🚀 [v2.19] — 2026-09-23
 
 ### 🏛️ 16th Finance Commission Master Blueprint Ingestion (`16th_Finance_Commission_lyst1770203027654.pdf`)

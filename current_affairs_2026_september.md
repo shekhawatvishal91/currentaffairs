@@ -1,4 +1,4 @@
-# 🎯 CURRENT AFFAIRS — SEPTEMBER 2026 (DAYS 1–22 CONSOLIDATED DOSSIER - ENHANCED)
+# 🎯 CURRENT AFFAIRS — SEPTEMBER 2026 (DAYS 1–25 CONSOLIDATED DOSSIER - WEEK 3 EXPANDED)
 *Senior Paper-Setter Master Strike File: Verified Regulatory Directives, IFSCA Market Abuse Code, Sovereign Ratings, Central Counterparties, Multilateral Accords & Defence Milestones*
 
 > **EXAMINER'S BLUEPRINT & COMPLIANCE STANDARD**:
@@ -180,6 +180,51 @@
 - Governing Council: Reports directly to the **Economic Intelligence Council (EIC)** headed by the **Union Finance Minister**.
 - Governing Statute: **Prevention of Money Laundering Act (PMLA), 2002**.
 - Target MCQ Form: "To which high-level council headed by the Union Finance Minister does the Financial Intelligence Unit - India (FIU-IND) report directly?" → **Economic Intelligence Council (EIC)**.
+
+---
+📰 **IRDAI Authorises Indian Insurers to Invest in New Development Bank's 'Maharajah INR Bonds' (₹25,000 Cr Outlay)**
+
+- **Genesis & Regulatory Clearance**: The Insurance Regulatory and Development Authority of India (**IRDAI**) formally permitted Indian life and general insurance companies to invest in **"Maharajah INR Bonds"**—the proposed onshore rupee-denominated bond programme of the **New Development Bank (NDB)**.
+- **Programme Outlay & Tenor**:
+  - Under the approved roadmap, the Shanghai-headquartered NDB proposes to mobilise approximately **₹25,000 crore** over a 5-year issuance cycle.
+  - Proceeds are legally earmarked for general corporate financing and onward concessional lending to sustainable infrastructure, green energy, water sanitation, and social development projects located in India.
+- **Securities Classification & Prescribed Category Codes**:
+  - IRDAI clarified that NDB's onshore rupee bond issuances legally qualify as 'securities' under Section 2(h) of the *Securities Contracts (Regulation) Act, 1956 (SCRA)*.
+  - Prescribed two distinct investment category codes for insurer balance sheets:
+    - **`EORB`**: Exclusively designated for the NDB's Onshore Rupee Bonds.
+    - **`IORB`**: Designated for Infrastructure-Approved Bond issuances executed by the NDB.
+- **Fundamental Conceptual Distinction**:
+  - *Masala Bonds*: Rupee-denominated debt instruments issued *outside India* in overseas financial hubs (e.g. London, Singapore) to tap international investors.
+  - *Maharajah Bonds*: Rupee-denominated debt instruments issued *onshore within Indian domestic capital markets* by multilateral or supranational development banks to mobilise domestic institutional savings.
+- **Institutional Profile of NDB**: Established in July 2014 by BRICS nations (operationalized 2015; HQ: Shanghai, China; President: Dilma Rousseff; 11 member nations: Brazil, Russia, India, China, South Africa, Bangladesh, UAE, Egypt, Algeria, Colombia, Uzbekistan).
+
+🎯 Exam Angle →
+
+- Category Codes: **`EORB`** (NDB Onshore Rupee Bonds) and **`IORB`** (Infrastructure-Approved Bonds).
+- Fundamental Concept: Maharajah Bonds are issued *onshore within India*; Masala Bonds are issued *offshore outside India*.
+- Programme Ceiling: **₹25,000 crore** over a 5-year issuance horizon.
+- Governing Statute: Securities Contracts (Regulation) Act, 1956 (SCRA).
+- Target MCQ Form: "Which investment category code has been designated by IRDAI for Indian insurers investing in the New Development Bank's onshore rupee-denominated Maharajah Bonds?" → **`EORB`**.
+
+---
+
+📰 **PFRDA Standardises Point of Presence (PoP) Charge Architecture Across National Pension System (NPS)**
+
+- **Comprehensive Charge Realignment**: The Pension Fund Regulatory and Development Authority (**PFRDA**) notified a standardised charge framework applicable to Point of Presence (**PoP**) entities under the **National Pension System (NPS)** and NPS Lite via circular titled *Standardised framework for classification and presentation of schemes under NPS*.
+- **Dismantling Legacy Dual Regimes**:
+  - Completely abolishes the historical operational distinction between standard common schemes and schemes administered under the **Multiple Scheme Framework (MSF)**.
+  - Replaces fragmented legacy circulars with a single, consolidated schedule governing onboarding fees, ongoing servicing charges, and contribution processing levies.
+- **Rationalisation of Subscriber Servicing**:
+  - Establishes a transparent fee cap on initial subscriber registration, contribution processing, and persistent transaction charges.
+  - Mandates digital onboarding fees to be strictly segregated from physical offline document submission fees to incentivize paperless e-NPS adoption.
+  - Directs all registered PoPs (commercial banks, NBFCs, and fintech intermediaries) to display standardized service charges on web portals and mobile apps without hidden processing levies.
+
+🎯 Exam Angle →
+
+- Regulatory Authority: **PFRDA** (governed under PFRDA Act, 2013; HQ: New Delhi).
+- Core Reform: Dismantles differential charge tiers between common schemes and Multiple Scheme Framework (MSF) under NPS.
+- Nodal Entities: Points of Presence (PoPs)—commercial banks and financial intermediaries acting as first-mile subscriber touchpoints.
+- Target MCQ Form: "Which regulatory body notified the standardised framework for classification and presentation of schemes under the National Pension System (NPS), unifying Point of Presence (PoP) charges?" → **PFRDA**.
 
 ---
 
@@ -415,6 +460,32 @@
 - Target MCQ Form: "How much interest assistance did the Government of India absorb to support the Maldives in servicing its US$150 Million SBI T-bill facility?" → **Nearly US$45 Million**.
 
 ---
+📰 **Pradhan Mantri Jan Dhan Yojana (PMJDY) Completes 12 Years: Accounts Cross 59.09 Crore & Deposits Touch ₹2.31 Lakh Crore**
+
+- **12-Year National Milestone**: Launched by Prime Minister Narendra Modi on **August 28, 2014**, as the world's largest financial inclusion mission, PMJDY completed 12 years of nationwide operationalization under the Department of Financial Services (DFS), Ministry of Finance.
+- **Four-Fold Account Growth Trajectory**:
+  - Total cumulative PMJDY accounts surged four-fold from **14.72 crore in March 2015 to 59.09 crore** as of August 19, 2026.
+  - *Rural and Semi-Urban Dominance*: **45.95 crore accounts (77.8%)** are operationalized across rural and semi-urban bank branches, successfully eliminating the rural banking divide.
+  - *Urban/Metropolitan Distribution*: 13.14 crore accounts (22.2%) located in urban and metropolitan centres.
+- **Demographic Empowerment & Gender Parity**:
+  - *Female Financial Inclusion*: **55.6% of all PMJDY accounts (over 32.8 crore)** are held by women beneficiaries, marking unprecedented female banking formalization.
+- **Deposit Mobilisation & Account Monetisation**:
+  - *Aggregate Deposit Corpus*: Total balances held in PMJDY accounts crossed **₹2.31 lakh crore** (₹2,31,236 crore).
+  - *Average Deposit Expansion*: The average deposit balance per PMJDY account expanded to **₹3,912** (compared to ₹1,065 in March 2015), proving that accounts are actively utilized for savings and DBT transfers rather than remaining dormant.
+- **RuPay Debit Cards & Accidental Insurance Shield**:
+  - Total RuPay Debit Cards issued: **36.86 crore cards**, bundled with built-in **₹2 lakh free accidental death insurance coverage** (for cards issued post-August 28, 2018; ₹1 lakh for earlier cards).
+  - Overdraft (OD) facility: Up to **₹10,000** (with no conditional assessment for amounts up to ₹2,000; upper age ceiling 65 years).
+
+🎯 Exam Angle →
+
+- Total PMJDY Accounts: **59.09 crore accounts** (August 2026).
+- Rural/Semi-Urban Share: **77.8% (45.95 crore accounts)**.
+- Women Account Share: **55.6% of total accounts**.
+- Cumulative Balance: Exceeded **₹2.31 lakh crore**; Average balance per account = **₹3,912**.
+- Insurance Cover: Built-in RuPay accidental insurance of **₹2 lakh**; Overdraft ceiling of **₹10,000**.
+- Target MCQ Form: "What is the total cumulative balance deposited in Pradhan Mantri Jan Dhan Yojana (PMJDY) accounts as of its 12th anniversary in August 2026?" → **Over ₹2.31 lakh crore**.
+
+---
 
 ## 3. 💳 DIGITAL PAYMENTS, FINTECH INNOVATION & INSURANCE
 
@@ -628,6 +699,46 @@
 - Target MCQ Form: "What is the name of the NETC FASTag portability facility launched by IHMCL and NPCI allowing users to change their issuer bank without physical tag replacement?" → **OneTag**.
 
 ---
+📰 **DFS Issues Statutory Gazette Notification under Section 10A of PSS Act: Strict Zero-MDR on UPI up to ₹2,000 and RuPay Debit Cards**
+
+- **Statutory Enforcement & Legislative Anchor**: The Department of Financial Services (**DFS**), Ministry of Finance, published a legally binding Gazette notification under **Section 10A of the Payment and Settlement Systems Act, 2007 (PSS Act)**.
+- **Strict Prohibition of Direct/Indirect Levies**:
+  - Mandates that no bank, payment system operator (PSO), or payment service provider shall directly or indirectly impose any merchant discount rate (MDR), convenience fee, interchange fee, or handling surcharge on persons making or receiving payments via:
+    1. **Unified Payments Interface (UPI) for transaction values up to ₹2,000**.
+    2. **RuPay Debit Cards across all domestic transaction tiers**.
+- **Deterrent Penalty Framework**:
+  - Clarifies that any unauthorized levy, fee masking, or hidden gateway markup attempted by banks or merchant acquirers attracts direct penal proceedings under Section 26 and Section 30 of the PSS Act, 2007.
+- **Fiscal Underpinning**:
+  - The Central Government continues to compensate acquiring banks and NPCI through dedicated digital payment incentive budgetary allocations (~₹1,500–₹2,000 Cr annually) to sustain the zero-MDR ecosystem for small merchants and citizens.
+
+🎯 Exam Angle →
+
+- Statutory Section: **Section 10A of the Payment and Settlement Systems Act, 2007**.
+- Transaction Ceiling for Zero-Fee Protection: UPI transactions **up to ₹2,000** and all **RuPay Debit Card** transactions.
+- Nodal Department: **Department of Financial Services (DFS)**, Ministry of Finance.
+- Target MCQ Form: "Under which section of the Payment and Settlement Systems Act, 2007 did the Ministry of Finance issue a Gazette notification prohibiting charges on UPI transactions up to ₹2,000 and RuPay debit cards?" → **Section 10A**.
+
+---
+
+📰 **Global Fintech Fest (GFF) 2026: NPCI & RBI Unveil 'UPI Tap & Pay' NFC Contactless Capability and Delegated Payments**
+
+- **Architectural Innovations at GFF 2026**: At the Global Fintech Fest held in Mumbai, the Reserve Bank of India and National Payments Corporation of India (**NPCI**) unveiled transformative next-generation capabilities on the UPI rail.
+- **UPI Tap & Pay (Near Field Communication / NFC)**:
+  - Enables seamless contactless point-of-sale (PoS) merchant payments by simply tapping an NFC-enabled smartphone against any BharatQR or Soundbox PoS terminal.
+  - *Zero Mobile Internet Requirement*: Functions locally via encrypted NFC handshakes between device and terminal without requiring active cellular data connection during execution, drastically lowering failure rates in rural or congested network environments.
+- **Delegated Payments Framework**:
+  - Authorizes a primary bank account holder (e.g. parent) to set monthly or per-transaction spending limits for secondary users (e.g. children or dependents) without requiring the secondary user to maintain an independent bank account.
+- **Conversational Payments & AI Voice Verification**:
+  - Integrated with Bhashini NLP models to enable multi-lingual voice-driven peer-to-merchant transfers across 12 scheduled Indian languages.
+
+🎯 Exam Angle →
+
+- Technology Standard: **Near Field Communication (NFC)** powering UPI Tap & Pay.
+- Offline Capability: Enables contactless PoS tapping without active mobile data connectivity.
+- Delegated Payments: Allows secondary users to transact from primary user's account under preset limits.
+- Target MCQ Form: "Which wireless technology standard powers the newly unveiled 'UPI Tap & Pay' capability enabling internet-free contactless payments at PoS terminals?" → **Near Field Communication (NFC)**.
+
+---
 
 ## 4. 📊 MACROECONOMIC TRENDS, SOVEREIGN RATINGS & FOREIGN TRADE
 
@@ -817,6 +928,89 @@
 - Publisher: **JLL & LaSalle** (14th biennial edition, published since 1999).
 - Global Rank 1: **United Kingdom**.
 - Target MCQ Form: "In the 2026 JLL Global Real Estate Transparency Index, what rank did India secure globally while being named the top-improved market in Asia-Pacific?" → **26th**.
+
+---
+📰 **NSO PLFS August 2026 Bulletin: India's Overall Unemployment Rate Drops to 6-Month Low of 5.0% (Rural UR at 4.1%)**
+
+- **17th Monthly PLFS Bulletin**: The National Statistical Office (**NSO**), Ministry of Statistics and Programme Implementation (MoSPI), released the *Periodic Labour Force Survey (PLFS) Monthly Bulletin for August 2026*.
+- **Headline Labour Market Numbers (Persons aged 15 years and above)**:
+  - *All-India Unemployment Rate (UR)*: Declined to **5.0%** in August 2026 from 5.1% in July 2026, marking a 6-month low.
+  - *Rural Unemployment Rate*: Dropped significantly to **4.1%** (from 4.5% in July 2026), reaching its lowest level since January 2026, driven by peak kharif agricultural sowing and rural construction.
+  - *Urban Unemployment Rate*: Edged marginally upward to **6.8%** (compared to 6.6% in July 2026), reflecting seasonal urban youth job market entries.
+- **Labour Force Participation Rate (LFPR) & Worker Population Ratio (WPR)**:
+  - All-India LFPR (Current Weekly Status / CWS) stood resilient at **54.8%**.
+  - All-India WPR stood at **52.1%**, highlighting sustained workforce absorption.
+
+🎯 Exam Angle →
+
+- All-India Unemployment Rate: **5.0%** (6-month low).
+- Rural Unemployment Rate: **4.1%** | Urban Unemployment Rate: **6.8%**.
+- Compiling Agency: **National Statistical Office (NSO), MoSPI** (using Current Weekly Status / CWS methodology).
+- Target MCQ Form: "According to the NSO Periodic Labour Force Survey (PLFS) Bulletin for August 2026, what was India's all-India unemployment rate among persons aged 15 years and above?" → **5.0%**.
+
+---
+
+📰 **India and MERCOSUR Sign First Additional Protocol to PTA: Operationalises Paperless Electronic Certificates of Origin (e-CoOs)**
+
+- **Bilateral Trade Modernisation**: India and the South American **MERCOSUR** trade bloc (comprising Argentina, Brazil, Paraguay, and Uruguay) formally signed the *First Additional Protocol to the India-MERCOSUR Preferential Trade Agreement (PTA)*.
+- **Amendment to Rules of Origin**:
+  - Specifically amends **Article 16 of Annex III** governing Rules of Origin under the preferential trade pact operationalized in 2009.
+  - Mandates mutual judicial and customs acceptance of **electronic Certificates of Origin (e-CoOs)** issued with digital signatures and cryptographic QR codes.
+- **Elimination of Physical Port Bottlenecks**:
+  - Eliminates the legacy requirement for wet-ink stamped paper certificates dispatched via air courier, reducing customs clearance transit delays at Brazilian, Argentine, and Indian ports from 10–14 days to real-time verification.
+- **Bilateral Trade Context**: India-MERCOSUR bilateral trade crossed \$15 billion, anchored in petroleum crude, organic chemicals, pharmaceuticals, vegetable oils, and auto components.
+
+🎯 Exam Angle →
+
+- International Agreement: **First Additional Protocol to India-MERCOSUR Preferential Trade Agreement (PTA)**.
+- Specific Amendment: **Article 16 of Annex III** (Rules of Origin) for electronic Certificates of Origin (e-CoOs).
+- Member Nations of MERCOSUR: Argentina, Brazil, Paraguay, Uruguay (Venezuela suspended; Bolivia accession underway).
+- Target MCQ Form: "Which article of Annex III under the India-MERCOSUR PTA was amended by the First Additional Protocol to enable paperless electronic Certificates of Origin (e-CoOs)?" → **Article 16**.
+
+---
+
+📰 **World Economic Forum (WEF) Releases Global Gender Gap Report 2026: India Ranks 131st as Iceland Tops for 17th Year**
+
+- **20th Anniversary Edition**: The World Economic Forum (**WEF**), headquartered in Cologny-Geneva, Switzerland, published the *Global Gender Gap Report 2026* benchmarking gender parity across 145 countries.
+- **Global Parity Landscape**:
+  - Global average gender gap closed at **69.2%**; projected timeline to achieve full global gender parity stands at **134 years** (by year 2160).
+  - *Global Leader*: **Iceland ranked #1 for the 17th consecutive year**, having closed **93.0%** of its gender gap.
+  - Top 3 Nations: 1. Iceland (93.0%), 2. Finland (87.5%), 3. Norway (87.2%).
+- **India's Performance & Sub-Index Breakdown**:
+  - *Overall Global Rank*: **131st out of 145 countries** (Parity Score: **64.5%**; retained status quo from 2025).
+  - The 4 Foundation Dimensions:
+    1. *Educational Attainment*: High parity score of 96.2% (robust secondary and tertiary enrolment).
+    2. *Health and Survival*: Parity score of 95.1% (marginal gains in sex ratio at birth).
+    3. *Political Empowerment*: Parity score of 25.1% (strengthened by local panchayat representations and women reservation act roadmap).
+    4. *Economic Participation and Opportunity*: Lowest sub-index score at 39.8%, reflecting female labour force participation gaps.
+  - *Regional Peers*: Bangladesh ranked 99th, Nepal 117th, Sri Lanka 122nd, China 107th, Pakistan 142nd.
+
+🎯 Exam Angle →
+
+- Publishing Body: **World Economic Forum (WEF)** (Annual report, 20th edition).
+- Top Ranked Country: **Iceland (#1 for 17th consecutive year)**.
+- India's Overall Rank: **131st out of 145 countries** (Score: **64.5%**).
+- Target MCQ Form: "What is India's rank in the World Economic Forum's Global Gender Gap Report 2026?" → **131st**.
+
+---
+
+📰 **NITI Aayog Unveils India Electric Mobility Index (IEMI) 2025: Delhi Retains #1 Rank Followed by Maharashtra and Karnataka**
+
+- **Policy Benchmark**: NITI Aayog Member Rajiv Gauba released the 2nd edition of the *India Electric Mobility Index (IEMI) 2025*, developed jointly by NITI Aayog and the World Resources Institute (**WRI India**).
+- **Evaluation Framework**: Evaluates all 36 States and UTs across 4 composite thematic pillars: *EV Penetration & Market Adoption*, *Charging Infrastructure & Grid Readiness*, *State EV Policy Incentives*, and *Ecosystem & Manufacturing Investments*.
+- **Top Performing States & Scores (Out of 100)**:
+  1. **Delhi**: **Rank 1 (Score: 84/100)** → Retained top spot nationally, driven by public transport electrification (80%+ electric DTC buses) and highest EV charging density per square kilometre.
+  2. **Maharashtra**: **Rank 2 (Score: 78/100)** → Up from 68 in 2024; robust industrial EV manufacturing cluster in Pune-Chakan belt.
+  3. **Karnataka**: **Rank 3 (Score: 73/100)** → High electric two-wheeler and commercial fleet adoption in Bengaluru.
+  4. **Chandigarh**: **Rank 4 (Score: 71/100)**.
+  5. **Goa**: **Rank 5 (Score: 65/100)**.
+
+🎯 Exam Angle →
+
+- Release Body: **NITI Aayog** in collaboration with **WRI India**.
+- #1 State/UT: **Delhi (Score: 84/100)** for 2nd consecutive year.
+- Top 3 States: **1. Delhi, 2. Maharashtra, 3. Karnataka**.
+- Target MCQ Form: "Which State/UT topped the NITI Aayog India Electric Mobility Index (IEMI) 2025 with an overall score of 84?" → **Delhi**.
 
 ---
 
@@ -1016,6 +1210,123 @@
 - Districts Covered: **Udupi and Dakshina Kannada**.
 - Language Family: **Dravidian Language** (Tulu).
 - Target MCQ Form: "Which Indian state granted Tulu the status of a second additional administrative language in its coastal districts?" → **Karnataka**.
+
+---
+📰 **Registration of Births and Deaths (Amendment) Act, 2026 Enforced from October 1: Institutes Two-Tier Delayed Registration System**
+
+- **Gazette Notification & Enforcement**: Registrar General of India (**Mrityunjay Kumar Narayan**) notified that the *Registration of Births and Deaths (Amendment) Act, 2026* comes into force nationwide from **October 1, 2026**.
+- **Statutory Focus**: Amends **Section 13(3)** of the principal *Registration of Births and Deaths Act, 1969*, introducing stringent judicial oversight for delayed registrations to prevent fraudulent demographic documentation.
+- **The 2-Tier Delayed Registration Mechanism**:
+  - *Delay between 1 Year and 2 Years*: Registration can be granted only by a formal written order of an **Executive Magistrate, Sub-Divisional Magistrate (SDM), or District Magistrate (DM)**, following physical verification of the event and payment of late fees.
+  - *Delay Exceeding 2 Years*: Registration strictly requires an order from a **Judicial Magistrate of the First Class (JMFC)** or Metropolitan Magistrate, eliminating administrative discretion.
+- **Digital Registry & Legal Utility**: Builds on the 2023 legislative reform establishing a centralized national birth-death database; the digital birth certificate serves as conclusive single-document legal proof for school admissions, voter lists, driving licences, passport issuances, Aadhaar registration, and government appointments.
+
+🎯 Exam Angle →
+
+- Effective Enforcement Date: **October 1, 2026** (notified by Registrar General of India Mrityunjay Kumar Narayan).
+- Amending Section: **Section 13(3)** of Registration of Births and Deaths Act, 1969.
+- Approval Authorities for Delays:
+  - 1 to 2 years delay: **District Magistrate (DM) / SDM / Executive Magistrate**.
+  - Exceeding 2 years delay: **Judicial Magistrate of the First Class (JMFC)**.
+- Target MCQ Form: "Under the Registration of Births and Deaths (Amendment) Act, 2026, an order from which authority is mandatory for registering a birth or death delayed by more than two years?" → **Judicial Magistrate of the First Class (JMFC)**.
+
+---
+
+📰 **Rural Development Ministry Notifies DILRMP 3.0 Guidelines: ₹565.50 Cr Outlay, 14-Digit Bhu-Aadhaar & Registration Seva Kendras**
+
+- **Phase-3 Operational Guidelines**: Union Minister for Rural Development Shivraj Singh Chouhan unveiled operational guidelines for the third phase of the *Digital India Land Records Modernisation Programme (DILRMP 3.0)*.
+- **Scheme Architecture & Outlay**:
+  - Central Sector Scheme with a 100% centrally funded outlay of **₹565.50 crore**, operational from **April 1, 2026 to March 31, 2031** (5 years).
+  - Administered by the Department of Land Resources, Ministry of Rural Development.
+- **Institutional Core — "Bhu-Aadhaar" (ULPIN)**:
+  - Mandates assignment of **Bhu-Aadhaar**—a **14-digit Unique Land Parcel Identification Number (ULPIN)**—to every surveyed land parcel in India based on precise geo-referenced cadastral coordinates (longitude and latitude).
+- **Modernisation as "Registration Seva Kendras"**:
+  - Earmarks **₹37.5 crore** to transform **75 high-footfall Sub-Registrar Offices (SROs)** across the country into state-of-the-art "Registration Seva Kendras", modelled after Passport Seva Kendras.
+- **Federated National Land Stack**: Creates interoperable state-level land stacks integrated via APIs with Revenue Court Case Management Systems (RCCMS) and banks, alongside expanding the NAKSHA pilot for urban property cards (UrPro Cards). Earlier phases completed 99.9% digitisation of Records of Rights (RoRs).
+
+🎯 Exam Angle →
+
+- Implementing Ministry: **Department of Land Resources, Ministry of Rural Development**.
+- Scheme Outlay & Period: **₹565.50 crore (April 1, 2026 to March 31, 2031)**.
+- Bhu-Aadhaar Digits: **14-digit unique alpha-numeric code** (ULPIN).
+- Registration Seva Kendras: **75 Sub-Registrar Offices (₹37.5 Cr outlay)**.
+- Target MCQ Form: "What is the total approved outlay for the third phase of the Digital India Land Records Modernisation Programme (DILRMP 3.0) for 2026–2031?" → **₹565.50 crore**.
+
+---
+
+📰 **MoPNG Issues Operational Guidelines for ₹23,731 Crore GOBARdhan Scheme: 100% CBG Offtake Assurance & 10-Year Fixed ACP**
+
+- **Policy Notification**: Ministry of Petroleum and Natural Gas (**MoPNG**) notified comprehensive operational guidelines for the **₹23,731 crore GOBARdhan (Galvanizing Organic Bio-Agro Resources Dhan) National Circular Bioenergy Scheme**, implementing Cabinet decisions from August 2026 for FY 2026-27 to FY 2035-36 (10-year horizon).
+- **100% Offtake Guarantee & Commercial De-risking**:
+  - Assures Compressed Biogas (CBG) producers of **up to 100% guaranteed commercial offtake** of saleable CBG by City Gas Distribution (CGD) entities.
+  - Zero take-or-pay liability on CGD entities in Year 1, rising to up to 90% of annual nominated quantity from Year 2 onward; CBG producers face supply-or-pay obligation up to 50% from Year 2.
+- **10-Year Fixed Administered CBG Price (ACP)**:
+  - Fixed an initial Administered CBG Price (ACP) of **₹2,110 per MMBtu (Metric Million British Thermal Unit)**, equivalent to **~₹98 per kg of CBG** (at 95% methane content), valid for 10 years until **March 31, 2036**.
+  - Provides CBG affordability support to the Synchro Operator capped at **₹10 per kg** for 10 years.
+- **Capital Financial Assistance (CFA)**:
+  - *New CBG Plants*: Financial assistance of **₹1.25 crore per Tonne Per Day (TPD)** of capacity, capped at **₹30 crore per project**.
+  - *Existing Biogas Upgrades*: Financial assistance of **₹0.60 crore per TPD**, capped at **₹5 crore per project**.
+- **Mandatory CGD Blending Obligations**: Mandates CBG blending targets of **3% in FY27**, **4% in FY28**, and **5% from FY29 onwards** across CNG and domestic PNG networks.
+
+🎯 Exam Angle →
+
+- Total Scheme Outlay: **₹23,731 crore** (FY27 to FY36, 10-year term).
+- Administered CBG Price (ACP): **₹2,110 per MMBtu (~₹98/kg)** fixed till March 31, 2036.
+- Financial Assistance: **₹1.25 Cr/TPD (cap ₹30 Cr)** for new plants; **₹0.60 Cr/TPD (cap ₹5 Cr)** for upgrades.
+- Mandatory Blending Trajectory: **3% (FY27) → 4% (FY28) → 5% (FY29 onwards)**.
+- Target MCQ Form: "What is the initial Administered CBG Price (ACP) fixed under the GOBARdhan guidelines for a period of 10 years until March 31, 2036?" → **₹2,110 per MMBtu (~₹98 per kg)**.
+
+---
+
+📰 **PM Vishwakarma Scheme Reaches 3-Year Milestone: Enrols 30 Lakh Verified Artisans with ₹13,000 Crore Outlay**
+
+- **Triennial Anniversary**: Launched on September 17, 2023, by Prime Minister Narendra Modi, the flagship *PM Vishwakarma Scheme* completed 3 years, reaching its milestone target of **30 lakh verified artisans and craftspeople**.
+- **Scheme Framework & Financial Outlay**:
+  - Fully funded Central Sector Scheme with an approved outlay of **₹13,000 crore** for five years (FY 2023-24 to FY 2027-28).
+  - Jointly administered by Ministry of MSME (nodal), Ministry of Skill Development and Entrepreneurship (MSDE), and Department of Financial Services (DFS), MoF.
+- **Coverage of 18 Traditional Trades**: Supports traditional artisans across 18 trades (carpenters, blacksmiths, goldsmiths, potters, sculptors, cobblers, tailors, boat builders, basket makers, etc.).
+- **The 4-Pillar Support Ecosystem**:
+  1. *Recognition*: PM Vishwakarma Certificate and ID Card.
+  2. *Skill Upgradation*: 5–7 days (40 hours) basic training and 15+ days (120 hours) advanced training with a daily stipend of **₹500/day**.
+  3. *Toolkit Incentive*: Modern toolkit grant of **₹15,000** provided via e-vouchers / digital credits.
+  4. *Concessional Enterprise Credit*: Collateral-free enterprise development loans at an ultra-concessional interest rate of **5%** (Union Government absorbs up to 8% interest subvention):
+     - **Tranche 1**: Up to **₹1,00,000 (₹1 Lakh)** with an 18-month repayment tenure.
+     - **Tranche 2**: Up to **₹2,00,000 (₹2 Lakh)** with a 30-month repayment tenure (eligible after standard repayment of Tranche 1).
+  - *Digital Transaction Incentives*: ₹1 per digital transaction for up to 100 transactions per month (₹100/month maximum incentive).
+
+🎯 Exam Angle →
+
+- Verified Beneficiaries Reached: **30 lakh artisans**.
+- Covered Trades: **18 traditional artisan trades**.
+- Scheme Outlay: **₹13,000 crore** (FY24 to FY28).
+- Concessional Loan Limits & Rates: **Tranche 1 up to ₹1 Lakh (18 mos)**; **Tranche 2 up to ₹2 Lakh (30 mos)** at **5% interest**.
+- Toolkit Grant: **₹15,000**; Training stipend: **₹500/day**.
+- Target MCQ Form: "Under the PM Vishwakarma Scheme, what is the maximum credit amount available in the second tranche at a concessional interest rate of 5%?" → **₹2,00,000 (₹2 Lakh)**.
+
+---
+
+📰 **Pradhan Mantri Kisan Maandhan Yojana (PM-KMY) Completes 7 Years: Assured Old-Age Pension for Small and Marginal Farmers**
+
+- **7-Year Milestone**: Launched on September 12, 2019, from Ranchi, Jharkhand, PM-KMY completed 7 years of providing institutional social security to India's farming community.
+- **Statutory Scheme Architecture**:
+  - Central Sector Scheme administered by the Department of Agriculture and Farmers Welfare (DA&FW), Ministry of Agriculture.
+  - Pension Fund Manager: **Life Insurance Corporation of India (LIC)** manages the pension corpus and disburses monthly pensions.
+- **Benefit Architecture & Eligibility Parameters**:
+  - **Assured Monthly Pension**: Guaranteed minimum pension of **₹3,000 per month** upon attaining the age of **60 years**.
+  - **Eligible Beneficiaries**: Small and Marginal Farmers (SMFs) owning **cultivable agricultural land up to 2 hectares** as per state land records.
+  - **Entry Age Bracket**: **18 to 40 years**.
+- **50:50 Contributory Structure**:
+  - Monthly subscription ranges from **₹55 to ₹200 per month**, depending on the farmer's entry age.
+  - 100% Equal Matching Contribution: Central Government deposits an equal matching amount (50:50) directly into the farmer's pension fund account.
+  - Auto-Debit Facility: Farmers can choose to auto-debit their monthly contribution directly from their **PM-KISAN** income transfer instalments.
+
+🎯 Exam Angle →
+
+- Monthly Pension Amount: Guaranteed **₹3,000 per month** after age 60.
+- Eligibility Landholding: Up to **2 hectares of cultivable land**.
+- Entry Age Group: **18 to 40 years** (monthly contribution ₹55 to ₹200).
+- Pension Fund Manager: **Life Insurance Corporation of India (LIC)**.
+- Target MCQ Form: "What is the assured monthly pension provided to small and marginal farmers under PM-KMY upon attaining the age of 60 years?" → **₹3,000 per month**.
 
 ---
 
@@ -1333,6 +1644,46 @@
 - Indian Scheme: **Carbon Credit Trading Scheme (CCTS)** (administered by Bureau of Energy Efficiency, Ministry of Power).
 - Import Tax Relieved: **UK-CBAM (Carbon Border Adjustment Mechanism)** effective 2027.
 - Target MCQ Form: "Which country officially recognized India's Carbon Credit Trading Scheme (CCTS) to provide tax offsets against its upcoming Carbon Border Adjustment Mechanism?" → **United Kingdom**.
+
+---
+📰 **GRSE Launches Ocean Research Vessel 'ORV Sagar Manthan' (Yard 3041) under ₹840 Crore Deep Ocean Mission Vertical-4**
+
+- **Vessel Launch & Construction**: Union Minister Dr. Jitendra Singh launched India's advanced Ocean Research Vessel (ORV) **"Sagar Manthan" (Yard 3041)** at the Rishi Bankim Shipyard of Garden Reach Shipbuilders and Engineers (**GRSE**), Kolkata.
+- **Mission Anchor & Outlay**:
+  - Constructed under **Vertical-4 (Deep Ocean Survey and Exploration)** of the flagship **Deep Ocean Mission (DOM)** at an approximate cost of **₹840 crore**.
+  - Built for the National Centre for Polar and Ocean Research (**NCPOR**), Goa, under the Ministry of Earth Sciences (MoES).
+- **Operational Specifications & Extreme Capabilities**:
+  - Dimensions: Length of **89.5 metres** and width of **18.8 metres**, with an endurance of 45 days and an operational lifespan of **30 years**.
+  - Extreme Waters: Designed as an all-weather multidisciplinary vessel capable of polar oceanographic research in the Southern Ocean (Antarctica).
+  - Dual-Class Certification: Certified by both the **Indian Register of Shipping (IRS)** and the **American Bureau of Shipping (ABS)**.
+  - Scientific Payload: Equipped with multichannel seismic systems, multibeam bathymetry, sub-bottom profilers, drop keels, and deployment bays for Remotely Operated Vehicles (ROVs) and Autonomous Underwater Vehicles (AUVs).
+- **Replacement Timeline**: Gradually replaces India's historic 43-year-old research vessel *ORV Sagar Kanya* (procured from Germany in 1983); final delivery and NCPOR commissioning scheduled for 2028.
+
+🎯 Exam Angle →
+
+- Vessel Name & Yard: **ORV Sagar Manthan (Yard 3041)** built by **GRSE, Kolkata**.
+- Flagship Umbrella: **Deep Ocean Mission (Vertical-4: Deep Ocean Survey)**; Outlay = **₹840 crore**.
+- Operating Body: **National Centre for Polar and Ocean Research (NCPOR), MoES**.
+- Replaces: 43-year-old **ORV Sagar Kanya** (1983).
+- Target MCQ Form: "Which historic ocean research vessel procured in 1983 is set to be replaced by the newly launched ₹840-crore ORV 'Sagar Manthan'?" → **ORV Sagar Kanya**.
+
+---
+
+📰 **Akasa Air Operates India's First Commercial Flight Blended with 1% Sustainable Aviation Fuel (SAF) via BPCL**
+
+- **Decarbonisation Milestone**: Akasa Air operated India's first commercial passenger flight powered by conventional Aviation Turbine Fuel (ATF) blended with **1% Sustainable Aviation Fuel (SAF)**, supplied by Bharat Petroleum Corporation Limited (**BPCL**).
+- **Flight Route & Fleet Technology**:
+  - Flight operated from Chhatrapati Shivaji Maharaj International Airport (Mumbai) to Manohar International Airport (Mopa, Goa) on a Boeing 737 MAX aircraft powered by CFM LEAP-1B engines.
+- **National Decarbonisation Mandate**:
+  - Ministry of Civil Aviation and MoPNG set a national mandate of **5% mandatory SAF blending by 2030** for domestic airlines, aligning with the International Air Transport Association's (**IATA**) global commitment of Net-Zero Carbon Emissions by 2050.
+- **Airline Decarbonisation Innovations**: Akasa Air utilizes the OpenAirlines "SkyBreathe" fuel analytics platform and was the first Indian airline to discontinue traditional ceremonial water-cannon salutes during route inaugurations, saving over 5.5 lakh litres of water.
+
+🎯 Exam Angle →
+
+- Airline & Fuel Partner: **Akasa Air** and **BPCL** (Mumbai to Goa flight).
+- SAF Blending Ratio: **1% Sustainable Aviation Fuel (SAF)**.
+- National Policy Target: **5% mandatory SAF blending by 2030** (IATA Net-Zero 2050).
+- Target MCQ Form: "What is India's national policy target for mandatory Sustainable Aviation Fuel (SAF) blending in aviation turbine fuel by the year 2030?" → **5%**.
 
 ---
 
