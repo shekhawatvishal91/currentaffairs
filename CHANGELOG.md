@@ -2,6 +2,20 @@
 
 All notable changes to the Current Affairs Dossier repository and Rajputana Gazette Broadsheet System are documented here.
 
+## 🚀 [v2.21] — 2026-09-26
+
+### 📰 Webpage Brand Icon & Favicon Installation (Option A: Indian Tiranga Edition)
+- **Official Brand Icon Deployment (`favicon.svg`)**:
+  - Implemented the user-selected Option A: Folded broadsheet newspaper with the Indian National Flag (Saffron, White with Navy Blue Ashoka Chakra, India Green) in the bottom-right corner.
+  - Deployed in the repository root as `favicon.svg` and compiled into `current_affairs_hub.html` and `index.html`.
+- **Dual-Layer Embedding**:
+  - Embedded as an inline base64 SVG data URI in `<link rel="icon">` in `<head>` for zero-latency, network-independent rendering across local `file:///` and hosted environments.
+  - Linked as a fallback relative SVG `<link rel="alternate icon" href="favicon.svg">`.
+  - Integrated into the broadsheet masthead header (`.masthead-main`) adjacent to the *Current Affairs Command Center* headline.
+- **Invariant Parity**:
+  - Maintained bit-for-bit parity: `current_affairs_hub.html === index.html` (2,138,392 bytes).
+  - 0 checkboxes, 0 heading hashes, 81 sections preserved.
+
 ## 🚀 [v2.20] — 2026-09-26
 
 ### 📑 SmartKeeda September Week 3 Ingestion (`sept week3.pdf` Complete Integration)

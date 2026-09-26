@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <defs>
+    <!-- Drop Shadow for Flag -->
+    <filter id="badgeShadow" x="-10%" y="-10%" width="125%" height="125%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#000000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <!-- Left Rolled Fold of Newspaper -->
+  <path d="M 16 40 L 16 98 A 12 12 0 0 0 40 98 L 40 40 Z" fill="#1e70e2"/>
+  <path d="M 16 40 A 12 12 0 0 1 40 40 Z" fill="#175bb8"/>
+
+  <!-- Main Newspaper Body -->
+  <rect x="36" y="16" width="76" height="96" rx="4" fill="#d2e7ff"/>
+  
+  <!-- Top Headline / Header Bar -->
+  <rect x="44" y="24" width="60" height="14" rx="2" fill="#589df8"/>
+
+  <!-- Newspaper Content Text Lines (Left & Right Columns) -->
+  <!-- Row 1 -->
+  <rect x="44" y="44" width="26" height="5" rx="1.5" fill="#589df8"/>
+  <rect x="74" y="44" width="30" height="5" rx="1.5" fill="#589df8"/>
+
+  <!-- Row 2 -->
+  <rect x="44" y="53" width="26" height="5" rx="1.5" fill="#589df8"/>
+  <rect x="74" y="53" width="30" height="5" rx="1.5" fill="#589df8"/>
+
+  <!-- Row 3 -->
+  <rect x="44" y="62" width="26" height="5" rx="1.5" fill="#589df8"/>
+  <rect x="74" y="62" width="30" height="5" rx="1.5" fill="#589df8"/>
+
+  <!-- Row 4 -->
+  <rect x="44" y="71" width="26" height="5" rx="1.5" fill="#589df8"/>
+  <rect x="74" y="71" width="30" height="5" rx="1.5" fill="#589df8"/>
+
+  <!-- Row 5 (Partial Behind Flag) -->
+  <rect x="44" y="80" width="24" height="5" rx="1.5" fill="#589df8"/>
+  <rect x="44" y="89" width="20" height="5" rx="1.5" fill="#589df8"/>
+
+  <!-- Indian National Flag (Tricolour Badge) in Bottom Right -->
+  <g filter="url(#badgeShadow)">
+    <!-- Flag Outline / Container -->
+    <rect x="68" y="76" width="54" height="38" rx="2" fill="#ffffff" stroke="#ffffff" stroke-width="1.5"/>
+
+    <!-- Saffron Stripe -->
+    <rect x="68" y="76" width="54" height="12.67" rx="1" fill="#ff9933"/>
+
+    <!-- White Stripe -->
+    <rect x="68" y="88.67" width="54" height="12.67" fill="#ffffff"/>
+
+    <!-- India Green Stripe -->
+    <rect x="68" y="101.34" width="54" height="12.67" rx="1" fill="#138808"/>
+
+    <!-- Ashoka Chakra (Navy Blue) -->
+    <circle cx="95" cy="95" r="5" fill="none" stroke="#000080" stroke-width="0.9"/>
+    <circle cx="95" cy="95" r="1.1" fill="#000080"/>
+    
+    <!-- 24 Spokes (simplified 12 cross lines for crisp rendering at favicon sizes) -->
+    <path d="M 95 90 L 95 100 M 90 95 L 100 95 M 91.46 91.46 L 98.54 98.54 M 91.46 98.54 L 98.54 91.46 M 92.5 90.67 L 97.5 99.33 M 90.67 92.5 L 99.33 97.5 M 97.5 90.67 L 92.5 99.33 M 99.33 92.5 L 90.67 97.5" stroke="#000080" stroke-width="0.5"/>
+  </g>
+</svg>
