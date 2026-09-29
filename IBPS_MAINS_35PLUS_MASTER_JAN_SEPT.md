@@ -13,7 +13,7 @@
 
 ## 0. 🏛️ MASTER STATIC BANKING & REGULATORY FOUNDATIONS
 
-📰 **Financial Message Codes, Identifiers & Standard Formats (UTR, IFSC, MICR, LEI, SWIFT)**
+📰 [MS-001] **Financial Message Codes, Identifiers & Standard Formats (UTR, IFSC, MICR, LEI, SWIFT)**
 - **RTGS UTR (Unique Transaction Reference)**: Exactly **22 alphanumeric characters**; structured as: 4-character Bank IFSC prefix + 1-character Transaction Type ('R' for RTGS) + 8-digit Date code (YYYYMMDD) + 9-digit unique sequential running number.
 - **NEFT UTR (Unique Transaction Reference)**: Exactly **16 alphanumeric characters**; generated uniquely for interbank batch electronic clearing.
 - **IFSC (Indian Financial System Code)**: Exactly **11 alphanumeric characters** used in NEFT, RTGS, and IMPS; First 4 characters = Bank identity; **5th character is permanently fixed as '0' (zero)** reserved for future expansion; Last 6 characters = Branch identity (alphanumeric).
@@ -36,7 +36,7 @@
 
 ---
 
-📰 **Evolution of Modern Indian Banking: SBI Genesis, Nationalisation & Statutory Acts**
+📰 [MS-002] **Evolution of Modern Indian Banking: SBI Genesis, Nationalisation & Statutory Acts**
 - **Presidency Banks to State Bank of India**:
   - Bank of Calcutta (founded 1806, renamed Bank of Bengal 1809), Bank of Bombay (1840), and Bank of Madras (1843) were amalgamated on **January 27, 1921** to create the **Imperial Bank of India**.
   - Under the statutory recommendations of the **All India Rural Credit Survey Committee (chaired by A.D. Gorwala)**, Parliament enacted the **State Bank of India Act, 1955**.
@@ -70,7 +70,7 @@
 
 ---
 
-📰 **Institutional Headquarters, Global Foreign Banks & Multilateral Bodies**
+📰 [MS-003] **Institutional Headquarters, Global Foreign Banks & Multilateral Bodies**
 - **Indian Financial & Statutory Bodies Headquarters Matrix**:
   - **Mumbai**: Reserve Bank of India (RBI), Securities and Exchange Board of India (SEBI), NABARD, EXIM Bank of India, State Bank of India (SBI), National Payments Corporation of India (NPCI), Indian Banks' Association (IBA).
   - **Hyderabad**: **Insurance Regulatory and Development Authority of India (IRDAI)** and **Insurance Information Bureau of India (IIB)** (established in 2009 by IRDAI as the single statutory data repository for Indian insurance).
@@ -105,7 +105,7 @@
 
 ---
 
-📰 **International Solar Alliance (ISA): Institutional Framework, Treaty Architecture & 2026 Multilateral Status**
+📰 [MS-004] **International Solar Alliance (ISA): Institutional Framework, Treaty Architecture & 2026 Multilateral Status**
 - **Genesis & Paris Treaty Origin**: Conceived as a joint global initiative by India and France; formally launched on **30 November 2015 at COP21 in Paris** by Prime Minister Narendra Modi and French President François Hollande; entered into force on **6 December 2017** as a treaty-based intergovernmental organization.
 - **Headquarters & Secretariat**: Headquartered at the **National Institute of Solar Energy (NISE) campus in Gurugram, Haryana, India** — notably the **first international treaty-based intergovernmental organization headquartered in India**.
 - **Institutional Governance & Leadership**:
@@ -131,7 +131,7 @@
 
 ---
 
-📰 **Basel III Regulatory Architecture, Balance Sheet Ratios & Delinquency Timeline**
+📰 [MS-005] **Basel III Regulatory Architecture, Balance Sheet Ratios & Delinquency Timeline**
 - **Basel III Regulatory Capital Framework**:
   - Developed by the Basel Committee on Banking Supervision (BCBS) headquartered at BIS in Basel, Switzerland, in response to the 2008 Lehman Brothers liquidity collapse.
   - **Minimum Common Equity Tier 1 (CET1)**: **5.5%** for Indian banks (vs 4.5% Basel international accord).
@@ -165,7 +165,7 @@
 
 ---
 
-📰 **Operational Banking Limits, Consumer Redressal & Deposit Insurance**
+📰 [MS-006] **Operational Banking Limits, Consumer Redressal & Deposit Insurance**
 - **ATM Free Cash Withdrawal Norms (RBI Master Directions)**:
   - **Own Bank ATMs**: Minimum **5 free transactions per month** (inclusive of both financial cash withdrawals and non-financial services like balance inquiry).
   - **Other Bank ATMs in 6 Designated Metros**: Minimum **3 free transactions per month** (Metros: Mumbai, New Delhi, Chennai, Kolkata, Bengaluru, Hyderabad).
@@ -196,7 +196,7 @@
 
 ---
 
-📰 **Constitutional Schedules, Strategic Maritime Straits & High-Frequency Static GK**
+📰 [MS-007] **Constitutional Schedules, Strategic Maritime Straits & High-Frequency Static GK**
 - **The 12 Schedules of the Constitution of India Master Table**:
   - **First Schedule**: List of States and Union Territories with territorial boundaries.
   - **Second Schedule**: Emoluments, allowances, and privileges of President, Governors, Judges of Supreme Court/High Courts, and CAG.
@@ -229,7 +229,7 @@
 
 ---
 
-📰 **High-Frequency Constitutional Articles, Taxation Forms & Functions of Money**
+📰 [MS-008] **High-Frequency Constitutional Articles, Taxation Forms & Functions of Money**
 - **Core Financial & Economic Articles of the Constitution of India**:
   - **Article 280 (Finance Commission)**: Mandates the President of India to constitute a Finance Commission every 5 years; recommends devolution of net tax proceeds between Union and States and grants-in-aid; **16th Finance Commission** chaired by **Dr. Arvind Panagariya** (Secretary: Ritvik Ranjanam Pandey; recommendations operational for 5 years: FY27–FY31).
   - **Article 300A (Right to Property)**: Originally a Fundamental Right under Article 19(1)(f) and Article 31; omitted from Part III and reconstituted as a **Constitutional / Legal Right under Article 300A in Part XII** via the **44th Constitutional Amendment Act, 1978** (mandates that no person shall be deprived of property save by authority of law).
@@ -261,7 +261,7 @@
 
 ---
 
-📰 **RBI KYC Master Directions — 'Small Account' Regulatory Architecture & Statutory Caps**
+📰 [MS-009] **RBI KYC Master Directions — 'Small Account' Regulatory Architecture & Statutory Caps**
 - **Statutory Genesis & Applicability**: Governed by the **RBI Master Direction – Know Your Customer (KYC) Directions, 2016** and the Prevention of Money-Laundering (Maintenance of Records) Rules, 2005; permits individuals who do not possess Officially Valid Documents (OVDs) to open a basic banking account on simplified self-attestation.
 - **Strict Prudential Operating Ceilings**:
   - **Aggregate Credits**: Total credits in a financial year must **NOT exceed ₹1,00,000 (₹1 Lakh)**.
@@ -282,7 +282,7 @@
 
 ---
 
-📰 **Statutory Acts Matrix: Administered by RBI vs. Ministry of Finance & Other Regulators**
+📰 [MS-010] **Statutory Acts Matrix: Administered by RBI vs. Ministry of Finance & Other Regulators**
 - **Sovereign Statutory Division of Regulatory Powers**: Banking exams frequently set trap questions swapping Acts administered directly by the Reserve Bank of India with those administered by Central Board of Direct Taxes (CBDT), Ministry of Finance, or other statutory watchdogs.
 - **Statutory Acts Directly Administered / Enforced by RBI**:
   - **Reserve Bank of India Act, 1934**: RBI constitution, currency issue, CRR, and Monetary Policy Committee.
@@ -310,7 +310,7 @@
 
 ---
 
-📰 **Bankers’ Books Evidence Act, 2026: Replacement of 1891 Colonial Statute & Cloud CBS Proof**
+📰 [MS-011] **Bankers’ Books Evidence Act, 2026: Replacement of 1891 Colonial Statute & Cloud CBS Proof**
 - **Enactment & Repeal of Colonial Statute**: The **Bankers’ Books Evidence Act, 2026** officially comes into force on **October 1, 2026**, repealing and replacing the 135-year-old **Bankers’ Books Evidence Act, 1891**.
 - **Digital Admissibility Architecture**:
   - Grants statutory recognition to electronic records, cloud-hosted Core Banking Solution (CBS) transaction ledgers, digital audit trails, and payment switch logs as **primary admissible evidence** in all civil, commercial, and criminal court proceedings.
@@ -327,7 +327,7 @@
 
 ## 1. 🏛️ RBI POLICY, MASTER DIRECTIONS & PRUDENTIAL NORMS
 
-📰 **Monetary Policy Committee (MPC) — Benchmark Rate Corridor Trajectory**
+📰 [MS-012] **Monetary Policy Committee (MPC) — Benchmark Rate Corridor Trajectory**
 - **Continuous Policy Rate Pause**: The MPC held the **Policy Repo Rate at 5.25%** with a **neutral monetary stance** across four consecutive bi-monthly reviews through the August 3–5, 2026 meeting (next review scheduled for Oct 5–7, 2026).
 - **Standing Facility Rate Structure**: Standing Deposit Facility (SDF) fixed at **5.00%** (Repo - 25 bps); Marginal Standing Facility (MSF) and Bank Rate fixed at **5.50%** (Repo + 25 bps); Cash Reserve Ratio (CRR) holds at **3.00%**; Statutory Liquidity Ratio (SLR) holds at **18.00%**.
 - **Statutory MPC Composition**: 6-member committee under **Section 45-ZB of the RBI Act, 1934**; comprises 3 RBI officials (Governor Sanjay Malhotra as Chairperson, Deputy Governor, Executive Director) and 3 external government-appointed experts.
@@ -341,7 +341,7 @@
 
 ---
 
-📰 **Digital Fraud Compensation: Responsible Business Conduct (Third Amendment) Directions**
+📰 [MS-013] **Digital Fraud Compensation: Responsible Business Conduct (Third Amendment) Directions**
 - **Genesis & Compensation Slabs**: Framed to protect victims of small-value, unauthorized electronic banking transactions (losses up to ₹50,000); mandates compensation of **85% of net loss or ₹25,000, whichever is lower**.
 - **Institutional Loss-Apportionment Formula**: For losses below ₹29,412, the 85% payout is apportioned: **RBI bears 65%** (funded via Depositor Education and Awareness / DEA Fund), the **customer's issuing bank bears 10%**, and the **beneficiary bank bears 10%**.
 - **Statutory Deferred Effective Date**: Formally notified in the Gazette on June 24, 2026, but RBI **deferred enforcement to January 1, 2027** (pushed from the original July 1, 2026 draft date) to give banks integration runway.
@@ -355,7 +355,7 @@
 
 ---
 
-📰 **Bank Dividend Payout Cap Overhaul: Graded CET1 Capital Architecture**
+📰 [MS-014] **Bank Dividend Payout Cap Overhaul: Graded CET1 Capital Architecture**
 - **Dismantling Legacy Cap**: RBI dismantled the rigid decades-old regulation that strictly capped commercial bank dividend distributions at a uniform 40% of Profit After Tax (PAT).
 - **Graded Capital-Linked Ceiling**: Operational from FY26 balance sheets, maximum dividend payout is raised up to **75% of PAT for commercial banks maintaining a Common Equity Tier 1 (CET1) ratio ≥ 13.0%**.
 - **Foreign Bank Branch Remittances**: Foreign banks operating in India via branch mode are permitted to remit up to **80% of net post-tax profits** to head offices abroad, provided local Capital Conservation Buffers are met.
@@ -369,7 +369,7 @@
 
 ---
 
-📰 **Bank Acquisition Financing & Unlisted Target Guidelines**
+📰 [MS-015] **Bank Acquisition Financing & Unlisted Target Guidelines**
 - **Prudential Bank Exposure Cap**: RBI raised the bank exposure ceiling for acquisition financing from 10% to **20% of Tier-1 capital**; permitted commercial banks to fund acquisitions of unlisted target companies.
 - **Target Company Eligibility**: Target unlisted firm must have a **net worth ≥ ₹500 crore**, a 3-year continuous track record of profitability, and minimum BBB- credit rating.
 - **Financing Share & Security Margins**: Permissible bank financing share raised to **75% of acquisition value** (from 70%), with debt-equity ratio capped at 3:1; raised lending against shares to ₹1 crore (from ₹20 lakh).
@@ -383,7 +383,7 @@
 
 ---
 
-📰 **REIT & InvIT Bank Lending Regulatory Framework**
+📰 [MS-016] **REIT & InvIT Bank Lending Regulatory Framework**
 - **Credit Opening for Investment Trusts**: Permitted scheduled commercial banks to extend credit facilities to Real Estate Investment Trusts (REITs) and Infrastructure Investment Trusts (InvITs).
 - **Prudential Exposure Ceilings**: A single bank's exposure to an individual REIT/InvIT is capped at **10% of the bank's eligible capital base**.
 - **Aggregate Banking System Ceiling**: The combined banking system exposure across all lenders to a single REIT/InvIT cannot exceed **49% of the gross asset value** of the trust.
@@ -397,7 +397,7 @@
 
 ---
 
-📰 **Unprecedented Liquidity Operations: First-Ever 90-Day VRR Auction**
+📰 [MS-017] **Unprecedented Liquidity Operations: First-Ever 90-Day VRR Auction**
 - **Historical Tenor Breakthrough**: On January 30, 2026, RBI conducted its **first-ever 90-day Variable Rate Repo (VRR) auction for ₹25,000 crore**, breaking the previous longest historical liquidity tenor of 56 days.
 - **Package Components**: Formed part of an aggregate ₹2.15 lakh crore liquidity intervention, including a **\$10 billion 3-year USD/INR Buy-Sell Swap** and ₹1 lakh crore in Open Market Operation (OMO) purchases.
 - **Bilateral Currency Stability**: Renewed the **\$75 billion Bilateral Swap Arrangement (BSA)** with the Bank of Japan, signed under Governor Sanjay Malhotra and BoJ leadership.
@@ -411,7 +411,7 @@
 
 ---
 
-📰 **Lead Bank Scheme (1969) Overhaul: 60% Credit-Deposit Ratio Mandate**
+📰 [MS-018] **Lead Bank Scheme (1969) Overhaul: 60% Credit-Deposit Ratio Mandate**
 - **Statutory Credit-Deposit (CD) Mandate**: Draft overhaul mandated a minimum Credit-Deposit (CD) ratio of **60% across all rural and semi-urban districts** nationwide.
 - **Special Category Districts**: Districts recording a CD ratio below **20%** are statutorily classified as 'Special Category Districts', requiring quarterly District Consultative Committee (DCC) monitoring.
 - **Historical Committee Heritage**: Lead Bank Scheme was originally introduced in **1969** following the recommendations of the **F.K.F. Nariman Committee** and the Study Group chaired by **Prof. D.R. Gadgil**.
@@ -425,7 +425,7 @@
 
 ---
 
-📰 **RBI Annual Report 2025-26: Balance Sheet & Surplus Transfer to Centre**
+📰 [MS-019] **RBI Annual Report 2025-26: Balance Sheet & Surplus Transfer to Centre**
 - **Record Balance Sheet Expansion**: RBI's balance sheet expanded by **20.6% YoY** (an increase of ₹15,71,699.15 crore) to reach **₹91,97,121.08 crore** (₹91.97 lakh crore, representing **26.4% of India's GDP** as of end-March 2026), driven by domestic investments (+44.9%), sovereign gold holdings (+63.8%), and foreign currency assets (+7.9%).
 - **Record Surplus Transfer**: Approved a massive surplus transfer of **₹2,88,588.45 crore** (~₹2.89 lakh crore) to the Central Government for FY26 (up 7.3% from ₹2,68,588.07 crore in FY25), submitted under **Section 53(2)** of the RBI Act, 1934.
 - **Contingency Risk Buffer (CRB)**: Maintained the Contingency Risk Buffer at **6.50%** of the balance sheet (within the mandated 4.5%–7.5% band recommended by the **Bimal Jalan Committee** on Economic Capital Framework), with a provision transfer of **₹1,09,379.64 crore** to the Contingency Fund (CF).
@@ -440,7 +440,7 @@
 
 ---
 
-📰 **RBI Financial Stability Report (FSR): Banking System Asset Quality**
+📰 [MS-020] **RBI Financial Stability Report (FSR): Banking System Asset Quality**
 - **Multi-Year Low Gross NPA**: Scheduled Commercial Banks' (SCB) Gross Non-Performing Asset (GNPA) ratio dropped to **2.8%** (the lowest level in 12 years); Net NPA fell to **0.6%**.
 - **Capital Adequacy Strength**: Capital to Risk-Weighted Assets Ratio (CRAR) of scheduled commercial banks stood at a robust **16.8%**, well above the Basel III regulatory minimum of 11.5% (including CCB).
 - **Provision Coverage Ratio (PCR)**: System-wide Provision Coverage Ratio rose to **76.4%**, indicating comprehensive provisioning against legacy bad debts.
@@ -454,7 +454,7 @@
 
 ---
 
-📰 **Domestic Systemically Important Banks (D-SIBs) & Capital Surcharges**
+📰 [MS-021] **Domestic Systemically Important Banks (D-SIBs) & Capital Surcharges**
 - **Identified D-SIB Entities**: Reserve Bank of India re-affirmed **State Bank of India (SBI), HDFC Bank, and ICICI Bank** as Domestic Systemically Important Banks ("Too Big To Fail").
 - **Tiered Additional Common Equity Tier 1 (CET1) Surcharges**:
   - **Bucket 4 (SBI)**: Required to maintain an additional CET1 capital surcharge of **0.80% of Risk-Weighted Assets**
@@ -471,7 +471,7 @@
 
 ---
 
-📰 **Prompt Corrective Action (PCA) Framework for Commercial Banks & NBFCs**
+📰 [MS-022] **Prompt Corrective Action (PCA) Framework for Commercial Banks & NBFCs**
 - **Three Mandatory Risk Threshold Parameters**: RBI monitors regulated financial institutions across three diagnostic financial metrics: (1) **Capital (CRAR & CET1)**, (2) **Asset Quality (Net NPA ratio)**, and (3) **Leverage (Tier-1 Leverage Ratio)**.
 - **Breach Threshold Slabs**:
   - **Risk Threshold 1**: Triggered if Net NPA exceeds **6.0%** (mandatory restriction on dividend payout and profit repatriation).
@@ -487,7 +487,7 @@
 
 ---
 
-📰 **Scale-Based Regulation (SBR) for NBFCs & Upper Layer (Tata Sons Mandate)**
+📰 [MS-023] **Scale-Based Regulation (SBR) for NBFCs & Upper Layer (Tata Sons Mandate)**
 - **Four-Layer Regulatory Architecture**:
   - **Base Layer (NBFC-BL)**: Assets < ₹1,000 crore
   - **Middle Layer (NBFC-ML)**: Assets ≥ ₹1,000 crore
@@ -504,7 +504,7 @@
 
 ---
 
-📰 **External Commercial Borrowings (ECB) Liberalised Guidelines**
+📰 [MS-024] **External Commercial Borrowings (ECB) Liberalised Guidelines**
 - **Automatic Route Borrowing Cap**: RBI raised the automatic borrowing limit under the ECB framework to the higher of **\$1 billion or 300% of borrower net worth** per financial year (escalated from \$750 million).
 - **Corporate Borrowing Boom**: Indian corporate entities raised a record **\$61 billion via ECBs** in FY25, driven by global refinancing and renewable capex lines.
 - **Minimum Average Maturity Period (MAMP)**: Retained at 3 years for general commercial borrowings, and 5 years for borrowings by manufacturing companies up to \$50 million.
@@ -518,7 +518,7 @@
 
 ---
 
-📰 **Unique Trade Identifier (UTI) Mandate for OTC Financial Derivatives**
+📰 [MS-025] **Unique Trade Identifier (UTI) Mandate for OTC Financial Derivatives**
 - **Mandatory Reporting Directive**: RBI mandated the generation and reporting of **Unique Trade Identifiers (UTIs)** for all Over-the-Counter (OTC) interest rate, foreign exchange, and credit derivative transactions.
 - **Statutory Effective Date**: Full mandatory compliance enforced effective **January 1, 2027**.
 - **Regulatory Reporting Repository**: All derivative transactions must be reported to the **Clearing Corporation of India Ltd (CCIL)** Trade Repository within specified settlement cutoffs.
@@ -532,7 +532,7 @@
 
 ---
 
-📰 **RBI Infrastructure: Tier-IV Data Centre in Bhubaneswar**
+📰 [MS-026] **RBI Infrastructure: Tier-IV Data Centre in Bhubaneswar**
 - **Secondary Tier-IV Facility**: RBI commissioned its 2nd enterprise data centre in **Bhubaneswar, Odisha**, built to certified **Tier-IV uptime resilience standards**.
 - **Primary Data Centre Anchor**: Operates in active-active redundancy with RBI's primary sovereign data centre located in **Kharghar, Navi Mumbai, Maharashtra**.
 - **Cybersecurity & Cloud Grid**: Houses critical payment system backbones including RTGS, NEFT, and the Centralised Information Management System (CIMS).
@@ -546,7 +546,7 @@
 
 ---
 
-📰 **RBI Digital Payments Index (DPI) & Sovereign Gold Reserves**
+📰 [MS-027] **RBI Digital Payments Index (DPI) & Sovereign Gold Reserves**
 - **Digital Payments Index (DPI) Reading**: RBI's DPI rose to **516.76** (reflecting September 2025 data, released in early 2026), advancing from 465.33 in the prior period.
 - **DPI Base Year & Parameters**: Constructed with **March 2018 = 100** as the base period; evaluated across 5 broad pillars: Payment Enablers, Payment Infrastructure (Demand-side), Payment Infrastructure (Supply-side), Payment Performance, and Consumer Centricity.
 - **Sovereign Gold Reserves All-Time High**: Total sovereign gold reserves held by RBI reached a historic record of **880.2 tonnes** (with over 510 tonnes stored securely within domestic vaults).
@@ -560,7 +560,7 @@
 
 ---
 
-📰 **Positive Pay System (PPS) for Cheque Truncation System (CTS)**
+📰 [MS-028] **Positive Pay System (PPS) for Cheque Truncation System (CTS)**
 - **Fraud Prevention Mechanism**: Mandates electronic re-confirmation of key cheque details (date, payee name, amount) before clearing high-value instruments under the Cheque Truncation System (CTS).
 - **Monetary Confirmation Thresholds**:
   - **Voluntary / Recommended Threshold**: Applicable for cheques valued at **₹50,000 and above**.
@@ -576,7 +576,7 @@
 
 ---
 
-📰 **UDGAM Portal & Unclaimed Deposits in DEA Fund**
+📰 [MS-029] **UDGAM Portal & Unclaimed Deposits in DEA Fund**
 - **UDGAM Portal Launch**: RBI deployed **UDGAM** (Unclaimed Deposits – Gateway to Access inforMation), enabling public users to search for unclaimed savings, current, and term deposits across multiple commercial banks on a single platform.
 - **Depositor Education and Awareness (DEA) Fund**: Unclaimed deposits transferred to the DEA Fund surged to **₹86,917.08 crore** (as of June 30, 2026), with State Bank of India holding the highest unclaimed volume (~₹16,000 crore).
 - **Unclaimed Deposit Rule**: Any savings or current account inoperative for **10 years**, or any term deposit unclaimed for **10 years from the date of maturity**, must be transferred to the DEA Fund.
@@ -590,7 +590,7 @@
 
 ---
 
-📰 **Centralised Information Management System (CIMS) Big-Data Architecture**
+📰 [MS-030] **Centralised Information Management System (CIMS) Big-Data Architecture**
 - **Next-Gen Data Warehouse**: RBI fully operationalized the **Centralised Information Management System (CIMS)**, phasing out the legacy Online Returns Filing System (ORFS).
 - **Automated Regulatory Reporting**: Deploys automated straight-through data feeds (APIs) from commercial banks and NBFCs, performing real-time algorithmic supervisory risk audits.
 - **Governor Launch**: Commissioned under Governor Shaktikanta Das and expanded under Governor Sanjay Malhotra, handling petabytes of structured banking transaction data.
@@ -604,7 +604,7 @@
 
 ---
 
-📰 **RBI Draft (Interest Rates on Loans and Advances) Directions, 2026**
+📰 [MS-031] **RBI Draft (Interest Rates on Loans and Advances) Directions, 2026**
 - **Harmonized Principles-Based Code**: Released on August 12, 2026 for public consultation, unifying fragmented interest rate directives across commercial banks, cooperative lenders, and NBFCs.
 - **Fair Practices in Reset Frequency**: Mandated transparent disclosure of benchmark rate resets; prohibited arbitrary penal interest rates, restricting penalties strictly to **penal charges** (not capitalized into principal loan balances).
 - **Key Fact Statement (KFS) Mandate**: Made comprehensive Key Fact Statements mandatory for **all retail and MSME loans**, disclosing Annual Percentage Rate (APR) and all associated processing fees upfront.
@@ -618,7 +618,7 @@
 
 ---
 
-📰 **RBI Mission SAKSHAM: Large-Scale Capacity Building for Urban Co-operative Banks (UCBs)**
+📰 [MS-032] **RBI Mission SAKSHAM: Large-Scale Capacity Building for Urban Co-operative Banks (UCBs)**
 - **Genesis & Institutional Upgradation**: The Reserve Bank of India launched **Mission SAKSHAM** (*Sahkari Bank Kshamta Nirman*), an umbrella capacity-building architecture dedicated to modernizing the Urban Co-operative Banking (UCB) ecosystem.
 - **Scale & Participant Outreach**:
   - Structured to train approximately **1.40 lakh personnel** across Tier-1, Tier-2, Tier-3, and Tier-4 Urban Co-operative Banks nationwide.
@@ -637,7 +637,7 @@
 
 ---
 
-📰 **Master Direction — RBI (Access Criteria for NDS-OM) Directions, 2025 & Broker Connect**
+📰 [MS-033] **Master Direction — RBI (Access Criteria for NDS-OM) Directions, 2025 & Broker Connect**
 - **Secondary Sovereign Debt Architecture**:
   - Negotiated Dealing System - Order Matching (NDS-OM) is an electronic, screen-based, anonymous order-driven trading system for secondary market transactions in Government Securities (Central G-Secs, T-Bills, State Development Loans, and Sovereign Green Bonds).
   - Hosted and operated by the **Clearing Corporation of India Limited (CCIL)** on behalf of the Reserve Bank of India.
@@ -659,7 +659,7 @@
 
 ---
 
-📰 **Corporate Governance Framework in Commercial Banks & SFBs (Section 35B BR Act Norms)**
+📰 [MS-034] **Corporate Governance Framework in Commercial Banks & SFBs (Section 35B BR Act Norms)**
 - **Statutory Foundation & Regulatory Perimeter**:
   - Enforced under Section 35B of the Banking Regulation Act, 1949; applies to private sector commercial banks, Small Finance Banks (SFBs), and Wholly Owned Subsidiaries (WOS) of foreign banks in India.
 - **Tenure, Age Limits & Cooling-Off Ceilings**:
@@ -685,7 +685,7 @@
 
 ---
 
-📰 **Reserve Bank of India (Small Finance Banks – Licensing) Guidelines, 2025 & Transition Norms**
+📰 [MS-035] **Reserve Bank of India (Small Finance Banks – Licensing) Guidelines, 2025 & Transition Norms**
 - **Consolidated On-Tap Architecture (Notified November 28, 2025)**:
   - Formalizes continuous ("on-tap") licensing of private sector Small Finance Banks (SFBs) under Section 22 of the Banking Regulation Act, 1949.
 - **Capital & Net Worth Mandates**:
@@ -714,7 +714,7 @@
 
 ---
 
-📰 **Reserve Bank of India (Universal Banks – Licensing) Guidelines, 2025 (RBI/DOR/2025-26/143)**
+📰 [MS-036] **Reserve Bank of India (Universal Banks – Licensing) Guidelines, 2025 (RBI/DOR/2025-26/143)**
 - **Consolidated On-Tap Framework (Notified November 28, 2025)**:
   - Supersedes legacy 2013/2016 stop-and-go licensing guidelines to institutionalize permanent on-tap licensing for universal banks in the private sector.
 - **Substantial Capital Net Worth Elevation**:
@@ -742,7 +742,7 @@
 
 ---
 
-📰 **Reserve Bank of India (Default Loss Guarantee in Digital Lending) Master Directions**
+📰 [MS-037] **Reserve Bank of India (Default Loss Guarantee in Digital Lending) Master Directions**
 - **Statutory Authorization & Scope**: The Reserve Bank of India (**RBI**) issued regulatory guidelines governing **Default Loss Guarantee (DLG)** arrangements in digital lending, permitting Regulated Entities (**REs** — Commercial Banks, Primary Urban Co-operative Banks, and NBFCs) to enter into DLG contracts with Lending Service Providers (**LSPs**) or other REs.
 - **Strict 5% Portfolio Cap**:
   - The aggregate DLG cover across all credit facilities extended through any LSP arrangement **must not exceed 5% of the total loan portfolio**.
@@ -763,7 +763,7 @@
 
 ---
 
-📰 **Reserve Bank of India Draft Prudential Framework for Project Finance**
+📰 [MS-038] **Reserve Bank of India Draft Prudential Framework for Project Finance**
 - **Harmonized Project Lending Standards**: The Reserve Bank of India (**RBI**) released the *Draft Prudential Framework for Financing of Project Loans (Infrastructure, Non-Infrastructure and Commercial Real Estate)* to address asset-liability mismatches and enforce capital discipline during multi-year gestation cycles.
 - **Phased General Provisioning Glidepath**:
   - **Construction Phase**: Mandates a phased general standard asset provisioning requirement of **up to 5%** across all exposures under implementation (a steep elevation from the legacy 0.40% baseline).
@@ -782,7 +782,7 @@
 
 ---
 
-📰 **IRDAI Policyholders' Education and Protection Fund (PEPF) & Unclaimed Policy Framework**
+📰 [MS-039] **IRDAI Policyholders' Education and Protection Fund (PEPF) & Unclaimed Policy Framework**
 - **Regulatory Genesis & Operationalisation**: The Insurance Regulatory and Development Authority of India (**IRDAI**) notified the comprehensive framework operationalising the **Policyholders' Education and Protection Fund (PEPF)** to institutionalise consumer financial literacy, empower grievance redressal, and track unclaimed insurance balances.
 - **Core Statutory Objectives**:
   - Promote insurance awareness, financial literacy, and education among policyholders and prospective insurance buyers.
@@ -807,7 +807,7 @@
 
 ## 2. 🏦 BANKING, CREDIT FACILITIES & FINANCIAL INCLUSION
 
-📰 **DICGC Four-Tier Risk-Based Premium Architecture**
+📰 [MS-040] **DICGC Four-Tier Risk-Based Premium Architecture**
 - **Transition to Risk-Sensitive Pricing**: Deposit Insurance and Credit Guarantee Corporation (DICGC) transitioned from the legacy flat premium of 12 paise per ₹100 of assessable deposits to a **four-tier risk-based premium model effective April 1, 2026**.
 - **Supervisory Risk Slabs**:
   - **Category A (Safest)**: **8 paise per ₹100**
@@ -825,7 +825,7 @@
 
 ---
 
-📰 **MSME Dual Credit Threshold Escalation: RBI Exemption vs CGTMSE Cover**
+📰 [MS-041] **MSME Dual Credit Threshold Escalation: RBI Exemption vs CGTMSE Cover**
 - **RBI Collateral-Free Limit Doubled**: RBI mandated that the statutory ceiling for collateral-free credit facilities to Micro and Small Enterprises (MSEs) be doubled from **₹10 lakh to ₹20 lakh**, effective for loans sanctioned or renewed on or after **April 1, 2026**.
 - **CGTMSE Credit Guarantee Cap Doubled**: Separately, the Ministry of MSME enhanced the maximum credit guarantee cover under the Credit Guarantee Scheme (CGS) from ₹5 crore to **₹10 crore per MSE borrower**.
 - **Digital Credit Assessment Model**: Public Sector Banks sanctioned over **3.96 lakh digital MSME loans worth ₹52,300 crore** (Apr–Dec 2025) using automated credit scoring algorithms.
@@ -839,7 +839,7 @@
 
 ---
 
-📰 **Kisan Credit Card (KCC) Reform: 6-Year Tenure & ₹2 Lakh Collateral Waiver**
+📰 [MS-042] **Kisan Credit Card (KCC) Reform: 6-Year Tenure & ₹2 Lakh Collateral Waiver**
 - **Credit Line Tenure Extension**: Proposed extending standard KCC credit line facility tenure from 5 years to **6 years**, ensuring agricultural working capital continuity without annual renewal friction.
 - **Collateral & Margin Requirement Waiver**: Mandatory collateral and margin requirements waived for farm loans up to **₹2 lakh per borrower** (upgraded from previous ₹1.6 lakh ceiling).
 - **Standardized Crop Lifecycles**: Standardized crop tenures: 12 months for short-duration crops and 18 months for long-duration cash crops; introduced revolving credit bands of **₹10,000 to ₹50,000** for marginal farmers (landholding ≤1 hectare).
@@ -853,7 +853,7 @@
 
 ---
 
-📰 **Priority Sector Lending (PSL) Targets, Statutory Sub-Targets & PSLC Architecture**
+📰 [MS-043] **Priority Sector Lending (PSL) Targets, Statutory Sub-Targets & PSLC Architecture**
 - **Mandatory Institutional Lending Targets**:
   - **Domestic Scheduled Commercial Banks (SCBs) & Foreign Banks (≥20 branches)**: **40% of ANBC** (Adjusted Net Bank Credit) or Credit Equivalent of Off-Balance Sheet Exposure (CEOBE), whichever is higher.
   - **Foreign Banks with <20 branches**: **40% of ANBC/CEOBE** (up to 32% permissible in Export Credit, and not less than 8% in any other priority sector).
@@ -883,7 +883,7 @@
 
 ---
 
-📰 **Small Finance Bank (SFB) PSL Target Correction: 60% of ANBC**
+📰 [MS-044] **Small Finance Bank (SFB) PSL Target Correction: 60% of ANBC**
 - **Statutory Target Correction**: Reserve Bank of India officially issued a corrigendum correcting the Priority Sector Lending target for Small Finance Banks to **60% of ANBC** (resolving a typographical error in an earlier draft circular that erroneously notified 75%).
 - **Phase-In Trajectory**: Allows SFBs balanced portfolio diversification while continuing to direct high-volume credit to underserved micro-enterprises and smallholder farmers.
 - **Regional Rural Banks (RRB) PSL Target**: RRBs continue to operate under a separate statutory mandate requiring **75% of total lending** to priority sectors.
@@ -896,7 +896,7 @@
 
 ---
 
-📰 **AU Small Finance Bank Landmark Universal Bank Transition**
+📰 [MS-045] **AU Small Finance Bank Landmark Universal Bank Transition**
 - **First SFB in a Decade**: **AU Small Finance Bank** became the first Small Finance Bank in over 10 years to receive RBI's in-principle approval to convert into a full-fledged universal commercial bank.
 - **RBI Universal Banking Transition Norms**: To qualify for universal banking transition, an SFB must satisfy:
   - Minimum scheduled status operating track record of **5 years**
@@ -914,7 +914,7 @@
 
 ---
 
-📰 **Sumitomo Mitsui Banking Corporation (SMBC) Wholly Owned Subsidiary**
+📰 [MS-046] **Sumitomo Mitsui Banking Corporation (SMBC) Wholly Owned Subsidiary**
 - **Landmark Foreign Bank Conversion**: Japanese financial giant Sumitomo Mitsui Banking Corporation (**SMBC**) received RBI in-principle approval to convert its 4 Indian branches into a Wholly Owned Subsidiary (WOS).
 - **Elite Cohort of Four Lenders**: Becomes only the **4th foreign bank in Indian history** to convert to WOS mode, joining:
   1. **DBS Bank India** (Singapore)
@@ -931,7 +931,7 @@
 
 ---
 
-📰 **SBI Overtakes TCS: India's 4th Most Valuable Listed Company**
+📰 [MS-047] **SBI Overtakes TCS: India's 4th Most Valuable Listed Company**
 - **Market Capitalisation Milestone**: State Bank of India's (SBI) market capitalization surged past **₹10.9 lakh crore**, displacing Tata Consultancy Services (TCS) to become India's 4th most valuable listed company.
 - **National Top-Four Corporate Hierarchy**:
   1. **Reliance Industries Ltd** (~₹19.6–19.8 lakh crore)
@@ -948,7 +948,7 @@
 
 ---
 
-📰 **Public Sector Bank Gross NPAs Plunge to 1.9%: Balance Sheet Health**
+📰 [MS-048] **Public Sector Bank Gross NPAs Plunge to 1.9%: Balance Sheet Health**
 - **Historic Asset Quality Cleanup**: Cumulative Gross NPAs of all 12 Public Sector Banks fell to **₹2,45,634 crore** (as of end-FY26), with the aggregate GNPA ratio plunging to a record low of **1.9%**.
 - **Net NPA Compression**: Public sector banking Net NPA ratio fell to **0.5%**, reflecting massive write-offs, automated credit scoring, and resolution through the Insolvency and Bankruptcy Code (IBC).
 - **Disinvestment & Monetisation Mop-Up**: Union Government mobilized **₹45,306 crore** in non-debt capital receipts from disinvestment and asset monetisation during FY26 (surpassing the Revised Estimate of ₹33,800 crore).
@@ -961,7 +961,7 @@
 
 ---
 
-📰 **Proposed PSB FDI Cap Escalation: 20% to 49%**
+📰 [MS-049] **Proposed PSB FDI Cap Escalation: 20% to 49%**
 - **Legislative Liberalisation Move**: Ministry of Finance and NITI Aayog drafted proposals to amend the Banking Companies (Acquisition and Transfer of Undertakings) Act to raise the Foreign Direct Investment (FDI) limit in Public Sector Banks from **20% to 49%**.
 - **Sovereign Control Retained**: The legislative framework guarantees that the Central Government will maintain a mandatory minimum equity holding of **at least 51%** in all public sector banks.
 - **Private Banking Contrast**: Private sector commercial banks continue to operate under a maximum permissible FDI ceiling of **74%** (under the automatic route up to 49%, and government approval route beyond 49%).
@@ -974,7 +974,7 @@
 
 ---
 
-📰 **EPFO Rule 68J Auto-Settlement Limit Escalation & Direct UPI Payouts**
+📰 [MS-050] **EPFO Rule 68J Auto-Settlement Limit Escalation & Direct UPI Payouts**
 - **Auto-Settlement Limit Raised**: Employees' Provident Fund Organisation (EPFO) expanded the automated, IT-driven claim settlement ceiling under Rule 68J (medical advances) from **₹1 lakh to ₹5 lakh**.
 - **Algorithmic Turnaround**: Enables instant computerized claim processing without human verification within **3 to 4 days** for eligible medical, educational, and housing needs.
 - **Direct UPI Payout Integration**: Collaborated with NPCI to launch direct UPI-linked PF withdrawals, allowing subscribers to receive provident fund payouts directly into verified UPI-linked accounts.
@@ -988,7 +988,7 @@
 
 ---
 
-📰 **Central Repository of Information on Large Credits (CRILC) Reporting Norms**
+📰 [MS-051] **Central Repository of Information on Large Credits (CRILC) Reporting Norms**
 - **Credit Monitoring Mandate**: Scheduled commercial banks, all-India financial institutions, and NBFCs must report credit exposure data on all corporate borrowers having aggregate fund-based and non-fund-based exposure of **₹5 crore and above**.
 - **Special Mention Account (SMA) Slabs**:
   - **SMA-0**: Principal or interest payment not overdue for more than 30 days, but showing signs of incipient stress.
@@ -1005,7 +1005,7 @@
 
 ---
 
-📰 **Multilateral Investment Guarantee Agency (MIGA) \$197.67M Guarantee for SBI**
+📰 [MS-052] **Multilateral Investment Guarantee Agency (MIGA) \$197.67M Guarantee for SBI**
 - **World Bank Group Credit Guarantee**: Multilateral Investment Guarantee Agency (MIGA) issued a **\$197.67 million political and non-honoring financial risk guarantee** to Citibank for its credit facility to State Bank of India.
 - **Refinancing Solar Portfolios**: Refinances an initial \$500 million World Bank solar rooftop loan extended to SBI in 2016.
 - **Domestic Green Lending Quota**: Mandates that SBI allocate **at least 7.5% of its total domestic lending portfolio** toward certified green and climate-positive projects.
@@ -1019,7 +1019,7 @@
 
 ---
 
-📰 **Urban Cooperative Banks (UCBs) 3-Year Director Cooling-Off Period**
+📰 [MS-053] **Urban Cooperative Banks (UCBs) 3-Year Director Cooling-Off Period**
 - **Governance Reform Directive**: RBI finalized comprehensive corporate governance norms for Urban Cooperative Banks (UCBs), mandating a compulsory **3-year cooling-off period** for board directors after completing **10 years of continuous service**.
 - **Upper Age Ceiling**: Fixed the maximum age limit for Managing Directors (MDs) and Whole-Time Directors (WTDs) in UCBs at **70 years**.
 - **Mission-SAKSHAM Capacity Drive**: Trained over **1.4 lakh personnel** across Urban Cooperative Banks nationwide on operational compliance, risk management, and cybersecurity.
@@ -1032,7 +1032,7 @@
 
 ---
 
-📰 **Insurance Surety Bonds as Bank Guarantee Substitutes in Public Procurement**
+📰 [MS-054] **Insurance Surety Bonds as Bank Guarantee Substitutes in Public Procurement**
 - **Public Procurement Parity**: Ministry of Finance amended General Financial Rules (GFR) to grant **Insurance Surety Bonds full legal parity with traditional Bank Guarantees** across all government and PSU infrastructure contracts.
 - **Working Capital Relief**: Eliminates the requirement for contractors to lock up 100% cash collateral and fixed deposits with commercial banks, unlocking over ₹50,000 crore in contractor liquidity.
 - **IRDAI Regulatory Framework**: IRDAI permitted general insurers to issue commercial surety bonds up to **10% of their net owned funds**, capped at 30% of total underwritten premium.
@@ -1049,7 +1049,7 @@
 
 ## 3. 💳 DIGITAL PAYMENTS, FINTECH & SEBI MASTER DIRECTIONS
 
-📰 **Unified Payments Interface (UPI) Global Expansion & Bilateral Linkages**
+📰 [MS-055] **Unified Payments Interface (UPI) Global Expansion & Bilateral Linkages**
 - **Sovereign Cross-Border Integrations**: NPCI International Payments Limited (NIPL) expanded bilateral cross-border real-time payment linkages across **Singapore (PayNow)**, **UAE (Jaywan/Aani)**, **Mauritius**, **Sri Lanka**, **Nepal**, **Bhutan**, **France (Eiffel Tower)**, and **Peru** (first South American nation to adopt UPI architecture).
 - **Inward Remittance & Merchant Acceptance**: Enables Indian travelers to make direct QR-based payments in local currencies, and Non-Resident Indians (NRIs) to remit funds instantly to Indian bank accounts without SWIFT delays.
 - **P2P and P2M Transaction Volume Scale**: UPI handled over **14.44 billion transactions** in a single calendar month (exceeding ₹20.64 lakh crore in value), cementing India's status with >45% of global real-time digital payments.
@@ -1062,7 +1062,7 @@
 
 ---
 
-📰 **UPI Transaction Limits: Enhanced Slabs for High-Value Sectors**
+📰 [MS-056] **UPI Transaction Limits: Enhanced Slabs for High-Value Sectors**
 - **Standard vs Sectoral Ceilings**: Standard P2P and P2M transaction limit remains **₹1 Lakh per transaction**, but RBI and NPCI enhanced ceilings for critical utility and institutional payments.
 - **₹5 Lakh Special Transaction Slab**: Enhanced limit of **₹5 Lakh** applies to: (1) **Hospitals and Medical Healthcare**, (2) **Educational Institutions**, (3) **Direct and Indirect Tax Payments**, and (4) **IPO and Capital Market Retail Subscriptions**.
 - **UPI Lite & UPI Lite X Parameters**: UPI Lite per-transaction limit is **₹500** (no PIN required); maximum wallet balance is **₹2,000**. UPI Lite X allows offline NFC-based transactions without internet connectivity.
@@ -1075,7 +1075,7 @@
 
 ---
 
-📰 **NPCI UPI Merchant Discount Rate (MDR) Policy Framework 2026 (Effective October 15, 2026)**
+📰 [MS-057] **NPCI UPI Merchant Discount Rate (MDR) Policy Framework 2026 (Effective October 15, 2026)**
 - **Genesis & Institutional Sustainability**: National Payments Corporation of India (NPCI) in coordination with RBI and Ministry of Finance announced a recalibrated Merchant Discount Rate (MDR) structure taking effect **October 15, 2026**, to ensure long-term server infrastructure, cybersecurity, and technological funding of UPI payment rails.
 - **Consumer & P2P Absolute Exemption**:
   - **Zero Cost for Common Public**: Customers will **never be charged any platform fee or transaction charge** for making UPI payments; banks are strictly prohibited from passing MDR to customers.
@@ -1100,7 +1100,7 @@
 
 ---
 
-📰 **UPI Circle — Delegated Payments Architecture for Family Accounts**
+📰 [MS-058] **UPI Circle — Delegated Payments Architecture for Family Accounts**
 - **Secondary User Authorization**: NPCI launched 'UPI Circle', enabling a primary bank account holder to authorize a trusted secondary user (family member, dependent, child) to execute payments from the primary account.
 - **Two Delegation Modalities**:
   - *Full Delegation*: Primary user establishes a monthly spending cap (maximum **₹15,000 per month**), allowing the secondary user to spend autonomously within limits without secondary approval.
@@ -1115,7 +1115,7 @@
 
 ---
 
-📰 **Central Bank Digital Currency (CBDC) — Sovereign e-Rupee Innovations**
+📰 [MS-059] **Central Bank Digital Currency (CBDC) — Sovereign e-Rupee Innovations**
 - **Dual Pilot Architecture**: RBI operates two distinct pilots: **e₹-W (Wholesale)** launched Nov 1, 2022 (interbank settlement of secondary G-sec transactions and call money market) and **e₹-R (Retail)** launched Dec 1, 2022.
 - **Programmability & Offline Capabilities**: Enabled programmable e-Rupee tokens with targeted end-use (e.g., direct benefit transfer for agricultural input subsidies, school fee vouchers) with automated expiry dates and merchant geofencing.
 - **UPI Interoperability**: e₹-R wallets can scan any standard **interoperable UPI QR code**, enabling consumers to spend digital rupees at over 30 million merchant touchpoints nationwide.
@@ -1128,7 +1128,7 @@
 
 ---
 
-📰 **Bharat Bill Payment System (BBPS) — Cross-Border Inward Remittances**
+📰 [MS-060] **Bharat Bill Payment System (BBPS) — Cross-Border Inward Remittances**
 - **Non-Resident Utility Bill Settlement**: NPCI Bharat BillPay Limited (NBBL) permitted inbound cross-border payments through BBPS, allowing Non-Resident Indians (NRIs) to pay utility, municipal, and education bills for family members in India directly.
 - **Rupay-Foreign Network Integration**: Integrated foreign payment service providers with Indian operating units (BPOUs) to settle transactions in foreign currency with instant INR conversion.
 - **Expanded Scope to Non-Bank FinTechs**: Minimum net worth requirement for non-bank BBPS operating units was reduced from ₹100 Crore to **₹25 Crore**, broadening fintech participation.
@@ -1141,7 +1141,7 @@
 
 ---
 
-📰 **Card-on-File Tokenisation (CoFT) via Card-Issuing Banks**
+📰 [MS-061] **Card-on-File Tokenisation (CoFT) via Card-Issuing Banks**
 - **Tokenisation Transition**: Prohibits merchants, payment aggregators, and payment gateways from storing actual customer card details (16-digit PAN, CVV, expiry date); mandates replacement with unique cryptographic tokens.
 - **Direct CoFT Enablement**: RBI permitted cardholders to create and view tokens directly through mobile banking and internet banking portals of their **card-issuing banks**, eliminating dependence on merchant check-out pages.
 - **Alternate Authentication Mechanisms (AAM)**: RBI issued draft directions allowing banks to deploy non-SMS factor-of-authentication mechanisms, such as in-app biometric approvals, behavioral risk scoring, and hardware tokens.
@@ -1154,7 +1154,7 @@
 
 ---
 
-📰 **Payment Aggregators (PA) — Physical Point-of-Sale (PA-P) & Cross-Border (PA-CB) Norms**
+📰 [MS-062] **Payment Aggregators (PA) — Physical Point-of-Sale (PA-P) & Cross-Border (PA-CB) Norms**
 - **Omnichannel Licensing**: RBI brought physical Point-of-Sale Payment Aggregators (**PA-P**) and Cross-Border Payment Aggregators (**PA-CB**) under direct regulation alongside online PAs.
 - **Net Worth Criteria**:
   - Existing non-bank PAs must maintain a minimum net worth of **₹15 Crore** at the time of application, stepping up to **₹25 Crore** within three financial years.
@@ -1169,7 +1169,7 @@
 
 ---
 
-📰 **SEBI Optional T+0 Settlement Cycle: Same-Day Equity Settlement**
+📰 [MS-063] **SEBI Optional T+0 Settlement Cycle: Same-Day Equity Settlement**
 - **Phased Beta Rollout**: SEBI introduced an optional **T+0 settlement cycle** (same-day trade settlement) running alongside the prevailing T+1 cycle for a curated basket of **25 liquid scrips** with a limited set of trading members.
 - **Operational Timings & Pricing**: Trading window operates between **9:15 AM and 1:30 PM**; prices operate within a tight **±100 bps band** of the concurrent T+1 market price.
 - **Client Capital Efficiency**: Frees up client funds and securities instantly upon trade execution, eliminating overnight settlement risk and reducing collateral requirements.
@@ -1182,7 +1182,7 @@
 
 ---
 
-📰 **SEBI High-Value Debt Listed Entities (HVDLEs) Corporate Governance Regime**
+📰 [MS-064] **SEBI High-Value Debt Listed Entities (HVDLEs) Corporate Governance Regime**
 - **Threshold Definition**: An entity having outstanding listed non-convertible debt securities of **₹500 Crore and above** is classified as a High-Value Debt Listed Entity (HVDLE).
 - **Mandatory Corporate Governance**: Enforces key provisions of SEBI LODR Regulations, including:
   - Minimum 50% independent directors if the chairperson is executive.
@@ -1198,7 +1198,7 @@
 
 ---
 
-📰 **SEBI Foreign Portfolio Investors (FPI) Granular Ownership Disclosures**
+📰 [MS-065] **SEBI Foreign Portfolio Investors (FPI) Granular Ownership Disclosures**
 - **Objective & Shell Company Guardrails**: Mandates deep granular disclosure of all natural persons, beneficial owners, and economic interests in FPI entities to prevent circumvention of Press Note 3 and minimum public shareholding (MPS) rules.
 - **Twin Trigger Thresholds**:
   1. FPI holding more than **50% of its Indian equity Assets Under Management (AUM)** in a single Indian corporate group.
@@ -1213,7 +1213,7 @@
 
 ---
 
-📰 **SEBI Social Stock Exchange (SSE): Zero Coupon Zero Principal (ZCZP) Framework**
+📰 [MS-066] **SEBI Social Stock Exchange (SSE): Zero Coupon Zero Principal (ZCZP) Framework**
 - **Social Enterprise Fundraising**: Enables Non-Profit Organisations (NPOs) and For-Profit Social Enterprises (FPSEs) registered on the Social Stock Exchange to mobilize funds through **Zero Coupon Zero Principal (ZCZP)** instruments.
 - **Lowered Entry Thresholds**:
   - Minimum issue size for ZCZP reduced from ₹1 Crore to **₹50 Lakh**.
@@ -1228,7 +1228,7 @@
 
 ---
 
-📰 **SEBI SCORES 2.0 & SMART ODR Online Dispute Resolution Mechanism**
+📰 [MS-067] **SEBI SCORES 2.0 & SMART ODR Online Dispute Resolution Mechanism**
 - **Turnaround Time Compression**: Launched SCORES 2.0 (SEBI Complaints Redress System) with automated routing; slashed maximum resolution timeline from 30 calendar days down to **21 calendar days**.
 - **Two-Tier Escalation Architecture**: If an investor is dissatisfied with the listed entity's resolution, the complaint automatically escalates to the **Designated Body (First Tier Review)**, followed by SEBI direct intervention if unresolved.
 - **Integration with SMART ODR**: Unresolved market grievances automatically feed into the Securities Market Approach for Resolution Through ODR Portal (SMART ODR) for conciliation and online arbitration.
@@ -1241,7 +1241,7 @@
 
 ---
 
-📰 **RBI Peer-to-Peer (P2P) Lending NBFC Regulatory Crackdown**
+📰 [MS-068] **RBI Peer-to-Peer (P2P) Lending NBFC Regulatory Crackdown**
 - **Prohibition of Guarantees**: Master Directions explicitly barred NBFC-P2Ps from marketing P2P loans as alternative high-yield investment products with credit enhancement, assured returns, or liquidity guarantees.
 - **Lender & Borrower Exposure Caps**:
   - Aggregate exposure of a lender across all P2P platforms capped at **₹50 Lakh** (investments >₹10 Lakh require net-worth certificate from a Chartered Accountant).
@@ -1257,7 +1257,7 @@
 
 ---
 
-📰 **SEBI Angel Funds & Alternative Investment Funds (AIF) Demat Mandate**
+📰 [MS-069] **SEBI Angel Funds & Alternative Investment Funds (AIF) Demat Mandate**
 - **Dematerialisation Mandate**: SEBI made it compulsory for all Alternative Investment Funds (AIF Category I, II, and III) to issue all units exclusively in **dematerialised form** through registered depositories (NSDL/CDSL).
 - **Angel Fund Thresholds**: Minimum investment ticket size for angel investors in an Angel Fund set at **₹25 Lakh**; maximum number of angel investors in a single scheme capped at **200**.
 - **Pari-Passu Investor Rights**: Barred AIFs from creating 'priority distribution waterfalls' that favor select institutional investors over general LPs during exits.
@@ -1270,7 +1270,7 @@
 
 ---
 
-📰 **SEBI Equity Derivatives (F&O) Safeguards & Contract Size Revision**
+📰 [MS-070] **SEBI Equity Derivatives (F&O) Safeguards & Contract Size Revision**
 - **Risk Mitigation in Derivatives**: Formed an Expert Working Group to curb speculative retail losses in index options and futures where >90% of retail traders suffer net losses.
 - **Contract Size Expansion**: Proposed hiking the minimum contract value of index derivatives from ₹5 Lakh up to **₹15 Lakh to ₹20 Lakh** to deter over-leveraged retail participation.
 - **Margin & Expiry Rationalization**: Mandated upfront collection of Extreme Loss Margin (ELM), rationalized weekly expiry contracts to one benchmark index per exchange, and enforced intraday position monitoring.
@@ -1283,7 +1283,7 @@
 
 ---
 
-📰 **Cheque Truncation System (CTS): Continuous Clearing Transition & Positive Pay System (PPS) Architecture**
+📰 [MS-071] **Cheque Truncation System (CTS): Continuous Clearing Transition & Positive Pay System (PPS) Architecture**
 - **Continuous Clearing Paradigm Shift**: Reserve Bank of India (**RBI**) initiated the transition of the Cheque Truncation System (**CTS**) from legacy batch-based clearing (processing cycles taking up to two business days, T+1/T+2) to **continuous clearing with 'on-realisation-settlement'** during standard banking hours.
 - **Speed & Settlement Speed**: Cheques will be scanned, presented, and settled within **a few hours** of lodgement, dramatically compressing the settlement cycle and mitigating counterparty float risk.
 - **Positive Pay System (PPS) Regulatory Framework**:
@@ -1306,7 +1306,7 @@
 
 ---
 
-📰 **NSE First Tokenised Corporate Bonds on DLT & Wholesale CBDC (e₹): REC & L&T ₹1,000 Crore Issuance**
+📰 [MS-072] **NSE First Tokenised Corporate Bonds on DLT & Wholesale CBDC (e₹): REC & L&T ₹1,000 Crore Issuance**
 - **Tokenised Debt Milestone**: The **National Stock Exchange (NSE)** enabled India's first tokenised corporate bond issuances on its Electronic Bidding Platform (**NSE EBP**) mobilizing **₹1,000 Crore**.
 - **Corporate Issuers & Allocation**:
   - **REC Limited**: State-owned Maharatna NBFC raised **₹500 Crore** (India's 1st tokenised corporate bond on NSE EBP).
@@ -1324,7 +1324,7 @@
 
 ## 4. 📊 UNION BUDGET, MACROECONOMIC INDICATORS & TAXATION
 
-📰 **Union Budget 2024-25 / 2026 Core Fiscal Outlays & Capital Expenditure**
+📰 [MS-073] **Union Budget 2024-25 / 2026 Core Fiscal Outlays & Capital Expenditure**
 - **Aggregate Budget Size**: Total Union Government expenditure pegged at **₹48.21 Lakh Crore**, with net tax receipts estimated at **₹25.83 Lakh Crore**.
 - **Record Capital Expenditure (Capex)**: Sovereign capex maintained at a historic **₹11,11,111 Crore (3.4% of GDP)** for the fourth consecutive year of double-digit infrastructure investment.
 - **Effective Capital Expenditure**: Total effective capex (including grants-in-aid to states for capital asset creation) scaled to **₹15.02 Lakh Crore** (4.6% of GDP).
@@ -1338,7 +1338,7 @@
 
 ---
 
-📰 **Fiscal Deficit Consolidation & The Sovereign Debt Glide Path**
+📰 [MS-074] **Fiscal Deficit Consolidation & The Sovereign Debt Glide Path**
 - **Annual Deficit Target**: Revised fiscal deficit for FY25 estimated at **4.9% of GDP** (improved from interim target of 5.1%); projected to compress below **4.5% of GDP in FY26**.
 - **Post-FY26 Fiscal Anchor**: Shifting away from an absolute fiscal deficit percentage towards a **debt-to-GDP reduction anchor**, aiming to lower central government debt from ~56% of GDP towards sustainable multi-year thresholds.
 - **Market Borrowing Plan**: Gross market borrowing through dated securities budgeted at **₹14.01 Lakh Crore**; net market borrowing pegged at **₹11.63 Lakh Crore**.
@@ -1351,7 +1351,7 @@
 
 ---
 
-📰 **New Personal Income Tax Regime Slabs & Standard Deduction Overhaul**
+📰 [MS-075] **New Personal Income Tax Regime Slabs & Standard Deduction Overhaul**
 - **Enhanced Standard Deduction**: Standard deduction for salaried employees under the New Tax Regime hiked by 50% from ₹50,000 to **₹75,000**; deduction on family pension hiked from ₹15,000 to **₹25,000**.
 - **Revised Income Tax Slabs (Under Section 115BAC)**:
   - Up to ₹3,00,000: **Nil**
@@ -1370,7 +1370,7 @@
 
 ---
 
-📰 **Capital Gains Taxation Architecture: Dual Rationalization**
+📰 [MS-076] **Capital Gains Taxation Architecture: Dual Rationalization**
 - **Short-Term Capital Gains (STCG)**: STCG on specified financial assets (listed equities and equity-oriented mutual funds covered under Section 111A) hiked from 15% to **20%**.
 - **Long-Term Capital Gains (LTCG)**:
   - LTCG rate on listed financial assets hiked from 10% to **12.5%**.
@@ -1386,7 +1386,7 @@
 
 ---
 
-📰 **Abolition of Angel Tax (Section 56(2)(viib) of Income Tax Act)**
+📰 [MS-077] **Abolition of Angel Tax (Section 56(2)(viib) of Income Tax Act)**
 - **Historic Startup Relief**: Completely **abolished the 'Angel Tax'** for all classes of investors across all registered startup companies with immediate effect.
 - **Genesis & Friction**: Enacted in 2012 to curb unaccounted money laundering; taxed investments received by unlisted companies exceeding 'Fair Market Value' (FMV) as income from other sources at >30%.
 - **Venture Ecosystem Boost**: Eliminates endless tax litigation, removes valuation friction, and encourages domestic and foreign seed capital inflows into Indian tech ventures.
@@ -1399,7 +1399,7 @@
 
 ---
 
-📰 **Abolition of 2% Equalisation Levy on Foreign E-Commerce Operators**
+📰 [MS-078] **Abolition of 2% Equalisation Levy on Foreign E-Commerce Operators**
 - **Digital Tax Retraction**: Government completely withdrew the **2% Equalisation Levy** levied on non-resident e-commerce operators with effect from **August 1, 2024 / 2026**.
 - **Genesis & Cross-Border Friction**: Originally introduced in Finance Act 2020 to tax digital services rendered by global giants (Google, Amazon, Meta); created trade tensions and retaliatory tariff threats from the United States under Section 301.
 - **Pillar One Alignment**: Decision aligns India with the OECD/G20 Inclusive Framework on Base Erosion and Profit Shifting (BEPS) Pillar One, which replaces unilateral digital services taxes with multilateral profit allocation.
@@ -1412,7 +1412,7 @@
 
 ---
 
-📰 **Customs Duty Slashes on Gold, Silver & 25 Critical Minerals**
+📰 [MS-079] **Customs Duty Slashes on Gold, Silver & 25 Critical Minerals**
 - **Precious Metals Duty Slash**: Slashed Basic Customs Duty (BCD) on **Gold and Silver bars from 15% down to 6%**; slashed duty on Platinum to **6.4%**.
 - **Anti-Smuggling Impetus**: Steep duty cut curbs illicit grey-market smuggling, revitalizes organized domestic jewelry manufacturing, and boosts gem & jewelry export competitiveness.
 - **25 Critical Minerals 100% Exemption**: Fully exempted basic customs duty on **25 critical minerals** essential for nuclear energy, renewable energy, electric vehicles, and semiconductors—including **Lithium**, **Cobalt**, **Nickel**, **Copper**, and **Rare Earth Elements (REEs)**.
@@ -1425,7 +1425,7 @@
 
 ---
 
-📰 **Infrastructure Sagas: Indian Railways & NHAI Sovereign Outlays**
+📰 [MS-080] **Infrastructure Sagas: Indian Railways & NHAI Sovereign Outlays**
 - **Indian Railways Capital Capex**: Allocated a record gross budgetary capital support of **₹2.52 Lakh Crore** (operating ratio targeted at ~98.2%).
 - **Three Economic Railway Corridors**: Implementation of three major economic railway corridors under PM GatiShakti:
   1. *Energy, Mineral and Cement Corridors*
@@ -1442,7 +1442,7 @@
 
 ---
 
-📰 **Direct Tax Vivad Se Vishwas Scheme 2024**
+📰 [MS-081] **Direct Tax Vivad Se Vishwas Scheme 2024**
 - **Litigation Resolution Scheme**: Enacted under Finance (No. 2) Act, 2024 to settle pending direct tax appeals filed before the Supreme Court, High Courts, ITAT, and CIT (Appeals) as of **July 22, 2024**.
 - **Settlement Terms**:
   - For appeals filed by the taxpayer: Settlement upon payment of **100% of the disputed tax** (full waiver of interest and penalty) if paid before the primary cutoff date; stepped up to **110% of disputed tax** if paid subsequently.
@@ -1457,7 +1457,7 @@
 
 ---
 
-📰 **Historic Milestone: India's Foreign Exchange Reserves Cross \$700 Billion**
+📰 [MS-082] **Historic Milestone: India's Foreign Exchange Reserves Cross \$700 Billion**
 - **Historic Record**: India's Foreign Exchange Reserves officially crossed the milestone of **\$700 Billion** for the first time in history (peaking above \$704.88 Billion).
 - **Global Reserve Standing**: India ranks as the **4th largest foreign exchange reserve holder globally**, trailing only **China**, **Japan**, and **Switzerland**.
 - **Reserve Asset Breakdown**: Foreign Currency Assets (FCA) constitute the bulk (~\$610B+), followed by **Gold Reserves (~\$65B+)**, Special Drawing Rights (SDRs with IMF), and Reserve Tranche Position (RTP).
@@ -1471,7 +1471,7 @@
 
 ---
 
-📰 **Wholesale Price Index (WPI) & Consumer Price Index (CPI) Structural Anchors**
+📰 [MS-083] **Wholesale Price Index (WPI) & Consumer Price Index (CPI) Structural Anchors**
 - **Base Year Parameters**:
   - Consumer Price Index (CPI - Combined): Base Year is **2012=100**; published monthly by the National Statistical Office (NSO), MoSPI.
   - Wholesale Price Index (WPI): Base Year is **2011-12=100**; published monthly by the Office of the Economic Adviser, DPIIT, Ministry of Commerce and Industry.
@@ -1488,7 +1488,7 @@
 
 ---
 
-📰 **Sixteenth Finance Commission (16th FC) Comprehensive Architecture & Blueprint (2026–2031)**
+📰 [MS-084] **Sixteenth Finance Commission (16th FC) Comprehensive Architecture & Blueprint (2026–2031)**
 - **Constitutional Basis & Governance**: Constituted under **Article 280(1)** of the Constitution of India and governed by the Finance Commission (Miscellaneous Provisions) Act, 1951.
   - *Award Period*: 5 years spanning **April 1, 2026 to March 31, 2031** (FY27 to FY31).
   - *Report Submission Timeline*: Extended to **November 30, 2025** (notified on October 10, 2025; original deadline was October 31, 2025).
@@ -1545,7 +1545,7 @@
 
 ---
 
-📰 **Macroeconomic Architecture: CPI, WPI, GDP & IIP Base Year Revision Matrix**
+📰 [MS-085] **Macroeconomic Architecture: CPI, WPI, GDP & IIP Base Year Revision Matrix**
 - **Synchronized National Accounts Overhaul**: Ministry of Statistics and Programme Implementation (**MoSPI**) and DPIIT operationalized a synchronized overhaul of India's foundational macroeconomic statistical indicators.
 - **Consumer Price Index (CPI)**:
   - Current Base Year: **2012 = 100** (compiled by National Statistical Office / NSO, MoSPI).
@@ -1571,7 +1571,7 @@
 
 ## 5. 🏛️ FLAGSHIP CENTRAL GOVERNMENT SCHEMES & MISSIONS
 
-📰 **PM Surya Ghar: Muft Bijli Yojana — Rooftop Solar Transformation**
+📰 [MS-086] **PM Surya Ghar: Muft Bijli Yojana — Rooftop Solar Transformation**
 - **Financial Outlay & Household Target**: Total financial outlay of **₹75,021 Crore** to install rooftop solar power systems across **1 Crore households** nationwide.
 - **Direct Benefit Transfer (DBT) Subsidy Architecture**:
   - 1 kW capacity: **₹30,000** subsidy (covers residential electricity load up to 150 units/month).
@@ -1588,7 +1588,7 @@
 
 ---
 
-📰 **PM-KISAN (Pradhan Mantri Kisan Samman Nidhi) — Direct Income Support**
+📰 [MS-087] **PM-KISAN (Pradhan Mantri Kisan Samman Nidhi) — Direct Income Support**
 - **Annual Benefit & Installment Schedule**: Provides **₹6,000 per year** in three equal 4-monthly installments of **₹2,000 each** directly into Aadhaar-seeded bank accounts of landholding farmer families.
 - **Scheme Nature & Funding**: 100% Central Sector Scheme fully funded by the Government of India, operational since **December 1, 2018**.
 - **Mandatory Compliance Triggers**: Disbursement strictly conditioned on:
@@ -1605,7 +1605,7 @@
 
 ---
 
-📰 **PM Vishwakarma Scheme — Artisans & Traditional Craftsmen Ecosystem**
+📰 [MS-088] **PM Vishwakarma Scheme — Artisans & Traditional Craftsmen Ecosystem**
 - **Sovereign Outlay & Duration**: Central Sector Scheme with a total outlay of **₹13,000 Crore** for a 5-year period covering **FY24 to FY28**.
 - **Coverage of Traditional Trades**: Covers **18 traditional artisan and craft trades** (carpenters, blacksmiths, goldsmiths, potters, sculptors, cobblers, tailors, boat builders, etc.).
 - **Two-Tranche Collateral-Free Enterprise Loans**:
@@ -1622,7 +1622,7 @@
 
 ---
 
-📰 **Pradhan Mantri Awas Yojana 2.0 (PMAY Urban & Gramin Expansion)**
+📰 [MS-089] **Pradhan Mantri Awas Yojana 2.0 (PMAY Urban & Gramin Expansion)**
 - **Cabinet Approval of 3 Crore Additional Houses**: Union Cabinet approved the construction of **3 Crore additional rural and urban houses** (2 Crore under PMAY-Gramin and 1 Crore under PMAY-Urban).
 - **PMAY-Urban 2.0 Financial Structure**: Total investment of **₹10 Lakh Crore** over 5 years with Central Financial Assistance of **₹2.2 Lakh Crore**.
 - **Interest Subsidy Scheme (ISS) for Urban Poor**:
@@ -1639,7 +1639,7 @@
 
 ---
 
-📰 **Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY) — 5-Year Sovereign Extension**
+📰 [MS-090] **Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY) — 5-Year Sovereign Extension**
 - **Five-Year Horizon & Outlay**: Extended for **5 years from January 1, 2024 to December 31, 2028** with a massive estimated budgetary outlay of **₹11.80 Lakh Crore**.
 - **Entitlement Norms under NFSA**:
   - *Antyodaya Anna Yojana (AAY) Families*: Entitled to **35 kg of free foodgrains per family per month**.
@@ -1655,7 +1655,7 @@
 
 ---
 
-📰 **Lakhpati Didi Initiative — Economic Graduation of Women SHGs**
+📰 [MS-091] **Lakhpati Didi Initiative — Economic Graduation of Women SHGs**
 - **Expanded Mission Target**: Union Budget officially elevated the national target from 2 Crore to **3 Crore Lakhpati Didis**.
 - **Lakhpati Didi Definition**: A woman member of a Self-Help Group (SHG) mobilized under Deendayal Antyodaya Yojana - National Rural Livelihoods Mission (DAY-NRLM) whose household earns a **sustainable annual income of at least ₹1,00,000** (calculated with an average monthly income of >₹8,333).
 - **Convergence Ecosystem**: Integrates multi-skilling, financial literacy, value-chain linkages, agriculture-drone services (Namo Drone Didi), animal husbandry, and direct bank linkage.
@@ -1669,7 +1669,7 @@
 
 ---
 
-📰 **Namo Drone Didi Scheme — Modernizing Agriculture via Women SHGs**
+📰 [MS-092] **Namo Drone Didi Scheme — Modernizing Agriculture via Women SHGs**
 - **Central Sector Outlay**: Approved with a financial outlay of **₹1,261 Crore** for a period of two years (FY24-25 to FY25-26).
 - **Physical Allocation Target**: Supplies advanced agricultural drones to **15,000 selected women Self-Help Groups (SHGs)** under DAY-NRLM to provide rental spraying services (nano-urea, DAP, pesticides) to local farmers.
 - **Central Financial Assistance (CFA)**:
@@ -1685,7 +1685,7 @@
 
 ---
 
-📰 **Pradhan Mantri Matsya Sampada Yojana (PMMSY) & PMMKSSY Sub-Scheme**
+📰 [MS-093] **Pradhan Mantri Matsya Sampada Yojana (PMMSY) & PMMKSSY Sub-Scheme**
 - **Parent Mission Outlay**: PMMSY operates with an investment of **₹20,050 Crore** (FY21 to FY25) aiming to expand fish production to **22 million metric tons** and fishery exports to ₹1 Lakh Crore.
 - **New Sub-Scheme (PMMKSSY)**: Cabinet approved the **Pradhan Mantri Matsya Kisan Samridhi Sah-Yojana (PMMKSSY)** with an outlay of **₹6,000 Crore** (50% public financing including World Bank/AFD loans, 50% private investment).
 - **Formalisation & Insurance Drive**: Creates the National Fisheries Digital Platform (NFDP) to issue institutional identity cards, formalise micro-fisheries, and offer aquaculture insurance premium subsidies up to **50% of the premium cost**.
@@ -1698,7 +1698,7 @@
 
 ---
 
-📰 **PM-PRANAM Scheme — Chemical Fertilizer Rationalization**
+📰 [MS-094] **PM-PRANAM Scheme — Chemical Fertilizer Rationalization**
 - **Full Nomenclature**: *PM Programme for Restoration, Awareness, Nourishment and Amelioration of Mother Earth*.
 - **Innovative Financing Mechanism**: Does not have an independent separate budget; financed entirely through **savings generated in the central fertilizer subsidy** bill.
 - **50% Subsidy Sharing Formula**:
@@ -1714,7 +1714,7 @@
 
 ---
 
-📰 **PM SVANidhi — Street Vendor Micro-Credit Architecture**
+📰 [MS-095] **PM SVANidhi — Street Vendor Micro-Credit Architecture**
 - **Ministry & Implementing Agency**: Launched by **Ministry of Housing and Urban Affairs (MoHUA)**; implementation managed by **SIDBI**.
 - **Three-Tier Escalating Loan Tranches**:
   - *1st Tranche*: Collateral-free working capital loan up to **₹10,000** (tenure 1 year).
@@ -1730,7 +1730,7 @@
 
 ---
 
-📰 **Pradhan Mantri Jan Dhan Yojana (PMJDY) — 10th Anniversary Milestone**
+📰 [MS-096] **Pradhan Mantri Jan Dhan Yojana (PMJDY) — 10th Anniversary Milestone**
 - **Decade of Financial Inclusion**: Completed **10 years of national implementation** on **August 28, 2024 / 2026** (originally launched Aug 28, 2014 under the National Mission for Financial Inclusion).
 - **Core Parameters & Milestones**:
   - Cumulative beneficiaries exceed **53 Crore bank accounts** with aggregate deposit balances crossing **₹2.30 Lakh Crore**.
@@ -1748,7 +1748,7 @@
 
 ---
 
-📰 **Atal Pension Yojana (APY) — Sovereign Pension Architecture**
+📰 [MS-097] **Atal Pension Yojana (APY) — Sovereign Pension Architecture**
 - **Administering Body & Enrollment**: Administered by **PFRDA (Pension Fund Regulatory and Development Authority)** through NPS architecture; total subscribers crossed **6.8 Crore**.
 - **Eligibility & Age Bracket**: Open to all Indian citizens aged between **18 and 40 years** having a savings bank account.
 - **Guaranteed Monthly Pension Slabs**: Provides government-guaranteed monthly pension of **₹1,000, ₹2,000, ₹3,000, ₹4,000, or ₹5,000** from the age of **60 years**, depending on the subscriber's contribution.
@@ -1762,7 +1762,7 @@
 
 ---
 
-📰 **Pradhan Mantri Social Security Insurance Dual Sagas: PMJJBY & PMSBY**
+📰 [MS-098] **Pradhan Mantri Social Security Insurance Dual Sagas: PMJJBY & PMSBY**
 - **Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)**:
   - Life insurance cover: **₹2,00,000** for death due to any reason.
   - Annual premium: **₹436 per annum** (auto-debited from bank account).
@@ -1781,7 +1781,7 @@
 
 ---
 
-📰 **Mission Shakti (Sambal & Samarthya) & Mission Vatsalya**
+📰 [MS-099] **Mission Shakti (Sambal & Samarthya) & Mission Vatsalya**
 - **Ministry of Women & Child Development Umbrella**: Umbrella mission structured into two distinct sub-schemes:
   - *Sambal (Safety & Security)*: 100% Centrally sponsored; includes **One Stop Centres (OSC)**, **Women Helpline (181)**, **Beti Bachao Beti Padhao (BBBP)**, and **Nari Adalats** (women-led dispute resolution).
   - *Samarthya (Empowerment)*: Includes **Pradhan Mantri Matru Vandana Yojana (PMMVY)** providing ₹5,000 in two installments for first child and ₹6,000 for second child (if girl), **Palna** (day-care crèches), and **Shakti Niwas** (working women hostels).
@@ -1795,7 +1795,7 @@
 
 ---
 
-📰 **Jal Jeevan Mission (JJM) — Har Ghar Jal Milestones**
+📰 [MS-100] **Jal Jeevan Mission (JJM) — Har Ghar Jal Milestones**
 - **Mission Goal & Per Capita Metric**: Targets providing functional household tap connections (FHTC) delivering **55 litres per capita per day (lpcd)** of potable water to every rural home.
 - **National Budgetary Outlay**: Massive sovereign outlay of **₹3.60 Lakh Crore**, operational under the Ministry of Jal Shakti.
 - **Milestone States & UTs**:
@@ -1812,7 +1812,7 @@
 
 ---
 
-📰 **PM RAHAT Scheme: Cashless Emergency Medical Care for Road Accident Victims**
+📰 [MS-101] **PM RAHAT Scheme: Cashless Emergency Medical Care for Road Accident Victims**
 - **Genesis & Statutory Backing**: Ministry of Road Transport and Highways (**MoRTH**) operationalized **PM RAHAT** (*Relief and Assistance for Highway Accident Trauma*), providing emergency golden-hour trauma care under Section 162 of the *Motor Vehicles Act, 1988*.
 - **Cashless Treatment Limits & Duration**:
   - Entitles any road accident victim (regardless of nationality or financial status) to **cashless medical treatment up to ₹1.50 lakh per victim**.
@@ -1831,7 +1831,7 @@
 
 ---
 
-📰 **Urban Challenge Fund (UCF): ₹1 Lakh Crore Infrastructure Transformation Architecture**
+📰 [MS-102] **Urban Challenge Fund (UCF): ₹1 Lakh Crore Infrastructure Transformation Architecture**
 - **Flagship Urban Infrastructure Pool**: Ministry of Housing and Urban Affairs (**MoHUA**) unveiled the **Urban Challenge Fund (UCF)** with an aggregate financial outlay of **₹1,00,000 crore (₹1 Lakh Crore)** operational over a 5-year execution horizon (**FY26 to FY31**).
 - **Financing & Contribution Structure**:
   - **Central Government Share**: Contributes **25% (₹25,000 crore)** as viability gap funding and credit-enhancement grants.
@@ -1848,7 +1848,7 @@
 
 ---
 
-📰 **GOBARdhan Scheme Overhaul: ₹23,731 Crore Outlay & Statutory CBG Blending Targets**
+📰 [MS-103] **GOBARdhan Scheme Overhaul: ₹23,731 Crore Outlay & Statutory CBG Blending Targets**
 - **Cabinet Approval & Decade-Long Horizon**: Union Cabinet approved the revamped **GOBARdhan** (*Galvanizing Organic Bio-Agro Resources Dhan*) – National Circular Bioenergy Scheme with an outlay of **₹23,731 crore** operational over a 10-year period (**FY 2026–27 to FY 2035–36**).
 - **Mandatory CBG Blending Mandate for City Gas Distribution (CGD)**:
   - **FY 2026–27 (FY27)**: Mandatory **3% blending of Compressed Biogas (CBG)** in City Gas Distribution (CGD) networks.
@@ -1867,7 +1867,7 @@
 
 ---
 
-📰 **PM-SETU Programme: ₹60,000 Crore Modernisation of 1,000 ITIs**
+📰 [MS-104] **PM-SETU Programme: ₹60,000 Crore Modernisation of 1,000 ITIs**
 - **Vocational Upgradation Mission**: Ministry of Skill Development and Entrepreneurship (**MSDE**) approved the **PM-SETU** (*Skill Enhancement and Technical Upgradation*) Programme.
 - **Outlay & Institutional Target**:
   - Total financial outlay of **₹60,000 crore** to comprehensively upgrade and modernize **1,000 Industrial Training Institutes (ITIs)** across India into state-of-the-art Centers of Excellence (CoEs).
@@ -1882,7 +1882,7 @@
 
 ---
 
-📰 **EPFO Mandatory Wage Ceiling Raised to ₹25,000/Month: Landmark Social Security Expansion**
+📰 [MS-105] **EPFO Mandatory Wage Ceiling Raised to ₹25,000/Month: Landmark Social Security Expansion**
 - **First Revision in 12 Years**: The Union Cabinet chaired by Prime Minister Narendra Modi approved a historic hike in the statutory wage ceiling for mandatory coverage under the Employees' Provident Fund Organisation (**EPFO**) from **₹15,000 to ₹25,000 per month** (effective **September 17, 2026**).
 - **Historic Precedent**: The previous statutory revision occurred on September 1, 2014, when the wage threshold was increased from ₹6,500 to ₹15,000.
 - **Massive Social Security Expansion**: Mandatorily extends coverage under the *Employees' Provident Funds and Miscellaneous Provisions Act, 1952* to over **51 lakh additional formal sector employees**.
@@ -1900,7 +1900,7 @@
 
 ---
 
-📰 **Pradhan Mantri MUDRA Yojana (PMMY) & The New 'Tarun Plus' ₹20 Lakh Tier**
+📰 [MS-106] **Pradhan Mantri MUDRA Yojana (PMMY) & The New 'Tarun Plus' ₹20 Lakh Tier**
 - **Genesis & Institutional Architecture**: Launched on **April 8, 2015**, under the Ministry of Finance to provide formal institutional credit to non-corporate, non-farm micro and small enterprises.
 - **The 4 Statutory Loan Categories**:
   - **Shishu**: Covering loans up to **₹50,000** (initial seed capital for micro-vendors and solo entrepreneurs).
@@ -1922,7 +1922,7 @@
 
 ---
 
-📰 **Stand-Up India Scheme (SUI): Credit Guarantee & Greenfield Entrepreneurship Architecture**
+📰 [MS-107] **Stand-Up India Scheme (SUI): Credit Guarantee & Greenfield Entrepreneurship Architecture**
 - **Statutory Mandate & Vision**: Launched on **April 5, 2016** (extended through **2025/2026**), administered by the Department of Financial Services (**DFS**), Ministry of Finance, to promote entrepreneurship at the grassroots level.
 - **Mandatory Bank Branch Target**: Mandates **every scheduled commercial bank branch** in India to facilitate at least **two loans**:
   1. At least **one Scheduled Caste (SC) or Scheduled Tribe (ST) borrower**.
@@ -1947,7 +1947,7 @@
 
 ---
 
-📰 **PM-eBus Sewa Payment Security Mechanism (PSM) Scheme: ₹3,435 Crore E-Mobility Guarantee**
+📰 [MS-108] **PM-eBus Sewa Payment Security Mechanism (PSM) Scheme: ₹3,435 Crore E-Mobility Guarantee**
 - **Cabinet Sanction & Financial Outlay**: The Union Cabinet approved the *Scheme for Payment Security Mechanism (PSM) for procurement and operation of electric buses by Public Transport Authorities (PTAs)* with a dedicated budgetary allocation of **₹3,435 Crore**.
 - **Massive Fleet Transformation**:
   - Facilitates the procurement, deployment, and operation of more than **38,000 electric buses (e-buses)** nationwide across Indian cities from **FY 2024-25 to FY 2028-29**.
@@ -1966,7 +1966,7 @@
 
 ---
 
-📰 **PM Vidyalaxmi Scheme: Central Sector Collateral-Free Higher Education Loan Architecture**
+📰 [MS-109] **PM Vidyalaxmi Scheme: Central Sector Collateral-Free Higher Education Loan Architecture**
 - **Cabinet Approval & Mission Scope**: The Union Cabinet approved the **PM Vidyalaxmi Scheme** on **November 6, 2024** as a central sector scheme under the Ministry of Education to ensure no meritorious student is denied higher education due to financial constraints.
 - **Institutional Eligibility (Top 860 QHEIs)**:
   - Applicable to all students admitted to the **Top 860 Quality Higher Education Institutions (QHEIs)** in the country.
@@ -1988,7 +1988,7 @@
 
 ---
 
-📰 **Atal Beemit Vyakti Kalyan Yojana (ABVKY) & ESIC Social Security Net**
+📰 [MS-110] **Atal Beemit Vyakti Kalyan Yojana (ABVKY) & ESIC Social Security Net**
 - **Institutional Governance**: Administered by the **Employees' State Insurance Corporation (ESIC)** under the Ministry of Labour and Employment, enacted under Section 2(9) and Section 46 of the ESI Act, 1948.
 - **Core Unemployment Relief Architecture**:
   - Provides cash relief directly to the bank accounts of Insured Persons (IPs) who face involuntary unemployment or job loss.
@@ -2010,7 +2010,7 @@
 
 ## 6. ⚡ SOVEREIGN INDUSTRIAL MISSIONS, DEEP-TECH & GREEN ENERGY
 
-📰 **India Semiconductor Mission (ISM) & Sovereign Fab Sanctions**
+📰 [MS-111] **India Semiconductor Mission (ISM) & Sovereign Fab Sanctions**
 - **Incentive Framework**: Union Cabinet approved the ISM with an outlay of **₹76,000 Crore**, offering **50% fiscal support on a pari-passu basis** for setting up silicon fabs, display fabs, compound semiconductors, and ATMP/OSAT facilities.
 - **Approved Mega-Projects**:
   - *Commercial Silicon Fab*: **Tata Electronics Pvt Ltd (TEPL)** partnering with **Powerchip Semiconductor Manufacturing Corp (PSMC, Taiwan)** to build India's 1st commercial semiconductor fabrication facility in **Dholera, Gujarat** (Investment: **₹91,000 Crore**; capacity: 50,000 wafer starts/month).
@@ -2026,7 +2026,7 @@
 
 ---
 
-📰 **National Quantum Mission (NQM) — Deep-Tech Quantum Frontier**
+📰 [MS-112] **National Quantum Mission (NQM) — Deep-Tech Quantum Frontier**
 - **Financial Outlay & Execution Horizon**: Approved with a total budget of **₹6,003.65 Crore** spanning an 8-year period from **FY24 to FY31**, spearheaded by the Department of Science and Technology (DST).
 - **Primary Technology Benchmarks**:
   - Develop intermediate-scale quantum computers with **50 to 1000 physical qubits** within 8 years.
@@ -2045,7 +2045,7 @@
 
 ---
 
-📰 **National Green Hydrogen Mission (NGHM) & SIGHT Programme**
+📰 [MS-113] **National Green Hydrogen Mission (NGHM) & SIGHT Programme**
 - **National Targets by 2030**:
   - Green hydrogen production capacity of **5 Million Metric Tonnes (MMT) per annum**.
   - Addition of **125 GW of associated renewable energy capacity**.
@@ -2064,7 +2064,7 @@
 
 ---
 
-📰 **PM Electric Drive Revolution in Innovative Vehicle Enhancement (PM E-DRIVE)**
+📰 [MS-114] **PM Electric Drive Revolution in Innovative Vehicle Enhancement (PM E-DRIVE)**
 - **Successor to FAME-II**: Officially approved by Union Cabinet to replace FAME-II, with a total financial outlay of **₹10,900 Crore** over a two-year tenure (2024 to 2026).
 - **Subsidized Vehicle Targets**:
   - Subsidizes **24.79 Lakh electric two-wheelers (e-2W)**.
@@ -2081,7 +2081,7 @@
 
 ---
 
-📰 **National Critical Minerals Mission & Offshore Mineral Auctions**
+📰 [MS-115] **National Critical Minerals Mission & Offshore Mineral Auctions**
 - **Union Budget Sovereign Mission**: Mandates securing domestic exploration, refining, overseas mine acquisitions, and recycling of 24 strategic and critical minerals.
 - **Offshore Areas Mineral (Development and Regulation) Amendment Act**: Formulated rules for auctioning **offshore mineral blocks** in India's Exclusive Economic Zone (EEZ) for polymetallic nodules, cobalt crusts, and mineral sands.
 - **KABIL Sovereign Acquisitions**: *Khanij Bidesh India Limited (KABIL)* (joint venture of NALCO, HCL, and MECL) secured exploration and mining rights over **5 lithium brine blocks in Catamarca Province, Argentina** (covering 15,703 hectares).
@@ -2094,7 +2094,7 @@
 
 ---
 
-📰 **Production Linked Incentive (PLI) Schemes Overhaul & Disbursement Status**
+📰 [MS-116] **Production Linked Incentive (PLI) Schemes Overhaul & Disbursement Status**
 - **Macro Outlay & Sectors**: Total sovereign commitment of **₹1.97 Lakh Crore** across **14 strategic manufacturing sectors** to build national champions and integrate into Global Value Chains (GVCs).
 - **Outperforming Sectors**: **Large-Scale Electronics (Mobile Phones)**, **Pharmaceuticals**, **Medical Devices**, and **Food Processing** led in capex realization and incentive payouts.
 - **Value Addition & Export Boom**: Mobile phone production in India crossed ₹4.1 Lakh Crore with exports surpassing **₹1.2 Lakh Crore** (driven by Apple and Samsung ecosystem suppliers).
@@ -2108,7 +2108,7 @@
 
 ---
 
-📰 **BioE3 Policy — High-Performance Biomanufacturing Blueprint**
+📰 [MS-117] **BioE3 Policy — High-Performance Biomanufacturing Blueprint**
 - **Full Nomenclature**: *Biotechnology for Economy, Environment and Employment*.
 - **Department & Ministry**: Formulated and driven by the **Department of Biotechnology (DBT)** under the Ministry of Science & Technology.
 - **Six Thematic Strategic Pillars**:
@@ -2128,7 +2128,7 @@
 
 ---
 
-📰 **Anusandhan National Research Foundation (ANRF) — Sovereign R&D Engine**
+📰 [MS-118] **Anusandhan National Research Foundation (ANRF) — Sovereign R&D Engine**
 - **Statutory Genesis**: Established under the **Anusandhan National Research Foundation (ANRF) Act, 2023**, superseding the Science and Engineering Research Board (SERB).
 - **Financial Architecture**: Massive planned outlay of **₹50,000 Crore** over five years (FY24 to FY28):
   - Central Government budgetary support: **₹14,000 Crore**.
@@ -2146,7 +2146,7 @@
 
 ---
 
-📰 **Ultra-Mega Solar Power Parks & Renewable Energy Landscape**
+📰 [MS-119] **Ultra-Mega Solar Power Parks & Renewable Energy Landscape**
 - **500 GW Non-Fossil Fuel Target**: India is committed to installing **500 GW of non-fossil electricity capacity by 2030** under its COP26/COP28 NDC commitments.
 - **World's Largest Operational Solar Parks**:
   - **Bhadla Solar Park (Rajasthan)**: World's largest operational solar park with a capacity of **2,245 MW**.
@@ -2161,7 +2161,7 @@
 
 ---
 
-📰 **Nuclear Power Expansion: Small Modular Reactors (SMRs) & PFBR Core Loading**
+📰 [MS-120] **Nuclear Power Expansion: Small Modular Reactors (SMRs) & PFBR Core Loading**
 - **Nuclear Private-Public Partnerships**: Union Budget announced sovereign collaboration with private enterprise to develop **Bharat Small Reactors (BSR)** (220 MWe) and research into **Small Modular Reactors (SMRs)**.
 - **Commercial Commissioning at Kakrapar**: Nuclear Power Corporation of India Limited (NPCIL) fully commenced commercial operations of **Kakrapar Atomic Power Project (KAPP) Unit-4 (700 MWe PHWR)** in Gujarat (following Unit-3 commissioning).
 - **Core Loading of Prototype Fast Breeder Reactor (PFBR)**: Commenced core loading of India's indigenous **500 MWe Prototype Fast Breeder Reactor at Kalpakkam, Tamil Nadu**, marking entry into the second stage of India's three-stage nuclear power programme.
@@ -2174,7 +2174,7 @@
 
 ---
 
-📰 **Maritime India Vision 2030: India Becomes World's Largest Ship Recycling Nation Ahead of Target**
+📰 [MS-121] **Maritime India Vision 2030: India Becomes World's Largest Ship Recycling Nation Ahead of Target**
 - **Vision Realisation Milestone**: India officially surpassed global competitors to become the **world's largest ship recycling nation by gross tonnage**, achieving the benchmark set under **Maritime India Vision 2030 five full years ahead of the target schedule**.
 - **Hub of Operations**: Concentrated at **Alang-Sosiya Ship Recycling Yard in Bhavnagar district, Gujarat**, which accounts for over 98% of domestic ship-breaking activity.
 - **Hong Kong Convention (HKC) Compliance**: Over **100+ recycling plots at Alang** have secured Statements of Compliance (SoC) under the IMO's *Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships*.
@@ -2189,7 +2189,7 @@
 
 ---
 
-📰 **DRDO Long-Range Hypersonic Maritime Missile (LR-AShM / Mach 10)**
+📰 [MS-122] **DRDO Long-Range Hypersonic Maritime Missile (LR-AShM / Mach 10)**
 - **Strategic Flight Test Milestone**: Defence Research and Development Organisation (**DRDO**) successfully conducted the flight test of its indigenous **Long-Range Anti-Ship Missile (LR-AShM)** / Hypersonic Glide demonstrator off the coast of Odisha from **Dr. APJ Abdul Kalam Island**.
 - **Extreme Kinetic & Flight Parameters**:
   - **Operational Strike Range**: Exceeds **1,500 kilometers**, providing unprecedented anti-access/area-denial (A2/AD) capabilities across the Indian Ocean Region.
@@ -2206,7 +2206,7 @@
 
 ---
 
-📰 **Pioneering State AI Cabinet Portfolios & Sovereign Tech Governance**
+📰 [MS-123] **Pioneering State AI Cabinet Portfolios & Sovereign Tech Governance**
 - **Historic Institutional First**: The State Government of **Andhra Pradesh** issued a landmark State Gazette order formally creating India's first dedicated Cabinet-level **Department of Artificial Intelligence, Cloud Infrastructure & Emerging Technologies**.
 - **Governance Mandate**:
   - Formulates sovereign AI governance guidelines, responsible AI deployment, and data centre regulatory frameworks.
@@ -2224,7 +2224,7 @@
 
 ## 7. 🌐 MULTILATERAL LOANS, BILATERAL ACCORDS & GIFT CITY
 
-📰 **World Bank \$1.5 Billion Second Low-Carbon Energy Development Policy Operation**
+📰 [MS-124] **World Bank \$1.5 Billion Second Low-Carbon Energy Development Policy Operation**
 - **Financial Commitment**: World Bank approved a massive **\$1.5 Billion financing package** (Second Low-Carbon Energy Programmatic DPO) to accelerate India's green hydrogen and renewable energy ecosystems.
 - **Strategic Policy Targets**:
   - Scale domestic production of **Green Hydrogen** and electrolyser manufacturing capacity.
@@ -2240,7 +2240,7 @@
 
 ---
 
-📰 **Asian Development Bank (ADB) Sovereign Country Partnership & Strategic Loans**
+📰 [MS-125] **Asian Development Bank (ADB) Sovereign Country Partnership & Strategic Loans**
 - **Largest Sovereign Borrower**: India continues as the **largest sovereign borrower of ADB**, holding over \$16 billion in active sovereign loan commitments.
 - **Key Sectoral Sanctions**:
   - *\$500 Million*: Approved to modernize and expand **tertiary healthcare and medical education facilities in Maharashtra**.
@@ -2257,7 +2257,7 @@
 
 ---
 
-📰 **Asian Infrastructure Investment Bank (AIIB) India Engagements**
+📰 [MS-126] **Asian Infrastructure Investment Bank (AIIB) India Engagements**
 - **India's Apex Shareholding**: India is the **second-largest shareholder** in AIIB with an **8.36% shareholding (7.6% voting power)**, trailing only China (26.6% voting power).
 - **Flagship Project Sanctions**:
   - Co-financing **Chennai Metro Rail Project Phase 2** (\$356.67 Million).
@@ -2272,7 +2272,7 @@
 
 ---
 
-📰 **New Development Bank (NDB) — GIFT City Regional Office & BRICS Funding**
+📰 [MS-127] **New Development Bank (NDB) — GIFT City Regional Office & BRICS Funding**
 - **Equitable Sovereign Ownership**: Established by BRICS nations (Brazil, Russia, India, China, South Africa) with equal initial subscribed capital; headquartered in **Shanghai, China**; President is **Dilma Rousseff** (former President of Brazil).
 - **Indian Regional Office (IRO)**: NDB operationalized its **Indian Regional Office at GIFT City, Gandhinagar (Gujarat)** to accelerate sovereign and non-sovereign project preparation.
 - **New Admitted Members**: NDB admitted **Bangladesh, Egypt, UAE**, and **Uruguay** as new member countries expanding beyond original BRICS founders.
@@ -2285,7 +2285,7 @@
 
 ---
 
-📰 **IFSCA: Statutory Foundation, Unified Regulatory Architecture & IFSC Banking Units (IBUs)**
+📰 [MS-128] **IFSCA: Statutory Foundation, Unified Regulatory Architecture & IFSC Banking Units (IBUs)**
 - **Genesis & Statutory Super-Regulator Status**:
   - Established under the **International Financial Services Centres Authority Act, 2019** passed by Parliament; formally constituted on **April 27, 2020** and operationalized in October 2020.
   - Headquartered permanently at **GIFT City, Gandhinagar, Gujarat**.
@@ -2310,7 +2310,7 @@
 
 ---
 
-📰 **GIFT City IFSC Regulatory Milestones: Single Window SWITS & Direct Listing**
+📰 [MS-129] **GIFT City IFSC Regulatory Milestones: Single Window SWITS & Direct Listing**
 - **IFSCA Unified Portal (SWITS)**: International Financial Services Centres Authority (IFSCA) launched the **Single Window IT System (SWITS)** for seamless registration, licensing, and compliance for global financial institutions.
 - **Direct Listing of Indian Companies**: Ministry of Finance and IFSCA operationalized the framework permitting **unlisted and listed Indian public companies to issue and list their equity shares directly on GIFT-IFSC stock exchanges** (India INX and NSE IX).
 - **Global In-House Centres (GICs)**: Over 120 global banking, insurance, and fintech back-offices and treasury centers established operations in GIFT City enjoying a 10-year 100% tax holiday under Section 80LA.
@@ -2323,7 +2323,7 @@
 
 ---
 
-📰 **Foreign Universities Establishing Autonomous Campuses in GIFT City**
+📰 [MS-130] **Foreign Universities Establishing Autonomous Campuses in GIFT City**
 - **First Foreign University in India**: **Deakin University (Australia)** became the **world's first foreign university** to establish an operational international branch campus in India at GIFT City, Gandhinagar.
 - **Second Australian Entrant**: **University of Wollongong (Australia)** followed Deakin, launching specialized postgraduate programs in Computing, Finance, and FinTech.
 - **Regulatory Autonomy**: Regulated directly by IFSCA (exempt from UGC/AICTE domestic curriculum restrictions); allowed to repatriate earnings abroad without foreign exchange friction.
@@ -2336,7 +2336,7 @@
 
 ---
 
-📰 **India International Bullion Exchange (IIBX) & Direct Gold Imports**
+📰 [MS-131] **India International Bullion Exchange (IIBX) & Direct Gold Imports**
 - **Sovereign Bullion Gateway**: Located in GIFT City; established as India's sole gateway for institutional bullion trading and physical delivery vaults.
 - **Direct Import by Qualified Jewellers (QJs)**: RBI and DGFT permitted eligible domestic jewellery manufacturers (Qualified Jewellers) to **import gold directly through IIBX**, bypassing intermediary nominated banks and reducing procurement premiums.
 - **India-UAE CEPA Bullion Integration**: Enabled import of gold under the Tariff Rate Quota (TRQ) of 140 tonnes through IIBX with a **1% concessional customs duty duty-benefit** under the India-UAE CEPA.
@@ -2349,7 +2349,7 @@
 
 ---
 
-📰 **India-Middle East-Europe Economic Corridor (IMEC)**
+📰 [MS-132] **India-Middle East-Europe Economic Corridor (IMEC)**
 - **Historic Multilateral Genesis**: Signed on the sidelines of the **G20 New Delhi Summit** via an MoU between India, USA, UAE, Saudi Arabia, France, Germany, Italy, and the European Union.
 - **Dual Corridor Architecture**:
   - *Eastern Corridor*: Connecting Indian maritime ports (Mundra, Kandla, JNPT) to Arabian Gulf ports (Jebel Ali, Fujairah).
@@ -2364,7 +2364,7 @@
 
 ---
 
-📰 **India-EFTA Trade and Economic Partnership Agreement (TEPA)**
+📰 [MS-133] **India-EFTA Trade and Economic Partnership Agreement (TEPA)**
 - **Historic European Free Trade Accord**: Signed between India and the 4-nation **European Free Trade Association (EFTA)** comprising **Switzerland, Norway, Iceland, and Liechtenstein**.
 - **First-of-its-Kind \$100 Billion Investment Commitment**: EFTA nations committed legally to invest **\$100 Billion in India over 15 years** (generating over 1 million direct jobs) as a reciprocal condition for tariff concessions.
 - **Tariff Phase-Out Scope**: India provided tariff concessions on 82.7% of its tariff lines covering Swiss watches, machinery, precision instruments, and chocolates (excluding domestic agriculture and dairy sectors).
@@ -2377,7 +2377,7 @@
 
 ---
 
-📰 **India-UAE Comprehensive Economic Partnership Agreement (CEPA) & LCS**
+📰 [MS-134] **India-UAE Comprehensive Economic Partnership Agreement (CEPA) & LCS**
 - **Local Currency Settlement (LCS) System**: Operationalized direct bilateral trade settlement in **Indian Rupee (INR) and UAE Dirham (AED)**, bypassing USD intermediation.
 - **Payment Linkages**: Integrated India's UPI with UAE's **Aani/Jaywan** instant payment system and linked national card switches (RuPay and Jaywan).
 - **Bilateral Investment Treaty (BIT)**: Formally signed the India-UAE Bilateral Investment Treaty in Abu Dhabi, replacing the older Bilateral Investment Promotion and Protection Agreement (BIPPA).
@@ -2390,7 +2390,7 @@
 
 ---
 
-📰 **BRICS Historic Expansion — Five New Sovereign Entrants**
+📰 [MS-135] **BRICS Historic Expansion — Five New Sovereign Entrants**
 - **Expansion Milestone**: On **January 1, 2024**, BRICS officially inducted **five new full members**: **Egypt, Ethiopia, Iran, Saudi Arabia**, and the **United Arab Emirates (UAE)**.
 - **Argentina's Sovereign Rejection**: Argentina was formally invited during the 15th Johannesburg Summit but newly elected President Javier Milei formally declined membership.
 - **16th BRICS Summit Host**: The 16th BRICS Annual Summit hosted in **Kazan, Russia** under the 2024 Russian Presidency with the theme of strengthening multilateralism and sovereign currency settlement.
@@ -2403,7 +2403,7 @@
 
 ---
 
-📰 **Shanghai Cooperation Organisation (SCO) Summit: Belarus Admitted as 10th Member**
+📰 [MS-136] **Shanghai Cooperation Organisation (SCO) Summit: Belarus Admitted as 10th Member**
 - **Astana Summit 2024**: Held in **Astana, Kazakhstan** under Kazakh presidency with the theme *'Strengthening Multilateral Dialogue — Striving Towards Sustainable Peace and Prosperity'*.
 - **Tenth Full Member State**: **Belarus** was formally admitted as the **10th full member state** of the SCO (joining India, China, Russia, Pakistan, Kazakhstan, Kyrgyzstan, Tajikistan, Uzbekistan, and Iran).
 - **Astana Declaration**: Emphasized non-interference in internal affairs, multi-currency trade settlements, and opposition to unilateral economic sanctions.
@@ -2421,7 +2421,7 @@
 
 ---
 
-📰 **India–New Zealand Free Trade Agreement (FTA): 100% Duty-Free Access & US$20B Investment**
+📰 [MS-137] **India–New Zealand Free Trade Agreement (FTA): 100% Duty-Free Access & US$20B Investment**
 - **Operational Date**: Formally takes effect on **October 20, 2026** (signed April 27, 2026).
 - **Tariff-Free Access**: Grants **100% duty-free access** for Indian exports entering New Zealand, eliminating peak 10% tariffs on autos, auto components, ceramics, textiles, and carpets.
 - **Investment Pillar**: New Zealand committed to invest **US$20 Billion in India over 15 years** in agri-tech, cold-chains, and green energy.
@@ -2435,7 +2435,7 @@
 
 ---
 
-📰 **Maldives US$150 Million SBI T-Bill Full Repayment: India's US$45 Million Sovereign Interest Support**
+📰 [MS-138] **Maldives US$150 Million SBI T-Bill Full Repayment: India's US$45 Million Sovereign Interest Support**
 - **Debt Clearance**: Maldives cleared the final **US$50 Million tranche** on September 17, 2026, completing full repayment of the **US$150 Million T-bill facility** subscribed by State Bank of India (SBI) in 2019.
 - **India's Grant Assistance**: Government of India absorbed nearly **US$45 Million in interest payments** over 5 years as direct sovereign support to Male.
 - **Currency Swap & Bonds**: India maintains a **₹3,000 Crore currency swap line** and holds **$350 Million in Maldivian T-Bonds** valid till 2029–2030.
@@ -2448,7 +2448,7 @@
 
 ## 8. ⚖️ REGULATORY BODIES, ACTS, COMMITTEES & APPOINTMENTS
 
-📰 **Telecommunications Act, 2023 Enacted into Law**
+📰 [MS-139] **Telecommunications Act, 2023 Enacted into Law**
 - **Century-Old Law Repeal**: Formally repealed archaic colonial legislations: the **Indian Telegraph Act, 1885**, the **Indian Wireless Telegraphy Act, 1933**, and the Telegraph Wires (Unlawful Possession) Act, 1950.
 - **Administrative Allocation of Satellite Spectrum**: Mandated the **administrative allocation** of satellite communication spectrum (satcom) without competitive auctioning, aligning India with global ITU standards for Starlink, Eutelsat OneWeb, and Jio Satellite.
 - **Digital Bharat Nidhi**: Renamed and restructured the Universal Service Obligation Fund (USOF) into **'Digital Bharat Nidhi'** to support R&D, pilot deployment, and rural broadband expansion.
@@ -2462,7 +2462,7 @@
 
 ---
 
-📰 **Digital Personal Data Protection (DPDP) Act, 2023 Regulatory Framework**
+📰 [MS-140] **Digital Personal Data Protection (DPDP) Act, 2023 Regulatory Framework**
 - **Statutory Genesis & DPBI**: Establishes the **Data Protection Board of India (DPBI)** as an autonomous digital adjudicatory authority to investigate breaches and impose statutory penalties.
 - **Penalties Slabs**:
   - Failure to prevent significant personal data breach: Penalties up to **₹250 Crore**.
@@ -2478,7 +2478,7 @@
 
 ---
 
-📰 **Criminal Justice Overhaul: BNS, BNSS & BSA Operationalization**
+📰 [MS-141] **Criminal Justice Overhaul: BNS, BNSS & BSA Operationalization**
 - **Enforcement Date**: Came into full legal effect across India on **July 1, 2024**, completely replacing the British-era penal codes.
 - **Three Replaced Statutes**:
   1. **Bharatiya Nyaya Sanhita (BNS), 2023** replaced the Indian Penal Code (IPC), 1860.
@@ -2497,7 +2497,7 @@
 
 ---
 
-📰 **Sovereign Appointments: Reserve Bank of India (RBI) Leadership**
+📰 [MS-142] **Sovereign Appointments: Reserve Bank of India (RBI) Leadership**
 - **26th Governor of RBI**: **Sanjay Malhotra** (Senior IAS officer and former Revenue Secretary) appointed as the **26th Governor of the Reserve Bank of India** with effect from **December 11, 2024**, succeeding Shaktikanta Das upon completion of his extended tenure.
 - **Statutory Terms**: Appointed for a period of **3 years** under Section 8(1)(a) of the RBI Act, 1934.
 - **Four Deputy Governors**: RBI governance maintained with four statutory Deputy Governors: **Michael Debabrata Patra, M. Rajeshwar Rao, T. Rabi Sankar, and Swaminathan J.**
@@ -2510,7 +2510,7 @@
 
 ---
 
-📰 **State Bank of India (SBI) Leadership: Chairman C.S. Setty**
+📰 [MS-143] **State Bank of India (SBI) Leadership: Chairman C.S. Setty**
 - **Apex Commercial Banking Transition**: Government appointed **Challa Sreenivasulu Setty (C.S. Setty)** as the **Chairman of State Bank of India** for a tenure of three years, succeeding **Dinesh Kumar Khara** upon his superannuation.
 - **FSIB Recommendation**: Nominated by the **Financial Services Institutions Bureau (FSIB)**, the autonomous statutory body recommending board-level appointments in Public Sector Banks and financial institutions (chaired by Bhanu Pratap Sharma).
 - **Career Path**: Setty previously served as Senior Managing Director of SBI overseeing Global Markets and Retail Banking.
@@ -2523,7 +2523,7 @@
 
 ---
 
-📰 **Constitutional Watchdog: Comptroller & Auditor General of India (CAG)**
+📰 [MS-144] **Constitutional Watchdog: Comptroller & Auditor General of India (CAG)**
 - **Constitutional Appointment**: **K. Sanjay Murthy** (former Higher Education Secretary) appointed as the **Comptroller and Auditor General of India (CAG)**, succeeding Girish Chandra Murmu.
 - **Constitutional Anchors**: Appointed by the President of India under **Article 148** of the Constitution of India; holds office for a term of **6 years or until attaining 65 years of age**, whichever is earlier.
 - **Apex Accountability**: Serves as the guardian of the public purse and auditing authority for Consolidated Funds of the Union and States.
@@ -2536,7 +2536,7 @@
 
 ---
 
-📰 **High-Level Committee on 'One Nation, One Election'**
+📰 [MS-145] **High-Level Committee on 'One Nation, One Election'**
 - **Committee Leadership**: Chaired by former President of India **Ram Nath Kovind**; submitted a landmark 18,626-page unanimous report to President Droupadi Murmu.
 - **Two-Phase Simultaneous Election Roadmap**:
   - *Phase 1*: Synchronize elections to the **Lok Sabha and all State Legislative Assemblies** simultaneously.
@@ -2551,7 +2551,7 @@
 
 ---
 
-📰 **Election Commission of India (ECI) Appointments under New Act**
+📰 [MS-146] **Election Commission of India (ECI) Appointments under New Act**
 - **Statutory Selection Panel**: Chief Election Commissioner and other Election Commissioners (Appointment, Conditions of Service and Term of Office) Act, 2023 operationalized.
 - **New Appointments**: **Gyanesh Kumar** and **Sukhbir Singh Sandhu** appointed as Election Commissioners by a selection committee comprising the Prime Minister, a Union Cabinet Minister, and the Leader of the Opposition/single largest party in Lok Sabha.
 - **Apex Bench Composition**: Chief Election Commissioner **Rajiv Kumar** flanked by ECs Gyanesh Kumar and Sukhbir Singh Sandhu under **Article 324**.
@@ -2564,7 +2564,7 @@
 
 ---
 
-📰 **Competition Commission of India (CCI) — Leniency Plus Regime**
+📰 [MS-147] **Competition Commission of India (CCI) — Leniency Plus Regime**
 - **Statutory Notification**: CCI notified the Competition Commission of India (Leniency Plus) Regulations, 2024 under the Competition (Amendment) Act, 2023.
 - **Mechanism of Leniency Plus**: An enterprise undergoing an inquiry for an existing cartel can disclose the existence of a **second, undisclosed cartel** in an unrelated market.
 - **Financial Benefit**:
@@ -2580,7 +2580,7 @@
 
 ---
 
-📰 **Insolvency and Bankruptcy Board of India (IBBI) — Real Estate Reforms**
+📰 [MS-148] **Insolvency and Bankruptcy Board of India (IBBI) — Real Estate Reforms**
 - **Project-Wise Insolvency Resolution**: IBBI amended Corporate Insolvency Resolution Process (CIRP) regulations to mandate **project-specific insolvency** for real estate developers, preventing un-defaulted housing projects of the same company from being dragged into bankruptcy.
 - **Allotment Possession Safeguards**: Insolvency Resolution Professionals (RPs) permitted to hand over possession of completed flats/units to genuine homebuyers with CoC approval before overall resolution.
 - **Regulatory Leadership**: Headquartered in New Delhi; IBBI Chairperson is **Ravi Mital**; statutory body under the Insolvency and Bankruptcy Code (IBC), 2016.
@@ -2593,7 +2593,7 @@
 
 ---
 
-📰 **NABARD Institutional Milestones & Rural Infrastructure Development Fund (RIDF)**
+📰 [MS-149] **NABARD Institutional Milestones & Rural Infrastructure Development Fund (RIDF)**
 - **43rd Foundation Day**: Celebrated on **July 12, 2024 / 2026** (established July 12, 1982 on the recommendations of the **B. Sivaraman Committee** under Act 61 of 1981).
 - **RIDF Allocation Tranche**: Rural Infrastructure Development Fund (RIDF) managed by NABARD allocated **₹40,000 Crore** annually funded out of priority sector lending shortfalls of scheduled commercial banks.
 - **Apex Leadership**: NABARD Chairman is **Shaji K.V.**; 100% owned by the Government of India (after RBI divested its stake).
@@ -2606,7 +2606,7 @@
 
 ---
 
-📰 **Small Industries Development Bank of India (SIDBI) & Urban Infrastructure Fund (UIDF)**
+📰 [MS-150] **Small Industries Development Bank of India (SIDBI) & Urban Infrastructure Fund (UIDF)**
 - **SIDBI Mandate & SHe MAVEN Initiative**: Established on **April 2, 1990** under an Act of Parliament; Chairman and Managing Director is **Manoj Mittal**; launched 'SHe MAVEN' and direct micro-credit windows for first-generation women entrepreneurs.
 - **Urban Infrastructure Development Fund (UIDF)**:
   - Managed by the **National Housing Bank (NHB)** with an annual corpus of **₹10,000 Crore** from priority sector lending shortfalls.
@@ -2621,7 +2621,7 @@
 
 ---
 
-📰 **Financial Action Task Force (FATF) — India's Historic Vice-Presidency Leadership**
+📰 [MS-151] **Financial Action Task Force (FATF) — India's Historic Vice-Presidency Leadership**
 - **Historic Leadership Breakthrough**: In June 2026, the **Financial Action Task Force (FATF)** elected and appointed India to its executive leadership as **Vice-President of FATF for a one-year term from July 2026 to June 2027**.
 - **First-Ever Indian Entry**: Marks India's **first-ever accession to the FATF Vice-Presidency / Presidency hierarchy** since joining the 40-member intergovernmental body as a full member in **2010**.
 - **Institutional Context & Mutual Evaluation Backing**:
@@ -2643,7 +2643,7 @@
 
 ## 9. 🌐 GLOBAL INDICES, BENCHMARK REPORTS & HONOURS
 
-📰 **Global Innovation Index (GII) 2024 — WIPO Rankings**
+📰 [MS-152] **Global Innovation Index (GII) 2024 — WIPO Rankings**
 - **India's Global Ascent**: India climbed to the **39th rank** among 133 economies in the Global Innovation Index 2024, published annually by the **World Intellectual Property Organization (WIPO)** in Geneva.
 - **Regional & Income Leadership**: Ranked **1st among 10 economies in Central and Southern Asia** and **1st among lower-middle-income economies** globally.
 - **Top 3 Economies**: **Switzerland** ranked 1st (for the 14th consecutive year), followed by **Sweden (2nd)** and the **United States (3rd)**.
@@ -2657,7 +2657,7 @@
 
 ---
 
-📰 **Global Gender Gap Report 2024 — World Economic Forum (WEF)**
+📰 [MS-153] **Global Gender Gap Report 2024 — World Economic Forum (WEF)**
 - **India's Rank Position**: India ranked **129th out of 146 countries** with an overall gender parity score of 64.1%, published by the **World Economic Forum (WEF)** in Geneva.
 - **Sub-Index Disparities**: Scored highest in Educational Attainment and Political Empowerment, but lagged severely in Economic Participation and Opportunity (142nd) and Health and Survival.
 - **Global Leader**: **Iceland** ranked 1st as the most gender-equal country for the 15th consecutive year (closing >93% of its gender gap), followed by Finland (2nd) and Norway (3rd).
@@ -2671,7 +2671,7 @@
 
 ---
 
-📰 **Human Development Index (HDI) — UNDP Human Development Report**
+📰 [MS-154] **Human Development Index (HDI) — UNDP Human Development Report**
 - **India's Standing**: India ranked **134th out of 193 countries** with an HDI score of **0.644**, placing it firmly in the **Medium Human Development** category.
 - **Three Dimensions & Four Indicators**:
   1. *Long and Healthy Life*: Life expectancy at birth in India improved to **67.7 years**.
@@ -2687,7 +2687,7 @@
 
 ---
 
-📰 **World Press Freedom Index 2024 — Reporters Without Borders (RSF)**
+📰 [MS-155] **World Press Freedom Index 2024 — Reporters Without Borders (RSF)**
 - **India's Ranking**: India ranked **159th out of 180 countries** (score 31.28) in the annual index published by Paris-based **Reporters Without Borders (Reporters Sans Frontières - RSF)**.
 - **Global Podium**: **Norway** ranked 1st for the 8th consecutive year, followed by Denmark (2nd) and Sweden (3rd).
 - **Worst Ranked Nation**: **Eritrea (180th)** ranked at the absolute bottom, replacing North Korea (179th).
@@ -2700,7 +2700,7 @@
 
 ---
 
-📰 **World Happiness Report 2024 — UN SDSN Assessment**
+📰 [MS-156] **World Happiness Report 2024 — UN SDSN Assessment**
 - **India's Ranking**: India ranked **126th out of 143 evaluated countries** with an average life evaluation score of 4.054.
 - **Publishing Agency**: Released by the **UN Sustainable Development Solutions Network (SDSN)** in partnership with Gallup and the Oxford Wellbeing Research Centre.
 - **Happiest Nation**: **Finland** crowned the world's happiest country for the **7th consecutive year**, followed by Denmark (2nd), Iceland (3rd), and Sweden (4th).
@@ -2714,7 +2714,7 @@
 
 ---
 
-📰 **SIPRI Global Military Expenditure Report 2024**
+📰 [MS-157] **SIPRI Global Military Expenditure Report 2024**
 - **India's Global Standing**: India was ranked as the **4th largest military spender in the world** in 2023–24, with total defence outlays reaching **\$83.6 Billion** (up 4.2% year-on-year), published by Stockholm International Peace Research Institute (SIPRI).
 - **Top 5 Military Spenders**:
   1. **United States**: \$916 Billion (accounts for 37% of global total).
@@ -2732,7 +2732,7 @@
 
 ---
 
-📰 **LSEG Global Green Economy Report: India Generates US\$110 Billion in Green Revenues**
+📰 [MS-158] **LSEG Global Green Economy Report: India Generates US\$110 Billion in Green Revenues**
 - **Global Sustainable Leadership**: According to the benchmark *Global Green Revenues* study released by the **London Stock Exchange Group (LSEG)**, Indian enterprises generated approximately **US\$110 billion (approx. ₹9.24 lakh crore) in green revenues** during 2025.
 - **Leading Contributing Verticals**:
   - Utility-scale renewable solar and wind energy generation.
@@ -2748,7 +2748,7 @@
 
 ---
 
-📰 **NITI Aayog Releases 8th Trade Watch Quarterly: India's Export Pivot Towards Asia & Africa**
+📰 [MS-159] **NITI Aayog Releases 8th Trade Watch Quarterly: India's Export Pivot Towards Asia & Africa**
 - **Institutional Trade Diagnostics**: NITI Aayog released the **8th edition of its Trade Watch Quarterly**, evaluating India's post-pandemic trade trajectory and geopolitical tariff realignments.
 - **Geographical Pivot**:
   - Highlights a structural shift in India's merchandise export footprint towards **Asia, Africa, and Latin America**, reducing historical over-reliance on traditional EU and North American markets.
@@ -2762,7 +2762,7 @@
 
 ---
 
-📰 **70th National Film Awards 2024 — Apex Cultural Honours**
+📰 [MS-160] **70th National Film Awards 2024 — Apex Cultural Honours**
 - **54th Dadasaheb Phalke Award**: Conferred upon legendary cinema icon **Mithun Chakraborty** for his iconic lifetime contribution to Indian cinema.
 - **Feature Film Honors**:
   - *Best Feature Film*: **Aattam** (The Play) — Malayalam drama directed by Anand Ekarshi.
@@ -2779,7 +2779,7 @@
 
 ---
 
-📰 **Ramon Magsaysay Awards 2024 ('Nobel Prize of Asia')**
+📰 [MS-161] **Ramon Magsaysay Awards 2024 ('Nobel Prize of Asia')**
 - **66th Edition Laureates**: Presented annually by the Ramon Magsaysay Award Foundation in Manila, Philippines; five distinguished laureates honored:
   1. **Karma Phuntsho (Bhutan)**: Former monk and scholar honored for preserving Bhutanese cultural heritage through the Loden Foundation.
   2. **Hayao Miyazaki (Japan)**: Legendary animator and Studio Ghibli co-founder honored for environmental and pacifist storytelling through animation.
@@ -2795,7 +2795,7 @@
 
 ---
 
-📰 **Abel Prize 2024 — Mathematics Apex Honor**
+📰 [MS-162] **Abel Prize 2024 — Mathematics Apex Honor**
 - **Laureate**: Awarded to French mathematician **Michel Talagrand** by the Norwegian Academy of Science and Letters.
 - **Citation**: Honored *"for his groundbreaking contributions to probability theory and stochastic processes, with outstanding applications in mathematical physics and statistics"*.
 - **Administering Body**: Established in honor of Niels Henrik Abel; carries a cash prize of **7.5 Million Norwegian Kroner (NOK)**.
@@ -2808,7 +2808,7 @@
 
 ---
 
-📰 **International Booker Prize 2024 — Literary Triumph**
+📰 [MS-163] **International Booker Prize 2024 — Literary Triumph**
 - **Winning Novel**: Awarded to German author **Jenny Erpenbeck** and translator **Michael Hofmann** for the novel ***Kairos***.
 - **Historic Literary Milestones**:
   - Jenny Erpenbeck became the **first German writer** to win the International Booker Prize.
@@ -2823,7 +2823,7 @@
 
 ---
 
-📰 **Environmental Performance Index (EPI) 2026 — Yale/Columbia Component Framework**
+📰 [MS-164] **Environmental Performance Index (EPI) 2026 — Yale/Columbia Component Framework**
 - **Institutional Architecture & Methodology**: Published biennially by the **Yale Center for Environmental Law & Policy** and **Columbia University's Center for International Earth Science Information Network (CIESIN)**; evaluates **180 countries** across 58 performance indicators.
 - **The Three Core Policy Objectives & India's Ranks**:
   - **1. Environmental Health**: Measures protection of human health from environmental hazards (air quality, sanitation & drinking water, heavy metals, waste management). India ranked **174th out of 180 countries**.

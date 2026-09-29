@@ -3,7 +3,7 @@
 
 ## 0. 🏛️ MASTER STATIC BANKING & REGULATORY FOUNDATIONS
 
-📰 **Financial Message Codes, Identifiers & Standard Formats (UTR, IFSC, MICR, LEI, SWIFT)**
+📰 [STA-001] **Financial Message Codes, Identifiers & Standard Formats (UTR, IFSC, MICR, LEI, SWIFT)**
 - **RTGS UTR (Unique Transaction Reference)**: Exactly **22 alphanumeric characters**; structured as: 4-character Bank IFSC prefix + 1-character Transaction Type ('R' for RTGS) + 8-digit Date code (YYYYMMDD) + 9-digit unique sequential running number.
 - **NEFT UTR (Unique Transaction Reference)**: Exactly **16 alphanumeric characters**; generated uniquely for interbank batch electronic clearing.
 - **IFSC (Indian Financial System Code)**: Exactly **11 alphanumeric characters** used in NEFT, RTGS, and IMPS; First 4 characters = Bank identity; **5th character is permanently fixed as '0' (zero)** reserved for future expansion; Last 6 characters = Branch identity (alphanumeric).
@@ -26,7 +26,7 @@
 
 ---
 
-📰 **Evolution of Modern Indian Banking: SBI Genesis, Nationalisation & Statutory Acts**
+📰 [STA-002] **Evolution of Modern Indian Banking: SBI Genesis, Nationalisation & Statutory Acts**
 - **Presidency Banks to State Bank of India**:
   - Bank of Calcutta (founded 1806, renamed Bank of Bengal 1809), Bank of Bombay (1840), and Bank of Madras (1843) were amalgamated on **January 27, 1921** to create the **Imperial Bank of India**.
   - Under the statutory recommendations of the **All India Rural Credit Survey Committee (chaired by A.D. Gorwala)**, Parliament enacted the **State Bank of India Act, 1955**.
@@ -60,7 +60,7 @@
 
 ---
 
-📰 **Institutional Headquarters, Global Foreign Banks & Multilateral Bodies**
+📰 [STA-003] **Institutional Headquarters, Global Foreign Banks & Multilateral Bodies**
 - **Indian Financial & Statutory Bodies Headquarters Matrix**:
   - **Mumbai**: Reserve Bank of India (RBI), Securities and Exchange Board of India (SEBI), NABARD, EXIM Bank of India, State Bank of India (SBI), National Payments Corporation of India (NPCI), Indian Banks' Association (IBA).
   - **Hyderabad**: **Insurance Regulatory and Development Authority of India (IRDAI)** and **Insurance Information Bureau of India (IIB)** (established in 2009 by IRDAI as the single statutory data repository for Indian insurance).
@@ -95,7 +95,7 @@
 
 ---
 
-📰 **Basel III Regulatory Architecture, Balance Sheet Ratios & Delinquency Timeline**
+📰 [STA-004] **Basel III Regulatory Architecture, Balance Sheet Ratios & Delinquency Timeline**
 - **Basel III Regulatory Capital Framework**:
   - Developed by the Basel Committee on Banking Supervision (BCBS) headquartered at BIS in Basel, Switzerland, in response to the 2008 Lehman Brothers liquidity collapse.
   - **Minimum Common Equity Tier 1 (CET1)**: **5.5%** for Indian banks (vs 4.5% Basel international accord).
@@ -129,7 +129,7 @@
 
 ---
 
-📰 **Operational Banking Limits, Consumer Redressal & Deposit Insurance**
+📰 [STA-005] **Operational Banking Limits, Consumer Redressal & Deposit Insurance**
 - **ATM Free Cash Withdrawal Norms (RBI Master Directions)**:
   - **Own Bank ATMs**: Minimum **5 free transactions per month** (inclusive of both financial cash withdrawals and non-financial services like balance inquiry).
   - **Other Bank ATMs in 6 Designated Metros**: Minimum **3 free transactions per month** (Metros: Mumbai, New Delhi, Chennai, Kolkata, Bengaluru, Hyderabad).
@@ -154,7 +154,7 @@
 
 ---
 
-📰 **Constitutional Schedules, Strategic Maritime Straits & High-Frequency Static GK**
+📰 [STA-006] **Constitutional Schedules, Strategic Maritime Straits & High-Frequency Static GK**
 - **The 12 Schedules of the Constitution of India Master Table**:
   - **First Schedule**: List of States and Union Territories with territorial boundaries.
   - **Second Schedule**: Emoluments, allowances, and privileges of President, Governors, Judges of Supreme Court/High Courts, and CAG.
@@ -187,7 +187,7 @@
 
 ---
 
-📰 **High-Frequency Constitutional Articles, Taxation Forms & Functions of Money**
+📰 [STA-007] **High-Frequency Constitutional Articles, Taxation Forms & Functions of Money**
 - **Core Financial & Economic Articles of the Constitution of India**:
   - **Article 280 (Finance Commission)**: Mandates the President of India to constitute a Finance Commission every 5 years; recommends devolution of net tax proceeds between Union and States and grants-in-aid; **16th Finance Commission** chaired by **Dr. Arvind Panagariya** (Secretary: Ritvik Ranjanam Pandey; recommendations operational for 5 years: FY27–FY31).
   - **Article 300A (Right to Property)**: Originally a Fundamental Right under Article 19(1)(f) and Article 31; omitted from Part III and reconstituted as a **Constitutional / Legal Right under Article 300A in Part XII** via the **44th Constitutional Amendment Act, 1978** (mandates that no person shall be deprived of property save by authority of law).

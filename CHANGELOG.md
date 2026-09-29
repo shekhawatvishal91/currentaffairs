@@ -2,7 +2,30 @@
 
 All notable changes to the Current Affairs Dossier repository and Rajputana Gazette Broadsheet System are documented here.
 
-## 🚀 [v2.21] — 2026-09-26
+## 🚀 [v2.22] — 2026-09-29
+
+### 🏷️ Universal Unique Dispatch & Scroll Code Architecture (`[PREFIX-XXX]`)
+- **Globally Unique Addressing Across All 683 News Clusters**:
+  - Eliminated duplicate cluster indices (`cluster-1`, `cluster-2`, etc.) across dossiers.
+  - Implemented stable, dossier-prefixed 3-digit identifiers (`[PREFIX-XXX]`) ensuring every single news story and scroll position can be referenced unambiguously:
+    1. **`MS-001` to `MS-164`**: IBPS PO/Clerk Mains 35+ Guarantee Master Strike File (164 clusters)
+    2. **`SEP-001` to `SEP-100`**: September 2026 Complete Days 1–25 Dossier (100 clusters)
+    3. **`AUG-001` to `AUG-133`**: August 2026 Full Month CGB + PIB (133 clusters)
+    4. **`JUL-001` to `JUL-044`**: July 2026 Consolidated Master (44 clusters)
+    5. **`JUN-001` to `JUN-061`**: June 2026 Consolidated Master (61 clusters)
+    6. **`MAY-001` to `MAY-035`**: May 2026 PIB & Regulatory Master (35 clusters)
+    7. **`APR-001` to `APR-055`**: April 2026 Consolidated Master (55 clusters)
+    8. **`Q1-001` to `Q1-091`**: Q1 (Jan–Mar) Consolidated Master (91 clusters)
+    9. **`STA-001` to `STA-007`**: Static Banking & Regulatory Core Booster (7 clusters)
+- **Universal Synchronization Across Source Markdown & Web Hub**:
+  - **Markdown Sources**: Every headline across all 9 Markdown files tagged with `📰 [PREFIX-XXX] **Headline**` for instant searching and referencing in Markdown editors.
+  - **Web Hub DOM**: Each cluster assigned unique DOM ID `id="sep-001"`, `data-cluster-code="SEP-001"`, and an interactive visual badge `.gazette-code-badge`.
+  - **Deep Linking via URL Hash**: Direct URL addressability (e.g. `index.html#SEP-042` or `index.html#ms-015`). Automatically switches to the correct month tab, smoothly centers on the cluster, and fires a brief highlight pulse.
+  - **Reader Bar & Metric Jumps**: Stepper status displays active dispatch code (`SEP-001 • № 1 of 100`), and all high-frequency metric cards updated to target exact unique IDs.
+- **Invariant Parity**:
+  - Parity strictly maintained: `current_affairs_hub.html === index.html` (2,278,826 bytes).
+  - 0 checkboxes, 0 heading hashes, 81 sections preserved.
+
 
 ### 📰 Webpage Brand Icon & Favicon Installation (Option A: Indian Tiranga Edition)
 - **Official Brand Icon Deployment (`favicon.svg`)**:

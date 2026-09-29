@@ -10,7 +10,7 @@
 
 ## 1. 💰 BANKING, FINANCIAL INSTITUTIONS & RURAL FINANCE
 
-📰 **DFS Approves Viability Plan 2.0 for Regional Rural Banks (RRBs) Across 30 Performance Metrics**
+📰 [MAY-001] **DFS Approves Viability Plan 2.0 for Regional Rural Banks (RRBs) Across 30 Performance Metrics**
 
 - **Regulatory Framework & Mandate**: The Department of Financial Services (**DFS**), Ministry of Finance, formally approved the operationalization of **Viability Plan 2.0** for **Regional Rural Banks (RRBs)** across India.
 - **Tenure & Multi-Year Horizon**:
@@ -35,7 +35,7 @@
 
 ## 2. 🌾 AGRARIAN PRICING, CROP COMMODITIES & AGRI-VALUE CHAINS
 
-📰 **Cabinet Approves Kharif MSP 2026–27: Common Paddy at ₹2,441 & Moong Yields Record 61% Margin**
+📰 [MAY-002] **Cabinet Approves Kharif MSP 2026–27: Common Paddy at ₹2,441 & Moong Yields Record 61% Margin**
 
 - **Statutory Pricing Mandate**: The Cabinet Committee on Economic Affairs (**CCEA**), chaired by the Prime Minister, approved the **Minimum Support Prices (MSP)** for **14 mandated Kharif crops** for Marketing Season 2026–27.
 - **Key Mandated Crop Prices (per quintal)**:
@@ -70,7 +70,7 @@
 
 ---
 
-📰 **Draft Sugarcane (Control) Order 2026: Enhances Minimum Radial Separation to 25 Kilometres**
+📰 [MAY-003] **Draft Sugarcane (Control) Order 2026: Enhances Minimum Radial Separation to 25 Kilometres**
 
 - **Industrial Distance Expansion**: Ministry of Consumer Affairs, Food and Public Distribution released the draft **Sugarcane (Control) Amendment Order, 2026**, introducing revised spatial and licensing norms for sugar mills.
 - **Minimum Distance Norm**:
@@ -87,7 +87,7 @@
 
 ---
 
-📰 **MDoNER Launches ₹189.79 Crore Mizoram Ginger Mission & ₹175 Crore Nagaland Coffee Mission**
+📰 [MAY-004] **MDoNER Launches ₹189.79 Crore Mizoram Ginger Mission & ₹175 Crore Nagaland Coffee Mission**
 
 - **Northeast Agrarian Value Chain Push**: Union Minister for Development of North Eastern Region (MDoNER) Jyotiraditya Scindia launched two targeted agricultural missions to transform specialty commercial crops in the Northeast into export engines:
 - **Mizoram Ginger Mission (₹189.79 Crore Outlay)**:
@@ -110,7 +110,7 @@
 
 ## 3. ⚖️ CONSTITUTIONAL REFORMS, JUDICIAL TECH & PUBLIC POLICY
 
-📰 **Constitution (131st Amendment) Bill, 2026: Lok Sabha Strength Proposed to Expand to 850 Members**
+📰 [MAY-005] **Constitution (131st Amendment) Bill, 2026: Lok Sabha Strength Proposed to Expand to 850 Members**
 
 - **Legislative Restructuring**: The Union Government introduced **The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026**, initiating historic constitutional changes to the composition of the House of the People (Lok Sabha).
 - **Substantive Increase in House Strength**:
@@ -134,7 +134,7 @@
 
 ---
 
-📰 **Supreme Court Unveils 'One Case One Data' Unified Registry & 'Su Sahay' AI Chatbot**
+📰 [MAY-006] **Supreme Court Unveils 'One Case One Data' Unified Registry & 'Su Sahay' AI Chatbot**
 
 - **Judicial Public Infrastructure**: Chief Justice of India (**CJI**) announced two landmark digital justice innovations engineered by the **National Informatics Centre (NIC)** to unify the Indian judiciary.
 - **'One Case One Data' Interconnected Judicial Database**:
@@ -154,7 +154,7 @@
 
 ---
 
-📰 **Transgender Rights Amendment Bill, 2026: Mandates Statutory Medical Board Certification**
+📰 [MAY-007] **Transgender Rights Amendment Bill, 2026: Mandates Statutory Medical Board Certification**
 
 - **Legislative Amendment**: Parliament introduced the **Transgender Persons (Protection of Rights) Amendment Bill, 2026**, revising key procedural provisions of the parent *Transgender Persons (Protection of Rights) Act, 2019*.
 - **Paradigm Shift in Identity Verification**:
@@ -171,7 +171,7 @@
 
 ---
 
-📰 **MSJE Launches 'JEEVAN' Mobile Application & 'SHATAYU' Geriatric Caregiver Dashboard**
+📰 [MAY-008] **MSJE Launches 'JEEVAN' Mobile Application & 'SHATAYU' Geriatric Caregiver Dashboard**
 
 - **Geriatric Welfare Ecosystem**: Union Minister Dr. Virendra Kumar (Ministry of Social Justice and Empowerment – **MSJE**) launched two synchronized digital welfare portals dedicated to senior citizens:
 - **'JEEVAN' Mobile Application**:
@@ -193,7 +193,7 @@
 
 ## 4. 🌐 INTERNATIONAL TRADE, DISASTER WARNINGS & HEALTH MISSIONS
 
-📰 **India-New Zealand Free Trade Agreement: 100% Tariff-Free Access & \$20 Billion Investment Pledge**
+📰 [MAY-009] **India-New Zealand Free Trade Agreement: 100% Tariff-Free Access & \$20 Billion Investment Pledge**
 
 - **Bilateral Trade Architecture**: India and New Zealand concluded negotiations on a comprehensive **Free Trade Agreement (FTA)** / Economic Partnership, creating a deep economic corridor in the Pacific.
 - **Unprecedented Market Access for India**:
@@ -218,7 +218,7 @@
 
 ---
 
-📰 **Panchayat Advancement Index (PAI 1.0) & Telecommunications Cell Broadcast Emergency Warning System**
+📰 [MAY-010] **Panchayat Advancement Index (PAI 1.0) & Telecommunications Cell Broadcast Emergency Warning System**
 
 - **Rural Governance Accounting (PAI 1.0)**:
   - Ministry of Panchayati Raj (**MoPR**, Union Minister Rajiv Ranjan Singh / Lalan Singh) published the inaugural **Panchayat Advancement Index (PAI 1.0)** based on FY 2022–23 baseline data.
@@ -238,7 +238,7 @@
 
 ---
 
-📰 **MoHFW Upgrades RBSK 2.0 with Child Digital Health Cards Following 160.82 Crore Screenings**
+📰 [MAY-011] **MoHFW Upgrades RBSK 2.0 with Child Digital Health Cards Following 160.82 Crore Screenings**
 
 - **Pediatric Healthcare Modernization**: Ministry of Health and Family Welfare (**MoHFW**) rolled out **Rashtriya Bal Swasthya Karyakram 2.0 (RBSK 2.0)** to modernize child health screening and early intervention nationwide.
 - **Decadal Operational Milestone (RBSK 1.0)**:
@@ -260,7 +260,7 @@
 
 ## 5. 🏛️ RBI REGULATORY DIRECTIONS, CIRCULARS & SUPERVISION (MAY 2026)
 
-📰 **RBI Deregulates FinTech Cross-Border Outward Remittances: Removes Prior Approval Mandate**
+📰 [MAY-012] **RBI Deregulates FinTech Cross-Border Outward Remittances: Removes Prior Approval Mandate**
 
 - **Framework Liberalisation**: Reserve Bank of India (**RBI**) discontinued the mandate requiring Authorised Dealer Category-I (**AD Cat-I**) banks to obtain prior approval from the central bank before entering into tie-up arrangements with non-bank entities (including FinTechs) for outward cross-border remittances.
 - **Applicability & Scope**:
@@ -282,7 +282,7 @@
 
 ---
 
-📰 **I4C & RBI Innovation Hub (RBIH) Ink Strategic MoU to Deploy MuleHunter.ai™ Against Cyber Frauds**
+📰 [MAY-013] **I4C & RBI Innovation Hub (RBIH) Ink Strategic MoU to Deploy MuleHunter.ai™ Against Cyber Frauds**
 
 - **Inter-Agency Institutional Accord**: The **Indian Cyber Crime Coordination Centre (I4C)** under the Ministry of Home Affairs (**MHA**, established in 2018) signed a landmark Memorandum of Understanding (**MoU**) with the **Reserve Bank Innovation Hub (RBIH)**.
 - **Technological Weapon — MuleHunter.ai™**:
@@ -303,7 +303,7 @@
 
 ---
 
-📰 **RBI Revises Investment Fluctuation Reserve (IFR) Norms: Discontinued for Commercial Banks, Retained for UCBs & RRBs**
+📰 [MAY-014] **RBI Revises Investment Fluctuation Reserve (IFR) Norms: Discontinued for Commercial Banks, Retained for UCBs & RRBs**
 
 - **Major Capital & Prudential Shift**: Reserve Bank of India issued final amendment directions revising the regulatory architecture for **Investment Fluctuation Reserve (IFR)**, effective **May 18, 2026**.
 - **Commercial Banks (CBs) & Foreign Banks (FBs)**:
@@ -325,7 +325,7 @@
 
 ---
 
-📰 **RBI Discussion Paper on Digital Payment Safety: 1-Hour Lagged Credit, Kill Switch & ₹25 Lakh Annual Cap**
+📰 [MAY-015] **RBI Discussion Paper on Digital Payment Safety: 1-Hour Lagged Credit, Kill Switch & ₹25 Lakh Annual Cap**
 
 - **Combating Authorized Push Payment (APP) Frauds**: RBI released a comprehensive Discussion Paper outlining high-friction security interventions to protect retail depositors against social engineering, digital arrest, and APP cyber frauds (which inflicted ₹22,930 crore losses in 2025).
 - **1-Hour Lagged Credit on High-Value UPI/IMPS**:
@@ -350,7 +350,7 @@
 
 ---
 
-📰 **RBI Rationalises Disaster Relief Loan Restructuring: Suo Motu Automatic Restructuring & 135-Day Opt-Out**
+📰 [MAY-016] **RBI Rationalises Disaster Relief Loan Restructuring: Suo Motu Automatic Restructuring & 135-Day Opt-Out**
 
 - **Framework Notification**: Reserve Bank of India issued revised directions empowering commercial banks and non-banking lenders to deliver immediate credit relief to borrowers struck by natural calamities.
 - **Automatic Relief & Suo Motu Restructuring**:
@@ -374,7 +374,7 @@
 
 ---
 
-📰 **RBI Mandates Master Direction on Expected Credit Loss (ECL) Framework Effective April 1, 2027**
+📰 [MAY-017] **RBI Mandates Master Direction on Expected Credit Loss (ECL) Framework Effective April 1, 2027**
 
 - **Historic Shift in Credit Provisioning**: RBI formally issued the comprehensive **Master Direction on Expected Credit Loss (ECL) Approach for Bank Loans**, superseding the legacy 40-year-old 'Incurred Loss' provisioning model, effective **April 1, 2027**.
 - **Three-Stage Asset Classification & Provisioning Model**:
@@ -406,7 +406,7 @@
 
 ---
 
-📰 **RBI Mandates Global Reporting of All Rupee OTC Foreign Exchange Derivatives to CCIL**
+📰 [MAY-018] **RBI Mandates Global Reporting of All Rupee OTC Foreign Exchange Derivatives to CCIL**
 
 - **FX Derivatives Transparency Overhaul**: Reserve Bank of India instituted a sweeping reporting reform mandating Authorised Dealer Category-I (**AD Cat-I**) banks to report all **Over-the-Counter (OTC) Foreign Exchange (FX) Derivative Contracts involving the Indian Rupee (INR)**.
 - **Reporting Repository & Global Extraterritoriality**:
@@ -428,7 +428,7 @@
 
 ---
 
-📰 **RBI Regulatory Governance: UCB Director 3-Year Cooling-Off, Q-SAFE Quantum Committee & Key Appointments**
+📰 [MAY-019] **RBI Regulatory Governance: UCB Director 3-Year Cooling-Off, Q-SAFE Quantum Committee & Key Appointments**
 
 - **Mandatory 3-Year Cooling-Off for Co-operative Bank Directors**:
   - Following the Banking Laws (Amendment) Act, 2025 (which increased the maximum continuous tenure of directors from 8 years to **10 years**), RBI issued final amendment directions for **Urban Co-operative Banks (UCBs)** and **Rural Co-operative Banks (RCBs / StCBs / DCCBs)**.
@@ -456,7 +456,7 @@
 
 ## 6. 📈 CAPITAL MARKETS, SEBI & PENSIONS REGULATION (MAY 2026)
 
-📰 **SEBI Introduces 'GARUDA' Green-Channel Fast-Track Mechanism for Alternative Investment Funds (AIFs)**
+📰 [MAY-020] **SEBI Introduces 'GARUDA' Green-Channel Fast-Track Mechanism for Alternative Investment Funds (AIFs)**
 
 - **Reforming Private Capital Formation**: The Securities and Exchange Board of India (**SEBI**) introduced the **GARUDA Mechanism** (*Green-Channel: Alternative Investment Funds Rollout Upon Document Acknowledgement*) to eliminate regulatory delays in launching private investment funds.
 - **Radical Reduction in Approval Timelines**:
@@ -476,7 +476,7 @@
 
 ---
 
-📰 **PFRDA Rolls Out Retirement Income Schemes (RIS) with Systematic Payout (SPR) and Unit Redemption (SUR)**
+📰 [MAY-021] **PFRDA Rolls Out Retirement Income Schemes (RIS) with Systematic Payout (SPR) and Unit Redemption (SUR)**
 
 - **Post-Retirement Pension Innovation**: The Pension Fund Regulatory and Development Authority (**PFRDA**, established under PFRDA Act, 2013; Chairman: **Sivasubramanian Ramann**) launched **Retirement Income Schemes (RIS)** under the National Pension System (**NPS**).
 - **Addressing Superannuation Inflexibility**:
@@ -505,7 +505,7 @@
 
 ---
 
-📰 **SEBI Operationalises PaRRVA Framework & Launches Mission Jagrook at 38th Foundation Day**
+📰 [MAY-022] **SEBI Operationalises PaRRVA Framework & Launches Mission Jagrook at 38th Foundation Day**
 
 - **Past Risk & Return Verification Agency (PaRRVA)**:
   - SEBI fully operationalized the **PaRRVA Framework** as India's first independent institutional verification mechanism to audit, validate, and certify past performance claims made by registered investment advisers, research analysts, and algorithmic trading platforms in advertisements.
@@ -535,7 +535,7 @@
 
 ## 7. 🏭 INDUSTRIAL MISSIONS, CLEAN ENERGY & LOGISTICS (MAY 2026)
 
-📰 **Cabinet Approves ₹37,500 Crore Scheme for Promotion of Coal/Lignite Gasification Projects**
+📰 [MAY-023] **Cabinet Approves ₹37,500 Crore Scheme for Promotion of Coal/Lignite Gasification Projects**
 
 - **Strategic Objective & Sovereign Push**: The Union Cabinet, chaired by the Prime Minister, approved the landmark **Scheme for Promotion of Coal/Lignite Gasification Projects** with a total financial outlay of **₹37,500 crore**.
 - **Foundational Alignment**:
@@ -559,7 +559,7 @@
 
 ---
 
-📰 **MoPSW Inks Tripartite MoU for India's First Mega Greenfield Shipyard at Thoothukudi, Tamil Nadu**
+📰 [MAY-024] **MoPSW Inks Tripartite MoU for India's First Mega Greenfield Shipyard at Thoothukudi, Tamil Nadu**
 
 - **Maritime Infrastructure Leap**: The Ministry of Ports, Shipping and Waterways (**MoPSW**, Union Minister Sarbananda Sonowal) signed a historic tripartite Memorandum of Understanding (**MoU**) to establish **India's first mega greenfield shipyard**.
 - **Project Location & Joint SPV Structure**:
@@ -580,7 +580,7 @@
 
 ---
 
-📰 **DPIIT Releases LEADS 2025 Report & LEAPS Awards: Tamil Nadu, UP & Gujarat Emerge as Top Performers**
+📰 [MAY-025] **DPIIT Releases LEADS 2025 Report & LEAPS Awards: Tamil Nadu, UP & Gujarat Emerge as Top Performers**
 
 - **National Logistics Assessment (7th Edition)**: Union Minister of Commerce and Industry Piyush Goyal released the 7th edition of the **Logistics Ease Across Different States (LEADS 2025)** report and conferred the Logistics Excellence, Advancement and Performance Shield (**LEAPS Awards 2025**).
 - **Alignment with Global & Domestic Frameworks**:
@@ -608,7 +608,7 @@
 
 ---
 
-📰 **Ministry of Heavy Industries Launches 'Unified Bharat e-Charge' (UBC) & ₹10,900 Crore PM E-DRIVE Deployments**
+📰 [MAY-026] **Ministry of Heavy Industries Launches 'Unified Bharat e-Charge' (UBC) & ₹10,900 Crore PM E-DRIVE Deployments**
 
 - **Pan-India EV Interoperability**: Union Minister for Heavy Industries H. D. Kumaraswamy unveiled the **Unified Bharat e-Charge (UBC) Platform** at the National Conference on Enabling Nationwide EV Charging Infrastructure in Bengaluru.
 - **Key Capabilities of UBC Platform**:
@@ -631,7 +631,7 @@
 
 ## 8. 🌾 RURAL EMPLOYMENT, SOCIO-ECONOMIC WELFARE & TELECOM INFRASTRUCTURE (MAY 2026)
 
-📰 **Rural Employment Guarantee (VB-G RAM G) Act, 2025 Enforced: 125 Days Guaranteed Work & ₹95,692 Cr Outlay**
+📰 [MAY-027] **Rural Employment Guarantee (VB-G RAM G) Act, 2025 Enforced: 125 Days Guaranteed Work & ₹95,692 Cr Outlay**
 
 - **Historic Overhaul of Rural Employment**: The Ministry of Rural Development (**MoRD**) notified the nationwide enforcement of the **Viksit Bharat – Guarantee for Rozgar and Ajeevika Mission (Gramin) Act, 2025 [VB-G RAM G Act]**, effective **July 1, 2026**.
 - **Repeal & Transition of MGNREGA**:
@@ -657,7 +657,7 @@
 
 ---
 
-📰 **Department of Telecommunications Expands Digital Bharat Nidhi (DBN) for BharatNet Phase III**
+📰 [MAY-028] **Department of Telecommunications Expands Digital Bharat Nidhi (DBN) for BharatNet Phase III**
 
 - **Universal Rural Telecom Connectivity**: The Department of Telecommunications (**DoT**), Ministry of Communications, entered into an implementation agreement with the Government of Andhra Pradesh to roll out the **Amended BharatNet Programme (ABP / BharatNet Phase III)** funded through **Digital Bharat Nidhi (DBN)**.
 - **Evolution of Digital Bharat Nidhi (DBN)**:
@@ -678,7 +678,7 @@
 
 ---
 
-📰 **DPIIT Notifies Operational Guidelines for ₹33,668 Crore 'BHAVYA' Industrial Park Scheme**
+📰 [MAY-029] **DPIIT Notifies Operational Guidelines for ₹33,668 Crore 'BHAVYA' Industrial Park Scheme**
 
 - **World-Class Industrial Infrastructure**: The Department for Promotion of Industry and Internal Trade (**DPIIT**), Ministry of Commerce and Industry, issued the operational guidelines for the **BHAVYA Scheme** (*Bharat Audyogik Vikas Yojana*).
 - **Financial Outlay & Program Scope**:
@@ -702,7 +702,7 @@
 
 ---
 
-📰 **PM Modi Inaugurates Somnath Amrut Mahotsav & Launches ₹75 Commemorative Coin in Gujarat**
+📰 [MAY-030] **PM Modi Inaugurates Somnath Amrut Mahotsav & Launches ₹75 Commemorative Coin in Gujarat**
 
 - **Civilisational Landmark**: Prime Minister Narendra Modi addressed the **Somnath Amrut Mahotsav** at Prabhas Patan, Gir Somnath district, Gujarat, commemorating the **75th anniversary of the reconstruction of the sacred Somnath Temple** (rebuilt under Sardar Vallabhbhai Patel and consecrated in 1951 by President Dr. Rajendra Prasad).
 - **₹75 Commemorative Coin & Postal Stamp**:
@@ -723,7 +723,7 @@
 
 ---
 
-📰 **Agriculture Ministry Releases 3rd Advance Estimates: Record 336.56 MT Foodgrain Production**
+📰 [MAY-031] **Agriculture Ministry Releases 3rd Advance Estimates: Record 336.56 MT Foodgrain Production**
 
 - **Record Agrarian Output**: Union Minister for Agriculture and Farmers Welfare Shivraj Singh Chouhan released the **Third Advance Estimates of Major Agricultural Crops for Agricultural Year 2025–26**.
 - **Historic Aggregate Foodgrain Production**:
@@ -747,7 +747,7 @@
 
 ## 9. 🛰️ SCIENCE, CYBER DEFENSE & CRITICAL MINERAL STRATEGIES (MAY 2026)
 
-📰 **Mines Ministry Approves 58 Companies Under ₹1,500 Crore Critical Mineral Recycling Incentive Scheme**
+📰 [MAY-032] **Mines Ministry Approves 58 Companies Under ₹1,500 Crore Critical Mineral Recycling Incentive Scheme**
 
 - **Supply Chain Independence**: The Ministry of Mines (**MoM**) approved **58 domestic companies** under the newly operationalized **Critical Mineral Recycling Incentive Scheme**.
 - **Outlay, Duration & Mission Alignment**:
@@ -772,7 +772,7 @@
 
 ---
 
-📰 **MoF Notifies New Tax Rules 2026: Significant Economic Presence (SEP) & Digital Audit Trails**
+📰 [MAY-033] **MoF Notifies New Tax Rules 2026: Significant Economic Presence (SEP) & Digital Audit Trails**
 
 - **Direct Tax Modernisation**: The Ministry of Finance (**MoF** / Central Board of Direct Taxes, CBDT) notified the **New Income Tax Rules, 2026**, replacing obsolete procedural frameworks following the passage of the Direct Tax Code reforms.
 - **Strengthened Significant Economic Presence (SEP) Thresholds**:
@@ -794,7 +794,7 @@
 
 ---
 
-📰 **MoPR Inaugurates Panchayat Advancement Index (PAI 2.0): Tripura & Kerala Emerge as Top Performers**
+📰 [MAY-034] **MoPR Inaugurates Panchayat Advancement Index (PAI 2.0): Tripura & Kerala Emerge as Top Performers**
 
 - **Second Iteration of Localised SDG Measurement**: The Ministry of Panchayati Raj (**MoPR**, Union Minister Rajiv Ranjan Singh / Lalan Singh) launched the **Panchayat Advancement Index (PAI 2.0)** assessing grassroots performance for **FY 2023–24 (FY24)**.
 - **Streamlined Evaluative Framework**:
@@ -818,7 +818,7 @@
 
 ---
 
-📰 **PM Modi Inaugurates India's First PM MITRA Textile Mega Park at Warangal, Telangana**
+📰 [MAY-035] **PM Modi Inaugurates India's First PM MITRA Textile Mega Park at Warangal, Telangana**
 
 - **Textile Manufacturing Hub**: Prime Minister Narendra Modi inaugurated **India's first fully functional PM MITRA Mega Textile Park** located at **Warangal, Telangana**.
 - **Pradhan Mantri Mega Integrated Textile Region and Apparel (PM MITRA) Scheme**:

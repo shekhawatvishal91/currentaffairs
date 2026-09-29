@@ -10,7 +10,7 @@
 
 ## 1. 💰 ESI, FINANCE & BUSINESS NEWS
 
-📰 **India's Economy — Size, Growth & the Feb 1 Budget** *(merged: Jan's pre-Budget context + Feb's actual Budget content)*
+📰 [Q1-001] **India's Economy — Size, Growth & the Feb 1 Budget** *(merged: Jan's pre-Budget context + Feb's actual Budget content)*
 
 🪝 Hook — India overtook Japan to become the world's 4th-largest economy in January, and a month later Nirmala Sitharaman used her record 9th-consecutive Budget to lock in a falling fiscal deficit and a ₹1,000 crore semiconductor push.
 
@@ -35,7 +35,7 @@
 
 ---
 
-📰 **India's Fiscal Deficit Tracking — interim data (Apr-Nov & Apr-Dec 2025)**
+📰 [Q1-002] **India's Fiscal Deficit Tracking — interim data (Apr-Nov & Apr-Dec 2025)**
 
 - **8-Month Fiscal Deficit (Apr–Nov 2025)**: India's fiscal deficit reached **₹9.76 lakh crore**, representing **62.3%** of the full-year Budget Estimate (widened from 52.5% during the corresponding period last year), supported by an RBI dividend transfer to the Centre of ₹2.69 lakh crore.
 - **9-Month Fiscal Turnaround (Apr–Dec 2025)**: The cumulative deficit narrowed sharply to **₹8.55 lakh crore**, or **54.5%** of the annual estimate, aided by an extraordinary December fiscal surplus of **₹1.21 trillion** generated through quarterly corporate advance-tax inflows.
@@ -45,7 +45,7 @@
 
 ---
 
-📰 **India Semiconductor Mission (ISM) — Progress & Flagship Project** *(Feb + March, merged — same underlying data reported in both months)*
+📰 [Q1-003] **India Semiconductor Mission (ISM) — Progress & Flagship Project** *(Feb + March, merged — same underlying data reported in both months)*
 
 - **ISM 2.0 Equipment & Materials Push**: Launched in Union Budget 2026-27 with an initial outlay of **₹1,000 crore for FY27**, directing strategic subsidies toward semiconductor fabrication equipment, specialty gases, and pure chemical supply chains.
 - **ISM 1.0 Cumulative Milestones**: Launched in December 2021 with a ₹76,000 crore budget; by December 2025, approved **10 major manufacturing and packaging projects across 6 states** (Gujarat, Assam, Uttar Pradesh, Odisha, Punjab, Andhra Pradesh), mobilizing **₹1.60 lakh crore in cumulative investments**.
@@ -55,7 +55,7 @@
 
 ---
 
-📰 **Startup India — Redefinition to Include Deep Tech** *(Feb)*
+📰 [Q1-004] **Startup India — Redefinition to Include Deep Tech** *(Feb)*
 
 - **Regulatory Framework Modernisation**: Department for Promotion of Industry and Internal Trade (DPIIT) amended startup recognition norms, establishing distinct statutory criteria for conventional vs deep-technology ventures.
 - **Standard Startup Eligibility Limits**: A business entity is recognized as a standard startup for up to **10 years** from the date of incorporation, provided annual turnover does not exceed **₹200 crore**.
@@ -66,7 +66,7 @@
 
 ---
 
-📰 **SBI Overtakes TCS — India's 4th Most Valuable Company** *(Feb)*
+📰 [Q1-005] **SBI Overtakes TCS — India's 4th Most Valuable Company** *(Feb)*
 
 - **Milestone Market Capitalisation Shift**: State Bank of India's (SBI) market valuation surpassed **₹10.9 lakh crore** (+11% rally across 3 sessions), displacing Tata Consultancy Services (TCS) to become India's 4th most valuable listed corporate entity.
 - **India's Top Market-Cap Hierarchy**: The revised top-four hierarchy stands as: 1st **Reliance Industries** (~₹19.6–19.8 lakh Cr) → 2nd **HDFC Bank** (~₹14.2–14.3 lakh Cr) → 3rd **Bharti Airtel** (~₹11.5–12.1 lakh Cr) → 4th **State Bank of India** (₹10.9 lakh Cr).
@@ -76,7 +76,7 @@
 
 ---
 
-📰 **India's Current Account Deficit & Trade Data** *(March)*
+📰 [Q1-006] **India's Current Account Deficit & Trade Data** *(March)*
 
 - **Quarterly Current Account Dynamics**: India's Current Account Deficit (CAD) widened to **\$13.2 billion (1.3% of GDP)** in Q3 FY25 (compared to \$11.3 billion / 1.1% of GDP in Q2 FY25), driven by merchandise trade gaps.
 - **Cumulative 9-Month Trajectory**: For April–December 2025, cumulative CAD remained contained at **\$30.1 billion (1.0% of GDP)**, supported by robust software services exports and resilient private remittances.
@@ -87,7 +87,7 @@
 
 ---
 
-📰 **Index of Industrial Production (IIP) — Quick Estimate, January 2026** *(March)*
+📰 [Q1-007] **Index of Industrial Production (IIP) — Quick Estimate, January 2026** *(March)*
 
 - **Headline Industrial Output Pace**: India's Index of Industrial Production (IIP) grew by **4.8%** in January 2026 (moderating from 7.8% in December 2025), with the index standing at **169.4** (up from 161.6).
 - **Sectoral Industrial Performance**: Across the three broad economic sectors, **Electricity** led growth at **5.1%**, followed by **Manufacturing** at **4.8%**, and **Mining** at **4.3%**.
@@ -97,7 +97,7 @@
 
 ---
 
-📰 **Retail Inflation Target Retained (FY27–FY31)** *(March)*
+📰 [Q1-008] **Retail Inflation Target Retained (FY27–FY31)** *(March)*
 
 - **Statutory 5-Year Target Reaffirmation**: Government of India formally retained the statutory retail inflation target of **4.0% with a tolerance band of +/- 2.0% (2.0% to 6.0%)** for the five-year cycle from **April 1, 2026 to March 31, 2031**.
 - **Statutory Authority**: Notified under **Section 45-ZA of the Reserve Bank of India Act, 1934**, continuing the Flexible Inflation Targeting (FIT) regime established in 2016.
@@ -107,7 +107,7 @@
 
 ---
 
-📰 **Government Borrowing Programme — H1 FY27** *(March)*
+📰 [Q1-009] **Government Borrowing Programme — H1 FY27** *(March)*
 
 - **Gross Borrowing Target & Switch Adjustments**: Gross Market Borrowing for BE 2026-27 set at **₹17.20 lakh crore**, trimmed to an effective net market borrowing of **₹16.09 lakh crore** through planned Government Security (G-Sec) switches and buybacks.
 - **First-Half Borrowing Frontloading**: The Centre will raise **₹8.20 lakh crore (51% of total gross borrowing)** in H1 FY27 via dated securities conducted across **26 weekly auctions**, with benchmark **10-year bonds holding the largest share at 29.0%**.
@@ -117,7 +117,7 @@
 
 ---
 
-📰 **PLI Scheme — Incentives Disbursed** *(March)*
+📰 [Q1-010] **PLI Scheme — Incentives Disbursed** *(March)*
 
 - **Sectoral Financial Disbursements**: The Centre disbursed **₹15,554 crore** in performance incentives for large-scale Electronics manufacturing and **₹2,377.56 crore** for the Automotive and auto-components sector under the Production Linked Incentive (PLI) scheme.
 - **Private Investment & Turnover Scale**: Across all active segments, the PLI framework has mobilized **over ₹2.16 lakh crore in realized private capital investments**, driving cumulative incremental production and sales past **₹20.41 lakh crore**.
@@ -127,7 +127,7 @@
 
 ---
 
-📰 **NITI Aayog — Fiscal Health Index (FHI) 2026, 2nd Edition** *(March)*
+📰 [Q1-011] **NITI Aayog — Fiscal Health Index (FHI) 2026, 2nd Edition** *(March)*
 
 - **Top Ranking State**: In the 2nd Edition of NITI Aayog's Fiscal Health Index (FHI) 2026, **Odisha clinched the 1st rank as the top 'Achiever' state with a composite score of 73.1**, followed by Goa, Jharkhand, Gujarat, and Maharashtra.
 - **Five Diagnostic Evaluation Pillars**: State public finances are assessed across five distinct criteria: (1) Quality of Expenditure, (2) Revenue Mobilisation, (3) Fiscal Prudence, (4) Debt Index, and (5) Debt Sustainability.
@@ -139,7 +139,7 @@
 
 ## 2. 🏛️ REGULATORY BODIES NEWS
 
-📰 **RBI Monetary Policy — Feb 2026 Report + Aug 2026 Update** *(Feb, with live status update)*
+📰 [Q1-012] **RBI Monetary Policy — Feb 2026 Report + Aug 2026 Update** *(Feb, with live status update)*
 
 - **Benchmark Policy Rates Status**: Reserve Bank of India maintained the **Policy Repo Rate at 5.25%** with a **neutral monetary stance**, marking the **4th consecutive rate pause** through the August 2026 Monetary Policy Committee (MPC) meeting (next review scheduled for Oct 5–7, 2026).
 - **Standing Facility Rate Structure**: Standing Deposit Facility (SDF) remains at **5.00%**, Marginal Standing Facility (MSF) and Bank Rate stand at **5.50%**, Cash Reserve Ratio (CRR) holds at **3.0%**, and Statutory Liquidity Ratio (SLR) holds at **18.0%**.
@@ -150,7 +150,7 @@
 
 ---
 
-📰 **RBI (Responsible Business Conduct) Third Amendment Directions, 2026 — Full Lifecycle** *(Feb draft origin → March draft detail → confirmed final status, merged as single regulatory instrument)*
+📰 [Q1-013] **RBI (Responsible Business Conduct) Third Amendment Directions, 2026 — Full Lifecycle** *(Feb draft origin → March draft detail → confirmed final status, merged as single regulatory instrument)*
 
 🪝 Hook — One RBI rulebook, three sightings across two months: first as a mis-selling reform, then as a digital-fraud compensation draft, and now — confirmed via live search — a finalised rule with a further-delayed rollout.
 
@@ -163,7 +163,7 @@
 
 ---
 
-📰 **RBI — Acquisition Financing Norms** *(Feb original reform → March deferral, merged as 🔄 UPDATE)*
+📰 [Q1-014] **RBI — Acquisition Financing Norms** *(Feb original reform → March deferral, merged as 🔄 UPDATE)*
 
 - **Liberalised Prudential Exposure Norms (Feb Reform)**: RBI raised the bank exposure ceiling for acquisition financing from the proposed 10% to **20% of Tier-1 capital**; permitted commercial banks to fund acquisitions of unlisted target companies (provided target has a net worth ≥₹500 crore, 3-year track record of profitability, and minimum BBB- credit rating).
 - **Financing Share & Security Margins**: Permissible bank financing share increased to **75% of acquisition value** (from 70%), while retaining the debt-equity prudential ceiling at 3:1; raised lending against shares to ₹1 crore (from ₹20 lakh) and IPO financing to ₹1 lakh per borrower.
@@ -173,7 +173,7 @@
 
 ---
 
-📰 **Kisan Credit Card (KCC) — Revised Draft Norms** *(Feb)*
+📰 [Q1-015] **Kisan Credit Card (KCC) — Revised Draft Norms** *(Feb)*
 
 - **Extended Credit Facility Tenure**: Proposed extending standard Kisan Credit Card (KCC) facility tenure from 5 years to **6 years**, aligning credit availability with longer agricultural crop rotation and farm investment cycles.
 - **Collateral Waiver & Credit Standardization**: Waived mandatory collateral and margin requirements for farm loans up to **₹2 lakh per borrower**; standardised short-duration crop loan tenure at 12 months and long-duration crops at 18 months.
@@ -183,7 +183,7 @@
 
 ---
 
-📰 **Deposit Insurance — Risk-Based Premium (DICGC)** *(Feb)*
+📰 [Q1-016] **Deposit Insurance — Risk-Based Premium (DICGC)** *(Feb)*
 
 - **Transition to Risk-Sensitive Pricing**: Deposit Insurance and Credit Guarantee Corporation (DICGC) announced a structural shift from a uniform flat premium of 12 paise per ₹100 of deposits to a **risk-based premium model effective April 1, 2026**.
 - **Graded Premium Slabs**: Insured commercial and cooperative banks are categorized across four supervisory risk buckets: **Category A (safest) pays 8 paise per ₹100**, progressing through Categories B and C, up to **Category D paying 12 paise per ₹100**.
@@ -193,7 +193,7 @@
 
 ---
 
-📰 **RBI — REIT Lending Draft Guidelines** *(Feb)*
+📰 [Q1-017] **RBI — REIT Lending Draft Guidelines** *(Feb)*
 
 - **Bank Financing for Real Estate Investment Trusts**: Permitted commercial banks to extend credit facilities to Real Estate Investment Trusts (REITs), establishing a dedicated regulatory lending avenue for institutional real estate assets.
 - **Prudential Exposure Caps**: A bank's total exposure to a single REIT is capped at **10% of the bank's eligible capital base**; the aggregate banking system exposure across all lenders to an individual REIT cannot exceed **49% of the REIT's total asset value**.
@@ -203,7 +203,7 @@
 
 ---
 
-📰 **RBI — January-February 2026, consolidated regulatory sweep** *(merged: same regulator across both months, grouped by theme rather than by month)*
+📰 [Q1-018] **RBI — January-February 2026, consolidated regulatory sweep** *(merged: same regulator across both months, grouped by theme rather than by month)*
 
 🪝 Hook — Across two months, RBI held the repo rate steady while quietly reshaping bank dividends, MSME lending, deposit insurance, acquisition financing, and even rolling out its first-ever 90-day repo — a genuinely dense two-month regulatory sweep from one institution.
 
@@ -221,7 +221,7 @@
 
 ---
 
-📰 **RBI — Other Regulatory Actions Cluster** *(Feb + March, merged)*
+📰 [Q1-019] **RBI — Other Regulatory Actions Cluster** *(Feb + March, merged)*
 
 - **Lead Bank Scheme Reform (1969)**: Published draft overhaul mandating a minimum Credit-Deposit (CD) ratio of **60% in rural and semi-urban districts**; mandated that districts exhibiting a CD ratio below 20% be categorized as 'special category districts' for accelerated credit monitoring.
 - **Capital Markets & Financial Derivatives Oversight**: Mandated Unique Trade Identifiers (**UTI**) for all Over-The-Counter (OTC) derivative transactions effective **January 1, 2027**; renewed the **RBI–Bank of Japan Bilateral Swap Arrangement (3rd Amendment)** holding the facility size constant at **\$75 billion**.
@@ -232,7 +232,7 @@
 
 ---
 
-📰 **SEBI Regulatory Changes** (January)
+📰 [Q1-020] **SEBI Regulatory Changes** (January)
 
 - **Mutual Fund Base Expense Ratio (BER)**: Notified **SEBI (Mutual Funds) Regulations, 2026** (effective April 1, 2026), bifurcating Total Expense Ratio (TER) and introducing performance-linked **Base Expense Ratio (BER)**; slashed stockbroker execution charges to a maximum of 6 basis points (bps) for cash equity and 2 bps for equity derivatives.
 - **Merchant Banker Net Worth Ramp-Up**: Enacted phased net worth escalation under Merchant Bankers Regulations (effective Jan 3, 2026), mandating Category-I merchant bankers raise minimum net worth to **₹50 crore by 2028**.
@@ -242,7 +242,7 @@
 
 ---
 
-📰 **SEBI — Tools & Appointments Cluster** *(Feb + March, merged)*
+📰 [Q1-021] **SEBI — Tools & Appointments Cluster** *(Feb + March, merged)*
 
 - **In-House AI Surveillance Architecture**: Deployed **"Sudarshan"**, SEBI's proprietary artificial intelligence surveillance engine that analyses audio, video, and text across social media platforms (takedown of 1,20,000+ fraudulent financial posts); works alongside **SEVA** (Virtual Assistant) and **R(AI)DAR** (Regulatory AI-Driven Advertisement Reviewer).
 - **Investor Protection App Verification**: Launched the **"Verified App Label Initiative"** in partnership with Google Play Store, conferring official verified badges to 600+ registered market intermediary applications to curb rogue APKs.
@@ -253,7 +253,7 @@
 
 ---
 
-📰 **100% FDI in Insurance — "Sabka Bima Sabki Raksha" Act** *(Feb)*
+📰 [Q1-022] **100% FDI in Insurance — "Sabka Bima Sabki Raksha" Act** *(Feb)*
 
 - **Statutory Enforcement & Core Reform**: Formally enacted into law on **February 5, 2026**, permitting **100% Foreign Direct Investment (FDI) under the automatic route** in the insurance sector (except Section 25 prohibiting common executive directorships).
 - **Historical FDI Progression**: Marks the culmination of India's insurance sector opening: **26% (original 2000 limit) → 49% (2015 amendment) → 74% (2021 amendment) → 100% (Feb 5, 2026)**.
@@ -264,7 +264,7 @@
 
 ---
 
-📰 **IRDAI — Ind AS Adoption for Insurers (Consultation Paper)** *(March)*
+📰 [Q1-023] **IRDAI — Ind AS Adoption for Insurers (Consultation Paper)** *(March)*
 
 - **Transition to International Accounting Standards**: Insurance Regulatory and Development Authority of India (IRDAI) released a consultation paper mandating the implementation of **Indian Accounting Standards (Ind AS)** across all domestic life, general, and health insurers effective **April 1, 2026**.
 - **Global Accounting Convergence**: Aligns domestic insurance financial disclosures directly with International Financial Reporting Standards (**IFRS**, issued by the International Accounting Standards Board / IASB), replacing legacy provisions under the Insurance Act, 1938.
@@ -274,7 +274,7 @@
 
 ---
 
-📰 **FATF — Grey List Update, Feb 2026 Plenary** *(March)*
+📰 [Q1-024] **FATF — Grey List Update, Feb 2026 Plenary** *(March)*
 
 - **Grey List Expansion (Increased Monitoring)**: Financial Action Task Force (FATF) added **Kuwait and Papua New Guinea** to its 'Jurisdictions under Increased Monitoring' (Grey List) during its February 2026 Paris plenary; no nations were removed, bringing the total Grey List count to **22 jurisdictions**.
 - **High-Risk Jurisdictions (Black List Unchanged)**: Retained the call for counter-measures against the three blacklisted jurisdictions: **North Korea (DPRK), Iran, and Myanmar** (standing unchanged).
@@ -286,7 +286,7 @@
 
 ## 3. 🏦 BANKING & INSURANCE NEWS
 
-📰 **UPI — Two-month growth trend (Dec 2025 → Jan 2026)** *(merged: sequential monthly data, not a duplicate)*
+📰 [Q1-025] **UPI — Two-month growth trend (Dec 2025 → Jan 2026)** *(merged: sequential monthly data, not a duplicate)*
 
 🪝 Hook — UPI crossed 21 billion monthly transactions for the first time in December, then kept climbing into January — nearly 700 million transactions a day, month after month.
 
@@ -299,7 +299,7 @@
 
 ---
 
-📰 **Bank & PSU Leadership Changes — January-February combined** *(merged cluster)*
+📰 [Q1-026] **Bank & PSU Leadership Changes — January-February combined** *(merged cluster)*
 
 - **Public Sector Banking Leadership**: Hardeep Singh Ahluwalia appointed interim MD & CEO of **Canara Bank** (succeeding K. Satyanarayana Raju); Vinay Muralidhar Tonse appointed MD & CEO of **Yes Bank** for 3 years from April 2026 (succeeds Prashant Kumar); R. Vijay Anandh appointed MD & CEO of **City Union Bank** for 3 years from May 2026 (succeeds N. Kamakodi).
 - **Private & Small Finance Bank Helm**: Sandeep Bakhshi granted a 3rd reappointment as MD & CEO of **ICICI Bank** (Oct 2026–Oct 2028); Sanjay Agarwal reappointed MD & CEO of **AU Small Finance Bank** for 3 years (AU SFB is the 1st SFB in a decade to win RBI in-principle approval to transition to a Universal Bank); founder Rajan Bajaj named MD & CEO of **Slice SFB**; Karthikeyan Manickam appointed Chairman of **ESAF SFB**; Arijit Basu appointed Chairman of **IndusInd Bank**.
@@ -310,7 +310,7 @@
 
 ---
 
-📰 **Bank/PSU Leadership Changes** *(Feb + March, merged)*
+📰 [Q1-027] **Bank/PSU Leadership Changes** *(Feb + March, merged)*
 
 - **Private Banking Top Appointments**: Vinay Muralidhar Tonse assumed leadership as MD & CEO of **Yes Bank** (3-year tenure, w.e.f. April 2026); R. Vijay Anandh took over as MD & CEO of **City Union Bank** (3-year tenure, w.e.f. May 1, 2026).
 - **Small Finance Bank Conversions**: Sanjay Agarwal secured RBI reappointment as MD & CEO of **AU Small Finance Bank**, steering its historic conversion into a full-fledged universal commercial bank; Rajan Bajaj designated MD & CEO of merged entity **Slice Small Finance Bank**.
@@ -320,7 +320,7 @@
 
 ---
 
-📰 **NMDC — Navratna CPSE Milestone** *(March)*
+📰 [Q1-028] **NMDC — Navratna CPSE Milestone** *(March)*
 
 - **Record Mining Output**: State-owned National Mineral Development Corporation (NMDC) became the **first mining enterprise in Indian history to cross 50 Million Tonnes (MT) of iron ore production** in a single financial year (surpassing previous record of 45.2 MT in FY24).
 - **Operational Profile & Corporate Pedigree**: Incorporated in **1958** under the Ministry of Steel; operates India's largest mechanized iron ore mines in Bailadila (Chhattisgarh) and Donimalai (Karnataka); categorized as a **Schedule 'A' Navratna CPSE**.
@@ -330,7 +330,7 @@
 
 ---
 
-📰 **Digital Payments & Fintech Launches — combined cluster**
+📰 [Q1-029] **Digital Payments & Fintech Launches — combined cluster**
 
 - **Pioneering Repo-Linked Savings & CBDC**: Fintech unicorn **Slice** rolled out India's 1st digital savings bank account linked 100% to the prevailing RBI repo rate, integrated with credit card transactions on UPI; **HDFC Bank** integrated RBI's Digital Rupee (e₹/CBDC) into its 'SmartGateway' merchant processing infrastructure at zero merchant fee.
 - **Biometric Security & National Plugins**: **PhonePe** introduced biometric transaction authorization (fingerprint and Face ID) for UPI transfers capped at ₹5,000 per transaction; **Canara Bank** became the 1st commercial bank to deploy NPCI's Non-Bank Systemic Launcher (NBSL) plugin model via 'Canara ai1Pe'.
@@ -341,7 +341,7 @@
 
 ---
 
-📰 **MSME & Priority-Sector Credit — combined cluster**
+📰 [Q1-030] **MSME & Priority-Sector Credit — combined cluster**
 
 - **Digital Underwriting Scale**: Public Sector Banks (PSBs) sanctioned **3.96 lakh digital MSME credit facilities totaling ₹52,300 crore** (Apr–Dec 2025) utilizing the newly mandated automated Credit Assessment Model.
 - **Credit Guarantee Fund Expansion**: Ministry of MSME enhanced the maximum credit guarantee cover for Micro and Small Enterprises under Credit Guarantee Scheme (CGS) from ₹5 crore to **₹10 crore per borrower** (w.e.f. April 1, 2025).
@@ -352,7 +352,7 @@
 
 ---
 
-📰 **Yantra India Ltd (YIL) — Miniratna Category-I Status** *(Feb)*
+📰 [Q1-031] **Yantra India Ltd (YIL) — Miniratna Category-I Status** *(Feb)*
 
 - **Financial Autonomy Elevation**: Defence Public Sector Undertaking (DPSU) **Yantra India Ltd (YIL)** was granted prestigious **Miniratna Category-I CPSE status**, empowering its Board of Directors to approve capital expenditure projects up to **₹500 crore** without prior ministerial approval.
 - **Defence Restructuring Origins**: Formed on **October 1, 2021** following the corporatisation of the 220-year-old Ordnance Factory Board (OFB) into 7 specialized corporate entities; joins Munitions India Ltd (MIL), Armoured Vehicles Nigam Ltd (AVNL), and India Optel Ltd (IOL) in achieving Miniratna tier.
@@ -362,7 +362,7 @@
 
 ---
 
-📰 **Other Tier-A Banking/Insurance Items** *(Feb + March, merged)*
+📰 [Q1-032] **Other Tier-A Banking/Insurance Items** *(Feb + March, merged)*
 
 - **MIGA Refinancing Guarantee**: Multilateral Investment Guarantee Agency (MIGA, World Bank Group) issued a **\$197.67 million political and financial risk guarantee** to Citibank for its credit line to State Bank of India, refinancing a 2016 \$500 million World Bank rooftop solar program; requires SBI to direct ≥7.5% of domestic loan book to climate-positive assets.
 - **Banking Sector Equity Inflows & Foreign Ownership**: FDI equity inflows into Indian banking declined from \$898 million in FY23 to **\$115 million in FY25**; SBI recorded the highest foreign institutional holding among PSBs at 11.07%; Government considering increasing the foreign investment limit in PSBs from **20% to 49%** (retaining ≥51% sovereign equity).
@@ -375,7 +375,7 @@
 
 ## 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS
 
-📰 **Census 2027 — Phase Structure & Caste Enumeration**
+📰 [Q1-033] **Census 2027 — Phase Structure & Caste Enumeration**
 
 - **Phase 1: House Listing Operations (HLO)**: Scheduled to run nationwide from **April 1 to September 30, 2026**, collecting baseline housing conditions, amenities, household assets, and mapping structures.
 - **Phase 2: Population Enumeration (PE)**: Scheduled for **February 2027**, featuring India's **1st official caste enumeration since 1931** (which was conducted under British colonial administration).
@@ -385,7 +385,7 @@
 
 ---
 
-📰 **77th Republic Day 2026** (Jan 26)
+📰 [Q1-034] **77th Republic Day 2026** (Jan 26)
 
 - **Dual Chief Guests Milestone**: António Costa (President of the European Council) and Ursula von der Leyen (President of the European Commission) served as joint Chief Guests, marking the **1st time since 2018 with multiple foreign Chief Guests**; organized around national theme **"150 Years of Vande Mataram"**.
 - **Historic Foreign Troop March-Past**: A military contingent representing the European Union marched down Kartavya Path for the first time in history, representing maritime security operations **'Atalanta' and 'Aspides'**.
@@ -395,7 +395,7 @@
 
 ---
 
-📰 **India's BRICS 2026 Chairship**
+📰 [Q1-035] **India's BRICS 2026 Chairship**
 
 - **Sovereign Leadership Transition**: India formally assumed the rotating chairship of BRICS for its **4th term on January 1, 2026**, taking over the multilateral mantle from Brazil.
 - **Official Summit Theme**: Formally designated as **"Building for Resilience, Innovation, Cooperation and Sustainability"**, guiding ministerial tracks across trade, digital public infrastructure, and energy transition.
@@ -405,7 +405,7 @@
 
 ---
 
-📰 **8th Central Pay Commission — Rollout**
+📰 [Q1-036] **8th Central Pay Commission — Rollout**
 
 - **Central Pay Commission Commissioning**: Formally entered into operational effect on **January 1, 2026** (the exact day the 10-year term of the 7th Central Pay Commission expired), tasked with revising salaries, allowances, and pensions for central government employees.
 - **Judicial Commission Leadership**: Headed by former Supreme Court judge **Justice Ranjana Prakash Desai** as Chairperson of the 8th Central Pay Commission.
@@ -415,7 +415,7 @@
 
 ---
 
-📰 **India-UAE Strategic & Trade Package**
+📰 [Q1-037] **India-UAE Strategic & Trade Package**
 
 - **Long-Term Bilateral Trade Horizon**: New Delhi and Abu Dhabi agreed to accelerate economic cooperation to **double bilateral non-oil merchandise and services trade to \$200 billion by 2032**.
 - **Hydrocarbon & Energy Security**: UAE cemented its position as **India's 2nd-largest LNG supplier**, underpinned by a multi-year long-term liquefied natural gas supply contract between HPCL and ADNOC Gas.
@@ -425,7 +425,7 @@
 
 ---
 
-📰 **International items (combined)**
+📰 [Q1-038] **International items (combined)**
 
 - **UN High Seas Biodiversity Treaty**: The landmark **UN Biodiversity Beyond National Jurisdiction (BBNJ) Treaty** entered into international legal force on **January 17, 2026**, establishing the first legally binding framework to protect marine biodiversity across 30% of global high seas by 2030.
 - **US Multilateral Exits & Energy Tariffs**: The United States announced its formal withdrawal from 66 international organizations (effective Jan 7, 2026), including the India-headquartered **International Solar Alliance (ISA)**, while imposing up to **500% tariffs** on nations importing Russian crude oil.
@@ -436,7 +436,7 @@
 
 ---
 
-📰 **National economic/infrastructure data (combined, lower-priority Tier A)**
+📰 [Q1-039] **National economic/infrastructure data (combined, lower-priority Tier A)**
 
 - **Carbon Credit Trading Scheme (CCTS) Scope**: Bureau of Energy Efficiency expanded mandatory compliance under the Carbon Credit Trading Scheme to **490 obligated industrial entities** (up from 282), benchmarking emissions against base year 2023-24.
 - **PLI White Goods Round 4 Commitments**: DPIIT finalized Round 4 clearances for air conditioners and LED components, bringing total approved beneficiary companies to **85 with ₹11,198 crore in committed capital investments**.
@@ -447,7 +447,7 @@
 
 ---
 
-📰 **India-US Bilateral Trade Deal Finalised** *(Feb)*
+📰 [Q1-040] **India-US Bilateral Trade Deal Finalised** *(Feb)*
 
 - **Bilateral Trade Announcement**: United States President Donald Trump formally announced the conclusion of a broad bilateral trade agreement framework with India aimed at addressing tariff imbalances.
 - **Strategic Market Access Priorities**: Designed to expand bilateral access across agricultural commodities, industrial machinery, and high-tech supply chains, although granular product-level tariff schedules were pending final text release.
@@ -457,7 +457,7 @@
 
 ---
 
-📰 **India Joins 2026 UN Honour Roll** *(Feb)*
+📰 [Q1-041] **India Joins 2026 UN Honour Roll** *(Feb)*
 
 - **Timely Sovereign Budget Contribution**: India officially secured induction into the prestigious **2026 United Nations Honour Roll** by paying its regular annual UN budget assessment in full and within the statutory 30-day window.
 - **Financial Assessment Data**: The Government of India remitted **\$35.18 million** to the United Nations, accounting for approximately **1.016% of the total UN regular budget of \$3.45 billion**.
@@ -467,7 +467,7 @@
 
 ---
 
-📰 **SEZ Policy Reform Committee** *(March)*
+📰 [Q1-042] **SEZ Policy Reform Committee** *(March)*
 
 - **High-Level Review Committee**: Ministry of Commerce and Industry constituted a **17-member expert committee** tasked with revamping Special Economic Zones (SEZs) policy into modern Development of Enterprise and Service Hubs (DESH).
 - **Mandate & Delivery Timeline**: The committee is mandated to examine fiscal incentives, domestic tariff area (DTA) sales flexibilities, and single-window clearances, with a comprehensive concept paper due within **6 months**.
@@ -477,7 +477,7 @@
 
 ---
 
-📰 **Jal Jeevan Mission Extended** *(March)*
+📰 [Q1-043] **Jal Jeevan Mission Extended** *(March)*
 
 - **Cabinet Extension Approval**: Union Cabinet officially approved the phase extension of the flagship **Jal Jeevan Mission (JJM) – Har Ghar Jal** scheme beyond its original deadline to ensure 100% saturation of rural piped water supply.
 - **Core Mission Mandate**: Guarantees the provision of **55 litres of potable water per capita per day (lpcd)** to every rural household through functional household tap connections (FHTC).
@@ -487,7 +487,7 @@
 
 ---
 
-📰 **National Quantum Mission — Teaching Facilities Approved** *(March)*
+📰 [Q1-044] **National Quantum Mission — Teaching Facilities Approved** *(March)*
 
 - **Academic Infrastructure Rollout**: Ministry of Science and Technology approved dedicated quantum technology teaching and experimental lab facilities across **23 leading academic institutions** nationwide.
 - **NQM Financial Allocation**: Operates under the umbrella **National Quantum Mission (NQM)**, sanctioned with a total budgetary outlay of **₹6,003.65 crore** spanning an 8-year timeline from **2023 to 2031**.
@@ -497,7 +497,7 @@
 
 ---
 
-📰 **Green Hydrogen Mission — Progress** *(March)*
+📰 [Q1-045] **Green Hydrogen Mission — Progress** *(March)*
 
 - **Commissioned Industrial Capacity**: India successfully commissioned **~8,000 Tonnes Per Annum (TPA)** of commercial green hydrogen production capacity as of February 2026.
 - **Long-Term Mission Targets**: Anchored by the **National Green Hydrogen Mission (NGHM)**, which targets building at least **5 Million Metric Tonnes (MMT) per annum** of green hydrogen production capacity by **2030**.
@@ -507,7 +507,7 @@
 
 ---
 
-📰 **PM E-DRIVE — e2w/e-rickshaw Subsidy Extension** *(March)*
+📰 [Q1-046] **PM E-DRIVE — e2w/e-rickshaw Subsidy Extension** *(March)*
 
 - **Electric Two-Wheeler Subsidy Timeline**: Ministry of Heavy Industries extended demand subsidies for electric two-wheelers (e2w) under the PM E-DRIVE scheme up to **July 31, 2026**.
 - **Commercial Three-Wheeler Subsidy Timeline**: Subsidies for registered electric three-wheelers (e-rickshaws and e-carts) were granted an extended operational window up to **March 31, 2028**.
@@ -517,7 +517,7 @@
 
 ---
 
-📰 **PM Modi Inaugurates Phase I, Noida International Airport (Jewar)** *(March)*
+📰 [Q1-047] **PM Modi Inaugurates Phase I, Noida International Airport (Jewar)** *(March)*
 
 - **Phase I Commercial Commissioning**: Prime Minister Narendra Modi inaugurated Phase I of the **Noida International Airport (NIA) in Jewar, Uttar Pradesh**, establishing the National Capital Region's (NCR) 2nd major international aviation hub.
 - **Capital Outlay & Phased Architecture**: Phase I completed at an investment of **₹11,282 crore**, out of an aggregate multi-phase project outlay estimated at **₹29,560 crore**.
@@ -527,7 +527,7 @@
 
 ---
 
-📰 **Gold Hallmarking Expanded to 7 More Districts** *(March)*
+📰 [Q1-048] **Gold Hallmarking Expanded to 7 More Districts** *(March)*
 
 - **Mandatory Rollout Expansion**: Ministry of Consumer Affairs, Food and Public Distribution implemented **Phase VI of mandatory gold hallmarking**, expanding statutory coverage to 7 additional districts across the country.
 - **Bureau of Indian Standards (BIS) Framework**: Mandates the 6-digit alphanumeric **Hallmark Unique Identification (HUID)** code on every piece of gold jewellery, guaranteeing purity and consumer authenticity.
@@ -537,7 +537,7 @@
 
 ---
 
-📰 **ISA — Romania Ratifies Framework Agreement** *(March)*
+📰 [Q1-049] **ISA — Romania Ratifies Framework Agreement** *(March)*
 
 - **New Member Ratification**: **Romania** officially ratified the Framework Agreement of the International Solar Alliance (ISA), becoming the **118th member nation** of the global solar coalition.
 - **Institutional Origins & Presidency**: Co-founded by India and France in **2015** during COP21 in Paris; operates headquarters in **Gurugram, Haryana**; India holds the ISA Presidency for the **2024–2026** term.
@@ -549,7 +549,7 @@
 
 ## 5. 🤝 MoUs, CONFERENCES & APPOINTMENTS
 
-📰 **India-EU Free Trade Agreement — Negotiations Concluded** (Jan 27, 2026)
+📰 [Q1-050] **India-EU Free Trade Agreement — Negotiations Concluded** (Jan 27, 2026)
 
 🪝 Hook — After 18 years of on-and-off talks, India and the EU struck the "Mother of All Deals" — but concluding negotiations and the deal actually entering force are two different milestones, so don't conflate them.
 
@@ -562,7 +562,7 @@
 
 ---
 
-📰 **Judicial & Government Appointments — combined cluster**
+📰 [Q1-051] **Judicial & Government Appointments — combined cluster**
 
 - **Historic High Court Leadership**: Justice **Revati Mohite Dere** sworn in as the **1st woman Chief Justice of the Meghalaya High Court**; other HC appointments included Justice M.S. Sonak (Jharkhand HC), Justice A.K. Jayasankaran Nambiar / Justice Mustaque (24th CJ, Sikkim HC), Justice Manoj Kumar Gupta (Uttarakhand HC), and Justice Ashish Jitendra Desai / Justice Sen (40th CJ, Kerala HC).
 - **International Multilateral Representation**: Ambassador **D.B. Venkatesh Varma** became the **1st Indian national appointed to chair the UN Secretary-General's Advisory Board on Disarmament Matters**.
@@ -573,7 +573,7 @@
 
 ---
 
-📰 **India–Canada — Uranium Supply Deal & CEPA** *(March)*
+📰 [Q1-052] **India–Canada — Uranium Supply Deal & CEPA** *(March)*
 
 - **Strategic Uranium Supply Agreement**: Department of Atomic Energy (DAE) concluded a **\$1.9 billion, 10-year nuclear fuel supply agreement** with Canada's Cameco Corporation to power India's civilian nuclear reactors.
 - **Commercial Supply Volume**: Cameco will supply approximately **22 million pounds of uranium ore concentrate** to India spanning the delivery window from **2027 to 2035**.
@@ -583,7 +583,7 @@
 
 ---
 
-📰 **World Bank Loans — UP & Haryana Clean Air Projects** *(March)*
+📰 [Q1-053] **World Bank Loans — UP & Haryana Clean Air Projects** *(March)*
 
 - **Uttar Pradesh Clean Air Financing**: World Bank approved a **\$299.66 million** International Bank for Reconstruction and Development (IBRD) loan for the UP Clean Air and Sustainable Environment Project to combat industrial and vehicular emissions.
 - **Haryana Clean Air Financing**: Separately, the World Bank sanctioned a **\$300 million** dedicated credit facility for the Haryana Clean Air Project for Sustainable Development.
@@ -593,7 +593,7 @@
 
 ---
 
-📰 **IIFL Home Finance — \$300 Million ADB Loan** *(March)*
+📰 [Q1-054] **IIFL Home Finance — \$300 Million ADB Loan** *(March)*
 
 - **Multilateral Green Housing Line**: Asian Development Bank (ADB) sanctioned a **\$300 million financing facility** to IIFL Home Finance Ltd (IIFL HFL) to scale certified green affordable housing.
 - **First Multilateral Credit Line**: Marks IIFL Home Finance's **first-ever direct loan from a multilateral development bank**, dedicated to underserved women borrowers and low-income urban households.
@@ -603,7 +603,7 @@
 
 ---
 
-📰 **Sri Lanka's Inaugural Blue Bond — GIFT City Listing** *(March)*
+📰 [Q1-055] **Sri Lanka's Inaugural Blue Bond — GIFT City Listing** *(March)*
 
 - **Historic GIFT City Listing**: Sri Lanka's DFCC Bank successfully listed its inaugural **\$50 million Blue Bond on the NSE International Exchange (NSE IX)** at Gujarat International Finance Tec-City (GIFT City).
 - **Double Regional First**: Represents both **Sri Lanka's first-ever blue bond** and the **first blue bond issued by any commercial bank in South Asia**, dedicated to funding marine conservation and coastal aquaculture.
@@ -613,7 +613,7 @@
 
 ---
 
-📰 **JICA–India ODA Loans — 4 Infrastructure Projects** *(March)*
+📰 [Q1-056] **JICA–India ODA Loans — 4 Infrastructure Projects** *(March)*
 
 - **Aggregate Bilateral Financing**: Japan International Cooperation Agency (JICA) signed Official Development Assistance (ODA) loan agreements with the Government of India totaling **399.78 billion Japanese Yen (approx. ₹22,000 crore)**.
 - **Four Funded Mega-Projects**: Allocated across four national priorities: (1) Dedicated Freight Corridor Project Phase 2 (₹10,500 Cr), (2) Mumbai-Ahmedabad High-Speed Rail Project (₹8,000 Cr), (3) Chennai Metro Rail Project Phase 2 (₹2,500 Cr), and (4) Rajasthan Rural Water Supply Project (₹1,000 Cr).
@@ -623,7 +623,7 @@
 
 ---
 
-📰 **Governors' & Lt. Governors' Reshuffle — 7 States/UTs** *(March)*
+📰 [Q1-057] **Governors' & Lt. Governors' Reshuffle — 7 States/UTs** *(March)*
 
 - **Presidential Constitutional Orders**: President of India issued warrants appointing new Governors and Lieutenant Governors across 7 States and Union Territories under Articles 155 and 156 of the Constitution.
 - **State-to-Governor Allocation**: 
@@ -642,7 +642,7 @@
 
 ## 6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS
 
-📰 **Defence — combined cluster**
+📰 [Q1-058] **Defence — combined cluster**
 
 - **"Bhairav" Specialized Drone Battalions**: Indian Army raised specialized drone-combat formations comprising **1+ lakh trained drone operatives**; made public debut at the Army Day Parade (Jan 15, Jaipur) and featured prominently in the Republic Day parade (Jan 26) showcasing swarm reconnaissance and precision strike tactics.
 - **DRDO Indigenous Test Triumphs**: Defence Research and Development Organisation (DRDO) executed operational salvo test-firings of the **Pralay** short-range quasi-ballistic missile, operationalized **Suryastra** (India's 1st indigenous universal multi-calibre rocket launcher, ₹293 crore), tested the Man-Portable Anti-Tank Guided Missile (**MPATGM**), and logged a record **12+ minute continuous run-time** for an active-cooled hypersonic scramjet combustor.
@@ -653,7 +653,7 @@
 
 ---
 
-📰 **Defence Acquisition Council — ₹3.60 Lakh Crore Capital Acquisitions** *(Feb)*
+📰 [Q1-059] **Defence Acquisition Council — ₹3.60 Lakh Crore Capital Acquisitions** *(Feb)*
 
 - **Air Dominance Capital Clearance**: Defence Acquisition Council (DAC), chaired by Defence Minister Rajnath Singh, accorded Acceptance of Necessity (AoN) for capital acquisitions exceeding **₹3.60 lakh crore** for the Armed Forces.
 - **Flagship Aircraft Procurement**: Cleared the long-awaited procurement of **114 Rafale multi-role fighter aircraft** from France's Dassault Aviation under the strategic MRFA program to arrest IAF squadron depletion.
@@ -663,7 +663,7 @@
 
 ---
 
-📰 **Ministry of Defence — Procurement Contracts, March 2026** *(March)*
+📰 [Q1-060] **Ministry of Defence — Procurement Contracts, March 2026** *(March)*
 
 - **Aviation & Naval Missiles Contract (₹5,083 Cr)**: Cleared two major contracts — procurement of **6 Advanced Light Helicopters (ALH Mk-III) from HAL** for the Indian Coast Guard, and naval **Shtil surface-to-air missile systems** from Russia's Rosoboronexport for frontline Indian Navy frigates.
 - **Air Defence & Surveillance Depot Deal (₹858 Cr)**: Contracted upgrades for the Indian Army's **Tunguska Air Defence Gun-Missile System** (₹445 crore, with Russia) and sealed a long-term depot maintenance and inspection contract for **P-8I maritime reconnaissance aircraft** with Boeing India (₹413 crore).
@@ -673,7 +673,7 @@
 
 ---
 
-📰 **Science & Tech — combined cluster**
+📰 [Q1-061] **Science & Tech — combined cluster**
 
 - **Launch Vehicle Setback**: ISRO's **PSLV-C62 mission** suffered an upper-stage propulsion anomaly resulting in the loss of the primary earth observation payload **EOS-N1**, marking the 2nd consecutive setback for the reliable Polar Satellite Launch Vehicle.
 - **Commercial Space Dual Milestones**: India's private space industry recorded two distinct firsts — the **Allied Orbits consortium** unveiled plans for India's 1st privately-led national Earth Observation satellite constellation (₹1,200+ crore outlay), while **Palmnaro** established India's 1st private satellite manufacturing facility in Sanand, Gujarat.
@@ -684,7 +684,7 @@
 
 ---
 
-📰 **Sports — combined cluster**
+📰 [Q1-062] **Sports — combined cluster**
 
 - **Legendary Athletic Retirements**: Indian badminton icon **Saina Nehwal** (India's 1st Olympic badminton medallist, London 2012 bronze) officially announced her retirement from competitive sport; international retirements included Australian cricketers Usman Khawaja and Alyssa Healy, and Indian middle-distance runner Jinson Johnson.
 - **Historic Cricket Run Records**: **Virat Kohli** became the fastest batsman in cricket history to reach **28,000 international runs** (achieved across formats in his 624th innings); **Deepti Sharma** became the world's highest wicket-taker in Women's T20 Internationals.
@@ -696,7 +696,7 @@
 
 ## 7. 🏆 AWARDS, BOOKS, INDICES & RANKINGS
 
-📰 **Padma Awards 2026 & Republic Day Gallantry**
+📰 [Q1-063] **Padma Awards 2026 & Republic Day Gallantry**
 
 - **Padma Awards Investiture**: President of India conferred **131 Padma Awards for 2026**, distributed as: **5 Padma Vibhushan, 13 Padma Bhushan, and 113 Padma Shri** across public affairs, art, trade, and social service.
 - **Highest Peacetime Gallantry (Ashok Chakra)**: Conferred upon Indian Air Force fighter pilot and astronaut-designate **Group Captain Shubhanshu Shukla**, who made history as the **2nd Indian national to travel to space** aboard Axiom Mission 4 (Ax-4) to the International Space Station.
@@ -706,7 +706,7 @@
 
 ---
 
-📰 **India's Global Rankings — consolidated cluster** *(Henley Passport merged — see note)*
+📰 [Q1-064] **India's Global Rankings — consolidated cluster** *(Henley Passport merged — see note)*
 
 - 🔄 **Henley Passport Index Sequential Climb**: India's passport ranking improved sequentially from 85th (2025) → **80th** (January 2026) → **75th** (February 2026 data), offering visa-free or visa-on-arrival access to **56 global destinations** (**use 75th as the current definitive ranking**).
 - **Urban Safety & Governance**: Mangaluru ranked as the safest city in India on the **Numbeo Safety Index 2026** (scoring 74.4/100, placed 46th globally); Kerala was named 'Top Achiever' under Business Reforms Action Plan (**BRAP/EoDB**) with a 99.1% implementation score.
@@ -718,7 +718,7 @@
 
 ---
 
-📰 **2025 Corruption Perception Index** *(Feb)*
+📰 [Q1-065] **2025 Corruption Perception Index** *(Feb)*
 
 - **India's Ranking & Score**: India secured **91st rank globally** out of 180 countries in the 2025 Corruption Perception Index (CPI), climbing 5 places from 96th position in the previous year's evaluation.
 - **Scoring Breakdown**: India scored **39 out of 100** (where 0 indicates highly corrupt and 100 indicates very clean), reflecting gradual governance transparency improvements.
@@ -728,7 +728,7 @@
 
 ---
 
-📰 **2026 Henley Passport Index** *(Feb)*
+📰 [Q1-066] **2026 Henley Passport Index** *(Feb)*
 
 - **Sharp Rank Acceleration**: India gained 10 positions to rank **75th in the world** in the February 2026 edition of the Henley Passport Index (advancing from 85th position).
 - **Visa-Free Mobility Dynamics**: Indian passport holders now enjoy visa-free or visa-on-arrival access to **56 destinations worldwide** (down by 1 country from 57, yet rank jumped 10 spots due to larger shifts among peer nations).
@@ -738,7 +738,7 @@
 
 ---
 
-📰 **Other Feb Indices** *(Feb)*
+📰 [Q1-067] **Other Feb Indices** *(Feb)*
 
 - **Digital Readiness & Gender Parity**: India improved 4 positions to rank **45th on the Network Readiness Index 2025** (score 54.43); World Bank's "Women, Business and the Law 2025" revealed women globally hold only ~two-thirds the legal economic rights of men.
 - **Inflation Metrics Distinction**: Wholesale Price Index (WPI) inflation rose to **1.81% in January 2026**, while retail Consumer Price Index (CPI) inflation stood at **2.75%** (highlighting the wide gap between wholesale and consumer baskets).
@@ -748,7 +748,7 @@
 
 ---
 
-📰 **Hurun Global Rich List 2026** *(March)*
+📰 [Q1-068] **Hurun Global Rich List 2026** *(March)*
 
 - **Billionaire Capital of the World**: India emerged as home to **308 dollar-billionaires**, ranking **3rd globally** behind China (1,110 billionaires) and the United States (1,000 billionaires).
 - **Combined Wealth & Domestic Leader**: Indian billionaires amassed a combined net worth of **₹112.6 lakh crore**; **Mukesh Ambani** retained his crown as India's and Asia's richest individual.
@@ -758,7 +758,7 @@
 
 ---
 
-📰 **World Happiness Report 2026** *(March)*
+📰 [Q1-069] **World Happiness Report 2026** *(March)*
 
 - **India's Global Position**: India ranked **116th out of 143 surveyed countries** in the World Happiness Report 2026, advancing two slots from 118th position with a composite score of **4.536**.
 - **Global Top Performer**: **Finland clinched the 1st rank for the 9th consecutive year**, followed by Nordic peers Denmark, Iceland, and Sweden.
@@ -768,7 +768,7 @@
 
 ---
 
-📰 **World Obesity Atlas 2026** *(March)*
+📰 [Q1-070] **World Obesity Atlas 2026** *(March)*
 
 - **Childhood Obesity Burden**: India was ranked **2nd globally for childhood and adolescent obesity**, recording over **41 million children and teens with high Body Mass Index (BMI)**, trailing only China.
 - **Epidemiological Projection**: Published by the World Obesity Federation (WOF), projecting that economic impacts of high BMI will account for 2.4% of India's GDP by 2035 unless systemic dietary interventions are adopted.
@@ -778,7 +778,7 @@
 
 ---
 
-📰 **2026 Global Terrorism Index** *(March)*
+📰 [Q1-071] **2026 Global Terrorism Index** *(March)*
 
 - **Worst-Affected Global Nation**: **Pakistan ranked No. 1 globally for the first time** on the Global Terrorism Index (GTI) 2026 with a severity score of **8.574**, reflecting surging attacks in Balochistan and Khyber Pakhtunkhwa.
 - **India's Security Benchmark**: **India was ranked 13th globally** with a score of **6.428**, marking steady counter-terror stabilization.
@@ -790,7 +790,7 @@
 
 ## 8. 📅 IMPORTANT DAYS & PERSONS IN NEWS
 
-📰 **International Honours (January)**
+📰 [Q1-072] **International Honours (January)**
 
 - **High State Civilian Decorations**: Foreign governments conferred top civilian honours on Indian dignitaries; King of Bhutan conferred the Order of the Druk Gyalpo on Prime Minister Modi; bilateral leadership summits honored distinguished diaspora leaders.
 - **Cultural & Literary Recognitions**: Sahitya Akademi announced annual literary awards across 24 official Indian languages, recognizing eminent authors, poets, and translators for national literary contributions.
@@ -800,7 +800,7 @@
 
 ---
 
-📰 **Persons in News (January)**
+📰 [Q1-073] **Persons in News (January)**
 
 - **Global Institutional Executives**: Prominent appointments across international bodies and multilateral agencies; Indian administrators appointed to key United Nations technical committees and advisory boards.
 - **Corporate & Scientific Leaders**: Indian scientists honored by international astronomical and physical research associations for breakthrough research; major corporate successions in domestic industrial houses.
@@ -810,7 +810,7 @@
 
 ---
 
-📰 **Arts & Culture (January)**
+📰 [Q1-074] **Arts & Culture (January)**
 
 - **Parakram Diwas Commemoration**: Celebrated nationwide on **January 23** marking the **129th birth anniversary of Netaji Subhas Chandra Bose**, featuring cultural exhibitions at Red Fort, New Delhi.
 - **Republic Day Cultural Pageantry**: 150th Anniversary commemorations of Bankim Chandra Chattopadhyay's national song **"Vande Mataram"**, highlighted across tableau displays and student choirs.
@@ -820,7 +820,7 @@
 
 ---
 
-📰 **Key January observances**
+📰 [Q1-075] **Key January observances**
 
 - **National Defence Days**: **78th Indian Army Day celebrated on January 15 in Jaipur, Rajasthan** (marking Field Marshal K.M. Cariappa taking command in 1949 as first Indian Commander-in-Chief); Army declared 2026 as the **"Year of Networked Systems"**.
 - **Governance & Election Celebrations**: **16th National Voters' Day observed on January 25** (commemorating the establishment of the Election Commission of India on Jan 25, 1950) under the theme "Nothing Like Voting, I Vote for Sure".
@@ -832,7 +832,7 @@
 
 ## 9. 📋 PIB, CIRCULARS & NOTIFICATIONS
 
-📰 **New Rules & Notifications — combined cluster**
+📰 [Q1-076] **New Rules & Notifications — combined cluster**
 
 - **Digital Media & Video Platform Mandates**: Ministry of Electronics and Information Technology (MeitY) issued binding guidelines requiring social media and video hosting platforms to deploy automated hash-matching tools to eradicate non-consensual deepfake content within strict takedown windows.
 - **Corporate Governance & Related Party Norms**: Ministry of Corporate Affairs (MCA) tightened disclosure norms under the Companies Act, 2013, mandating comprehensive audit committee approval for material related party transactions exceeding ₹1,000 crore.
@@ -843,7 +843,7 @@
 
 ---
 
-📰 **Draft Income-tax Rules, 2026** *(Feb)*
+📰 [Q1-077] **Draft Income-tax Rules, 2026** *(Feb)*
 
 - **Legislative Enactment**: Central Board of Direct Taxes (CBDT) published the comprehensive **Draft Income-tax Rules, 2026**, framed to operationalize the New Income Tax Act, 2025 effective **April 1, 2026**.
 - **Procedural Simplification**: Slashed the total number of statutory income tax forms from over 180 down to **52 consolidated electronic forms**, eliminating obsolete filing schedules.
@@ -853,7 +853,7 @@
 
 ---
 
-📰 **IT (Intermediary Guidelines) Amendment Rules, 2026** *(Feb)*
+📰 [Q1-078] **IT (Intermediary Guidelines) Amendment Rules, 2026** *(Feb)*
 
 - **Statutory Notification**: Ministry of Electronics and IT (MeitY) notified the **Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Amendment Rules, 2026**, coming into immediate statutory effect.
 - **Stringent Deepfake & AI Takedowns**: Mandated that social media intermediaries take down maliciously generated deepfake and synthetic media content within **24 hours** of receiving user complaints or court/government orders (down from the earlier 72-hour window).
@@ -865,7 +865,7 @@
 
 ## 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC
 
-📰 **Major Scheme Continuations (January)**
+📰 [Q1-079] **Major Scheme Continuations (January)**
 
 - **Pradhan Mantri Awas Yojana (PMAY)**: Union Cabinet approved phase continuation of **PMAY-Urban and PMAY-Gramin** to achieve housing saturation, sanctioning 3 crore additional affordable houses for low-income rural and urban beneficiaries.
 - **Atal Pension Yojana (APY) Traction**: Pension Fund Regulatory and Development Authority (PFRDA) reported total APY subscriber registrations crossed **7.2 crore**, with women accounting for over 45% of total new enrolments.
@@ -875,7 +875,7 @@
 
 ---
 
-📰 **February's national scheme launches — combined cluster**
+📰 [Q1-080] **February's national scheme launches — combined cluster**
 
 - **Cooperative Transport Architecture ("Bharat Taxi")**: Ministry of Cooperation launched **"Bharat Taxi"**, India's 1st national cooperative-led digital ride-hailing mobility platform aimed at eliminating private aggregator commissions for drivers.
 - **Border Infrastructure Acceleration**: Union Cabinet sanctioned **Vibrant Villages Programme-II (VVP-II)** with a dedicated budgetary allocation of **₹6,839 crore** covering frontier villages across Northern international border districts.
@@ -886,7 +886,7 @@
 
 ---
 
-📰 **Vibrant Villages Programme-II (VVP-II)** *(Feb)*
+📰 [Q1-081] **Vibrant Villages Programme-II (VVP-II)** *(Feb)*
 
 - **Budgetary Allocation & Scope**: Union Cabinet approved the Phase-II rollout of the Centrally Sponsored **Vibrant Villages Programme (VVP-II)** with a comprehensive financial outlay of **₹6,839 crore** for implementation through 2028-29.
 - **Geographic Coverage**: Encompasses selected strategic border villages across **Arunachal Pradesh, Sikkim, Uttarakhand, Himachal Pradesh, and the Union Territory of Ladakh** along India's northern international boundary.
@@ -896,7 +896,7 @@
 
 ---
 
-📰 **"Bharat Taxi" — India's 1st Cooperative Ride-Hailing Platform** *(Feb)*
+📰 [Q1-082] **"Bharat Taxi" — India's 1st Cooperative Ride-Hailing Platform** *(Feb)*
 
 - **Cooperative Enterprise Model**: Ministry of Cooperation inaugurated **"Bharat Taxi"**, India's first fully cooperative-owned and operated digital ride-hailing mobility ecosystem.
 - **Zero Commission Mandate**: Driver-partners operate as cooperative shareholders, eliminating the 25%–30% platform commissions charged by traditional ride-hailing MNCs, transferring full ride earnings directly to drivers.
@@ -906,7 +906,7 @@
 
 ---
 
-📰 **Pulse Self-Reliance Mission** *(Feb)*
+📰 [Q1-083] **Pulse Self-Reliance Mission** *(Feb)*
 
 - **Import Elimination Target**: Department of Agriculture and Farmers Welfare unveiled the **Pulse Self-Reliance Mission**, setting a firm national deadline to **eliminate pulse imports completely by December 2027**.
 - **Domestic Production Scaling**: Targets boosting national pulse production from current ~27 million tonnes to **over 35 million tonnes by 2030**, focusing on Tur (Arhar), Urad, and Masur lentils.
@@ -916,7 +916,7 @@
 
 ---
 
-📰 **White Revolution 2.0** *(Feb)*
+📰 [Q1-084] **White Revolution 2.0** *(Feb)*
 
 - **Dairy Cooperative Expansion Target**: Ministry of Fisheries, Animal Husbandry and Dairying launched **White Revolution 2.0**, aiming to increase milk procurement by dairy cooperative societies by **50% over the next 5 years**.
 - **Institutional Village Penetration**: Aims to establish organized Dairy Cooperative Societies (DCS) across **over 2 lakh uncovered rural gram panchayats**, backed by National Dairy Development Board (NDDB).
@@ -926,7 +926,7 @@
 
 ---
 
-📰 **FAST-DS (Foreign Assets Disclosure Scheme), 2026** *(Feb)*
+📰 [Q1-085] **FAST-DS (Foreign Assets Disclosure Scheme), 2026** *(Feb)*
 
 - **One-Time Tax Compliance Window**: Ministry of Finance introduced the **Foreign Assets Disclosure Scheme (FAST-DS), 2026**, providing an exclusive one-time window for resident taxpayers to disclose previously unreported overseas assets and bank accounts.
 - **Statutory Immunity Provisions**: Offers immunity from criminal prosecution under the Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act, 2015, upon payment of specified tax rates and reduced penalties.
@@ -936,7 +936,7 @@
 
 ---
 
-📰 **Credit Guarantee Scheme for MFIs 2.0 (CGSMFI-2.0)** *(March)*
+📰 [Q1-086] **Credit Guarantee Scheme for MFIs 2.0 (CGSMFI-2.0)** *(March)*
 
 - **Microfinance Credit Guarantee Enhancement**: Ministry of Finance launched **CGSMFI 2.0** administered through the National Credit Guarantee Trustee Company (NCGTC), providing up to **75% portfolio credit guarantee cover** for commercial loans extended to registered Microfinance Institutions.
 - **Prudential Sanction Limits**: Maximum loan sanctionable to an MFI capped at **20% of its Assets Under Management (AUM)**, with tiered aggregate ceilings: **₹100 crore for small MFIs, ₹200 crore for medium MFIs, and ₹1,000 crore for large MFIs**.
@@ -946,7 +946,7 @@
 
 ---
 
-📰 **Regional Connectivity Scheme – Modified UDAN** *(March)*
+📰 [Q1-087] **Regional Connectivity Scheme – Modified UDAN** *(March)*
 
 - **Cabinet Financial Outlay**: Union Cabinet approved the revised and modified **Regional Connectivity Scheme (RCS) – Modified UDAN** with an escalated budgetary outlay of **₹28,840 crore** to strengthen last-mile regional air connectivity.
 - **Helicopter & Water Aerodrome Focus**: Prioritizes underserved remote airstrips, tourist circuits, **helicopter services in hilly Himalayan and North-Eastern terrains**, and amphibious water aerodrome routes.
@@ -956,7 +956,7 @@
 
 ---
 
-📰 **IVFRT Scheme Continuation** *(March)*
+📰 [Q1-088] **IVFRT Scheme Continuation** *(March)*
 
 - **Immigration Modernisation Outlay**: Union Cabinet approved the phase continuation of the **Immigration, Visa and Foreigners Registration & Tracking (IVFRT)** scheme with an upgraded allocation of **₹1,800 crore spanning 2026 to 2031** (escalated from previous outlay of ₹1,364 crore).
 - **Core Security Mandate**: Executed by the Ministry of Home Affairs and Bureau of Immigration, integrating automated biometrics, electronic visas (e-Visa), and real-time passenger tracking across 108 international immigration checkpoints.
@@ -966,7 +966,7 @@
 
 ---
 
-📰 **PM Internship Scheme Expansion** *(March)*
+📰 [Q1-089] **PM Internship Scheme Expansion** *(March)*
 
 - **Corporate Participation Scale**: Ministry of Corporate Affairs announced that **549 top Indian corporations** enrolled in the pilot phase of the Prime Minister's Internship Scheme, offering over 1.25 lakh internship opportunities across diverse industrial sectors.
 - **Financial Stipend Structure**: Beneficiaries receive a monthly financial stipend of **₹5,000** (₹4,500 disbursed by Central Government via DBT, and ₹500 contributed from the corporate entity's CSR budget), along with a one-time incidentals grant of **₹6,000**.
@@ -976,7 +976,7 @@
 
 ---
 
-📰 **Coconut Promotion Scheme, GeM's SWAYATT 7-yr milestone, Bharat Audyogik** *(March)*
+📰 [Q1-090] **Coconut Promotion Scheme, GeM's SWAYATT 7-yr milestone, Bharat Audyogik** *(March)*
 
 - **Integrated Coconut Mission Sanction**: Ministry of Agriculture cleared the **Integrated Coconut Development Scheme** with an outlay of **₹1,250 crore** to revitalize senile plantations, combat pest infestations, and expand processing in coastal states.
 - **GeM SWAYATT 7-Year Milestone**: Government e-Marketplace celebrated the **7th anniversary of SWAYATT** (Startups, Women and Youth Advantage Through e-Transactions), having onboarded over 3.5 lakh women-led MSMEs and generating cumulative procurements exceeding ₹45,000 crore.
@@ -986,7 +986,7 @@
 
 ---
 
-📰 **External Financing to India — combined cluster**
+📰 [Q1-091] **External Financing to India — combined cluster**
 
 - **Multilateral Development Banking Inflows**: Asian Development Bank (ADB) and World Bank committed comprehensive project financing loans totaling **\$1.85 billion** across India's urban transit, clean water, and green energy infrastructure sectors.
 - **Bilateral ODA Infrastructure Credit**: Japan International Cooperation Agency (JICA) formalized 399.78 billion Yen (~₹22,000 crore) in concessional assistance for high-speed rail, dedicated freight corridors, and metro lines.
