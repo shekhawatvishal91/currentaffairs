@@ -2,6 +2,42 @@
 
 All notable changes to the Current Affairs Dossier repository and Rajputana Gazette Broadsheet System are documented here.
 
+## 🚀 [v2.23] — 2026-10-02
+
+### 📑 Complete September 2026 Full-Month PDF Ingestion (120 Clusters Consolidated Master)
+- **Comprehensive Audit of Full-Month Dossier (`Sept6927cf5d2b211a2b729e125eember 2026 Monthly CA PDF.pdf`, 279 Pages, 464 Stories)**:
+  - Extracted 972,070 characters of raw text, parsed all 464 news stories, and cross-referenced against existing coverage.
+  - Curated **20 high-yield new apex anchors** spanning Days 25–30 (and key missing regulatory, bilateral, defence, and sports trajectories from earlier in the month).
+  - Elevated September Dossier title to **🎯 CURRENT AFFAIRS — SEPTEMBER 2026 (FULL MONTH CONSOLIDATED DOSSIER — 120 CLUSTERS)**.
+  - Expanded September cluster count from 100 to **exactly 120 clusters** (`[SEP-001]` to `[SEP-120]`).
+  - Total repository-wide active clusters across all 8 dossiers expanded from 683 to **703 clusters**.
+- **The 20 High-Yield New September Clusters**:
+  1. **DoCA Legal Metrology (Indian Standard Time) Rules, 2026** *(Section 1, `[SEP-013]`)*: Notified under Section 52 of Legal Metrology Act, 2009; mandates uniform IST legal reference; 180-day transition window; NTP/PTP synchronisation via NavIC; maintained by CSIR-NPL.
+  2. **Bank of Baroda 'UPI Global Reverse Acceptance'** *(Section 2, `[SEP-028]`)*: Enables inbound foreign travellers & international wallet users to scan BoB merchant QR codes using home banking apps; aligns with NIPL P2M architecture.
+  3. **Tata Capital & Resona Bank (Japan) Bilateral Accord** *(Section 2, `[SEP-029]`)*: Dedicated Japanese-language 'Japan Desk' & corporate rupee debt syndication following Resona Bank's \$20M LP investment in Tata Capital Growth Fund III LP.
+  4. **LIC 'Bima Platinum' & 'Jeevan Raksha' Endowment & Term Plans** *(Section 3, `[SEP-043]`)*: Platinum Jubilee launch for 70th anniversary; Bima Platinum offers ₹70 guaranteed addition per ₹1,000 annual premium + 70% Booster Income Benefit; Jeevan Raksha pure-risk term cover up to ₹24 Lakh.
+  5. **Cashfree Payments 'Relay' AI Super Agent** *(Section 3, `[SEP-044]`)*: Autonomous AI agent automating SMB & startup payment workflows (retrying failed payments, COD confirmations, chargebacks), reducing weekly reconciliation from 60 hrs to &lt;45 mins.
+  6. **TIME & Statista 4th 'World's Best Companies 2026'** *(Section 4, `[SEP-059]`)*: Nvidia #1 globally (97.51/100) for 2nd straight year; Cigna #2; Apple #3; Meta #4; evaluated on employee satisfaction, 3-yr revenue growth (&ge;\$100M), and ESG sustainability transparency.
+  7. **Sikkim High-Hazard Glacial Lakes Disclosure** *(Section 4, `[SEP-060]`)*: 40 high-hazard glacial lakes identified; 16 classified in Category-A (highest catastrophic GLOF risk); DST nodal department following Oct 2023 South Lhonak Lake disaster.
+  8. **6-State Accord on ₹11,550 Cr Kishau Multipurpose Project** *(Section 5, `[SEP-077]`)*: UP, Uttarakhand, HP, Rajasthan, Delhi & Haryana sign MoA resolving 10th inter-state water dispute; 232.6m concrete dam on Tons River (Yamuna basin); 1,562 MCM storage; 90% Central funding; HP water swapped for Delhi/Rajasthan power funding.
+  9. **Andhra Pradesh & UK ₹40,000 Cr G2G Urban Infrastructure Accord** *(Section 5, `[SEP-078]`)*: Government-to-Government pact spanning 123 municipalities focusing on Amaravati capital & riverfront; ITS, BIM, Digital Twins, and advanced transit.
+  10. **DRDO High-Altitude Military Combat Parachute System (MCPS) Trials** *(Section 6, `[SEP-088]`)*: Tested at Nyoma-Mudh drop zone (22,000 ft, -15°C, eastern Ladakh LAC) with landing at 13,700 ft; developed by ADRDE Agra & DEBEL Bengaluru.
+  11. **Munitions India Limited (MIL) & Drogo Aerospace Partnership** *(Section 6, `[SEP-089]`)*: Strategic defence pact for 'Delta Wing Kamikaze' loitering munition UAVs; 1,000 km strike range with 20–30 kg warheads.
+  12. **INS Trishul PASSEX with Egyptian Navy ENS Bernees** *(Section 6, `[SEP-090]`)*: Maritime passage exercise off Alexandria, Mediterranean Sea; homage paid at Chatby War Memorial (19 Indian soldiers commemorated).
+  13. **OIL Green Energy (OGEL) 5,000 TPD Waste-to-CBG Haryana Accord** *(Section 7, `[SEP-102]`)*: 4 municipal MoUs (Gurugram, Faridabad, Ambala, Hisar) producing 70–75 TPD CBG & 50 MW power under GOBARdhan 2026.
+  14. **BPCL & Centre for Science and Environment (CSE) Bioeconomy MoU** *(Section 7, `[SEP-103]`)*: Collaboration on CBG, 2G Bioethanol, Biodiesel, SAF, and Fermented Organic Manure (FOM) / bio-CO₂ commercial standards.
+  15. **26th SCO Summit in Bishkek: Lahore Designated 2026–27 Cultural Capital** *(Section 8, `[SEP-110]`)*: Pakistan assumes rotating chairmanship under 'Turning Vision into Action'; succeeds Varanasi (2022–23), Almaty, Qingdao, Cholpon-Ata.
+  16. **Booker Prize 2026 Shortlist Announcement** *(Section 8, `[SEP-111]`)*: 6 novels shortlisted by jury chaired by classicist Mary Beard; includes past winners Marlon James & Douglas Stuart; £50,000 purse ceremony Nov 9 at Old Billingsgate.
+  17. **Dr. Dinesh Sharma Appointed 15th LG of Andaman & Nicobar Islands** *(Section 9, `[SEP-116]`)*: Former Deputy CM of Uttar Pradesh succeeds Admiral D.K. Joshi (Retd.) for the strategically vital island territory.
+  18. **Mandeep K. Bhandari Appointed Chairperson of CBSE** *(Section 9, `[SEP-117]`)*: 2001-batch AGMUT-cadre IAS officer (Principal Secy to LG J&K) succeeds Lokhande Prashant Sitaram in Additional Secretary rank.
+  19. **Dhiraj Bommadevara Wins Historic Archery World Cup Final Gold** *(Section 9, `[SEP-118]`)*: 1st Indian male recurve archer to win World Cup Final gold; beats Japan's Nakanishi Junya 6–5 in shoot-off at Saltillo, Mexico; ends 16-year male medal drought.
+  20. **46th FIDE Chess Olympiad Samarkand Round 5 Blitz** *(Section 9, `[SEP-119]`)*: Indian Men defeat Netherlands 3–1 (Praggnanandhaa beats Anish Giri; Gukesh beats Erwin l'Ami); maintains 5-0 clean sweep at tournament summit.
+- **Strict Invariant Parity & Code Uniformity**:
+  - Maintained 100% bit-for-bit parity: `current_affairs_hub.html === index.html` (2,306,642 bytes).
+  - All 120 clusters re-sequenced sequentially: `[SEP-001]` through `[SEP-120]`.
+  - Zero interactive checkboxes (`[ ]`/`[x]`), zero sub-heading hashes (`###`), KaTeX math verified.
+  - Zero PDF generated (strictly adhering to user standing constraint).
+
 ## 🚀 [v2.22] — 2026-09-29
 
 ### 🏷️ Universal Unique Dispatch & Scroll Code Architecture (`[PREFIX-XXX]`)
