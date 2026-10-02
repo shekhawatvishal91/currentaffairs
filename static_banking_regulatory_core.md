@@ -103,8 +103,8 @@
   - **Minimum Tier 1 Capital**: **7.0%**.
   - **Minimum Total Capital Adequacy Ratio (CRAR)**: **9.0%** under Basel rules, but **RBI mandates 11.5%** for Indian commercial banks (9.0% base + 2.5% CCB).
 - **Short-Term & Long-Term Liquidity Metrics under Basel III**:
-  - **Liquidity Coverage Ratio (LCR)**: Conceived under Basel III; mandates banks to hold an unencumbered stock of High-Quality Liquid Assets (HQLA) equal to at least **100%** of total net cash outflows anticipated over a **30-day severe stress period** ($LCR = \text{Stock of HQLA} / \text{Total net cash outflows over 30 days} \ge 100\%$).
-  - **Net Stable Funding Ratio (NSFR)**: Complementary structural metric requiring banks to fund long-term assets with stable liabilities over a **1-year horizon** ($NSFR = \text{Available Stable Funding} / \text{Required Stable Funding} \ge 100\%$).
+  - **Liquidity Coverage Ratio (LCR)**: Conceived under Basel III; mandates banks to hold an unencumbered stock of High-Quality Liquid Assets (HQLA) equal to at least **100%** of total net cash outflows anticipated over a **30-day severe stress period** (\$LCR = \text{Stock of HQLA} / \text{Total net cash outflows over 30 days} \ge 100\%\$).
+  - **Net Stable Funding Ratio (NSFR)**: Complementary structural metric requiring banks to fund long-term assets with stable liabilities over a **1-year horizon** (\$NSFR = \text{Available Stable Funding} / \text{Required Stable Funding} \ge 100\%\$).
   - **Leverage Ratio**: Pure non-risk-weighted balance sheet constraint (Tier 1 Capital / Total Exposure); RBI prescribes minimum **4.0% for Domestic Systemically Important Banks (D-SIBs)** and **3.5% for other banks**.
 - **Asset Classification & Delinquency Ladder (RBI Master Directions)**:
   - **Standard Asset**: Generating normal income with principal and interest serviced on time.
@@ -135,7 +135,7 @@
   - **Other Bank ATMs in 6 Designated Metros**: Minimum **3 free transactions per month** (Metros: Mumbai, New Delhi, Chennai, Kolkata, Bengaluru, Hyderabad).
   - **Other Bank ATMs in Non-Metro Centers**: Minimum **5 free transactions per month**.
   - **Permissible Interchange Fees Capped by RBI**: Maximum **₹17 per financial transaction** and **₹6 per non-financial transaction**.
-  - **Failed ATM Transaction Compensation ($T+5$ Rule)**: If an account is debited but cash is not dispensed, bank must reverse the funds within **$T+5$ calendar days**; delay beyond $T+5$ days attracts statutory penalty of **₹100 per day** payable directly to the customer without requiring a complaint.
+  - **Failed ATM Transaction Compensation (\$T+5\$ Rule)**: If an account is debited but cash is not dispensed, bank must reverse the funds within **\$T+5\$ calendar days**; delay beyond \$T+5\$ days attracts statutory penalty of **₹100 per day** payable directly to the customer without requiring a complaint.
 - **Reserve Bank - Integrated Ombudsman Scheme, 2021 (RB-IOS)**:
   - Unifies 3 earlier ombudsman programs into 'One Nation One Ombudsman'; covers all Scheduled Commercial Banks, RRBs, UCBs, and systemically important NBFCs.
   - **Monetary Jurisdiction & Award Ceiling**: Ombudsman has power to award compensation up to **₹30 Lakh** for actual financial loss caused by deficiency in banking service.
@@ -149,7 +149,7 @@
 🎯 Exam Angle →
 
 - RB-IOS Ceiling: Direct financial loss compensation is **₹30 Lakh**; compensation for mental agony is **₹3 Lakh** (maximum possible award is ₹33 Lakh).
-- Failed ATM Reversal: Timeline is **$T+5$ days**; delay penalty is **₹100 per day**.
+- Failed ATM Reversal: Timeline is **\$T+5\$ days**; delay penalty is **₹100 per day**.
 - DICGC Payout Window: **90 days** from date of RBI moratorium/directions.
 
 ---
@@ -207,7 +207,7 @@
   - **Store of Value**: Asset that maintains its purchasing power over time so wealth can be saved, stored, and retrieved in the future (diminished primarily by inflation).
 - **Global Governance, Strategic Ports & Security Architecture**:
   - **United Nations Security Council Permanent 5 (P5)**: Comprises **5 Permanent Members** holding veto power under the UN Charter: **United States, United Kingdom, France, Russia, and China**. The 10 non-permanent members are elected by the UN General Assembly for 2-year terms.
-  - **Chabahar Port Strategic Bilateral Pact**: Located in the Sistan-Baluchistan province of south-eastern Iran along the Gulf of Oman; provides India sea-land access to Afghanistan and Central Asia bypassing Pakistan; on **13 May 2024**, India Ports Global Limited (IPGL) signed a landmark **10-year long-term bilateral contract** with Iran's Ports and Maritime Organization (PMO) to equip and operate the **Shahid Beheshti terminal** with an investment of $120 Million.
+  - **Chabahar Port Strategic Bilateral Pact**: Located in the Sistan-Baluchistan province of south-eastern Iran along the Gulf of Oman; provides India sea-land access to Afghanistan and Central Asia bypassing Pakistan; on **13 May 2024**, India Ports Global Limited (IPGL) signed a landmark **10-year long-term bilateral contract** with Iran's Ports and Maritime Organization (PMO) to equip and operate the **Shahid Beheshti terminal** with an investment of \$120 Million.
 
 🎯 Exam Angle →
 
@@ -219,3 +219,55 @@
 
 ---
 
+📰 [STA-008] **RBI Master Directions: Urban Co-operative Banks 4-Tier Categorisation, DICGC Moratorium Rules & PSL Targets**
+- **Urban Co-operative Banks (UCB) 4-Tier Regulatory Categorisation (N.S. Vishwanathan Committee)**:
+  - **Tier 1**: Deposits up to **₹100 Crore**; minimum net worth of **₹2 Crore** for single-district unit UCBs, **₹5 Crore** for all other UCBs; mandatory Capital to Risk-Weighted Assets Ratio (CRAR) of **9%**.
+  - **Tier 2**: Deposits **> ₹100 Crore up to ₹1,000 Crore**; CRAR of **12%**.
+  - **Tier 3**: Deposits **> ₹1,000 Crore up to ₹10,000 Crore**; CRAR of **12%**.
+  - **Tier 4**: Deposits **> ₹10,000 Crore**; CRAR of **12%**.
+  - **PSL Glidepath**: Target for UCBs scaled up to **75% of Adjusted Net Bank Credit (ANBC)** or Credit Equivalent of Off-Balance Sheet Exposure (CEOBE) by March 31, 2026.
+- **Deposit Insurance & Credit Guarantee Corporation (DICGC) 90-Day Moratorium Framework**:
+  - Governed by **Section 18A of the DICGC Act, 1961** (inserted via DICGC Amendment Act, 2021).
+  - When RBI places an insured bank under all-inclusive Directions or Moratorium, depositors receive up to **₹5 Lakh** (principal + interest) within **90 days**.
+  - **Two-Stage Statutory Timeline**: Insured bank must submit list of claims within **45 days**; DICGC verifies and settles claims within the subsequent **45 days**.
+  - Authorized capital of DICGC: **₹50 Crore**; wholly-owned statutory subsidiary of RBI.
+- **Priority Sector Lending (PSL) Comprehensive Regulatory Matrix**:
+  - **Commercial Banks (Domestic & Foreign with ≥ 20 branches)**: Total PSL **40% of ANBC**; **Agriculture 18%** (sub-target: **10%** for Small & Marginal Farmers); **Micro Enterprises 7.5%**; **Weaker Sections 12%**.
+  - **Regional Rural Banks (RRBs) & Small Finance Banks (SFBs)**: Total PSL **75% of ANBC**.
+  - **Shortfall Penalty**: PSL shortfalls are mandatorily allocated to the **Rural Infrastructure Development Fund (RIDF)** maintained by NABARD, or other specialized funds with SIDBI, NHB, or MUDRA.
+
+🎯 Exam Angle →
+
+- The UCB Tier 1 vs Tiers 2–4 CRAR Trap: Tier 1 UCBs require **9% CRAR**; Tiers 2, 3, and 4 require **12% CRAR** (examiners frequently test this distinction).
+- DICGC 90-Day Breakdown Trap: Exactly **45 days for bank submission + 45 days for DICGC disbursement** = 90 days total.
+- RRB and SFB PSL Target: **75% of ANBC** (NOT 40%).
+- Target MCQ: 'What is the mandatory CRAR required for Tier 2, 3, and 4 Urban Co-operative Banks under the revised 4-tier regulatory framework?' → **12%**.
+
+---
+
+📰 [STA-009] **Central Bank Governance, Currency Denomination Limits, Monetary Policy Committee Rules & Public Debt Instruments**
+- **RBI Central Board Composition & Tenure (Section 8, RBI Act, 1934)**:
+  - RBI established on **April 1, 1935** under RBI Act 1934 on the recommendations of the **Hilton Young Commission (1926)**; nationalised on **January 1, 1949**.
+  - Central Board of Directors consists of a maximum of **21 members**: Governor + up to 4 Deputy Governors (appointed by Central Government for terms up to **5 years**, eligible for reappointment) + 4 Directors from Local Boards (Mumbai, Kolkata, Chennai, New Delhi) + 2 Government Officials + 10 Directors nominated by GoI.
+- **Monetary Policy Committee (MPC) Statutory Governance (Section 45ZB)**:
+  - Comprises **6 members**: 3 from RBI (Governor as ex-officio Chairperson, Deputy Governor in charge of monetary policy, 1 officer nominated by Central Board) and 3 external members appointed by Central Government for a fixed term of **4 years** (**not eligible for reappointment**).
+  - Quorum: **4 members** (at least one must be Governor or Deputy Governor); Governor holds a casting vote in the event of a tie.
+  - Minutes of MPC proceedings published on the **14th day** following the meeting under Section 45ZL.
+- **Statutory Cash Reserve Ratio (CRR) vs Statutory Liquidity Ratio (SLR)**:
+  - **CRR (Section 42(1), RBI Act, 1934)**: Cash balances maintained with RBI on Net Demand and Time Liabilities (NDTL); RBI pays **0% interest**; 2006 amendment removed historical statutory floor (3%) and ceiling (20%).
+  - **SLR (Section 24, Banking Regulation Act, 1949)**: Liquid assets (gold, unencumbered approved G-Secs, cash) maintained by banks with themselves; maximum statutory ceiling is **40%** (2007 amendment removed 25% floor).
+- **Statutory Limits on Currency & Sovereign Debt Operations**:
+  - **Maximum Banknote Denomination**: **Section 24 of RBI Act, 1934** empowers RBI to issue banknotes up to denomination of **₹10,000**.
+  - **Maximum Coin Denomination**: **Section 6 of Coinage Act, 2011** authorizes minting of coins up to **₹1,000**.
+  - **Ways and Means Advances (WMA)**: Extended under **Section 17(5) of RBI Act, 1934** to Central and State Governments to bridge temporary cash flow mismatches; clean advances repayable within **3 months (90 days)**.
+  - **Treasury Bills (T-Bills)**: Short-term zero-coupon promissory notes issued in **91-day, 182-day, and 364-day** tenors; minimum investment is **₹10,000** and in multiples thereof; auctioned by RBI on Wednesdays. Cash Management Bills (CMBs) have tenors **< 91 days**.
+
+🎯 Exam Angle →
+
+- External MPC Member Tenure: Appointed for **4 years** and are **NOT eligible for reappointment** (examiners frequently test re-eligibility).
+- MPC Minutes Timeline: Published on the **14th day** after the meeting (not 7 days, not 30 days).
+- Maximum Note vs Coin Trap: Maximum banknote denomination is **₹10,000** (under RBI Act); maximum coin denomination is **₹1,000** (under Coinage Act 2011).
+- WMA Tenure: Clean advances repayable within **3 months / 90 days**.
+- Target MCQ: 'Under Section 24 of the Reserve Bank of India Act, 1934, what is the highest denomination of bank note that the RBI is authorized to issue?' → **₹10,000**.
+
+---

@@ -38,6 +38,28 @@ All notable changes to the Current Affairs Dossier repository and Rajputana Gaze
   - Zero interactive checkboxes (`[ ]`/`[x]`), zero sub-heading hashes (`###`), KaTeX math verified.
   - Zero PDF generated (strictly adhering to user standing constraint).
 
+### 🏆 7-File Coaching Marathon Ingestion (IBPS PO Mains 35+ Strike Integration)
+- **Comprehensive Audit of 7 Specialized Coaching Files (1,063 Total Pages)**:
+  - Ingested and synthesized:
+    1. `IBPS_PO_REPORTS__MARATHON` (51 pp • Global Indices & Multi-Dimensional Rankings)
+    2. `IBPS_PO_SCHEMES_MARATHON_UPDATED` (120 pp • 79 Deep Union Flagship Schemes)
+    3. `Last_6_months_Circulars_Part_1` (151 pp • RBI Master Directions & Prudential Norms Q1–Q79)
+    4. `Last_6_months_Circulars_Part_2` (168 pp • Banking Regulations, DICGC, UCBs, PCA Q80–Q160+)
+    5. `PIB_One_Shot_IBPS_PO_Mains` (73 pp • 90+ Cabinet Decisions & Industrial Missions)
+    6. `Sep_One_Shot_1st_to_21st_IBPS_Po` (250 pp • Daily Slides & Gazette Directives)
+    7. `Top_100_September_CA_MCQs` (53 pp • 100 Apex Practice Questions & Traps)
+- **Deployment of 3 High-Yield Master Strike Grids to IBPS 35+ Master Dossier**:
+  - **Strike Grid 8 (Global Indices & Benchmark Reports Matrix 2025–26)**: 14 landmark reports (GII, HDI, Happiness, Gender Gap, Peace, Terrorism, Hunger, Press Freedom, CPI, CCPI, EPI, IMD, Soft Power, GFP) detailing exact publishers, #1 nations, India's ranks/scores, bottom ranks, and examiner traps.
+  - **Strike Grid 9 (RBI Master Directions, Statutory Timeframes & Prudential Penalties)**: DICGC 90-day moratorium claims (45d bank + 45d DICGC), MPC 14-day minutes, CRR/SLR statutory clauses, PSL targets (40% vs 75%), UCB 4-tier net worth/CRAR (9% vs 12%), LRS \$250,000 rules, currency note (₹10,000) & coin (₹1,000) caps, WMA (90 days), T-Bills, and grievance redressal windows (RB-IOS 30d, CPGRAMS 21d, Bima Bharosa 14d).
+  - **Strike Grid 10 (2025–2026 Sovereign Industrial Missions & Cabinet Outlays)**: PM-VBRY (EPFO-linked 2025–2027), PM Surya Ghar (₹75,021 Cr, 1 Cr homes, ₹30k/60k/78k subsidies), PM-E DRIVE (₹10,900 Cr), Ayushman Bharat 70+ Universal Senior Cover (₹5L/yr), PMIS (21–24 yrs, ₹5k/mo stipend + ₹6k grant), PAIMANA (≥₹150 Cr infra monitoring), and GOBARdhan 2026.
+- **Enrichment of Static Banking Core (`static_banking_regulatory_core.md`)**:
+  - Added **`[STA-008]`**: UCB 4-Tier Categorisation, DICGC Moratorium Rules & PSL Targets.
+  - Added **`[STA-009]`**: Central Bank Governance, Currency Denomination Limits, Monetary Policy Committee Rules & Public Debt Instruments.
+- **Web Hub Parity Maintained**:
+  - `current_affairs_hub.html === index.html` (**PERFECT PARITY ✅**, 2,339,268 bytes).
+  - Clean HTML table wrappers integrated for all new Strike Grids.
+  - Zero PDF generated (100% adhering to negative constraint).
+
 ## 🚀 [v2.22] — 2026-09-29
 
 ### 🏷️ Universal Unique Dispatch & Scroll Code Architecture (`[PREFIX-XXX]`)

@@ -118,7 +118,7 @@
   - **Recent 2025–2026 Accessions**: **Moldova, Malta, and Angola** recently completed full accession instruments.
   - **Major Geopolitical Shift (US Withdrawal)**: United States issued formal notice of withdrawal from 66 international organizations including the ISA on **January 7, 2026**.
 - **Flagship Global Programs & Targets**:
-  - **"Towards 1000" Strategy**: Mobilize **$1,000 Billion** (US$1 Trillion) of solar investment by **2030**; provide clean energy access to **1,000 Million people**; install **1,000 GW** of solar capacity; mitigate **1,000 Million tonnes of CO2** emissions annually.
+  - **"Towards 1000" Strategy**: Mobilize **\$1,000 Billion** (US\$1 Trillion) of solar investment by **2030**; provide clean energy access to **1,000 Million people**; install **1,000 GW** of solar capacity; mitigate **1,000 Million tonnes of CO2** emissions annually.
   - **OSOWOG (One Sun One World One Grid)**: Transnational interconnected solar electricity grid initiative spearheaded by India to transfer solar power across time zones.
 
 🎯 Exam Angle →
@@ -139,8 +139,8 @@
   - **Minimum Tier 1 Capital**: **7.0%**.
   - **Minimum Total Capital Adequacy Ratio (CRAR)**: **9.0%** under Basel rules, but **RBI mandates 11.5%** for Indian commercial banks (9.0% base + 2.5% CCB).
 - **Short-Term & Long-Term Liquidity Metrics under Basel III**:
-  - **Liquidity Coverage Ratio (LCR)**: Conceived under Basel III; mandates banks to hold an unencumbered stock of High-Quality Liquid Assets (HQLA) equal to at least **100%** of total net cash outflows anticipated over a **30-day severe stress period** ($LCR = \text{Stock of HQLA} / \text{Total net cash outflows over 30 days} \ge 100\%$).
-  - **Net Stable Funding Ratio (NSFR)**: Complementary structural metric requiring banks to fund long-term assets with stable liabilities over a **1-year horizon** ($NSFR = \text{Available Stable Funding} / \text{Required Stable Funding} \ge 100\%$).
+  - **Liquidity Coverage Ratio (LCR)**: Conceived under Basel III; mandates banks to hold an unencumbered stock of High-Quality Liquid Assets (HQLA) equal to at least **100%** of total net cash outflows anticipated over a **30-day severe stress period** (\$LCR = \text{Stock of HQLA} / \text{Total net cash outflows over 30 days} \ge 100\%\$).
+  - **Net Stable Funding Ratio (NSFR)**: Complementary structural metric requiring banks to fund long-term assets with stable liabilities over a **1-year horizon** (\$NSFR = \text{Available Stable Funding} / \text{Required Stable Funding} \ge 100\%\$).
   - **Leverage Ratio**: Pure non-risk-weighted balance sheet constraint (Tier 1 Capital / Total Exposure); RBI prescribes minimum **4.0% for Domestic Systemically Important Banks (D-SIBs)** and **3.5% for other banks**.
 - **Asset Classification & Delinquency Ladder (RBI Master Directions)**:
   - **Standard Asset**: Generating normal income with principal and interest serviced on time.
@@ -171,7 +171,7 @@
   - **Other Bank ATMs in 6 Designated Metros**: Minimum **3 free transactions per month** (Metros: Mumbai, New Delhi, Chennai, Kolkata, Bengaluru, Hyderabad).
   - **Other Bank ATMs in Non-Metro Centers**: Minimum **5 free transactions per month**.
   - **Permissible Interchange Fees Capped by RBI**: Maximum **₹17 per financial transaction** and **₹6 per non-financial transaction**.
-  - **Failed ATM Transaction Compensation ($T+5$ Rule)**: If an account is debited but cash is not dispensed, bank must reverse the funds within **$T+5$ calendar days**; delay beyond $T+5$ days attracts statutory penalty of **₹100 per day** payable directly to the customer without requiring a complaint.
+  - **Failed ATM Transaction Compensation (\$T+5\$ Rule)**: If an account is debited but cash is not dispensed, bank must reverse the funds within **\$T+5\$ calendar days**; delay beyond \$T+5\$ days attracts statutory penalty of **₹100 per day** payable directly to the customer without requiring a complaint.
 - **Reserve Bank - Integrated Ombudsman Scheme, 2021 (RB-IOS)**:
   - **Treaty & Statutory Architecture**: Unifies 3 predecessor schemes under the 'One Nation One Ombudsman' vision — *Banking Ombudsman Scheme (2006)*, *Ombudsman Scheme for NBFCs (2018)*, and *Ombudsman Scheme for Digital Transactions (2019)*.
   - **Covered Regulated Entities (REs)**: Encompasses all Scheduled Commercial Banks (SCBs), Regional Rural Banks (RRBs), Non-Scheduled Primary (Urban) Co-operative Banks with deposit size **≥ ₹50 Crore**, all deposit-taking NBFCs (NBFC-Ds), non-deposit taking NBFCs with asset size **≥ ₹100 Crore** having public interface, and **Credit Information Companies (CICs)** (brought under RB-IOS via 2022 amendment).
@@ -191,7 +191,7 @@
 - RB-IOS Centralised Processing Centre (CRPC): Located at **RBI Chandigarh** (NOT Mumbai or New Delhi).
 - RB-IOS Appellate Authority: **Executive Director in-charge of CEPD at RBI**; appeal period is **30 days**.
 - Escalation Horizon: Customer must wait **30 days** for bank response before filing with Ombudsman; maximum filing window is **1 year**.
-- Failed ATM Reversal: Timeline is **$T+5$ days**; delay penalty is **₹100 per day**.
+- Failed ATM Reversal: Timeline is **\$T+5\$ days**; delay penalty is **₹100 per day**.
 - DICGC Payout Window: **90 days** from date of RBI moratorium/directions.
 
 ---
@@ -249,7 +249,7 @@
   - **Store of Value**: Asset that maintains its purchasing power over time so wealth can be saved, stored, and retrieved in the future (diminished primarily by inflation).
 - **Global Governance, Strategic Ports & Security Architecture**:
   - **United Nations Security Council Permanent 5 (P5)**: Comprises **5 Permanent Members** holding veto power under the UN Charter: **United States, United Kingdom, France, Russia, and China**. The 10 non-permanent members are elected by the UN General Assembly for 2-year terms.
-  - **Chabahar Port Strategic Bilateral Pact**: Located in the Sistan-Baluchistan province of south-eastern Iran along the Gulf of Oman; provides India sea-land access to Afghanistan and Central Asia bypassing Pakistan; on **13 May 2024**, India Ports Global Limited (IPGL) signed a landmark **10-year long-term bilateral contract** with Iran's Ports and Maritime Organization (PMO) to equip and operate the **Shahid Beheshti terminal** with an investment of $120 Million.
+  - **Chabahar Port Strategic Bilateral Pact**: Located in the Sistan-Baluchistan province of south-eastern Iran along the Gulf of Oman; provides India sea-land access to Afghanistan and Central Asia bypassing Pakistan; on **13 May 2024**, India Ports Global Limited (IPGL) signed a landmark **10-year long-term bilateral contract** with Iran's Ports and Maritime Organization (PMO) to equip and operate the **Shahid Beheshti terminal** with an investment of \$120 Million.
 
 🎯 Exam Angle →
 
@@ -1517,8 +1517,8 @@
   - *Component Division*: **80% Basic Component** : **20% Performance Component** across both RLBs and ULBs.
   - *Basic Component (80%)*: Earmarked as **50% Tied** (strictly for Drinking Water supply and Sanitation / Solid Waste Management) and **50% Untied** (roads capped at max 20%; strictly prohibited for salaries or establishment expenses).
   - *Performance Component (20%)*: **100% Untied**, split equally into Local Body Performance (10%) and State Performance (10%). Disbursed based on Own Source Revenue (OSR) thresholds (Gram Panchayats must achieve 2.5% p.a. growth or ₹1,200/household/yr; ULBs must achieve 5% p.a. growth).
-  - *Urbanisation Premium (₹10,000 Cr)*: One-time grant of **₹2,000 per person** (2011 Census) to incentivize peri-urban village mergers into ULBs with population $\ge$ 1 lakh, subject to a state rural-to-urban transition policy.
-  - *Special Infrastructure Component (₹56,100 Cr)*: Targeted wastewater and drainage overhaul in cities with population **10 lakh to 40 lakh** (max 2 cities per state; funded **60% Centre : 40% State/ULB**; project ceilings ₹5,000 Cr for pop $\ge$ 15L and ₹3,500 Cr for pop < 15L).
+  - *Urbanisation Premium (₹10,000 Cr)*: One-time grant of **₹2,000 per person** (2011 Census) to incentivize peri-urban village mergers into ULBs with population \$\ge\$ 1 lakh, subject to a state rural-to-urban transition policy.
+  - *Special Infrastructure Component (₹56,100 Cr)*: Targeted wastewater and drainage overhaul in cities with population **10 lakh to 40 lakh** (max 2 cities per state; funded **60% Centre : 40% State/ULB**; project ceilings ₹5,000 Cr for pop \$\ge\$ 15L and ₹3,500 Cr for pop < 15L).
   - *State Transfer Mandate*: States must pass on grants to local bodies within **10 working days** of receipt from the Centre; delays attract penalty interest at the State's previous year SDL / market borrowing rate.
 - **Financing of Disaster Management (Total Corpus: ₹2,04,401 Crore)**:
   - *State Level (SDRF + SDMF)*: **₹2,04,401 crore** (Centre: ₹1,55,915.85 Cr; States: ₹48,485.15 Cr) covering FY27–FY31.
@@ -2295,7 +2295,7 @@
   - **Governing Board Structure (9 Members)**: Chairperson + 4 nominated members (1 each from RBI, SEBI, IRDAI, and PFRDA) + 2 members from the Ministry of Finance + 2 whole-time or part-time members appointed by Central Government.
 - **IFSC Banking Units (IBUs) Regulatory Architecture**:
   - **Legal Status under FEMA**: An IBU is a branch of an Indian or foreign bank set up in GIFT IFSC; treated statutorily as a **person resident outside India** under the Foreign Exchange Management Act (FEMA), 1999.
-  - **Minimum Regulatory Capital**: The parent bank must provide minimum capital of **$20 Million** (US Dollars) or equivalent in freely convertible currency.
+  - **Minimum Regulatory Capital**: The parent bank must provide minimum capital of **\$20 Million** (US Dollars) or equivalent in freely convertible currency.
   - **Statutory Reserve Exemption**: IBUs are **100% exempt from domestic Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR)** mandates of the RBI.
   - **Currency of Operation**: Transacts strictly in freely convertible foreign currencies (USD, EUR, GBP, JPY), not Indian Rupees (INR allowed only for local administrative expenses).
   - **Asset & Liability Powers**: Authorized to accept foreign currency deposits from non-residents and eligible residents (under LRS), arrange External Commercial Borrowings (ECBs), and underwrite global syndicated loans.
@@ -2305,7 +2305,7 @@
 - Unified Regulator Powers: Replaces **RBI, SEBI, IRDAI, and PFRDA** inside IFSCs (consolidating 4 regulators into 1).
 - Governing Law & HQ: **IFSCA Act, 2019**; HQ at **GIFT City, Gandhinagar, Gujarat**.
 - Board Composition: **Chairperson + 9 members** (includes 1 nominee each from RBI, SEBI, IRDAI, PFRDA).
-- IBU Capital & Reserve Exemption: Parent bank minimum capital = **$20 Million**; IBUs are **completely exempt from CRR and SLR**.
+- IBU Capital & Reserve Exemption: Parent bank minimum capital = **\$20 Million**; IBUs are **completely exempt from CRR and SLR**.
 - Target MCQ Form: "Which statutory authority acts as the single unified regulator replacing RBI, SEBI, IRDAI, and PFRDA in GIFT City?" → **International Financial Services Centres Authority (IFSCA)**.
 
 ---
@@ -2421,30 +2421,30 @@
 
 ---
 
-📰 [MS-137] **India–New Zealand Free Trade Agreement (FTA): 100% Duty-Free Access & US$20B Investment**
+📰 [MS-137] **India–New Zealand Free Trade Agreement (FTA): 100% Duty-Free Access & US\$20B Investment**
 - **Operational Date**: Formally takes effect on **October 20, 2026** (signed April 27, 2026).
 - **Tariff-Free Access**: Grants **100% duty-free access** for Indian exports entering New Zealand, eliminating peak 10% tariffs on autos, auto components, ceramics, textiles, and carpets.
-- **Investment Pillar**: New Zealand committed to invest **US$20 Billion in India over 15 years** in agri-tech, cold-chains, and green energy.
+- **Investment Pillar**: New Zealand committed to invest **US\$20 Billion in India over 15 years** in agri-tech, cold-chains, and green energy.
 
 🎯 Exam Angle →
 
 - Enforcement: **October 20, 2026**.
 - Tariffs: **100% duty-free entry** for Indian goods.
-- Investment: **US$20 Billion over 15 years**.
-- Target MCQ Form: "Under the India–New Zealand FTA, what is New Zealand's 15-year investment commitment in India?" → **US$20 Billion**.
+- Investment: **US\$20 Billion over 15 years**.
+- Target MCQ Form: "Under the India–New Zealand FTA, what is New Zealand's 15-year investment commitment in India?" → **US\$20 Billion**.
 
 ---
 
-📰 [MS-138] **Maldives US$150 Million SBI T-Bill Full Repayment: India's US$45 Million Sovereign Interest Support**
-- **Debt Clearance**: Maldives cleared the final **US$50 Million tranche** on September 17, 2026, completing full repayment of the **US$150 Million T-bill facility** subscribed by State Bank of India (SBI) in 2019.
-- **India's Grant Assistance**: Government of India absorbed nearly **US$45 Million in interest payments** over 5 years as direct sovereign support to Male.
-- **Currency Swap & Bonds**: India maintains a **₹3,000 Crore currency swap line** and holds **$350 Million in Maldivian T-Bonds** valid till 2029–2030.
+📰 [MS-138] **Maldives US\$150 Million SBI T-Bill Full Repayment: India's US\$45 Million Sovereign Interest Support**
+- **Debt Clearance**: Maldives cleared the final **US\$50 Million tranche** on September 17, 2026, completing full repayment of the **US\$150 Million T-bill facility** subscribed by State Bank of India (SBI) in 2019.
+- **India's Grant Assistance**: Government of India absorbed nearly **US\$45 Million in interest payments** over 5 years as direct sovereign support to Male.
+- **Currency Swap & Bonds**: India maintains a **₹3,000 Crore currency swap line** and holds **\$350 Million in Maldivian T-Bonds** valid till 2029–2030.
 
 🎯 Exam Angle →
 
-- Repaid Facility: **US$150 Million** (SBI subscribed 2019; final $50M cleared Sept 2026).
-- India's Interest Relief: **Nearly US$45 Million** absorbed by Government of India.
-- Target MCQ Form: "How much interest assistance did the Government of India absorb on the US$150M SBI T-bill facility extended to the Maldives?" → **Nearly US$45 Million**.
+- Repaid Facility: **US\$150 Million** (SBI subscribed 2019; final \$50M cleared Sept 2026).
+- India's Interest Relief: **Nearly US\$45 Million** absorbed by Government of India.
+- Target MCQ Form: "How much interest assistance did the Government of India absorb on the US\$150M SBI T-bill facility extended to the Maldives?" → **Nearly US\$45 Million**.
 
 ## 8. ⚖️ REGULATORY BODIES, ACTS, COMMITTEES & APPOINTMENTS
 
@@ -2958,4 +2958,56 @@
 | **B. Sivaraman Committee (1981)** | **B. Sivaraman**<br>Committee to Review Arrangements for Institutional Credit for Agriculture and Rural Development (CRAFICARD) | • Statutory establishment of **National Bank for Agriculture and Rural Development (NABARD)**<br>• Transferred agricultural credit functions of RBI and ACD to NABARD under NABARD Act, 1981 (inaugurated **12 July 1982**) | • CRAFICARD report led to the formation of **NABARD** on **12 July 1982**. |
 | **Hilton Young Commission (1926)** | **Edward Hilton Young**<br>Royal Commission on Indian Currency and Finance | • Recommended creation of a central bank for India<br>• Led to the enactment of the **Reserve Bank of India Act, 1934** and RBI commencing operations on **April 1, 1935** | • Led to the creation of **RBI** in 1935. |
 | **A.D. Gorwala Committee (1951)** | **A.D. Gorwala**<br>All India Rural Credit Survey Committee | • Recommended amalgamation and conversion of the Imperial Bank of India into a state-partnered national institution<br>• Led to the enactment of **State Bank of India Act, 1955** and formation of **SBI on July 1, 1955** | • Led to the creation of **State Bank of India (SBI)** in 1955. |
+---
 
+### 🏛️ Strike Grid 8: Comprehensive Global Indices, Rankings & Multi-Dimensional Benchmark Reports Matrix 2025–2026
+
+| Index / Report Name & Edition | Publishing Body / Organization | Top Ranked Nation (#1) | India's Rank & Score | Bottom Ranked Nation | Core Indicator & Examiner Traps |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Global Innovation Index (GII 2025/26)** | **WIPO** (World Intellectual Property Organization, Geneva) | **Switzerland** (14th consecutive year) | **39th** / 133 economies (Score: 38.3) | Angola / Niger (133rd) | Tops Central & Southern Asia; tops lower-middle income economies alongside Vietnam. *Trap: Not published by WEF or World Bank.* |
+| **Human Development Index (HDI 2025/26)** | **UNDP** (UN Development Programme) | **Switzerland** (0.967), #2 Norway | **134th** / 193 nations (Score: 0.644) | Somalia (0.361) / South Sudan | Medium Human Development tier. Life expectancy at birth: **67.7 years**; Expected schooling: **12.6 years**; GNI per capita: **\$6,951**. |
+| **World Happiness Report 2026** | **UN SDSN** (Sustainable Development Solutions Network) + Gallup | **Finland** (7th consecutive year), #2 Denmark | **126th** / 143 nations | Afghanistan (143rd) | Based on 6 variables: GDP per capita, social support, healthy life expectancy, freedom, generosity, perceptions of corruption. |
+| **Global Gender Gap Index 2026** | **WEF** (World Economic Forum, Cologny) | **Iceland** (15th consecutive year, 93.5% closed) | **131st** / 145 nations (Score: 64.5% closed) | Sudan (145th) | 4 Sub-indices: Economic (39.8%), Educational (97.2%), Health (95.1%), Political (25.1%). *Trap: India ranks highest in Educational Attainment.* |
+| **Global Peace Index (GPI 2026)** | **IEP** (Institute for Economics & Peace, Sydney) | **Iceland** (most peaceful since 2008), #2 Ireland | **127th** / 163 nations (Score: 2.319) | Yemen (163rd), #162 Sudan | Measured on 23 qualitative & quantitative indicators across societal safety, ongoing domestic/international conflict, and militarisation. |
+| **Global Terrorism Index (GTI 2026)** | **IEP** (Institute for Economics & Peace, Sydney) | **Burkina Faso** (most impacted), #2 Israel | **14th** most impacted globally | Multiple nations (0 impact) | Measures direct and indirect impact of terrorism (deaths, incidents, injuries, hostages). |
+| **Global Hunger Index (GHI 2025/26)** | **Concern Worldwide** (Ireland) & **Welthungerhilfe** (Germany) | Belarus, Bosnia, Chile (Grouped 1–22 with score <5) | **105th** / 127 nations (Score: 27.3 - "Serious") | Yemen (127th), Somalia | 4 Indicators: Undernourishment, Child Wasting, Child Stunting, Child Mortality. *Trap: India's child wasting rate is highest in world at 18.7%.* |
+| **World Press Freedom Index 2026** | **Reporters Without Borders** (RSF, Paris) | **Norway** (8th consecutive year), #2 Denmark | **159th** / 180 nations (Score: 31.28) | Eritrea (180th), #179 Syria | Evaluates 5 contextual indicators: political context, legal framework, economic context, sociocultural context, and security. Classified as "Very Serious". |
+| **Corruption Perceptions Index (CPI 2025/26)** | **Transparency International** (Berlin) | **Denmark** (score 90), #2 Finland (87) | **93rd** / 180 nations (Score: 39 / 100) | Somalia (score 11), Venezuela | Ranks 180 countries on perceived public sector corruption; 0 = highly corrupt, 100 = very clean. *Trap: Score dropped 1 point from 40 to 39.* |
+| **Climate Change Performance Index (CCPI 2026)** | **Germanwatch**, NewClimate Institute & CAN | **Ranks 1, 2, 3 left BLANK**; #4 Denmark | **7th** globally (among top-performing G20) | Saudi Arabia (67th), Iran | First 3 ranks vacant because no country is on 1.5°C Paris trajectory. Evaluates GHG emissions, renewable energy, energy use, and climate policy. |
+| **Environmental Performance Index (EPI 2026)** | **Yale Center for Environmental Law** & Columbia University | **Estonia** (score 75.3), #2 Luxembourg | **176th** / 180 nations (Score: 27.6) | Vietnam (180th), Pakistan | Assesses climate change mitigation, environmental health, and ecosystem vitality. |
+| **IMD World Competitiveness Ranking 2026** | **IMD** (International Institute for Management Development, Lausanne) | **Singapore** (#1), #2 Switzerland, #3 Denmark | **39th** / 67 economies | Venezuela (67th), Argentina | 4 Pillars: Economic Performance, Government Efficiency, Business Efficiency, and Infrastructure. |
+| **Global Soft Power Index 2026** | **Brand Finance** (London, UK) | **United States** (#1), #2 UK, #3 China | **27th** / 193 nations | Multiple small island nations | Measures Familiarity, Reputation, and Influence across 8 Soft Power Pillars. |
+| **Global Firepower Index 2026** | **Global Firepower** (GFP) | **United States** (#1), #2 Russia, #3 China | **4th** most powerful military globally | Bhutan (145th) | Evaluates over 60 individual factors (troop strength, logistics, geography, financial capability). Top 4: US, Russia, China, India. |
+
+---
+
+### 🏛️ Strike Grid 9: RBI Master Directions, Statutory Timeframes & Prudential Penalties Matrix
+
+| Regulatory Mechanism | Governing Act & Section | Statutory Timeframe / Threshold Value | Operational Rule & High-Yield Examiner Trap |
+| :--- | :--- | :--- | :--- |
+| **DICGC Moratorium Claim Settlement** | **Section 18A**, DICGC Act, 1961 (Amended 2021) | **90 Days Total** (45 days Bank + 45 days DICGC) | When RBI places a bank under all-inclusive Directions/Moratorium, depositors receive up to **₹5 Lakh** within 90 days. *Trap: Bank gets 45 days to submit claims, DICGC gets next 45 days to verify and disburse.* Authorized capital: **₹50 Crore**. |
+| **Monetary Policy Committee (MPC) Minutes** | **Section 45ZL**, RBI Act, 1934 | **14th Day** post meeting | Resolution is published on the day of the meeting; detailed minutes (voting record and member statements) published on the **14th day**. MPC has **6 members**, quorum is **4 members**; Governor holds casting vote. |
+| **Cash Reserve Ratio (CRR)** | **Section 42(1)**, RBI Act, 1934 | No statutory floor or ceiling | Maintained with RBI in cash. Maintained on Net Demand and Time Liabilities (NDTL). RBI pays **0% interest** on CRR. *Trap: 2006 amendment removed the historical 3% floor and 20% ceiling.* |
+| **Statutory Liquidity Ratio (SLR)** | **Section 24**, Banking Regulation Act, 1949 | Maximum ceiling: **40%** (No floor) | Maintained by banks with themselves in gold, unencumbered approved securities, or cash. *Trap: 2007 amendment removed the 25% floor; ceiling remains 40%.* |
+| **Priority Sector Lending (PSL) Targets** | RBI Master Directions - Priority Sector Lending | • Commercial Banks: **40%** of ANBC<br>• SFBs: **75%** of ANBC<br>• RRBs: **75%** of ANBC<br>• UCBs: **75%** of ANBC (by March 2026) | Sub-targets for domestic commercial banks: **Agriculture 18%** (with **10%** for Small & Marginal Farmers / SMF); **Micro Enterprises 7.5%**; **Weaker Sections 12%**. Shortfall funds go to **RIDF (NABARD)**. |
+| **Urban Co-operative Banks (UCB) 4-Tier Framework** | RBI Master Directions based on N.S. Vishwanathan Committee | • **Tier 1**: Deposits \$le\$ ₹100 Cr (CRAR **9%**)<br>• **Tier 2**: Deposits > ₹100 Cr to ₹1,000 Cr (CRAR **12%**)<br>• **Tier 3**: Deposits > ₹1,000 Cr to ₹10,000 Cr (CRAR **12%**)<br>• **Tier 4**: Deposits > ₹10,000 Cr (CRAR **12%**) | Minimum net worth: ₹2 Crore for unit UCBs (single district); ₹5 Crore for all other UCBs. Tiers 2 to 4 must maintain **12% CRAR**; Tier 1 UCBs maintain **9% CRAR**. |
+| **Liberalised Remittance Scheme (LRS)** | FEMA, 1999 & RBI Master Directions | **\$250,000** per financial year | Available to resident individuals including minors. Tax Collected at Source (TCS): **0% up to ₹7 Lakh**; **20% above ₹7 Lakh** for overseas tours/general remittance (**5%** if loan for overseas education under Sec 80E). |
+| **Statutory Currency & Coin Denomination Limits** | **Section 24**, RBI Act, 1934 & **Section 6**, Coinage Act, 2011 | • Banknotes: Up to **₹10,000**<br>• Coins: Up to **₹1,000** | RBI can issue banknotes up to denomination of ₹10,000. Under Coinage Act 2011, coins can be minted up to ₹1,000 denomination. *Trap: ₹1 notes and coins are issued by Ministry of Finance, not RBI.* |
+| **Ways and Means Advances (WMA)** | **Section 17(5)**, RBI Act, 1934 | Repayable within **3 Months (90 Days)** | Clean advances extended by RBI to Central and State Governments to bridge temporary cash flow mismatches between revenue and expenditure. Interest rate: Repo rate for normal WMA. |
+| **Treasury Bills (T-Bills) & CMBs** | RBI Public Debt Operations | • 91-day, 182-day, 364-day tenors<br>• Minimum: **₹10,000** and multiples thereof | Zero-coupon promissory notes auctioned on Wednesdays. Cash Management Bills (CMBs) have maturity **< 91 days** to meet temporary cash mismatches. |
+| **Turnaround Time for Grievances (Ombudsman / CPGRAMS / Bima Bharosa)** | Statutory Citizen Charters | • RB-IOS (RBI): **30 days**<br>• CPGRAMS: **21 days**<br>• Bima Bharosa (IRDAI): **14 days** | Reserve Bank - Integrated Ombudsman Scheme (RB-IOS 2021) covers complaints resolved within 30 days (compensation up to ₹20 Lakh + ₹1 Lakh for mental harassment). CPGRAMS tightened to **21 days** in 2024. Bima Bharosa mandates **14 days** resolution. |
+
+---
+
+### 🏛️ Strike Grid 10: 2025–2026 Sovereign Industrial Missions, Cabinet Outlays & Digital Governance Portals
+
+| Scheme / Mission Name | Nodal Ministry & Implementing Body | Financial Outlay & Budgetary Allocation | Target Beneficiaries & Core Parameters | Key Distractor / Numerical Exam Trap |
+| :--- | :--- | :--- | :--- | :--- |
+| **PM Viksit Bharat Rozgar Yojana (PM-VBRY)** | Ministry of Labour & Employment (EPFO) | Budgetary employment package | Operational from **1 August 2025 to 31 July 2027**. Supports first-time formal employees with wage up to ₹1 Lakh/month (receives 1-month wage up to **₹15,000** in 3 installments). | *Trap: Nodal body is Ministry of Labour & Employment, NOT Ministry of Skill Development or Finance.* |
+| **PM Surya Ghar: Muft Bijli Yojana** | Ministry of New & Renewable Energy (MNRE) | **₹75,021 Crore** | **1 Crore households** receive up to 300 units free power/month. Subsidy: **₹30,000** for 1 kW, **₹60,000** for 2 kW, **₹78,000** for 3 kW or higher. | *Trap: Maximum subsidy is ₹78,000 (not ₹1 Lakh); target is 1 Crore households.* |
+| **PM-E DRIVE Scheme** | Ministry of Heavy Industries | **₹10,900 Crore** (over 2 years) | Replaces legacy FAME-II. Subsidies for electric 2-wheelers, 3-wheelers, ambulances, and **14,028 electric buses** (₹4,391 Cr). ₹2,000 Cr allocated for public EV fast-chargers. | *Trap: Administered by Ministry of Heavy Industries, NOT Road Transport & Highways.* |
+| **Ayushman Bharat PM-JAY Universal 70+ Senior Cover** | Ministry of Health & Family Welfare (NHA) | Central Sector top-up package | Comprehensive free health cover of **₹5 Lakh per year** on family basis to all senior citizens aged **70 years and above**, regardless of income. Distinct **Ayushman Vaya Vandana Card** issued. | *Trap: Age threshold is exactly 70 years and above (not 60 or 65); zero income bar.* |
+| **Prime Minister's Internship Scheme (PMIS)** | Ministry of Corporate Affairs (MCA) | Comprehensive CSR model | Target: **1 Crore youth** over 5 years in top **500 CSR companies**. Age: **21 to 24 years**. Monthly stipend: **₹5,000** (₹4,500 Govt + ₹500 CSR) + **₹6,000** one-time grant. | *Trap: Age bracket is 21–24 years (not 18–25). Stipend is ₹5,000/month (not ₹10,000).* |
+| **PAIMANA Monitoring Framework** | Ministry of Statistics and Programme Implementation (MoSPI) | Central Infrastructure Portfolio | Online digital monitoring system specifically tracking all Central Sector Infrastructure Projects costing **₹150 Crore and above**. | *Trap: Threshold is projects costing ₹150 Crore and above.* |
+| **Semicon India Programme (Semicon 2.0)** | Ministry of Electronics & IT (India Semiconductor Mission / ISM) | Expanded beyond initial **₹76,000 Crore** | Comprehensive fiscal support (50% project cost) for silicon fabs, display fabs, compound semiconductors, silicon photonics, ATMP/OSAT, and Design Linked Incentive (DLI). | *Trap: Fiscal support is 50% of project cost on pari-passu basis across all technology nodes.* |
+| **GOBARdhan (National Circular Bioenergy Scheme 2026)** | Ministry of Petroleum & Natural Gas / Jal Shakti | Circular Bioeconomy Outlay | Galvanizing Organic Bio-Agro Resources Dhan; mandates CBG blending in CNG/PNG (1% in FY26, 3% in FY27, 4% in FY28, 5% in FY29); 500 new waste-to-wealth CBG plants under SATAT. | *Trap: Mandatory blending target reaches 5% by FY 2028-29.* |
