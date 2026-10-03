@@ -271,3 +271,267 @@
 - Target MCQ: 'Under Section 24 of the Reserve Bank of India Act, 1934, what is the highest denomination of bank note that the RBI is authorized to issue?' → **₹10,000**.
 
 ---
+
+📰 [STA-010] **Domestic Systemically Important Banks (D-SIBs) & Capital Surcharge Architecture**
+- **Regulatory Genesis & Assessment Framework**:
+  - Formulated by the Reserve Bank of India in 2014 based on the Basel Committee on Banking Supervision (BCBS) framework for identifying banks deemed **"Too Big To Fail" (TBTF)**.
+  - Eligibility Threshold: Banks whose balance sheet size exceeds **2% of India's Gross Domestic Product (GDP)** are placed in the sample of banks assessed for systemic importance.
+  - Assessment Methodology: Evaluated across 4 core quantitative parameters:
+    1. **Size** (weightage: 40%).
+    2. **Interconnectedness** (weightage: 20%).
+    3. **Substitutability / Financial Institution Infrastructure** (weightage: 20%).
+    4. **Complexity** (weightage: 20%).
+- **D-SIB Bucketing Structure & Additional Common Equity Tier 1 (CET1) Surcharges**:
+  - **Bucket 5**: Additional CET1 requirement: **1.00%** of Risk-Weighted Assets (RWAs) — *Currently Empty*.
+  - **Bucket 4**: Additional CET1 requirement: **0.80%** of RWAs — **State Bank of India (SBI)** (escalated from Bucket 3).
+  - **Bucket 3**: Additional CET1 requirement: **0.60%** of RWAs — *Currently Empty*.
+  - **Bucket 2**: Additional CET1 requirement: **0.40%** of RWAs — **HDFC Bank** (elevated following the merger with HDFC Ltd).
+  - **Bucket 1**: Additional CET1 requirement: **0.20%** of RWAs — **ICICI Bank**.
+- **Regulatory Implication**: The additional CET1 requirement for D-SIBs is in addition to the standard minimum CET1 ratio of 5.5% and the Capital Conservation Buffer (CCB) of 2.5%, raising the total capital adequacy bar for these three lenders.
+
+🎯 Exam Angle →
+
+- SBI Surcharge Trap: SBI is placed in **Bucket 4** requiring an additional **0.80% CET1** surcharge (not 0.60%).
+- HDFC Bank Trap: HDFC Bank is in **Bucket 2** requiring **0.40% CET1**; ICICI Bank is in **Bucket 1** requiring **0.20% CET1**.
+- Assessment Threshold: Banks with assets exceeding **2% of national GDP** are assessed.
+- Target MCQ: 'What additional Common Equity Tier 1 (CET1) capital surcharge is mandated by the RBI for State Bank of India (SBI) as a Bucket 4 D-SIB?' → **0.80% of RWAs**.
+
+---
+
+📰 [STA-011] **DAY-NRLM SHG Credit Architecture, Interest Subvention & Collateral Waivers**
+- **Statutory Framework & Mission Architecture**:
+  - Launched in June 2011 by the Ministry of Rural Development (MoRD) by restructuring Swarnjayanti Gram Swarozgar Yojana (SGSY); partially supported by the World Bank.
+  - Institutional Pillar: Mobilizing rural poor women into **Self-Help Groups (SHGs)** of 10–20 women (5–20 in difficult/tribal terrains).
+  - **Nodal Lead Bank**: **Indian Bank** appointed as the Central Nodal Bank by MoRD for administering the pan-India interest subvention scheme across commercial, co-operative, and regional rural banks.
+- **Interest Subvention Structure for Women SHGs (FY 2025–26)**:
+  - **Loans up to ₹3 Lakh**: Commercial banks lend to women SHGs at **7.00% per annum**.
+  - **Central Interest Subvention**: Government of India provides an interest subvention of **4.50%** directly to banks, bridging the difference between the bank's lending rate (up to an 11.5% cap) and 7%.
+  - **Prompt Repayment Incentive (PRI)**: For SHGs that maintain timely repayment schedules, an additional subvention of **3.00%** is credited directly to the SHG's account, reducing the **effective borrowing cost to 4.00% per annum**.
+  - **Loans between ₹3 Lakh and ₹5 Lakh**: Banks lend at benchmark market interest rates; Central Government provides interest subvention to bridge the rate down to **10% per annum**.
+- **Collateral-Free Credit Waivers**:
+  - Under RBI Master Directions, **no collateral and no margin** is required for loans to women SHGs up to **₹10 Lakh** (historical baseline).
+  - RBI enhanced the mandatory collateral-free lending threshold to **₹20 Lakh** under DAY-NRLM without any asset hypothecation.
+
+🎯 Exam Angle →
+
+- Nodal Bank Trap: The central nodal bank administering DAY-NRLM interest subvention is **Indian Bank** (not SBI, PNB, or NABARD).
+- Effective Interest Rate with PRI: The baseline subsidized rate is **7%**, but with the 3% Prompt Repayment Incentive, the effective borrowing cost drops to **4%**.
+- Collateral Limit: Enhanced collateral-free limit is **₹20 Lakh** (up from ₹10 Lakh).
+- Target MCQ: 'Which public sector bank serves as the central nodal bank for administering interest subvention under DAY-NRLM?' → **Indian Bank**.
+
+---
+
+📰 [STA-012] **Foreign & Overseas Currency Accounts Matrix: NRE, NRO, FCNR(B) & Bank Nostro/Vostro/Loro**
+- **Non-Resident Indian (NRI) Deposit Accounts Master Matrix**:
+  - **NRE (Non-Resident External) Account**:
+    - **Denominated In**: Indian Rupees (**INR**).
+    - **Source of Funds**: Foreign inward remittances in convertible foreign currency.
+    - **Repatriability**: **Freely and fully repatriable** (both principal and interest) outside India without any annual limit.
+    - **Tax Status**: **100% Tax-Free** in India (exempt from Indian Income Tax and Wealth Tax).
+    - **Currency Risk**: Borne entirely by the **depositor** (converted to INR at prevailing market rates).
+  - **NRO (Non-Resident Ordinary) Account**:
+    - **Denominated In**: Indian Rupees (**INR**).
+    - **Source of Funds**: Legitimate income earned inside India (dividends, rent, pension, sale of local assets) or foreign inward remittances.
+    - **Repatriability**: **Restricted**; principal repatriation capped up to **$1 Million USD per financial year** subject to RBI guidelines and tax clearance (Form 15CA/15CB).
+    - **Tax Status**: **Taxable in India**; interest income subject to Tax Deducted at Source (TDS) at standard 30% plus applicable surcharge/cess (or lower rate under Double Taxation Avoidance Agreements - DTAA).
+    - **Joint Account**: Can be held jointly with a resident Indian on 'Former or Survivor' basis.
+  - **FCNR(B) (Foreign Currency Non-Resident Bank) Account**:
+    - **Denominated In**: Permitted **Foreign Currencies** (USD, GBP, EUR, JPY, CAD, AUD).
+    - **Type of Deposit**: **Term Deposit only** (fixed maturity from **1 year to 5 years**; savings accounts not permitted).
+    - **Repatriability**: **Freely and fully repatriable** in foreign currency.
+    - **Tax Status**: **100% Tax-Free** in India.
+    - **Currency Risk**: Borne entirely by the **bank** (no exchange rate risk for the depositor upon maturity).
+- **Interbank Overseas Account Terminology (Latin Derivations)**:
+  - **Nostro Account** (*"Our account with you"*): An Indian bank's account maintained in a foreign bank overseas in that foreign country's domestic currency (e.g., SBI maintaining a USD account with JPMorgan Chase in New York).
+  - **Vostro Account** (*"Your account with us"*): A foreign bank's account maintained in an Indian bank in India in Indian Rupees (e.g., JPMorgan Chase maintaining an INR account with SBI in Mumbai).
+  - **Special Rupee Vostro Accounts (SRVA)**: Specialized Vostro accounts authorized by RBI under Circular No. 10 (July 2022) to settle cross-border international trade transactions directly in Indian Rupees (INR), bypassing USD/EUR clearing.
+  - **Loro Account** (*"Their account"*): A third-party bank referring to an account held by another domestic bank with a foreign correspondent (e.g., Bank of Baroda referencing SBI's Nostro account with JPMorgan Chase: "their account with you").
+  - **Mirror Account**: A shadow ledger maintained by the domestic bank to reflect the real-time debits, credits, and balance of its overseas Nostro account.
+
+🎯 Exam Angle →
+
+- Repatriation Ceiling Trap: NRE is **unlimited / freely repatriable**; NRO repatriation is strictly capped at **$1 Million per financial year**.
+- FCNR(B) Currency Risk Trap: The currency risk in FCNR(B) is borne by the **bank**, NOT the depositor. FCNR(B) can only be opened for **1 to 5 years** (no savings accounts).
+- Nostro vs Vostro Trap: Nostro = **Our money in your country/currency**; Vostro = **Your foreign bank money in our bank in INR**.
+- Target MCQ: 'What is the maximum annual repatriation limit permitted from a Non-Resident Ordinary (NRO) account under RBI FEMA regulations?' → **USD 1 Million per financial year**.
+
+---
+
+📰 [STA-013] **The Bima Trinity & IRDAI Regulatory Architecture**
+- **Insurance Regulatory and Development Authority of India (IRDAI)**:
+  - Statutory body constituted under the **IRDA Act, 1999** following the recommendations of the **Malhotra Committee (1994)**.
+  - Head Office: **Hyderabad, Telangana** (shifted from New Delhi in 2001).
+  - Statutory Composition: Chairman + not more than 5 Whole-Time Members + not more than 4 Part-Time Members (appointed by Central Government). Maximum age: Chairman and Whole-Time Members serve up to **age 65** (members up to age 62).
+  - Mission Goal: **"Insurance for All by 2047"** (marking India's centenary of independence).
+- **The Bima Trinity Architecture (Three Inclusion Pillars)**:
+  - **1. Bima Sugam (Digital Public Infrastructure / Universal Exchange)**:
+    - Conceived as an open-source, digital electronic marketplace acting as the **"UPI of Insurance"**.
+    - Integrates all life, general, and health insurance companies, policyholders, brokers, and web aggregators onto a single interoperable electronic portal.
+    - Enables paperless policy purchase, instant electronic KYC, automated renewals, endorsement changes, and centralized claim settlement tracking.
+    - Equity Structure: Non-profit Section 8 company; 30% shareholding each held by Life Insurance Council and General Insurance Council, remaining equity held by commercial insurers and brokers.
+  - **2. Bima Vistar (Comprehensive Low-Cost Composite Insurance)**:
+    - An all-in-one bundled micro-insurance product designed specifically for rural households and lower-income families.
+    - Combines **Life, Health, Personal Accident, and Property/Crop coverage** into a single unified policy with affordable premium.
+    - Defined benefits: ₹2 Lakh life coverage, ₹2 Lakh personal accident cover, ₹50,000 hospital cash/health indemnity, ₹50,000 property protection.
+  - **3. Bima Vahak (Women-Centric Gram Panchayat Distribution Network)**:
+    - Dedicated field distribution force comprising women micro-agents operating at the **Gram Panchayat level**.
+    - Focuses on financial literacy, doorstep onboarding, last-mile policy issuance, and immediate digital claims assistance for rural women.
+- **Legislative & Foreign Direct Investment (FDI) Shifts**:
+  - Current FDI limit in Indian insurance companies: **74%** under automatic route (enhanced from 49% in 2021).
+  - 100% FDI permitted for Insurance Intermediaries (insurance brokers, loss assessors).
+  - Proposed Insurance Laws (Amendment) Bill codifies **Composite Insurance Licensing** (allowing a single entity to underwrite both life and general/health insurance).
+
+🎯 Exam Angle →
+
+- IRDAI Headquarters: **Hyderabad** (NOT Mumbai, NOT New Delhi).
+- Bima Trinity Components: Bima **Sugam** (Portal/Exchange), Bima **Vistar** (Composite Product), Bima **Vahak** (Women Delivery Agents).
+- Insurance FDI Limit: **74%** for insurance companies; **100%** for insurance intermediaries.
+- Target MCQ: 'Which pillar of IRDAI\'s Bima Trinity represents the open-architecture digital marketplace for policy purchase and claims?' → **Bima Sugam**.
+
+---
+
+📰 [STA-014] **Macroeconomic Modernization & Base-Year Revisions Architecture**
+- **The Economic Need for Base-Year Revisions**:
+  - Economic indices undergo periodic base-year revisions (typically every 5 to 10 years) to eliminate statistical obsolescence, account for structural transformation in economic consumption (e.g., e-commerce, digital subscriptions, renewable energy), and update item weighting baskets.
+- **Master Base-Year Transition Matrix**:
+  - **Consumer Price Index (CPI - Combined)**:
+    - Current Operational Base Year: **2012 = 100** (compiled by National Statistical Office - NSO, MoSPI).
+    - Upcoming Modernized Base Year: **2024 = 100** (incorporating updated Consumption Expenditure Survey 2022–23 weights, reducing the excessive 45.86% weight of Food & Beverages).
+  - **Gross Domestic Product (GDP) / Gross Value Added (GVA)**:
+    - Current Operational Base Year: **2011–12** (transitioned in 2015 from 2004–05).
+    - Upcoming Modernized Base Year: **2020–21 / 2022–23** (incorporating GST electronic data, MCA-21 company registry expansion, and updated supply-use tables).
+  - **Index of Industrial Production (IIP)**:
+    - Current Operational Base Year: **2011–12 = 100** (407 item groups).
+    - Upcoming Modernized Base Year: **2022–23 = 100** (incorporating advanced electronic manufacturing, solar PV modules, and semiconductors).
+  - **Wholesale Price Index (WPI)**:
+    - Current Operational Base Year: **2011–12 = 100** (697 commodities; compiled by Office of Economic Adviser, DPIIT, Ministry of Commerce & Industry).
+    - Proposed Modernized Base Year: **2017–18 / 2022–23**.
+- **CPI vs WPI Invariant Comparison**:
+  - **Services Inclusion**: CPI includes **Services** (health, education, recreation, transport); WPI covers **Goods/Commodities only** (zero services coverage).
+  - **Monetary Policy Anchor**: Under the Urjit Patel Committee recommendations and RBI Act Section 45ZA, the Monetary Policy Committee anchors inflation strictly to **CPI (Combined) Headline Inflation**, targeting **4.00% with a +/- 2.00% tolerance band (2% to 6%)**.
+
+🎯 Exam Angle →
+
+- Monetary Policy Inflation Anchor: RBI uses **CPI-Combined**, NEVER WPI.
+- Services Coverage: CPI includes services; WPI **does NOT include services**.
+- Current CPI Base Year: **2012 = 100**; current GDP Base Year: **2011–12**.
+- Target MCQ: 'Which institution compiles and releases the Wholesale Price Index (WPI) in India?' → **Office of the Economic Adviser, DPIIT (Ministry of Commerce and Industry)**.
+
+---
+
+📰 [STA-015] **Money Supply Dynamics, Equations & Liquidity Aggregates (M0, M1, M2, M3, M4, L1, L2, L3)**
+- **Historical Formulation**:
+  - First standardized by RBI in 1935, refined by the Second Working Group (1977), and fundamentally modernized by the **Third Working Group on Money Supply (chaired by Dr. Y.V. Reddy, 1998)**.
+- **The Classical Monetary Aggregates**:
+  - **M0 (Reserve Money / Monetary Base / High-Powered Money / Central Bank Money)**:
+    - Formula: **Currency in Circulation (CIC) + Bankers' Deposits with RBI + 'Other' Deposits with RBI**.
+    - It represents the total monetary liabilities of the Reserve Bank of India.
+  - **M1 (Narrow Money)**:
+    - Formula: **Currency with the Public + Demand Deposits with the Banking System (Current & Savings Accounts) + 'Other' Deposits with RBI**.
+    - Most liquid measure of commercial money supply.
+  - **M2**:
+    - Formula: **M1 + Post Office Savings Bank Deposits**.
+  - **M3 (Broad Money)**:
+    - Formula: **M1 + Time Deposits with the Banking System (Fixed & Recurring Deposits)**.
+    - Most widely used metric for analyzing aggregate liquidity and monetary policy transmission in India.
+  - **M4**:
+    - Formula: **M3 + Total Post Office Deposits** (excluding National Savings Certificates / NSC).
+- **The Y.V. Reddy (1998) New Monetary Aggregates (NM) & Liquidity Aggregates (L)**:
+  - **NM1**: Currency with the Public + Demand Deposits with Banking System + 'Other' Deposits with RBI.
+  - **NM2**: NM1 + Short-term Time Deposits with contractual maturity up to 1 year.
+  - **NM3**: NM2 + Long-term Time Deposits with contractual maturity > 1 year + Call/Term Borrowing from financial institutions.
+  - **L1 (Liquidity Aggregate 1)**: NM3 + All Deposits with Post Office Savings Banks (excluding NSC).
+  - **L2 (Liquidity Aggregate 2)**: L1 + Term Deposits with Term Lending Institutions and Refinancing Institutions (NABARD, EXIM Bank, SIDBI, NHB) + Term Borrowings by FIs + Certificates of Deposit (CDs) issued by FIs.
+  - **L3 (Liquidity Aggregate 3)**: L2 + Public Deposits of Non-Banking Financial Companies (NBFCs).
+- **Money Multiplier Dynamics**:
+  - Formula: **Money Multiplier ($m$) = Broad Money ($M_3$) / Reserve Money ($M_0$)**.
+  - An increase in Cash Reserve Ratio (CRR) reduces the money multiplier; a decrease in CRR increases the money multiplier.
+
+🎯 Exam Angle →
+
+- Most Liquid vs Broadest Measure: **M1 is the most liquid**; **M3 is the standard Broad Money** measure tracked by RBI.
+- M0 Formulation: M0 includes **Currency in Circulation**, whereas M1 includes **Currency with the Public** (Currency with Public = Currency in Circulation minus Cash in hand with banks).
+- Post Office NSC Trap: NSC (National Savings Certificates) are **strictly excluded** from M4 and L1 calculations.
+- Target MCQ: 'Which equation correctly defines Broad Money (M3) in Indian banking?' → **M1 + Time Deposits with the Banking System**.
+
+---
+
+📰 [STA-016] **Differentiated Banking Architecture: Small Finance Banks (SFBs) vs Payments Banks (PBs)**
+- **Genesis & Policy Mandate**:
+  - Recommended by the **Committee on Comprehensive Financial Services for Small Businesses and Low Income Households (chaired by Dr. Nachiket Mor, 2014)** to drive niche financial inclusion.
+  - Licensed under **Section 22 of the Banking Regulation Act, 1949** as specialized "Differentiated Banks" (distinguished from Universal Scheduled Commercial Banks).
+- **Comprehensive Differentiated Banks Comparison Matrix**:
+  | Statutory Parameter | Small Finance Banks (SFBs) | Payments Banks (PBs) |
+  |---|---|---|
+  | **Core Regulatory Committee** | Usha Thorat Committee (Evaluation) | Nachiket Mor Committee |
+  | **Minimum Paid-Up Capital** | **₹200 Crore** (₹100 Cr for UCBs converting to SFBs) | **₹100 Crore** |
+  | **Lending & Credit Operations** | **Fully permitted** to advance loans and extend credit facilities | **STRICTLY PROHIBITED** from lending or advancing any credit |
+  | **Credit Cards Issuance** | Permitted to issue Credit Cards | **PROHIBITED** from issuing Credit Cards (can issue ATM/Debit cards) |
+  | **Maximum Customer Deposit Limit** | **No ceiling** (can accept unlimited demand & time deposits) | Capped at **₹2 Lakh per individual customer** at end of day |
+  | **Deposit Types Accepted** | Demand Deposits (CASA) + Time Deposits (FD/RD) | **Demand Deposits ONLY** (Savings & Current; zero FDs/RDs) |
+  | **Priority Sector Lending (PSL)** | **75% of Adjusted Net Bank Credit (ANBC)** | **Not Applicable** (since lending is prohibited) |
+  | **Loan Size Concentration Cap** | At least **50% of loan portfolio must be $le$ ₹25 Lakh** | Not Applicable |
+  | **Mandatory Rural Branch Quota** | At least **25% branches** in unbanked rural centres | At least **25% physical access points** in unbanked rural areas |
+  | **Cash Reserve Ratio (CRR)** | Mandatory with RBI (under Sec 42 of RBI Act) | Mandatory with RBI (under Sec 42 of RBI Act) |
+  | **Statutory Liquidity Ratio (SLR)** | Standard operational SLR (18.00% in G-Secs) | Minimum **75% of demand deposits in G-Secs/T-Bills** with maturity up to 1 year; max 25% in current/term deposits with other SCBs |
+  | **Conversion to Universal Bank** | Eligible to apply after **5 years of satisfactory performance**, minimum net worth of **₹1,000 Crore**, and listing | Not eligible for direct universal bank conversion |
+
+🎯 Exam Angle →
+
+- Payments Bank Lending Trap: Payments banks **CANNOT lend money and CANNOT issue credit cards** (they can only issue Debit/ATM cards).
+- Payments Bank Deposit Cap: Capped at **₹2 Lakh per customer** (enhanced from ₹1 Lakh in 2021).
+- SFB PSL Quota: **75% of ANBC** (commercial banks have 40%).
+- SFB Ticket Size Rule: At least **50% of loans must be $le$ ₹25 Lakh**.
+- Target MCQ: 'What is the maximum end-of-day balance limit permitted per individual customer in a Payments Bank account?' → **₹2,00,000 (₹2 Lakh)**.
+
+---
+
+📰 [STA-017] **SEBI Capital Markets Overhaul: T+0 Rolling Settlement, MF Lite & Derivatives Guardrails**
+- **Securities and Exchange Board of India (SEBI)**:
+  - Established on April 12, 1988 as an administrative body; granted statutory status on **January 30, 1992** under the **SEBI Act, 1992**.
+  - Head Office: **Mumbai**; Regional Offices in New Delhi, Kolkata, Chennai, and Ahmedabad.
+  - Leadership: Chairperson appointed under Section 4(1); serves for terms up to 5 years or until age 65.
+- **T+0 Rolling Settlement & Instant Settlement Architecture**:
+  - India became the second country globally after China to implement **T+1 rolling settlement** in January 2023.
+  - In March 2024, SEBI introduced a **Beta version of optional T+0 settlement** for a select basket of 25 liquid scrips with a limited set of brokers.
+  - Operational Mechanism: Under T+0, trades executed between 9:15 AM and 1:30 PM are settled with immediate transfer of funds and securities on the same trading day by **4:30 PM**.
+  - Pathway: Serves as the technological sandbox stepping-stone towards **Instantaneous Real-Time Settlement**.
+- **Mutual Fund Lite (MF Lite) Regulatory Framework**:
+  - Specialized, light-touch regulatory regime established by SEBI specifically for **passively managed mutual funds** (Index Funds and Exchange Traded Funds - ETFs).
+  - Rationale: Passive funds mirror underlying benchmark indices without discretionary fund manager stock-picking risk.
+  - Relaxations: Lowered minimum net worth requirements for asset management companies (AMCs), simplified disclosure norms, streamlined approval pipelines, and reduced compliance overheads to attract new boutique fund houses and expand retail financialization in Tier 2 and Tier 3 cities.
+- **Equity Derivatives (F&O) Market Guardrails (6-Pillar Risk Framework)**:
+  - Formulated following SEBI study showing that 93% of individual retail traders incurred net losses in the Futures & Options (F&O) segment between FY 2022 and FY 2024.
+  - Key Measures:
+    1. **Contract Sizing Enhancement**: Minimum trading lot size value for index derivatives increased from ₹5 Lakh to **₹15 Lakh to ₹20 Lakh**.
+    2. **Rationalization of Weekly Expiries**: Stock exchanges permitted to offer weekly derivative contracts for only **one benchmark index per exchange** (eliminating multiple daily expiries across exchanges).
+    3. **Upfront Option Premium Collection**: Mandating brokers to collect option premiums from buyers upfront.
+    4. **Intraday Monitoring of Position Limits**: Real-time snapshot monitoring of index position limits to prevent market manipulation.
+
+🎯 Exam Angle →
+
+- Settlement Evolution: India migrated from T+2 to **T+1 in Jan 2023**, and launched optional **T+0 beta** in March 2024.
+- MF Lite Applicability: Exclusively applies to **passively managed schemes** (Index Funds and ETFs), NOT active equity funds.
+- F&O Lot Sizing: Minimum contract value increased to **₹15 Lakh - ₹20 Lakh** (up from ₹5 Lakh).
+- Target MCQ: 'What category of mutual fund schemes is covered under SEBI\'s relaxed Mutual Fund Lite (MF Lite) regulatory framework?' → **Passively managed index funds and Exchange Traded Funds (ETFs)**.
+
+---
+
+📰 [STA-018] **Multilateral Development Banks (MDBs) Master Directory & Sovereign Growth Forecasts**
+- **Master Directory of Apex Multilateral Financial Institutions**:
+  | Multilateral Body | Head Office | Established | Current Apex Leadership | India's Voting / Shareholding Status |
+  |---|---|---|---|---|
+  | **World Bank Group (IBRD / IDA)** | **Washington D.C., USA** | 1944 (Bretton Woods) | President: **Ajay Banga** (14th President) | India is the 7th largest shareholder in IBRD; largest historical cumulative borrower from IDA (concessional window) |
+  | **International Monetary Fund (IMF)** | **Washington D.C., USA** | 1944 (Bretton Woods) | Managing Director: **Kristalina Georgieva**; First Deputy MD: **Gita Gopinath** | Quota share: **2.75%** (8th largest quota); SDR currency basket: USD, EUR, CNY, JPY, GBP |
+  | **Asian Development Bank (ADB)** | **Mandaluyong / Manila, Philippines** | 1966 | President: **Masatsugu Asakawa** | Japan and USA are joint largest shareholders (15.6% each); India is the **4th largest shareholder** (6.3%) |
+  | **Asian Infrastructure Investment Bank (AIIB)** | **Beijing, China** | 2016 | President: **Jin Liqun** | China is the 1st largest shareholder (26.6% voting power); **India is the 2nd largest shareholder** (7.6% voting power) |
+  | **New Development Bank (NDB / BRICS)** | **Shanghai, China** | 2015 (Fortaleza Treaty) | President: **Dilma Rousseff** | 5 founding members (Brazil, Russia, India, China, South Africa) held equal **20% initial voting equity**; new members: Bangladesh, UAE, Egypt, Uruguay |
+  | **Bank for International Settlements (BIS)** | **Basel, Switzerland** | 1930 | General Manager: Agustín Carstens | Central bank of central banks; host of the Basel Committee on Banking Supervision (BCBS) |
+  | **European Bank for Reconstruction & Dev (EBRD)** | **London, United Kingdom** | 1991 | President: Odile Renaud-Basso | India became the **69th shareholder** in July 2018 (non-borrowing member) |
+
+🎯 Exam Angle →
+
+- AIIB Shareholding Trap: India is the **2nd largest shareholder** in AIIB (behind China).
+- ADB Shareholding Trap: India is the **4th largest shareholder** in ADB (behind Japan, USA, China).
+- NDB Equal Equity: Founding BRICS members each received equal **20% initial voting power**.
+- Target MCQ: 'What is India\'s shareholding rank in the Asian Infrastructure Investment Bank (AIIB)?' → **Second largest shareholder (behind China)**.

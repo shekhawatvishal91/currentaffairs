@@ -2929,20 +2929,160 @@
 
 ---
 
-### 🏛️ Strike Grid 6: Flagship Social Security & Financial Inclusion Schemes Matrix
+### 🏛️ Strike Grid 6: Master 10-Bucket Government Welfare Schemes & Exam Trap Matrix
 
-| Scheme | Launch Date & Ministry | Eligibility Age & Beneficiary | Financial Assistance / Loan Slab | Premium / Contribution / Moratorium | Nodal / Guarantee Agency |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **PMJJBY** (Pradhan Mantri Jeevan Jyoti Bima Yojana) | **May 9, 2015**<br>Ministry of Finance | **18 to 50 years** (life cover up to age 55)<br>Bank account holders | **₹2,00,000 (₹2 Lakh)** life insurance cover for death due to any cause | **₹436 per annum** (auto-debited from bank account in single installment) | LIC & empanelled life insurers |
-| **PMSBY** (Pradhan Mantri Suraksha Bima Yojana) | **May 9, 2015**<br>Ministry of Finance | **18 to 70 years**<br>Bank account holders | • **₹2,00,000** for accidental death or permanent total disability<br>• **₹1,00,000** for permanent partial disability | **₹20 per annum** (auto-debited in single installment before May 31) | Public General Insurance Companies (PSGICs) |
-| **APY** (Atal Pension Yojana) | **May 9, 2015**<br>Ministry of Finance | **18 to 40 years**<br>All bank account holders (*Income taxpayers excluded since Oct 1, 2022*) | Guaranteed minimum monthly pension: **₹1,000, ₹2,000, ₹3,000, ₹4,000, or ₹5,000** starting at **age 60** | Age-based monthly contribution (lowest: ₹42/mo for ₹1k at age 18; highest: ₹1,454/mo for ₹5k at age 40) | PFRDA (administered through NPS architecture) |
-| **PMJDY** (Pradhan Mantri Jan Dhan Yojana) | **August 28, 2014**<br>Ministry of Finance | Any Indian citizen aged **10 years and above** | • Zero-balance basic savings account<br>• **₹2,00,000** free RuPay accidental cover (for post-28 Aug 2018 accounts)<br>• **₹10,000** Overdraft (OD) facility | No minimum balance requirement; OD up to ₹2,000 without conditions (age 18–65) | Department of Financial Services (DFS), MoF |
-| **PMMY** (Pradhan Mantri MUDRA Yojana) | **April 8, 2015**<br>Ministry of Finance | Non-corporate, non-farm small/micro enterprises | • **Shishu**: Up to **₹50,000**<br>• **Kishore**: **₹50,000 to ₹5,00,000**<br>• **Tarun**: **₹5,00,000 to ₹10,00,000**<br>• **Tarun Plus**: **₹10,00,000 to ₹20,00,000** | Zero collateral; processing fee waived for Shishu; interest linked to RBI benchmark/MCLR | Credit Guarantee Fund for Micro Units (CGFMU) / NCGTC |
-| **Stand-Up India Scheme** (SUI) | **April 5, 2016**<br>Ministry of Finance | **SC, ST, and Women entrepreneurs** (greenfield enterprise) | Composite loan: **₹10 Lakh to ₹100 Lakh (₹1 Crore)** | Repayable in **7 years** with up to **18 months moratorium**; margin money up to **15%** | Credit Guarantee Fund for Stand Up India (CGFSI) / NCGTC |
-| **PM SVANidhi** (PM Street Vendor's AtmaNirbhar Nidhi) | **June 1, 2020**<br>MoHUA | Urban street vendors vending on or before March 24, 2020 | • **1st Tranche**: Up to **₹10,000** (1-year term)<br>• **2nd Tranche**: Up to **₹20,000**<br>• **3rd Tranche**: Up to **₹50,000** | **7% interest subsidy** credited quarterly via DBT; cash-back up to ₹1,200/yr for digital transactions | SIDBI (Credit Guarantee: CGTMSE) |
-| **PM Vishwakarma Scheme** | **September 17, 2023**<br>Ministry of MSME | Artisans and craftspersons across **18 traditional trades** (age 18+) | • **1st Tranche**: Up to **₹1,00,000** (18-month tenure)<br>• **2nd Tranche**: Up to **₹2,00,000** (30-month tenure)<br>• **Toolkit Grant**: **₹15,000** | Concessional interest rate of **5%** (8% subvention by MoMSME); **₹500/day** training stipend | MoMSME, MoSDE, and DFS MoF (Credit Guarantee: NCGTC) |
+> **Core Classification Rule**:
+> - **Central Sector Schemes (CS)**: 100% funded and executed directly by Central Government apparatus or designated central PSUs/NBFCs (e.g., PM-KISAN, PMMY, PM Vishwakarma, AIF).
+> - **Centrally Sponsored Schemes (CSS)**: Jointly funded by Centre and States (standard ratio **60:40** for general states; **90:10** for 8 NE states + Uttarakhand, Himachal Pradesh, J&K; **100:0** for UTs without legislature). Implemented via State machinery.
+
+#### 🏦 Bucket 1: Master Governance & Financial Inclusion
+| Scheme Name | Launch Date & Nodal Ministry | Type & Funding | Eligibility Criteria | Core Provisions, Ceilings & Financial Architecture |
+| :--- | :--- | :--- | :--- | :--- |
+| **Pradhan Mantri Jan Dhan Yojana (PMJDY)** | **August 28, 2014**<br>MoF (DFS) | Central Sector | Any Indian citizen aged 10+ | • Universal banking access: Zero balance BSBDA account with no minimum balance penalty.<br>• Free RuPay debit card with **₹2 Lakh accidental death cover** (for accounts opened after 28.08.2018; ₹1 Lakh earlier).<br>• Overdraft (OD) facility up to **₹10,000** (age 18–65; OD up to ₹2,000 without condition). |
+| **Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)** | **May 9, 2015**<br>MoF (DFS) | Central Sector | Bank/Post Office account holders aged **18 to 50 years** | • Renewable one-year term life insurance; risk cover: **₹2,00,000** for death due to ANY cause.<br>• Annual premium: **₹436** (auto-debited; life risk coverage terminates at age 55). |
+| **Pradhan Mantri Suraksha Bima Yojana (PMSBY)** | **May 9, 2015**<br>MoF (DFS) | Central Sector | Bank/Post Office account holders aged **18 to 70 years** | • Renewable one-year accidental death/disability cover.<br>• Risk cover: **₹2,00,000** for accidental death or permanent total disability; **₹1,00,000** for permanent partial disability.<br>• Annual premium: **₹20** (auto-debited in May). |
+| **Atal Pension Yojana (APY)** | **May 9, 2015**<br>PFRDA / MoF | Central Sector | All citizens aged **18 to 40 years** (*Income taxpayers excluded since Oct 1, 2022*) | • Unorganized sector pension scheme; minimum 20 years contribution.<br>• Guaranteed monthly pension: **₹1,000, ₹2,000, ₹3,000, ₹4,000, or ₹5,000** from age 60.<br>• Pension continues to spouse upon death; corpus returned to nominee. |
+| **Pradhan Mantri MUDRA Yojana (PMMY)** | **April 8, 2015**<br>MoF (DFS) / SIDBI | Central Sector Refinance | Non-corporate, non-farm micro/small enterprises | • Collateral-free institutional micro-credit.<br>• **Shishu**: Loans up to **₹50,000**.<br>• **Kishore**: Loans **> ₹50,000 up to ₹5 Lakh**.<br>• **Tarun**: Loans **> ₹5 Lakh up to ₹10 Lakh**.<br>• **Tarun Plus (Budget 2024–25)**: Ceiling enhanced to **₹20 Lakh** for past repayers who repaid Tarun loans. |
+| **Stand-Up India Scheme** | **April 5, 2016**<br>MoF (DFS) / SIDBI | Central Sector | SC/ST and Women entrepreneurs (age 18+) | • Bank loans between **₹10 Lakh and ₹1 Crore** for greenfield enterprises (manufacturing, services, agri-allied, trading).<br>• At least one SC/ST and one Woman borrower per bank branch; margin money reduced to **up to 15%**; extended up to 2025. |
+| **PM-SYM (Pradhan Mantri Shram Yogi Maan-dhan)** | **Feb 2019**<br>Ministry of Labour | Central Sector (50:50 matching) | Unorganized workers aged **18 to 40** with monthly income $le$ ₹15,000 | • Guaranteed monthly pension of **₹3,000** after attaining age 60.<br>• Matching 50:50 monthly contribution (₹55 to ₹200/month by beneficiary, matched by Centre). Managed by LIC. |
+
+🎯 **Bucket 1 Exam Traps**:
+- *MUDRA Direct Lending Trap*: MUDRA does NOT lend directly to citizens; it is a statutory refinance agency under SIDBI. Commercial banks, RRBs, and MFIs disburse the loans.
+- *APY Taxpayer Disqualification Trap*: Effective October 1, 2022, any individual who is or has been an **income tax payer is disqualified** from joining APY.
+- *PMJJBY vs PMSBY Age Limits*: PMJJBY entry age is **18–50 years** (coverage ceases at 55); PMSBY entry age is **18–70 years**.
 
 ---
+
+#### 🌾 Bucket 2: Agriculture, Allied Sectors & Farmer Income Security
+| Scheme Name | Launch Date & Nodal Ministry | Type & Funding | Core Financial Architecture & Implementation Benchmarks |
+| :--- | :--- | :--- | :--- |
+| **PM-KISAN (PM Kisan Samman Nidhi)** | **Feb 24, 2019** (retroactive from Dec 1, 2018)<br>MoA&FW | **Central Sector (100% Centre)** | • Direct income support of **₹6,000 per year** in 3 equal installments of **₹2,000** every 4 months via DBT.<br>• Universal coverage for all landholding farmer families (subject to institutional/taxpayer exclusion criteria). |
+| **PMFBY (PM Fasal Bima Yojana)** | **Kharif 2016**<br>MoA&FW | Centrally Sponsored (50:50 normal; 90:10 NE) | • Actuarial crop insurance: Farmer premium capped at **2.0% for Kharif**, **1.5% for Rabi foodgrains/oilseeds**, and **5.0% for Annual Commercial/Horticultural crops**.<br>• Balance premium subsidized equally by Centre and States. |
+| **PM-KUSUM (Kisan Urja Suraksha evam Utthaan Mahabhiyan)** | **March 2019**<br>**Ministry of New & Renewable Energy (MNRE)** | Central Scheme | • **Component A**: 10,000 MW decentralized ground-mounted grid-connected solar power plants (up to 2 MW each).<br>• **Component B**: Installation of 14 Lakh standalone solar agriculture pumps.<br>• **Component C**: Solarization of 35 Lakh grid-connected agricultural pumps (feeder level). Subsidy: 30% Centre, 30% State, 40% farmer (bank loan up to 30%). |
+| **Agriculture Infrastructure Fund (AIF)** | **July 2020**<br>MoA&FW | Central Sector Financing | • Medium-long term debt financing facility of **₹1,00,000 Crore (₹1 Lakh Crore)**.<br>• Interest subvention of **3.0% per annum** up to a loan limit of **₹2 Crore** for a maximum period of **7 years**.<br>• CGTMSE credit guarantee fee paid by Government. |
+| **Kisan Credit Card (KCC)** | **1998** (expanded 2019 to Animal Husbandry & Fisheries)<br>MoA&FW / RBI | Credit Instrument | • Short-term crop loans up to **₹3 Lakh** at concessional benchmark rate of **7%**.<br>• Prompt Repayment Incentive (PRI) of **3%**, making effective borrowing cost **4% per annum**.<br>• Sub-limit for Animal Husbandry & Fisheries: up to **₹2 Lakh** within overall ₹3 Lakh ceiling. |
+| **Pradhan Mantri Matsya Sampada Yojana (PMMSY)** | **May 2020**<br>Ministry of Fisheries, AH & Dairying | Umbrella Scheme (CS + CSS) | • Total estimated outlay: **₹20,050 Crore** over 5 years.<br>• Target: Fish production to **22 million metric tons**; export earnings to **₹1,00,000 Crore**. |
+
+🎯 **Bucket 2 Exam Traps**:
+- *PM-KISAN Funding Split Trap*: PM-KISAN is **100% Central Sector**, NOT Centrally Sponsored. States do not pay any share of the ₹6,000.
+- *PM-KUSUM Ministry Trap*: Administered by the **Ministry of New and Renewable Energy (MNRE)**, NOT the Ministry of Agriculture.
+- *KCC Concessional Rate*: Baseline rate is 7%; with the 3% Prompt Repayment Incentive, the effective borrowing cost is **4%**.
+
+---
+
+#### 🏡 Bucket 3: Rural Transformation, Employment & Panchayati Raj
+| Scheme Name | Launch Date & Nodal Ministry | Type & Funding | Core Financial Architecture & Targets |
+| :--- | :--- | :--- | :--- |
+| **MGNREGA** | **Act 2005** (launched Feb 2, 2006)<br>Ministry of Rural Development | Centrally Sponsored (100% unskilled wage by Centre; 75% material by Centre) | • Statutory guarantee of **at least 100 days of wage employment** per financial year to every rural household whose adult members volunteer for unskilled manual work.<br>• Unemployment allowance mandated if work is not provided within **15 days** of application.<br>• Social audit mandatory by Gram Sabha. |
+| **Pradhan Mantri Awas Yojana - Gramin (PMAY-G)** | **Nov 20, 2016**<br>Ministry of Rural Development | CSS (60:40 general; 90:10 NE/Himalayan) | • Unit assistance: **₹1,20,000** in plains and **₹1,30,000** in hilly/NE/difficult areas.<br>• Plus 90/95 days of unskilled labour under MGNREGS (~₹25,000) + ₹12,000 for toilet under SBM-G.<br>• Minimum house size: **25 sq. metres**. Union Cabinet approved constructing additional **2 Crore rural houses** over next 5 years (FY 2024–2029). |
+| **Pradhan Mantri Gram Sadak Yojana (PMGSY)** | **Dec 25, 2000**<br>Ministry of Rural Development | CSS (60:40 general; 90:10 NE) | • All-weather road connectivity to unconnected rural habitations (population 500+ in plains; 250+ in hill/desert/tribal areas).<br>• **PMGSY-IV** approved in 2024 to provide 62,500 km all-weather roads to 25,000 unconnected habitations with outlay of **₹70,125 Crore**. |
+| **DAY-NRLM (Deendayal Antyodaya Yojana - NRLM)** | **June 2011**<br>Ministry of Rural Development | CSS (60:40 general; 90:10 NE) | • Institutional mobilization into Women SHGs.<br>• Interest subvention reduces loan interest to **7%** for loans up to ₹3 Lakh (further 3% PRI drops rate to **4%**). Indian Bank is Central Nodal Bank.<br>• **Lakhpati Didi Initiative**: Target to enable **3 Crore rural SHG women** to earn an annual income of $ge$ **₹1,00,000 (₹1 Lakh)**. |
+
+🎯 **Bucket 3 Exam Traps**:
+- *Lakhpati Didi Target Trap*: The enhanced target is **3 Crore women** (raised from 2 Crore in Interim Budget 2024).
+- *PMAY-G Minimum Size*: Exactly **25 sq. metres** (including dedicated hygienic cooking area).
+- *MGNREGA Wage Funding*: Central Government bears **100% of unskilled manual labour wages** (States bear unemployment allowance if work is not given).
+
+---
+
+#### 🏙 Bucket 4: Urban Renewal, Affordable Housing & Municipal Infrastructure
+| Scheme Name | Launch Date & Nodal Ministry | Core Operational Mandate & Thresholds |
+| :--- | :--- | :--- |
+| **PMAY-Urban (PMAY-U 2.0)** | **August 2024** (PMAY-U launched June 2015)<br>MoHUA | • Investment of **₹10 Lakh Crore**; Central assistance of **₹2.2 Lakh Crore** over 5 years.<br>• Target: 1 Crore urban poor and middle-class families.<br>• 4 Verticals: ISSR (In-situ Slum Redevelopment), BLC (Beneficiary-Led Construction), AHP (Affordable Housing in Partnership), and ISS (Interest Subsidy Scheme - 4% subvention on home loans up to ₹25 Lakh for EWS/LIG). |
+| **PM SVANidhi** | **June 1, 2020**<br>MoHUA / SIDBI | • Collateral-free micro-credit for urban street vendors.<br>• **Tranche 1**: Up to **₹10,000** (1-year tenor).<br>• **Tranche 2**: Up to **₹20,000** (upon timely repayment of Tranche 1).<br>• **Tranche 3**: Up to **₹50,000** (upon repayment of Tranche 2).<br>• Interest subvention of **7.0% per annum** credited quarterly via DBT; digital transaction cashback up to **₹1,200/year** (₹100/month). |
+| **AMRUT 2.0** | **Oct 1, 2021**<br>MoHUA | • Target: 100% universal piped water supply coverage across all **4,800+ Statutory Towns**; universal sewage/septage management in 500 AMRUT cities; total indicative outlay: **₹2,77,000 Crore**. |
+| **Smart Cities Mission** | **June 25, 2015**<br>MoHUA | • Selection of **100 Smart Cities** via competitive challenge; establishment of Integrated Command and Control Centres (ICCC) across all 100 cities. |
+
+🎯 **Bucket 4 Exam Traps**:
+- *PM SVANidhi Interest Subvention*: Interest subsidy is **7.00%**, NOT 3%.
+- *PM SVANidhi Implementing Agency*: Administered by **SIDBI** under MoHUA.
+- *PMAY-U 2.0 Outlay*: Total investment is **₹10 Lakh Crore** (with ₹2.2 Lakh Crore central assistance).
+
+---
+
+#### 🏥 Bucket 5: Universal Healthcare, Nutrition & Disease Elimination
+| Scheme Name | Launch Date & Nodal Ministry | Type & Funding | Key Invariants & Entitlements |
+| :--- | :--- | :--- | :--- |
+| **Ayushman Bharat PM-JAY** | **Sept 23, 2018** (Ranchi, Jharkhand)<br>MoHFW / National Health Authority (NHA) | CSS (60:40 general; 90:10 NE) | • World's largest government-funded health assurance scheme.<br>• Health cover of **₹5,00,000 (₹5 Lakh) per family per year** for secondary and tertiary care hospitalization.<br>• Fully cashless and paperless access; no restriction on family size or age.<br>• **September 2024 Landmark Expansion**: Approved health coverage of **₹5 Lakh per year to ALL senior citizens aged 70 years and above**, regardless of socio-economic status or family income. Seniors in existing PM-JAY families receive an exclusive top-up of ₹5 Lakh distinct from the family pool. |
+| **PM-ABHIM (PM Ayushman Bharat Health Infrastructure Mission)** | **Oct 25, 2021**<br>MoHFW | Centrally Sponsored (Outlay: ₹64,180 Cr) | • Pan-India health infrastructure strengthening over 5 years; establishing 11,024 Urban Health and Wellness Centres and 730 Integrated Public Health Labs across all districts. |
+| **PMMVY (Pradhan Mantri Matru Vandana Yojana)** | **Jan 1, 2017** (revamped under Mission Shakti - Samarthya)<br>MoWCD | CSS (60:40 general; 90:10 NE) | • Direct Benefit Transfer (DBT) maternity benefit scheme.<br>• **First Child**: **₹5,000** in 2 installments (₹3,000 at early ANC registration; ₹2,000 at child birth and primary vaccination).<br>• **Second Child (strictly if girl child)**: Single installment of **₹6,000** to incentivize girl child births. |
+
+🎯 **Bucket 5 Exam Traps**:
+- *PM-JAY Family Size Limit*: Zero cap. There is **NO limit on family size, gender, or age**.
+- *PM-JAY 70+ Senior Citizen Expansion*: Open to **ALL citizens aged 70+ irrespective of income**.
+- *PMMVY Second Child Incentive*: The ₹6,000 second-child grant is payable **ONLY if the second child born is a girl**.
+
+---
+
+#### 📚 Bucket 6: Foundational Literacy, Education & Skilling
+| Scheme Name | Launch Date & Nodal Ministry | Financial Outlay & Implementation Mandates |
+| :--- | :--- | :--- |
+| **PM-SHRI Schools (PM Schools for Rising India)** | **Sept 7, 2022**<br>Ministry of Education | • Total project cost: **₹27,360 Crore** (Central share: ₹18,128 Crore).<br>• Upgrading over **14,500 existing schools** managed by Central/State/UT governments into exemplar institutions showcasing the National Education Policy (NEP) 2020. |
+| **PM-POSHAN (Pradhan Mantri Poshan Shakti Nirman)** | **Sept 2021** (formerly Mid-Day Meal Scheme, 1995)<br>Ministry of Education | • Hot cooked meal provided to children studying in **Classes I to VIII** in Government and Government-aided schools.<br>• **Downward Extension Landmark**: Expanded to include pre-primary children studying in **Balvatikas / pre-schools** attached to primary schools.<br>• Caloric norms: 450 calories & 12g protein for Primary (Class I–V); 700 calories & 20g protein for Upper Primary (Class VI–VIII). |
+| **Samagra Shiksha Scheme** | **2018** (extended to 2026)<br>Ministry of Education | • Integrated scheme for school education from **Pre-School to Class XII** subsuming Sarva Shiksha Abhiyan (SSA), Rashtriya Madhyamik Shiksha Abhiyan (RMSA), and Teacher Education (TE). |
+| **PMKVY 4.0 (PM Kaushal Vikas Yojana)** | **2023**<br>Ministry of Skill Development & Entrepreneurship (MSDE) | • Implemented by National Skill Development Corporation (NSDC).<br>• Emphasizes on-the-job training, industry 4.0 courses (AI, Robotics, Mechatronics, IoT, 3D Printing, Drones), and setting up 30 Skill India International Centres. |
+
+🎯 **Bucket 6 Exam Traps**:
+- *PM-POSHAN Pre-Primary Expansion*: Pre-primary (*Balvatika*) children are now formally covered.
+- *PM-SHRI Scale*: Upgrading **14,500+ existing schools** (not building new schools from scratch).
+
+---
+
+#### 👩 Bucket 7: Women Empowerment, Child Welfare & Social Justice
+| Scheme Name | Launch Date & Nodal Ministry | Sub-Schemes, Allocations & Statutory Mandates |
+| :--- | :--- | :--- |
+| **Mission Shakti** | **15th Finance Commission cycle** (2021–2026)<br>MoWCD | • Unified umbrella scheme for safety, security, and empowerment of women.<br>• **Sambal Sub-Scheme (Safety & Security - 100% Central)**: One Stop Centres (OSC / Sakhi), Women Helpline (181), Beti Bachao Beti Padhao (BBBP), Nari Adalat.<br>• **Samarthya Sub-Scheme (Empowerment - 60:40 CSS)**: Pradhan Mantri Matru Vandana Yojana (PMMVY), Palna (National Creche Scheme), Shakti Sadan (Swadhar Greh), Working Women Hostels (Sakhi Niwas). |
+| **Mission Vatsalya** | **2021–22**<br>MoWCD | • Dedicated child protection services scheme; statutory implementation of Juvenile Justice (Care and Protection of Children) Act, 2015.<br>• Child Helpline integrated with national emergency response number **112**. |
+| **PM Vishwakarma Scheme** | **Sept 17, 2023**<br>MoMSME / MoF / MSDE | • **Central Sector Scheme (100% Central, Outlay: ₹13,000 Crore)**.<br>• Holistic end-to-end support for traditional artisans and craftspeople across **18 traditional trades**.<br>• PM Vishwakarma Certificate & ID Card; Skill upgradation (5–7 days basic training + ₹500/day stipend; 15 days advanced training); Toolkit incentive of **₹15,000** via e-vouchers.<br>• **Collateral-Free Credit**: Enterprise Development Loan up to **₹3 Lakh** in two tranches (Tranche 1: up to **₹1 Lakh** with 18-month repayment; Tranche 2: up to **₹2 Lakh** with 30-month repayment). Concessional interest rate of **5.00%** (Ministry provides 8% interest subvention cap). |
+
+🎯 **Bucket 7 Exam Traps**:
+- *PM Vishwakarma Interest Rate*: Beneficiary pays **5% interest**; Central Government provides up to **8% interest subvention**.
+- *PM Vishwakarma Outlay & Trades*: Outlay is **₹13,000 Crore** across **18 traditional trades**.
+- *Sambal vs Samarthya Funding Split*: Sambal is **100% Central Sector**; Samarthya is **60:40 Centrally Sponsored**.
+
+---
+
+#### 🏭 Bucket 8: MSME Ecosystem, Industrial Manufacturing & Commerce
+| Scheme Name | Launch Date & Nodal Ministry | Core Provisions, Ceilings & Financial Architecture |
+| :--- | :--- | :--- |
+| **MSME Classification & Udyam Portal** | **July 1, 2020**<br>MoMSME | • Composite criteria of Investment in Plant/Machinery and Annual Turnover:<br>• **Micro**: Investment $le$ **₹1 Crore** AND Turnover $le$ **₹5 Crore**.<br>• **Small**: Investment $le$ **₹10 Crore** AND Turnover $le$ **₹50 Crore**.<br>• **Medium**: Investment $le$ **₹50 Crore** AND Turnover $le$ **₹250 Crore**.<br>• Mandatory registration on **Udyam Registration Portal** based on self-declaration linked to PAN & GSTIN. |
+| **Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE)** | **Aug 2000**<br>MoMSME & SIDBI (80:20 ratio) | • Collateral-free credit guarantee coverage for MSE loans.<br>• Guarantee ceiling enhanced to **₹5 Crore** per borrower.<br>• Guarantee coverage up to **85%** for micro-enterprises (loans up to ₹5 Lakh) and women/SC/ST/aspirational districts; 75% for general category. Annual guarantee fee reduced to 0.37%. |
+| **PM-MITRA (PM Mega Integrated Textile Region and Apparel)** | **Oct 2021**<br>Ministry of Textiles | • Total outlay: **₹4,445 Crore**; Development of **7 Mega Textile Parks** located in: Tamil Nadu (Virudhunagar), Telangana (Warangal), Gujarat (Navsari), Karnataka (Kalaburagi), Madhya Pradesh (Dhar), Uttar Pradesh (Lucknow), and Maharashtra (Amravati).<br>• Plug-and-play world-class industrial infrastructure. |
+| **Production Linked Incentive (PLI) Schemes** | **2020** (expanded under Atmanirbhar Bharat)<br>Nodal: Respective Ministries / NITI Aayog | • Total allocated financial incentive outlay: **₹1.97 Lakh Crore** across **14 strategic manufacturing sectors** (Automobiles, Telecom, Pharmaceuticals, Solar PV Modules, Advanced Chemistry Cell Batteries, Electronic/Tech Products, White Goods, Textiles, etc.). |
+
+🎯 **Bucket 8 Exam Traps**:
+- *MSME Definition Trap*: The criteria is **Investment AND Turnover** (both conditions must be satisfied; exports turnover is excluded from the calculation).
+- *CGTMSE Guarantee Ceiling*: Enhanced to **₹5 Crore** (formerly ₹2 Crore).
+- *PM-MITRA Park Locations*: Exactly **7 parks** approved in 7 states.
+
+---
+
+#### 💻 Bucket 9: Digital India, Telecom Infrastructure & Frontier Technologies
+| Scheme Name | Launch Date & Nodal Ministry | Core Mandates & Implementation Architecture |
+| :--- | :--- | :--- |
+| **BharatNet Project** | **Oct 2011** (formerly NOFN; revamped Aug 2023)<br>DoT (Ministry of Communications) | • Funded by the **Universal Service Obligation Fund (USOF)** (renamed Digital Bharat Nidhi under Telecommunications Act 2023).<br>• Target: Optical Fibre Cable (OFC) broadband connectivity to all **2,50,000 (2.5 Lakh) Gram Panchayats** and 6.4 Lakh villages.<br>• Modified BharatNet outlay: **₹1,39,579 Crore** executed by Bharat Broadband Network Ltd (BBNL) merged into BSNL. |
+| **PM-WANI (PM Wi-Fi Access Network Interface)** | **Dec 2020**<br>DoT | • Proliferation of public broadband through Public Data Offices (PDOs) with **zero license fee and zero registration charge**.<br>• Architecture: PDO (retail shop/kiosk), PDOA (Public Data Office Aggregator), App Provider, and Central Registry maintained by C-DOT. |
+| **India Semiconductor Mission (ISM)** | **Dec 2021**<br>MeitY | • Comprehensive incentive package with total financial outlay of **₹76,000 Crore**.<br>• Fiscal support of **50% of Project Cost on pari-passu basis** for setting up Silicon Semiconductor Fabs, Display Fabs, Compound Semiconductors, Silicon Photonics, and Assembly, Testing, Marking and Packaging (ATMP) / OSAT facilities. |
+
+🎯 **Bucket 9 Exam Traps**:
+- *BharatNet Funding Mechanism*: Funded exclusively via **Universal Service Obligation Fund (USOF) / Digital Bharat Nidhi**, NOT general budgetary support.
+- *PM-WANI License Fee*: Exactly **₹0 (Zero license fee, zero registration requirement)** for PDOs.
+- *Semiconductor Incentive*: **50% of project cost** on equal pari-passu basis across all technology nodes.
+
+---
+
+#### ⚡ Bucket 10: Energy Transition, Climate Action & Water Security
+| Scheme Name | Launch Date & Nodal Ministry | Type & Financial Architecture |
+| :--- | :--- | :--- |
+| **PM Surya Ghar: Muft Bijli Yojana** | **Feb 13, 2024**<br>Ministry of New and Renewable Energy (MNRE) | • Total outlay: **₹75,021 Crore**; Target: Providing up to **300 units of free electricity** per month to **1 Crore households** via rooftop solar installations.<br>• **Central Financial Assistance (CFA) Subsidy Slab**:<br>• 1 kW system: **₹30,000**.<br>• 2 kW system: **₹60,000**.<br>• 3 kW system or higher: **₹78,000** (maximum subsidy cap).<br>• Low-interest collateral-free bank loans at benchmark repo + 0.5% (around 7%) for systems up to 3 kW. |
+| **Jal Jeevan Mission (JJM) - Har Ghar Jal** | **August 15, 2019**<br>Ministry of Jal Shakti | • Total outlay: **₹3,60,000 Crore**; CSS (50:50 general states; 90:10 NE/Himalayan; 100:0 UTs).<br>• Mandate: Assured potable tap water supply with Functional Household Tap Connections (FHTC) to every rural household at the service level of **55 litres per capita per day (lpcd)** by 2024–2025. |
+| **PM-PRANAM (PM Programme for Restoration, Awareness, Nourishment & Amelioration of Mother Earth)** | **Budget 2023–24** (approved June 2023)<br>Ministry of Chemicals & Fertilizers | • Incentive scheme to promote balanced use of chemical fertilizers and alternative fertilizers.<br>• **Zero separate budgetary outlay**: 50% of the subsidy savings achieved by a State/UT in chemical fertilizers is transferred as an incentive grant to that State/UT. |
+| **National Green Hydrogen Mission** | **Jan 4, 2023**<br>MNRE | • Initial financial outlay: **₹19,744 Crore**.<br>• Target: Green hydrogen production capacity of at least **5 Million Metric Tonnes (MMT) per annum** with associated renewable energy capacity addition of ~125 GW by **2030**.<br>• Strategic Interventions for Green Hydrogen Transition (SIGHT) programme: ₹17,490 Cr incentive for electrolyser manufacturing and green hydrogen production. |
+
+🎯 **Bucket 10 Exam Traps**:
+- *PM Surya Ghar Subsidy Maximum Cap*: Capped at **₹78,000** for $ge$ 3 kW systems (₹30,000 for 1 kW, ₹60,000 for 2 kW).
+- *Jal Jeevan Mission Water Metric*: Exactly **55 litres per capita per day (lpcd)**.
+- *PM-PRANAM Budget Allocation*: It has **NO separate budgetary outlay**; funded strictly by recycling 50% of chemical fertilizer subsidy savings!
 
 ### 🏛️ Strike Grid 7: Landmark Banking Reform Committees & Statutory Genesis Matrix
 
